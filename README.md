@@ -54,9 +54,9 @@ Compile it yourself until it's a Release. I am NOT doing any releases with it st
 ### Panes
 | Status | Pane(s)
 | ---- | ---- |
-| ☑️ Almost Done, or Finished | General(Appearance) |
-| 🛠️ WIP | All the rest (Dock & Menu Bar, Accessibillity, Displays, etc.) |
-| ☠️ Dead until stated otherwise, just there for completion | Apple ID, Family Sharing, Screen Time, Time Machine, Startup Disk,  Software Update |
+| ☑️ Finished | General / Appearance (partial) |
+| 🛠️ WIP | All the rest... |
+| ☠️ Dead until stated otherwise (just there for completion) | Apple ID, Family Sharing, Screen Time, Time Machine, Startup Disk,  Software Update, Some 3rd party panes |
 **Note:** Unsupported panes (excluding those there for completion) are disabled for now.
 
 ## Contribution

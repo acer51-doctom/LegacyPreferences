@@ -8,7 +8,8 @@
 import SwiftUI
 
 final class PaneDefaults: ObservableObject {
-    static let bundle: Bundle = .init(identifier: "com.dehydratedpotato.Legacy-Preferences.AppearancePane")!
+    // MARK: - Static Properties
+    static let bundle: Bundle = .init(identifier: "com.acer51-doctom.Legacy-Preferences.AppearancePane")!
     static let paneHeight: CGFloat = 620
     static let maximumPickerWidth: CGFloat = 170
     static let labelColumnWidth: CGFloat = 230
@@ -53,8 +54,8 @@ final class PaneDefaults: ObservableObject {
         case blue = 4
         case purple = 5
         case pink = 6
-        case gray = 7
-        case multicolor = 8
+        case gray = 7 // Corresponds to -1 in NSColorGetUserAccentColor
+        case multicolor = 8 // Corresponds to -2 in NSColorGetUserAccentColor
     }
     
     enum HighlightType: Int {
@@ -65,8 +66,8 @@ final class PaneDefaults: ObservableObject {
         case blue = 4
         case purple = 5
         case pink = 6
-        case gray = 7
-        case accentcolor = 8
+        case gray = 7 // Corresponds to -2 in NSColorGetUserHighlightColor
+        case accentcolor = 8 // Corresponds to -1 in NSColorGetUserHighlightColor
     }
     
     struct Accent: Identifiable {
@@ -94,11 +95,16 @@ final class PaneDefaults: ObservableObject {
     
     // MARK: - Theme logic
     
+    // Note: SLSGetAppearanceThemeLegacy and SLSGetAppearanceThemeSwitchesAutomatically
+    // are Objective-C functions declared in AppearancePane.h and assumed to be correctly bridged.
+    // They are not directly reading from UserDefaults.globalDomain.
     var themeIsDark: Bool {
+        // Provide a default if SLSGetAppearanceThemeLegacy fails or returns unexpected value
         return SLSGetAppearanceThemeLegacy() == .dark
     }
 
     var themeIsAuto: Bool {
+        // Provide a default if SLSGetAppearanceThemeSwitchesAutomatically fails or returns unexpected value
         return SLSGetAppearanceThemeSwitchesAutomatically() == 1
     }
     
@@ -130,6 +136,8 @@ final class PaneDefaults: ObservableObject {
     
     // MARK: - Accent color logic
     
+    // Note: NSColorGetUserAccentColor is an Objective-C function declared in AppearancePane.h
+    // and assumed to be correctly bridged.
     lazy var startAccentColor: AccentType = {
         let color = NSColorGetUserAccentColor()
         
@@ -139,12 +147,16 @@ final class PaneDefaults: ObservableObject {
         case -2:
             return .multicolor
         default:
+            // Safely convert raw value to AccentType, default to .multicolor if invalid
             return AccentType(rawValue: Int(color)) ?? .multicolor
         }
     }()
     
     func setAccentColor(toType type: PaneDefaults.AccentType) {
-        self.setHighlightColor(toType: PaneDefaults.HighlightType(rawValue: type.rawValue)! )
+        // This line attempts to set highlight color based on accent color.
+        // Ensure HighlightType(rawValue: type.rawValue) is valid, otherwise it will crash.
+        // Given the raw values match, this should be fine.
+        self.setHighlightColor(toType: PaneDefaults.HighlightType(rawValue: type.rawValue)!)
         
         switch type {
         case .multicolor:
@@ -160,6 +172,8 @@ final class PaneDefaults: ObservableObject {
     
     // MARK: - Highlight color logic
     
+    // Note: NSColorGetUserHighlightColor is an Objective-C function declared in AppearancePane.h
+    // and assumed to be correctly bridged.
     lazy var startHighlightColor: HighlightType = {
         let color = NSColorGetUserHighlightColor()
         
@@ -169,6 +183,7 @@ final class PaneDefaults: ObservableObject {
         case -1:
             return .accentcolor
         default:
+            // Safely convert raw value to HighlightType, default to .accentcolor if invalid
             return HighlightType(rawValue: Int(color)) ?? .accentcolor
         }
     }()
@@ -176,9 +191,11 @@ final class PaneDefaults: ObservableObject {
     func setHighlightColor(toType type: PaneDefaults.HighlightType) {
         switch type {
         case .accentcolor:
-            NSColorSetUserAccentColor(-1)
+            NSColorSetUserAccentColor(-1) // This seems to be setting accent color, not highlight.
+                                          // Based on original code, this might be intentional but unusual.
         case .gray:
-            NSColorSetUserAccentColor(-2)
+            NSColorSetUserAccentColor(-2) // This also seems to be setting accent color.
+                                          // Check if NSColorSetUserHighlightColor should be used here.
         default:
             NSColorSetUserHighlightColor(Int32( type.rawValue))
         }
@@ -192,22 +209,26 @@ final class PaneDefaults: ObservableObject {
     static let sidebarSizeNotifKey = "AppleSideBarDefaultIconSizeChanged"
     
     lazy var startSidebarSize: Int = {
+        // Safely get the global domain. If it's nil, we use a fallback default.
         guard let domain = UserDefaults.standard.persistentDomain(forName: UserDefaults.globalDomain) else {
-            Logger.log("failed to get sidebar size", isError: true, class: Self.self)
-            return 2 // medium = 2
+            Logger.log("failed to get sidebar size domain (globalDomain was nil). Defaulting to 2.", isError: true, class: Self.self)
+            return 2 // Default to medium if domain is entirely inaccessible
         }
 
-        return domain[PaneDefaults.sidebarSizeKey] as! Int
+        // Safely try to get the value for 'NSTableViewDefaultSizeMode'.
+        // If the key doesn't exist or is not an Int, use '2' (Medium) as the default.
+        return (domain[PaneDefaults.sidebarSizeKey] as? Int) ?? 2
     }()
      
     func setSidebarSize(toSize size: Int) -> Bool {
-        guard var domain = UserDefaults.standard.persistentDomain(forName: UserDefaults.globalDomain),
-              domain.contains(where: { $0.key == PaneDefaults.sidebarSizeKey })
-        else {
-            Logger.log("failed to set sidebar size", isError: true, class: Self.self)
+        // Ensure we can get the global domain and that it's mutable.
+        guard var domain = UserDefaults.standard.persistentDomain(forName: UserDefaults.globalDomain) else {
+            Logger.log("failed to get global domain for setting sidebar size", isError: true, class: Self.self)
             return false
         }
-
+        
+        // No need to check domain.contains(where: { $0.key == PaneDefaults.sidebarSizeKey })
+        // as setting a key that doesn't exist will simply add it.
         domain[PaneDefaults.sidebarSizeKey] = size
         
         UserDefaults.standard.setPersistentDomain(domain, forName:  UserDefaults.globalDomain)
@@ -225,29 +246,38 @@ final class PaneDefaults: ObservableObject {
     static let wallpaperTintingNotifKey = "AppleReduceDesktopTintingChanged"
     
     lazy var startWallpaperTinting: Bool = {
+        // Safely get the global domain. If it's nil, we use a fallback default.
         guard let domain = UserDefaults.standard.persistentDomain(forName: UserDefaults.globalDomain) else {
-            Logger.log("failed to get tint value", isError: true, class: Self.self)
-            return true
+            Logger.log("failed to get tint value domain (globalDomain was nil). Defaulting to true (tinting enabled).", isError: true, class: Self.self)
+            return true // Default to true (tinting enabled) if domain is entirely inaccessible
         }
 
-        return !(domain[PaneDefaults.wallpaperTintingKey] as! Bool)
+        // Safely try to get the value for 'AppleReduceDesktopTinting'.
+        // If the key doesn't exist or is not a Bool, use 'false' as the default (meaning tinting is NOT reduced).
+        // The UI toggle 'Allow wallpaper tinting in windows' is `isOn: tinting`.
+        // If `AppleReduceDesktopTinting` is true, tinting is reduced, so the UI toggle should be `false`.
+        // If `AppleReduceDesktopTinting` is false, tinting is not reduced, so the UI toggle should be `true`.
+        let reduceTintingValue = (domain[PaneDefaults.wallpaperTintingKey] as? Bool) ?? false
+        return !reduceTintingValue
     }()
     
     func setWallpaperTint(to value: Bool)-> Bool {
-        guard var domain = UserDefaults.standard.persistentDomain(forName: UserDefaults.globalDomain),
-              domain.contains(where: { $0.key == PaneDefaults.wallpaperTintingKey })
-        else {
-            Logger.log("failed to set tint value", isError: true, class: Self.self)
+        guard var domain = UserDefaults.standard.persistentDomain(forName: UserDefaults.globalDomain) else {
+            Logger.log("failed to get global domain for setting tint value", isError: true, class: Self.self)
             return false
         }
 
-        domain[PaneDefaults.wallpaperTintingKey] = value
+        // The UI toggle `value` means 'Allow wallpaper tinting'.
+        // The preference key `AppleReduceDesktopTinting` means 'REDUCE tinting'.
+        // So, if `value` is true (allow tinting), we want `AppleReduceDesktopTinting` to be false (don't reduce).
+        // If `value` is false (don't allow tinting), we want `AppleReduceDesktopTinting` to be true (reduce).
+        domain[PaneDefaults.wallpaperTintingKey] = !value
         
         UserDefaults.standard.setPersistentDomain(domain, forName:  UserDefaults.globalDomain)
         
         DistributedNotificationCenter.default().post(name: .init(PaneDefaults.wallpaperTintingNotifKey), object: nil)
         
-        Logger.log("reduceTinting: \(value)", class: Self.self)
+        Logger.log("reduceTinting: \(!value)", class: Self.self) // Log the actual preference value being set
         
         return true
     }
@@ -258,19 +288,21 @@ final class PaneDefaults: ObservableObject {
     static let showScrollbarNotifKey = "AppleShowScrollBarsSettingChanged"
     
     lazy var startShowScrollbars: ShowScrollbarType = {
+        // Safely get the global domain. If it's nil, we use a fallback default.
         guard let domain = UserDefaults.standard.persistentDomain(forName: UserDefaults.globalDomain) else {
-            Logger.log("failed to get scrollbar show type", isError: true, class: Self.self)
+            Logger.log("failed to get scrollbar show type domain (globalDomain was nil). Defaulting to .auto.", isError: true, class: Self.self)
             return .auto
         }
 
-        return .init(rawValue: domain[PaneDefaults.showScrollbarKey] as! String ) ?? .auto
+        // Safely try to get the value for 'AppleShowScrollBars' as a String.
+        // If the key doesn't exist or is not a String, use '.auto' as the default.
+        let rawValue = (domain[PaneDefaults.showScrollbarKey] as? String) ?? ShowScrollbarType.auto.rawValue
+        return ShowScrollbarType(rawValue: rawValue) ?? .auto
     }()
     
     func setShowScrollbars(to value: ShowScrollbarType) -> Bool {
-        guard var domain = UserDefaults.standard.persistentDomain(forName: UserDefaults.globalDomain),
-              domain.contains(where: { $0.key == PaneDefaults.showScrollbarKey })
-        else {
-            Logger.log("failed to set scrollbar show type", isError: true, class: Self.self)
+        guard var domain = UserDefaults.standard.persistentDomain(forName: UserDefaults.globalDomain) else {
+            Logger.log("failed to get global domain for setting scrollbar show type", isError: true, class: Self.self)
             return false
         }
 
@@ -285,48 +317,56 @@ final class PaneDefaults: ObservableObject {
         return true
     }
     
-    // MARK: - Jump to page logic
-    // MARK: - Close windows when quit and Confirm close quitting logic
+    // MARK: - Jump to page logic & Close windows when quit and Confirm close quitting logic
     
     static let windowQuitKey = "NSQuitAlwaysKeepsWindows"
     static let closeAlwaysConfirms = "NSCloseAlwaysConfirmsChanges"
-    static let jumpPageKey = "AppleScrollerPagingBehavior"
+    static let jumpPageKey = "AppleScrollerPagingBehavior" // This key is for "Jump to the next page" vs "Jump to the spot that's clicked"
     
     lazy var startJumpPage: Bool = {
+        // Safely get the global domain. If it's nil, we use a fallback default.
         guard let domain = UserDefaults.standard.persistentDomain(forName: UserDefaults.globalDomain) else {
-            Logger.log("failed to get jump page value", isError: true, class: Self.self)
-            return false
+            Logger.log("failed to get jump page value domain (globalDomain was nil). Defaulting to false.", isError: true, class: Self.self)
+            return false // Default to false (Jump to the next page)
         }
 
-        return domain[PaneDefaults.jumpPageKey] as! Bool
+        // Safely try to get the value for 'AppleScrollerPagingBehavior'.
+        // If the key doesn't exist or is not a Bool, use 'false' as the default.
+        return (domain[PaneDefaults.jumpPageKey] as? Bool) ?? false
     }()
     
     lazy var startWindowQuit: Bool = {
+        // Safely get the global domain. If it's nil, we use a fallback default.
         guard let domain = UserDefaults.standard.persistentDomain(forName: UserDefaults.globalDomain) else {
-            Logger.log("failed to get window quitting value", isError: true, class: Self.self)
-            return false
+            Logger.log("failed to get window quitting value domain (globalDomain was nil). Defaulting to false.", isError: true, class: Self.self)
+            return false // Default to false
         }
 
-        return domain[PaneDefaults.windowQuitKey] as! Bool
+        // Safely try to get the value for 'NSQuitAlwaysKeepsWindows'.
+        // If the key doesn't exist or is not a Bool, use 'false' as the default.
+        return (domain[PaneDefaults.windowQuitKey] as? Bool) ?? false
     }()
     
     lazy var startcloseAlwaysConfirms: Bool = {
+        // Safely get the global domain. If it's nil, we use a fallback default.
         guard let domain = UserDefaults.standard.persistentDomain(forName: UserDefaults.globalDomain) else {
-            Logger.log("failed to get close always confirm value", isError: true, class: Self.self)
-            return false
+            Logger.log("failed to get close always confirm value domain (globalDomain was nil). Defaulting to false.", isError: true, class: Self.self)
+            return false // Default to false
         }
 
-        return domain[PaneDefaults.closeAlwaysConfirms] as! Bool
+        // Safely try to get the value for 'NSCloseAlwaysConfirmsChanges'.
+        // If the key doesn't exist or is not a Bool, use 'false' as the default.
+        return (domain[PaneDefaults.closeAlwaysConfirms] as? Bool) ?? false
     }()
     
     func setBool(for key: String, to value: Bool) -> Bool {
-        guard var domain = UserDefaults.standard.persistentDomain(forName: UserDefaults.globalDomain),
-              domain.contains(where: { $0.key == key })
-        else {
-            Logger.log("failed to value for \(key)", isError: true, class: Self.self)
+        guard var domain = UserDefaults.standard.persistentDomain(forName: UserDefaults.globalDomain) else {
+            Logger.log("failed to get global domain for setting bool value for \(key)", isError: true, class: Self.self)
             return false
         }
 
+        // No need to check domain.contains(where: { $0.key == key })
+        // as setting a key that doesn't exist will simply add it.
         domain[key] = value
         
         UserDefaults.standard.setPersistentDomain(domain, forName:  UserDefaults.globalDomain)
@@ -341,19 +381,21 @@ final class PaneDefaults: ObservableObject {
     static let tabbingModeKey = "AppleWindowTabbingMode"
     
     lazy var startTabbingMode: TabbingModeType = {
+        // Safely get the global domain. If it's nil, we use a fallback default.
         guard let domain = UserDefaults.standard.persistentDomain(forName: UserDefaults.globalDomain) else {
-            Logger.log("failed to get tabbing mode type", isError: true, class: Self.self)
+            Logger.log("failed to get tabbing mode type domain (globalDomain was nil). Defaulting to .fullscreen.", isError: true, class: Self.self)
             return .fullscreen
         }
 
-        return .init(rawValue: domain[PaneDefaults.tabbingModeKey] as! String ) ?? .fullscreen
+        // Safely try to get the value for 'AppleWindowTabbingMode' as a String.
+        // If the key doesn't exist or is not a String, use '.fullscreen' as the default.
+        let rawValue = (domain[PaneDefaults.tabbingModeKey] as? String) ?? TabbingModeType.fullscreen.rawValue
+        return TabbingModeType(rawValue: rawValue) ?? .fullscreen
     }()
     
     func setTabbingMode(to value: TabbingModeType) -> Bool {
-        guard var domain = UserDefaults.standard.persistentDomain(forName: UserDefaults.globalDomain),
-              domain.contains(where: { $0.key == PaneDefaults.tabbingModeKey })
-        else {
-            Logger.log("failed to set tabbing mode type", isError: true, class: Self.self)
+        guard var domain = UserDefaults.standard.persistentDomain(forName: UserDefaults.globalDomain) else {
+            Logger.log("failed to get global domain for setting tabbing mode type", isError: true, class: Self.self)
             return false
         }
 
