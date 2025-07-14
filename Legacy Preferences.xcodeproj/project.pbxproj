@@ -48,10 +48,8 @@
 		3FE1073A2A37D03F006EEB60 /* PreferenceWellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F8A0B1F2A312AF400E43C58 /* PreferenceWellView.swift */; };
 		3FE1073B2A37D05A006EEB60 /* PaneSidebarItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F8A0B022A2F87DE00E43C58 /* PaneSidebarItem.swift */; };
 		3FE1073C2A37D05B006EEB60 /* PaneSidebarItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F8A0B022A2F87DE00E43C58 /* PaneSidebarItem.swift */; };
-		3FE107452A37D641006EEB60 /* DockAndMenuPane.h in Headers */ = {isa = PBXBuildFile; fileRef = 3FE107442A37D641006EEB60 /* DockAndMenuPane.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3FE107482A37D641006EEB60 /* DockAndMenuPane.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FE107422A37D640006EEB60 /* DockAndMenuPane.framework */; };
 		3FE107492A37D641006EEB60 /* DockAndMenuPane.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 3FE107422A37D640006EEB60 /* DockAndMenuPane.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		3FE107552A37D658006EEB60 /* AccessibilityPane.h in Headers */ = {isa = PBXBuildFile; fileRef = 3FE107542A37D658006EEB60 /* AccessibilityPane.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3FE107582A37D658006EEB60 /* AccessibilityPane.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FE107522A37D657006EEB60 /* AccessibilityPane.framework */; };
 		3FE107592A37D658006EEB60 /* AccessibilityPane.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 3FE107522A37D657006EEB60 /* AccessibilityPane.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
@@ -137,9 +135,7 @@
 		3FE107312A37CF91006EEB60 /* PaneView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaneView.swift; sourceTree = "<group>"; };
 		3FE107332A37CFAC006EEB60 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3FE107422A37D640006EEB60 /* DockAndMenuPane.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DockAndMenuPane.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		3FE107442A37D641006EEB60 /* DockAndMenuPane.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DockAndMenuPane.h; sourceTree = "<group>"; };
 		3FE107522A37D657006EEB60 /* AccessibilityPane.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AccessibilityPane.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		3FE107542A37D658006EEB60 /* AccessibilityPane.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AccessibilityPane.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -193,8 +189,6 @@
 				3F06F09B2A29545C00AF43E7 /* Legacy Preferences */,
 				3F7B9BA82A37BF3D00AD2F89 /* AppearancePane */,
 				3FE107252A37CF71006EEB60 /* MissionControlPane */,
-				3FE107432A37D641006EEB60 /* DockAndMenuPane */,
-				3FE107532A37D658006EEB60 /* AccessibilityPane */,
 				3F06F09A2A29545C00AF43E7 /* Products */,
 				3F7B9BB52A37C08800AD2F89 /* Frameworks */,
 			);
@@ -291,22 +285,6 @@
 			path = MissionControlPane;
 			sourceTree = "<group>";
 		};
-		3FE107432A37D641006EEB60 /* DockAndMenuPane */ = {
-			isa = PBXGroup;
-			children = (
-				3FE107442A37D641006EEB60 /* DockAndMenuPane.h */,
-			);
-			path = DockAndMenuPane;
-			sourceTree = "<group>";
-		};
-		3FE107532A37D658006EEB60 /* AccessibilityPane */ = {
-			isa = PBXGroup;
-			children = (
-				3FE107542A37D658006EEB60 /* AccessibilityPane.h */,
-			);
-			path = AccessibilityPane;
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
@@ -330,7 +308,6 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3FE107452A37D641006EEB60 /* DockAndMenuPane.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -338,7 +315,6 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3FE107552A37D658006EEB60 /* AccessibilityPane.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
