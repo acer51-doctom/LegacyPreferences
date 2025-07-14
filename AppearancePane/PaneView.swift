@@ -3,6 +3,7 @@
 //  AppearancePane
 //
 //  Created by dehydratedpotato on 6/5/23.
+//  Maitained by acer51-doctom since 14/07/2025 (DD-MM-YYYY)
 //
 
 import SwiftUI
