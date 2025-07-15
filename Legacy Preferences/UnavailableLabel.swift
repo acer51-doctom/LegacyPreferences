@@ -11,7 +11,7 @@ struct UnavailableLabel: View {
     var body: some View {
         HStack {
             Spacer()
-            Text("This pane will sadly never be completed and is here only for completion")
+            Text("This pane is for now only here for completion. Expect an update system soon! :D")
                 .foregroundColor(.secondary)
                 .multilineTextAlignment(.center)
             Spacer()
