@@ -2,7 +2,7 @@
 <div>
     <h1 align="left" style="">Legacy Preferences</h1>
     <p align="left">
-    Work-In-Progress recreation of the classic System Preferences to make Ventura not suck.
+    Work-In-Progress recreation of the classic System Preferences to make Ventura not suck. Made with the help of Gemini.
         <br>
     </p>
 </div>
