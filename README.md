@@ -49,7 +49,9 @@ I will slowly make Releases with more and more feature. **Currently, only the Ge
 - [X] Sort panes
 - [X] Hide panes
 - [X] Menu bar stuff
+- [ ] Customize depending on Mac model
 - [ ] Jump to pane from dock
+- [ ] Port all panes from Monterey (required sadly)
 - [ ] 3rd party panes
 ### Panes
 | Status | Pane(s)
