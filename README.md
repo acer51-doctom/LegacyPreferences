@@ -39,7 +39,7 @@ In order to truly return the ways of old, someone must take it upon themselves t
 Because some of us miss the ways of old (see new [System Settings](https://9to5mac.com/2022/06/06/macos-13-ventura-system-settings-first-look/)).
 
 ## Installation
-Compile it yourself until it's a Release. I am NOT doing any releases with it still being a wip project.
+I will slowly make Releases with more and more feature. **Currently, only the General (Appearance) settings is partially working (almost done)**
 
 ## Completion Checklist
 ### Features
