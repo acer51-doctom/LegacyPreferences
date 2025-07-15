@@ -59,13 +59,15 @@ I will slowly make Releases with more and more feature. **Currently, only the Ge
 | ☑️ Finished | General / Appearance (partial) |
 | 🛠️ WIP | All the rest... |
 | ‼️ :hammer_and_wrench: Very Complicated to finish due to Apple | Apple ID, Family Sharing, Screen Time, Time Machine, Startup Disk,  Software Update, Some 3rd party panes |
+---
+
 **Note:** Unsupported panes (excluding those there for completion) are disabled for now.
 
 ## Contribution
 If anyone wishes to contribute towards pane stuff or finds some problems, feel free to open an issue or PR. I will respond and evaluate propositions as quick as possible.
 
 ## ⚠️ Disclaimer
-The app icon used by Legacy Preferences was designed by Apple, not I, and belongs to the native System Preferences/Settings app.
+The app icon used by Legacy Preferences was designed by Apple; this icon belongs to the System Preferences/System Settings app by default on macOS. I do not own it.
 
 Also, if I mess up implementing some preference and wigs out, I hold not responsibility for bricking your machine or nuking your filesystem.
 
