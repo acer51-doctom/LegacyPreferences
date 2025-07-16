@@ -107,7 +107,7 @@ If anyone wishes to contribute towards pane stuff or finds some problems, feel f
 - UniversalAccessPref.prefPane
 - Wallet.prefPane
 ### Ported
-- Appearance.prefPane
+- Appearance.prefPane (Partial)
 
 ## ⚠️ Disclaimer
 The app icon used by Legacy Preferences was designed by Apple; this icon belongs to the System Preferences/System Settings app by default on macOS. I do not own it.

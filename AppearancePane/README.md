@@ -1,6 +1,6 @@
 ### Appearance Pane
 Still doesn't support
-- setting default browser
+- ~~setting default browser~~ Fixed.
 - setting recent item count
 - toggling handoff
 
