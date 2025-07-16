@@ -34,12 +34,8 @@
 		3F8A0B072A2F8A6400E43C58 /* StartupDiskPane.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F8A0B062A2F8A6400E43C58 /* StartupDiskPane.swift */; };
 		3F8A0B0F2A2FCB1800E43C58 /* PaneConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F8A0B0E2A2FCB1800E43C58 /* PaneConstants.swift */; };
 		3F8A0B202A312AF400E43C58 /* PreferenceWellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F8A0B1F2A312AF400E43C58 /* PreferenceWellView.swift */; };
-		3FE107272A37CF71006EEB60 /* MissionControlPane.h in Headers */ = {isa = PBXBuildFile; fileRef = 3FE107262A37CF71006EEB60 /* MissionControlPane.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3FE1072A2A37CF71006EEB60 /* MissionControlPane.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FE107242A37CF71006EEB60 /* MissionControlPane.framework */; };
 		3FE1072B2A37CF71006EEB60 /* MissionControlPane.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 3FE107242A37CF71006EEB60 /* MissionControlPane.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		3FE107302A37CF8C006EEB60 /* PaneDefaults.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE1072F2A37CF8C006EEB60 /* PaneDefaults.swift */; };
-		3FE107322A37CF91006EEB60 /* PaneView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE107312A37CF91006EEB60 /* PaneView.swift */; };
-		3FE107342A37CFAC006EEB60 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FE107332A37CFAC006EEB60 /* Assets.xcassets */; };
 		3FE107352A37CFD9006EEB60 /* Logger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F7B9BBA2A37C6C800AD2F89 /* Logger.swift */; };
 		3FE107362A37CFD9006EEB60 /* PaneConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F8A0B0E2A2FCB1800E43C58 /* PaneConstants.swift */; };
 		3FE107372A37D03E006EEB60 /* VisualEffectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F8A0AE42A2E928400E43C58 /* VisualEffectView.swift */; };
@@ -52,7 +48,11 @@
 		3FE107492A37D641006EEB60 /* DockAndMenuPane.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 3FE107422A37D640006EEB60 /* DockAndMenuPane.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		3FE107582A37D658006EEB60 /* AccessibilityPane.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FE107522A37D657006EEB60 /* AccessibilityPane.framework */; };
 		3FE107592A37D658006EEB60 /* AccessibilityPane.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 3FE107522A37D657006EEB60 /* AccessibilityPane.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		8E04FD112E2846DE00978376 /* Logger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F7B9BBA2A37C6C800AD2F89 /* Logger.swift */; };
+		8E04FD122E2846DE00978376 /* Logger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F7B9BBA2A37C6C800AD2F89 /* Logger.swift */; };
+		8E04FD132E2846DE00978376 /* Logger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F7B9BBA2A37C6C800AD2F89 /* Logger.swift */; };
 		8E17E9BE2E2837C400B2FCA9 /* HelperToolProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EA71A9A2E282E83006C7AF5 /* HelperToolProtocol.swift */; };
+		8E34A8292E284A7500BB4000 /* HelperToolProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EA71A9A2E282E83006C7AF5 /* HelperToolProtocol.swift */; };
 		8EA71A942E282DB5006C7AF5 /* LegacyPreferencesHelper.xpc in Embed XPC Services */ = {isa = PBXBuildFile; fileRef = 8EA71A882E282DB5006C7AF5 /* LegacyPreferencesHelper.xpc */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		8EA71A9B2E282E96006C7AF5 /* HelperToolProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EA71A9A2E282E83006C7AF5 /* HelperToolProtocol.swift */; };
 /* End PBXBuildFile section */
@@ -151,10 +151,6 @@
 		3F8A0B0E2A2FCB1800E43C58 /* PaneConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaneConstants.swift; sourceTree = "<group>"; };
 		3F8A0B1F2A312AF400E43C58 /* PreferenceWellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreferenceWellView.swift; sourceTree = "<group>"; };
 		3FE107242A37CF71006EEB60 /* MissionControlPane.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MissionControlPane.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		3FE107262A37CF71006EEB60 /* MissionControlPane.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MissionControlPane.h; sourceTree = "<group>"; };
-		3FE1072F2A37CF8C006EEB60 /* PaneDefaults.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaneDefaults.swift; sourceTree = "<group>"; };
-		3FE107312A37CF91006EEB60 /* PaneView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaneView.swift; sourceTree = "<group>"; };
-		3FE107332A37CFAC006EEB60 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3FE107422A37D640006EEB60 /* DockAndMenuPane.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DockAndMenuPane.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FE107522A37D657006EEB60 /* AccessibilityPane.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AccessibilityPane.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8EA71A882E282DB5006C7AF5 /* LegacyPreferencesHelper.xpc */ = {isa = PBXFileReference; explicitFileType = "wrapper.xpc-service"; includeInIndex = 0; path = LegacyPreferencesHelper.xpc; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -229,11 +225,9 @@
 		3F06F0902A29545C00AF43E7 = {
 			isa = PBXGroup;
 			children = (
-				8EA71A9A2E282E83006C7AF5 /* HelperToolProtocol.swift */,
 				3F8A0B182A2FF0C100E43C58 /* Shared */,
 				3F06F09B2A29545C00AF43E7 /* Legacy Preferences */,
 				3F7B9BA82A37BF3D00AD2F89 /* AppearancePane */,
-				3FE107252A37CF71006EEB60 /* MissionControlPane */,
 				8EA71A892E282DB5006C7AF5 /* LegacyPreferencesHelper */,
 				3F06F09A2A29545C00AF43E7 /* Products */,
 				3F7B9BB52A37C08800AD2F89 /* Frameworks */,
@@ -304,6 +298,7 @@
 		3F8A0B182A2FF0C100E43C58 /* Shared */ = {
 			isa = PBXGroup;
 			children = (
+				8EA71A9A2E282E83006C7AF5 /* HelperToolProtocol.swift */,
 				3FB792ED2A38F09C00E6817A /* Views */,
 				3F8A0B0E2A2FCB1800E43C58 /* PaneConstants.swift */,
 				3F7B9BBA2A37C6C800AD2F89 /* Logger.swift */,
@@ -321,17 +316,6 @@
 			path = Views;
 			sourceTree = "<group>";
 		};
-		3FE107252A37CF71006EEB60 /* MissionControlPane */ = {
-			isa = PBXGroup;
-			children = (
-				3FE107332A37CFAC006EEB60 /* Assets.xcassets */,
-				3FE107262A37CF71006EEB60 /* MissionControlPane.h */,
-				3FE1072F2A37CF8C006EEB60 /* PaneDefaults.swift */,
-				3FE107312A37CF91006EEB60 /* PaneView.swift */,
-			);
-			path = MissionControlPane;
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
@@ -347,7 +331,6 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3FE107272A37CF71006EEB60 /* MissionControlPane.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -562,7 +545,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3FE107342A37CFAC006EEB60 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -622,6 +604,7 @@
 				3FE107382A37D03E006EEB60 /* PreferenceWellView.swift in Sources */,
 				3FE107372A37D03E006EEB60 /* VisualEffectView.swift in Sources */,
 				3F7B9BB42A37BF4F00AD2F89 /* PaneDefaults.swift in Sources */,
+				8E34A8292E284A7500BB4000 /* HelperToolProtocol.swift in Sources */,
 				3F7B9BB82A37C2EB00AD2F89 /* PaneView.swift in Sources */,
 				3F7B9BB92A37C32000AD2F89 /* PaneConstants.swift in Sources */,
 				3F7B9BBD2A37C77200AD2F89 /* Logger.swift in Sources */,
@@ -635,9 +618,7 @@
 			files = (
 				3FE1073A2A37D03F006EEB60 /* PreferenceWellView.swift in Sources */,
 				3FE107392A37D03F006EEB60 /* VisualEffectView.swift in Sources */,
-				3FE107302A37CF8C006EEB60 /* PaneDefaults.swift in Sources */,
 				3FE107352A37CFD9006EEB60 /* Logger.swift in Sources */,
-				3FE107322A37CF91006EEB60 /* PaneView.swift in Sources */,
 				3FE107362A37CFD9006EEB60 /* PaneConstants.swift in Sources */,
 				3FE1073C2A37D05B006EEB60 /* PaneSidebarItem.swift in Sources */,
 			);
@@ -647,6 +628,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8E04FD112E2846DE00978376 /* Logger.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -654,6 +636,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8E04FD122E2846DE00978376 /* Logger.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -661,6 +644,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8E04FD132E2846DE00978376 /* Logger.swift in Sources */,
 				8EA71A9B2E282E96006C7AF5 /* HelperToolProtocol.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

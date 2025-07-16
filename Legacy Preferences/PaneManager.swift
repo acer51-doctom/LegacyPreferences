@@ -125,9 +125,7 @@ final class PaneManager: ObservableObject {
             // available
         case .appearance:
             AppearancePane.PaneView()
-            
-        case .missionControl:
-            MissionControlPane.PaneView()
+        
 
             // unavailable
         case .startupDisk:
