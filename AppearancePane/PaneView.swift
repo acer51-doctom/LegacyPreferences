@@ -23,7 +23,8 @@ public struct PaneView: View {
     @State private var windowCloseConfirm: Bool
     @State private var tabbingMode: PaneDefaults.TabbingModeType
     @State private var jumpPage: Bool
-    @State private var handoffEnabled: Bool // New: State for Handoff Enabled
+    @State private var handoffEnabled: Bool // State for Handoff Enabled
+    @State private var recentItemsCount: Int // State for Recent Items Count
     
     // The ObservedObject to access and modify system preferences.
     @ObservedObject private var defaults: PaneDefaults = PaneDefaults()
@@ -44,7 +45,8 @@ public struct PaneView: View {
         self._windowCloseConfirm = State(initialValue: defaults.startcloseAlwaysConfirms)
         self._tabbingMode = State(initialValue: defaults.startTabbingMode)
         self._jumpPage = State(initialValue: defaults.startJumpPage)
-        self._handoffEnabled = State(initialValue: defaults.startHandoffEnabled) // New: Initialize Handoff
+        self._handoffEnabled = State(initialValue: defaults.startHandoffEnabled)
+        self._recentItemsCount = State(initialValue: defaults.startRecentItemsCount) // Initialize recent items
     }
     
     public var body: some View {
@@ -88,6 +90,10 @@ public struct PaneView: View {
                 // If no browsers are loaded yet, keep selection empty.
                 selectedBrowserIdentifier = ""
             }
+        }
+        // Update recentItemsCount if it changes externally (e.g., by System Settings or helper tool)
+        .onReceive(defaults.$startRecentItemsCount) { newCount in
+            recentItemsCount = newCount
         }
     }
     
@@ -270,20 +276,28 @@ public struct PaneView: View {
                     .font(.caption)
                     .padding(.leading, 20)
                 
-                // Recent Items Picker (Still disabled as per previous instruction)
+                // Recent Items Picker (Re-enabled for interaction, now uses XPC helper)
                 HStack {
-                    Picker(selection: .constant(0), content: {
-                        // Text("10").tag(0) // Example placeholder
+                    Picker(selection: $recentItemsCount, content: {
+                        Text("None").tag(0)
+                        Text("5").tag(5)
+                        Text("10").tag(10)
+                        Text("15").tag(15)
+                        Text("20").tag(20)
+                        Text("50").tag(50)
                     }, label: {
                         //
                     })
                     .frame(width: 65)
+                    .onChange(of: recentItemsCount) { newValue in
+                        // This now calls the XPC-enabled setter in PaneDefaults
+                        defaults.setRecentItemsCount(to: newValue)
+                    }
                     
                     Text("Document, Apps, and Servers")
                 }
-                .disabled(true) // Remains disabled
                 
-                // Handoff Toggle (Now Enabled)
+                // Handoff Toggle (Enabled)
                 Toggle("Allow Handoff between this Mac and your iCloud devices", isOn: $handoffEnabled)
                     .onChange(of: handoffEnabled) { newValue in
                         _ = defaults.setHandoffEnabled(to: newValue)
@@ -431,7 +445,7 @@ private struct HighlightPicker: View {
     ]
     
     var body: some View {
-        Picker(selection: $selection, content: { // Changed to $selection for direct binding
+        Picker(selection: $selection, content: {
             ForEach(highlights, id: \.self) { highlight in
                 let raw = highlight.rawValue
                 
@@ -442,12 +456,12 @@ private struct HighlightPicker: View {
                     
                     Text(PaneDefaults.highlightTypeNameTable[raw])
                 }
-                .tag(highlight) // Tag with the enum case itself
+                .tag(highlight)
             }
         }, label: {
             //
         })
-        .onChange(of: selection) { newValue in // Added onChange to trigger setter
+        .onChange(of: selection) { newValue in
             defaults.setHighlightColor(toType: newValue)
         }
     }
@@ -462,7 +476,7 @@ private struct BrowserRow: View {
             if let icon = browser.icon {
                 Image(nsImage: icon)
                     .resizable()
-                    .frame(width: 20, height: 20) // Adjust size as needed
+                    .frame(width: 20, height: 20)
             } else {
                 Image(systemName: "globe") // Fallback icon
                     .resizable()

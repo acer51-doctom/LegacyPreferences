@@ -9,6 +9,11 @@
 import SwiftUI
 import CoreServices // Import CoreServices for LaunchServices APIs
 import AppKit // Required for NSImage and NSWorkspace
+import Combine // For ObservableObject and Combine framework
+import Foundation // Explicitly add Foundation for NSXPCConnection etc.
+
+// IMPORTANT: Ensure HelperToolProtocol.swift is added to your main app target!
+// The protocol definition must be available to both the main app and the helper tool.
 
 final class PaneDefaults: ObservableObject {
     // MARK: - Static Properties
@@ -128,7 +133,8 @@ final class PaneDefaults: ObservableObject {
     @Published var startcloseAlwaysConfirms: Bool
     @Published var startTabbingMode: TabbingModeType
     @Published var startJumpPage: Bool
-    @Published var startHandoffEnabled: Bool // New: Handoff Enabled
+    @Published var startHandoffEnabled: Bool // Handoff Enabled
+    @Published var startRecentItemsCount: Int // For reading and display
     
     lazy var startTheme: ThemeType = {
         if self.themeIsDark {
@@ -175,8 +181,12 @@ final class PaneDefaults: ObservableObject {
     static let closeAlwaysConfirms = "NSCloseAlwaysConfirmsChanges"
     static let jumpPageKey = "AppleScrollerPagingBehavior"
     static let tabbingModeKey = "AppleWindowTabbingMode"
-    static let handoffEnabledKey = "NSUserActivityTrackingEnabled" // Key for Handoff
-    static let handoffActivityContinuationKey = "NSUserActivityTrackingEnabledForActivityContinuation" // Another related key for Handoff
+    static let handoffEnabledKey = "NSUserActivityTrackingEnabled"
+    static let handoffActivityContinuationKey = "NSUserActivityTrackingEnabledForActivityContinuation"
+    static let recentItemsKey = "AppleShowRecentItems" // Key for Recent Items
+    
+    // MARK: - XPC Connection
+    private var helperConnection: NSXPCConnection?
     
     // MARK: - Initializer
     public init() {
@@ -192,12 +202,39 @@ final class PaneDefaults: ObservableObject {
         let rawTabbingModeValue = (globalDomain?[PaneDefaults.tabbingModeKey] as? String) ?? TabbingModeType.fullscreen.rawValue
         self.startTabbingMode = TabbingModeType(rawValue: rawTabbingModeValue) ?? .fullscreen
         
-        // Initialize Handoff state. Both keys should ideally be in sync.
         let isHandoffEnabled = (globalDomain?[PaneDefaults.handoffEnabledKey] as? Bool) ?? true
         let isActivityContinuationEnabled = (globalDomain?[PaneDefaults.handoffActivityContinuationKey] as? Bool) ?? true
-        self.startHandoffEnabled = isHandoffEnabled && isActivityContinuationEnabled // Consider Handoff enabled only if both are true
+        self.startHandoffEnabled = isHandoffEnabled && isActivityContinuationEnabled
+        
+        // Initialize recent items count for display purposes
+        self.startRecentItemsCount = (globalDomain?[PaneDefaults.recentItemsKey] as? Int) ?? 10
         
         loadBrowsers()
+        setupHelperConnection() // Setup XPC connection on init
+    }
+    
+    // MARK: - XPC Setup
+    private func setupHelperConnection() {
+        // IMPORTANT: Replace "com.yourcompany.LegacyPreferencesHelper" with your actual helper tool's bundle identifier
+        // This MUST match the Bundle Identifier set in the General settings of your LegacyPreferencesHelper target.
+        helperConnection = NSXPCConnection(serviceName: "com.acer51-doctom.LegacyPreferencesHelper")
+        helperConnection?.remoteObjectInterface = NSXPCInterface(with: HelperToolProtocol.self)
+        
+        // Set up an invalidation handler to deal with connection issues
+        helperConnection?.invalidationHandler = { [weak self] in
+            NSLog("XPC connection invalidated. Reconnecting...")
+            self?.helperConnection = nil
+            self?.setupHelperConnection() // Attempt to reconnect
+        }
+        
+        // Set up an interruption handler
+        helperConnection?.interruptionHandler = { [weak self] in
+            NSLog("XPC connection interrupted. Reconnecting...")
+            self?.helperConnection = nil
+            self?.setupHelperConnection() // Attempt to reconnect
+        }
+        
+        helperConnection?.resume() // Resume the connection
     }
     
     // MARK: - Theme logic
@@ -303,7 +340,7 @@ final class PaneDefaults: ObservableObject {
         return true
     }
     
-    // MARK: - Handoff Logic (New)
+    // MARK: - Handoff Logic
     func setHandoffEnabled(to value: Bool) -> Bool {
         guard var domain = UserDefaults.standard.persistentDomain(forName: UserDefaults.globalDomain) else {
             Logger.log("failed to get global domain for setting Handoff enabled state", isError: true, class: Self.self)
@@ -315,22 +352,59 @@ final class PaneDefaults: ObservableObject {
         domain[PaneDefaults.handoffActivityContinuationKey] = value
         
         UserDefaults.standard.setPersistentDomain(domain, forName: UserDefaults.globalDomain)
-        // Handoff changes might require a logout/login or reboot to take full effect,
-        // and there isn't a simple public notification to trigger an immediate update across all apps.
         Logger.log("Handoff enabled set to: \(value)", class: Self.self)
         return true
     }
     
+    // MARK: - Recent Items Logic (Using XPC Helper Tool)
+    func setRecentItemsCount(to count: Int) {
+        // Get a proxy to the helper tool.
+        // The `remoteObjectProxyWithErrorHandler` is crucial for handling connection errors.
+        guard let helper = helperConnection?.remoteObjectProxyWithErrorHandler({ error in
+            NSLog("XPC connection error for setRecentItemsCount: \(error)")
+            // Potentially inform the user that the helper tool is unavailable or failed.
+        }) as? HelperToolProtocol else {
+            NSLog("Failed to get remote object proxy for HelperToolProtocol.")
+            return
+        }
+        
+        // Call the method on the helper tool.
+        helper.setRecentItemsCount(count: count) { [weak self] success in
+            DispatchQueue.main.async {
+                if success {
+                    NSLog("Recent Items Count successfully requested from helper: \(count)")
+                    // After successful request, read the value back to ensure UI is in sync
+                    // (though the system might take a moment to apply it).
+                    if let globalDomain = UserDefaults.standard.persistentDomain(forName: UserDefaults.globalDomain) {
+                        self?.startRecentItemsCount = (globalDomain[PaneDefaults.recentItemsKey] as? Int) ?? 10
+                    }
+                } else {
+                    NSLog("Failed to set Recent Items Count via helper.")
+                    // Revert UI to previous state or show error message
+                    if let globalDomain = UserDefaults.standard.persistentDomain(forName: UserDefaults.globalDomain) {
+                        self?.startRecentItemsCount = (globalDomain[PaneDefaults.recentItemsKey] as? Int) ?? 10
+                    }
+                }
+            }
+        }
+    }
+    
     // MARK: - Default Web Browser Logic
-    // Function to load available web browsers and the current default
     func loadBrowsers() {
-        // Get all applications that can handle HTTP and HTTPS schemes
         let httpHandlers = LSCopyAllHandlersForURLScheme("http" as CFString)?.takeRetainedValue() as? [String] ?? []
         let httpsHandlers = LSCopyAllHandlersForURLScheme("https" as CFString)?.takeRetainedValue() as? [String] ?? []
         
-        // Combine and get unique bundle identifiers, then filter by popular browsers
         let allHandlers = Set(httpHandlers + httpsHandlers)
-        let filteredHandlers = allHandlers.filter { PaneDefaults.popularBrowserBundleIDs.contains($0) }
+        // Filter by popular browsers defined in PaneDefaults.popularBrowserBundleIDs
+        let popularBrowserBundleIDs: Set<String> = [
+            "com.google.Chrome",      // Google Chrome
+            "org.chromium.Chromium",  // Chromium
+            "com.apple.Safari",       // Safari
+            "org.mozilla.firefox",    // Mozilla Firefox
+            "com.kagi.Orion",         // Orion Browser
+            "com.arc.browser"         // Arc Browser
+        ]
+        let filteredHandlers = allHandlers.filter { popularBrowserBundleIDs.contains($0) }
         
         var browsers: [BrowserInfo] = []
         for bundleID in filteredHandlers {
@@ -338,45 +412,38 @@ final class PaneDefaults: ObservableObject {
                let bundle = Bundle(url: url),
                let appName = bundle.object(forInfoDictionaryKey: kCFBundleNameKey as String) as? String {
                 
-                // Get the application icon
                 let appIcon = NSWorkspace.shared.icon(forFile: url.path)
-                appIcon.size = NSSize(width: 32, height: 32) // Standard icon size for UI
+                appIcon.size = NSSize(width: 32, height: 32)
                 
                 browsers.append(BrowserInfo(id: bundleID, name: appName, icon: appIcon))
             }
         }
         
-        // Sort browsers alphabetically by name
         self.availableBrowsers = browsers.sorted { $0.name.localizedCaseInsensitiveCompare($1.name) == .orderedAscending }
         
-        // Get the current default browser
         if let defaultHTTPHandler = LSCopyDefaultHandlerForURLScheme("http" as CFString)?.takeRetainedValue() as? String {
             self.defaultBrowserIdentifier = defaultHTTPHandler
         } else {
-            self.defaultBrowserIdentifier = "" // No default browser found or error
+            self.defaultBrowserIdentifier = ""
         }
         
         Logger.log("Loaded \(self.availableBrowsers.count) browsers. Default: \(self.defaultBrowserIdentifier)", class: Self.self)
     }
     
-    // Function to set the default web browser
     func setDefaultWebBrowser(bundleIdentifier: String) {
         let httpScheme = "http" as CFString
         let httpsScheme = "https" as CFString
         
-        // Set default handler for both HTTP and HTTPS schemes
         let statusHTTP = LSSetDefaultHandlerForURLScheme(httpScheme, bundleIdentifier as CFString)
         let statusHTTPS = LSSetDefaultHandlerForURLScheme(httpsScheme, bundleIdentifier as CFString)
         
         if statusHTTP == noErr && statusHTTPS == noErr {
             Logger.log("Successfully set default browser to \(bundleIdentifier)", class: Self.self)
-            // Update the published property to reflect the change
             self.defaultBrowserIdentifier = bundleIdentifier
-            
-            // Post notification to inform other apps of the change (optional, but good practice)
             DistributedNotificationCenter.default().post(name: .init("ApplePreferredBrowserChanged"), object: nil)
         } else {
             Logger.log("Failed to set default browser to \(bundleIdentifier). HTTP Status: \(statusHTTP), HTTPS Status: \(statusHTTPS)", isError: true, class: Self.self)
         }
     }
 }
+

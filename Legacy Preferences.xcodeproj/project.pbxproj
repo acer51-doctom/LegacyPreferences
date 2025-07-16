@@ -52,6 +52,7 @@
 		3FE107492A37D641006EEB60 /* DockAndMenuPane.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 3FE107422A37D640006EEB60 /* DockAndMenuPane.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		3FE107582A37D658006EEB60 /* AccessibilityPane.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FE107522A37D657006EEB60 /* AccessibilityPane.framework */; };
 		3FE107592A37D658006EEB60 /* AccessibilityPane.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 3FE107522A37D657006EEB60 /* AccessibilityPane.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		8E17E9BE2E2837C400B2FCA9 /* HelperToolProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EA71A9A2E282E83006C7AF5 /* HelperToolProtocol.swift */; };
 		8EA71A942E282DB5006C7AF5 /* LegacyPreferencesHelper.xpc in Embed XPC Services */ = {isa = PBXBuildFile; fileRef = 8EA71A882E282DB5006C7AF5 /* LegacyPreferencesHelper.xpc */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		8EA71A9B2E282E96006C7AF5 /* HelperToolProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EA71A9A2E282E83006C7AF5 /* HelperToolProtocol.swift */; };
 /* End PBXBuildFile section */
@@ -228,6 +229,7 @@
 		3F06F0902A29545C00AF43E7 = {
 			isa = PBXGroup;
 			children = (
+				8EA71A9A2E282E83006C7AF5 /* HelperToolProtocol.swift */,
 				3F8A0B182A2FF0C100E43C58 /* Shared */,
 				3F06F09B2A29545C00AF43E7 /* Legacy Preferences */,
 				3F7B9BA82A37BF3D00AD2F89 /* AppearancePane */,
@@ -263,7 +265,6 @@
 				3F8A0ADD2A2E8B3400E43C58 /* SearchField.swift */,
 				3F8A0AF62A2F82A000E43C58 /* UnavailableLabel.swift */,
 				3F8A0B102A2FD03800E43C58 /* Ignored Panes */,
-				8EA71A9A2E282E83006C7AF5 /* HelperToolProtocol.swift */,
 			);
 			path = "Legacy Preferences";
 			sourceTree = "<group>";
@@ -596,6 +597,7 @@
 				3F8A0ADE2A2E8B3400E43C58 /* SearchField.swift in Sources */,
 				3F8A0B072A2F8A6400E43C58 /* StartupDiskPane.swift in Sources */,
 				3F8A0AE92A2E97CC00E43C58 /* PaneGridItem.swift in Sources */,
+				8E17E9BE2E2837C400B2FCA9 /* HelperToolProtocol.swift in Sources */,
 				3F8A0AED2A2E99D000E43C58 /* FamilySharingPane.swift in Sources */,
 				3F8A0AF72A2F82A000E43C58 /* UnavailableLabel.swift in Sources */,
 				3F8A0AE52A2E928400E43C58 /* VisualEffectView.swift in Sources */,
