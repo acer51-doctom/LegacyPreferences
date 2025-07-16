@@ -66,6 +66,49 @@ I will slowly make Releases with more and more feature. **Currently, only the Ge
 ## Contribution
 If anyone wishes to contribute towards pane stuff or finds some problems, feel free to open an issue or PR. I will respond and evaluate propositions as quick as possible.
 
+## Preferences panes
+### Unported
+- Accounts.prefPane
+- AppleIDPrefPane.prefPane (Maybe restart from scratch)
+- Battery.prefPane
+- Bluetooth.prefPane
+- ClassKitPreferencePane.prefPane
+- ClassroomSettings.prefPane
+- DateAndTime.prefPane
+- DesktopScreenEffectsPref.prefPane
+- DigiHubDiscs.prefPane
+- Displays.prefPane
+- Dock.prefPane
+- EnergySaverPref.prefPane
+- Expose.prefPane
+- Extensions.prefPane
+- FamilySharingPrefPane.prefPane
+- FibreChannel.prefPane
+- InternetAccounts.prefPane
+- Keyboard.prefPane
+- Localization.prefPane
+- Mouse.prefPane
+- Network.prefPane
+- Notifications.prefPane
+- Passwords.prefPane (Unusable since macOS Sequoia because Apple made a dedicated app for it)
+- PrintAndScan.prefPane
+- Profiles.prefPane
+- ScreenTime.prefPane (Maybe restart from scratch)
+- Security.prefPane
+- SharingPref.prefPane
+- SoftwareUpdate.prefPane (Maybe restart from scratch)
+- Sound.prefPane
+- Speech.prefPane
+- Spotlight.prefPane
+- StartupDisk.prefPane
+- TimeMachine.prefPane
+- TouchID.prefPane
+- Trackpad.prefPane
+- UniversalAccessPref.prefPane
+- Wallet.prefPane
+### Ported
+- Appearance.prefPane
+
 ## ⚠️ Disclaimer
 The app icon used by Legacy Preferences was designed by Apple; this icon belongs to the System Preferences/System Settings app by default on macOS. I do not own it.
 
