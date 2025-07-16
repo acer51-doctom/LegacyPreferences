@@ -23,6 +23,7 @@ public struct PaneView: View {
     @State private var windowCloseConfirm: Bool
     @State private var tabbingMode: PaneDefaults.TabbingModeType
     @State private var jumpPage: Bool
+    // Removed: @State private var recentItemsCount: Int
     
     // The ObservedObject to access and modify system preferences.
     @ObservedObject private var defaults: PaneDefaults = PaneDefaults()
@@ -32,9 +33,8 @@ public struct PaneView: View {
     
     // Initializer to set initial state from PaneDefaults.
     public init() {
-        // Initialize the defaults object correctly for @ObservedObject
         let defaults = PaneDefaults()
-        self._defaults = ObservedObject(wrappedValue: defaults)
+        self._defaults = ObservedObject(wrappedValue: defaults) // Initialize ObservedObject
         
         // Set initial state values from PaneDefaults.
         self._tinting = State(initialValue: defaults.startWallpaperTinting)
@@ -44,6 +44,7 @@ public struct PaneView: View {
         self._windowCloseConfirm = State(initialValue: defaults.startcloseAlwaysConfirms)
         self._tabbingMode = State(initialValue: defaults.startTabbingMode)
         self._jumpPage = State(initialValue: defaults.startJumpPage)
+        // Removed: self._recentItemsCount = State(initialValue: defaults.startRecentItemsCount)
     }
     
     public var body: some View {
@@ -269,8 +270,7 @@ public struct PaneView: View {
                     .font(.caption)
                     .padding(.leading, 20)
                 
-                // TODO: Add, use Apple Script
-                // See https://github.com/joeyhoer/starter/blob/3f6fecfdea257b6a2db5228c5d445b742ed86f42/system/general.sh#L45-L47
+                // Reverted Recent Items Picker to disabled state
                 HStack {
                     Picker(selection: .constant(0), content: {
                         // Text("10").tag(0) // Example placeholder
@@ -281,7 +281,7 @@ public struct PaneView: View {
                     
                     Text("Document, Apps, and Servers")
                 }
-                .disabled(true) // Still disabled as no logic is implemented yet
+                .disabled(true) // Reverted to disabled
                 
                 // TODO: Support toggling handoff
                 Toggle("Allow Handoff between this Mac and your iCloud devices", isOn: .constant(true))
@@ -429,7 +429,7 @@ private struct HighlightPicker: View {
     ]
     
     var body: some View {
-        Picker(selection: $selection, content: {
+        Picker(selection: $selection, content: { // Changed to $selection for direct binding
             ForEach(highlights, id: \.self) { highlight in
                 let raw = highlight.rawValue
                 
@@ -445,7 +445,7 @@ private struct HighlightPicker: View {
         }, label: {
             //
         })
-        .onChange(of: selection) { newValue in
+        .onChange(of: selection) { newValue in // Added onChange to trigger setter
             defaults.setHighlightColor(toType: newValue)
         }
     }

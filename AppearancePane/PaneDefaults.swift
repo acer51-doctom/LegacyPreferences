@@ -128,6 +128,7 @@ final class PaneDefaults: ObservableObject {
     @Published var startcloseAlwaysConfirms: Bool
     @Published var startTabbingMode: TabbingModeType
     @Published var startJumpPage: Bool
+    // Removed: @Published var startRecentItemsCount: Int
     
     lazy var startTheme: ThemeType = {
         if self.themeIsDark {
@@ -174,6 +175,7 @@ final class PaneDefaults: ObservableObject {
     static let closeAlwaysConfirms = "NSCloseAlwaysConfirmsChanges"
     static let jumpPageKey = "AppleScrollerPagingBehavior"
     static let tabbingModeKey = "AppleWindowTabbingMode"
+    // Removed: static let recentItemsKey = "AppleShowRecentItems"
     
     // MARK: - Initializer
     public init() {
@@ -188,6 +190,7 @@ final class PaneDefaults: ObservableObject {
         self.startJumpPage = (globalDomain?[PaneDefaults.jumpPageKey] as? Bool) ?? false
         let rawTabbingModeValue = (globalDomain?[PaneDefaults.tabbingModeKey] as? String) ?? TabbingModeType.fullscreen.rawValue
         self.startTabbingMode = TabbingModeType(rawValue: rawTabbingModeValue) ?? .fullscreen
+        // Removed: self.startRecentItemsCount = (globalDomain?[PaneDefaults.recentItemsKey] as? Int) ?? 10
         
         loadBrowsers()
     }
@@ -294,6 +297,9 @@ final class PaneDefaults: ObservableObject {
         Logger.log("tabbingMode: \(value)", class: Self.self)
         return true
     }
+    
+    // Removed: MARK: - Recent Items Logic (New - Safer)
+    // Removed: func setRecentItemsCount(to count: Int) -> Bool { ... }
     
     // MARK: - Default Web Browser Logic
     // Function to load available web browsers and the current default
