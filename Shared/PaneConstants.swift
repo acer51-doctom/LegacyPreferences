@@ -3,6 +3,7 @@
 //  Legacy Preferences
 //
 //  Created by dehydratedpotato on 6/6/23.
+//  Maintained by acer51-doctom since 16/07/2025.
 //
 
 import Foundation
@@ -33,18 +34,18 @@ struct PaneConstants {
         false, // displays
         false, // battery
         false, // dataAndTime
-        false, // sharing
+//        false, // sharing; commented out because no icons
         false, // energySaver
-        false, // sidecar
-        false, // wallet
-        false, // touchID
+//        false, // sidecar; commented out because no icons
+//        false, // wallet; commented out because no icons
+//        false, // touchID; commented out because no icons
         false, // internetAccounts
         false, // startupDisk
-        true, // screenTime
-        true, // softwareUpdate
-        true, // timeMachine
-        true, // appleID
-        true, // familySharing
+        false, // screenTime
+        false, // softwareUpdate
+        false, // timeMachine
+        false, // appleID
+        false, // familySharing
         true // appearance
     ]
     
@@ -69,11 +70,11 @@ struct PaneConstants {
         "Displays",
         "Battery",
         "Date & Time",
-        "Sharing",
+//        "Sharing",; commented out because no icons
         "Energy Saver",
-        "Sidecar",
-        "Wallet",
-        "TouchID",
+//        "Sidecar",; commented out because no icons
+//        "Wallet",; commented out because no icons
+//        "TouchID",; commented out because no icons
         "Internet Accounts",
         "Startup Disk",
         "Screen Time",
@@ -105,11 +106,11 @@ struct PaneConstants {
         26,
         29,
         30,
-        31,
+//        31,; commented out because no icons
         28,
-        27,
-        11,
-        12,
+//        27,; commented out because no icons
+//        11,; commented out because no icons
+//        12,; commented out because no icons
         10,
         33,
         15,
@@ -141,11 +142,11 @@ struct PaneConstants {
         case displays
         case battery
         case dataAndTime
-        case sharing
+//        case sharing; commented out because no icons
         case energySaver
-        case sidecar
-        case wallet
-        case touchID
+//        case sidecar; commented out because no icons
+//        case wallet; commented out because no icons
+//        case touchID; commented out because no icons
         case internetAccounts
         case startupDisk
         case screenTime
