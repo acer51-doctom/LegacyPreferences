@@ -3,6 +3,7 @@
 //  AppearancePane
 //
 //  Created by dehydratedpotato on 6/12/23.
+//  Maintained by acer51-doctom since 
 //
 
 #import <Foundation/Foundation.h>
