@@ -33,11 +33,11 @@ struct PaneConstants {
         false, // displays
         false, // battery
         false, // dataAndTime
-//        false, // sharing
+        false, // sharing
         false, // energySaver
-//        false, // sidecar
-//        false, // wallet
-//        false, // touchID
+        false, // sidecar
+        false, // wallet
+        false, // touchID
         false, // internetAccounts
         false, // startupDisk
         true, // screenTime
@@ -69,11 +69,11 @@ struct PaneConstants {
         "Displays",
         "Battery",
         "Date & Time",
-//        "Sharing",
+        "Sharing",
         "Energy Saver",
-//        "Sidecar",
-//        "Wallet",
-//        "TouchID",
+        "Sidecar",
+        "Wallet",
+        "TouchID",
         "Internet Accounts",
         "Startup Disk",
         "Screen Time",
@@ -105,11 +105,11 @@ struct PaneConstants {
         26,
         29,
         30,
-//        31,
+        31,
         28,
-//        27,
-//        11,
-//        12,
+        27,
+        11,
+        12,
         10,
         33,
         15,
@@ -141,11 +141,11 @@ struct PaneConstants {
         case displays
         case battery
         case dataAndTime
-//        case sharing
+        case sharing
         case energySaver
-//        case sidecar
-//        case wallet
-//        case touchID
+        case sidecar
+        case wallet
+        case touchID
         case internetAccounts
         case startupDisk
         case screenTime

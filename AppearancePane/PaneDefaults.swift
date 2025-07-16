@@ -7,6 +7,7 @@
 //
 
 import SwiftUI
+import CoreServices // Import CoreServices for LaunchServices APIs
 
 final class PaneDefaults: ObservableObject {
     // MARK: - Static Properties
@@ -93,6 +94,16 @@ final class PaneDefaults: ObservableObject {
         case never = "never"
     }
     
+    // New struct for browser information
+    struct BrowserInfo: Identifiable, Hashable {
+        let id: String // Bundle Identifier
+        let name: String
+        let icon: NSImage? // To display the app icon
+    }
+    
+    // MARK: - Default Web Browser Properties
+    @Published var defaultBrowserIdentifier: String = ""
+    @Published var availableBrowsers: [BrowserInfo] = []
     
     // MARK: - Theme logic
     
@@ -407,5 +418,64 @@ final class PaneDefaults: ObservableObject {
         Logger.log("tabbingMode: \(value)", class: Self.self)
         
         return true
+    }
+    
+    // MARK: - Default Web Browser Logic
+    
+    // Function to load available web browsers and the current default
+    func loadBrowsers() {
+        // Get all applications that can handle HTTP and HTTPS schemes
+        let httpHandlers = LSCopyAllHandlersForURLScheme("http" as CFString)?.takeRetainedValue() as? [String] ?? []
+        let httpsHandlers = LSCopyAllHandlersForURLScheme("https" as CFString)?.takeRetainedValue() as? [String] ?? []
+        
+        // Combine and get unique bundle identifiers
+        let allHandlers = Set(httpHandlers + httpsHandlers)
+        
+        var browsers: [BrowserInfo] = []
+        for bundleID in allHandlers {
+            if let url = NSWorkspace.shared.urlForApplication(withBundleIdentifier: bundleID),
+               let bundle = Bundle(url: url),
+               let appName = bundle.object(forInfoDictionaryKey: kCFBundleNameKey as String) as? String {
+                
+                // Get the application icon
+                let appIcon = NSWorkspace.shared.icon(forFile: url.path)
+                appIcon.size = NSSize(width: 32, height: 32) // Standard icon size for UI
+                
+                browsers.append(BrowserInfo(id: bundleID, name: appName, icon: appIcon))
+            }
+        }
+        
+        // Sort browsers alphabetically by name
+        self.availableBrowsers = browsers.sorted { $0.name.localizedCaseInsensitiveCompare($1.name) == .orderedAscending }
+        
+        // Get the current default browser
+        if let defaultHTTPHandler = LSCopyDefaultHandlerForURLScheme("http" as CFString)?.takeRetainedValue() as? String {
+            self.defaultBrowserIdentifier = defaultHTTPHandler
+        } else {
+            self.defaultBrowserIdentifier = "" // No default browser found or error
+        }
+        
+        Logger.log("Loaded \(self.availableBrowsers.count) browsers. Default: \(self.defaultBrowserIdentifier)", class: Self.self)
+    }
+    
+    // Function to set the default web browser
+    func setDefaultWebBrowser(bundleIdentifier: String) {
+        let httpScheme = "http" as CFString
+        let httpsScheme = "https" as CFString
+        
+        // Set default handler for both HTTP and HTTPS schemes
+        let statusHTTP = LSSetDefaultHandlerForURLScheme(httpScheme, bundleIdentifier as CFString)
+        let statusHTTPS = LSSetDefaultHandlerForURLScheme(httpsScheme, bundleIdentifier as CFString)
+        
+        if statusHTTP == noErr && statusHTTPS == noErr {
+            Logger.log("Successfully set default browser to \(bundleIdentifier)", class: Self.self)
+            // Update the published property to reflect the change
+            self.defaultBrowserIdentifier = bundleIdentifier
+            
+            // Post notification to inform other apps of the change (optional, but good practice)
+            DistributedNotificationCenter.default().post(name: .init("ApplePreferredBrowserChanged"), object: nil)
+        } else {
+            Logger.log("Failed to set default browser to \(bundleIdentifier). HTTP Status: \(statusHTTP), HTTPS Status: \(statusHTTPS)", isError: true, class: Self.self)
+        }
     }
 }
