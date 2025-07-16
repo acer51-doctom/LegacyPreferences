@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fax</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>faks, faksimile</string>
+				<key>title</key>
+				<string>Seting faks</string>
+			</dict>
+		</array>
+	</dict>
+	<key>print</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>lalai, giliran, pemacu, saiz kertas, persediaan halaman, cups, tambah, pencetakan, mencetak</string>
+				<key>title</key>
+				<string>Menyediakan pencetak</string>
+			</dict>
+		</array>
+	</dict>
+	<key>scan</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>pengimbas, mengimbas, imej, pengimejan</string>
+				<key>title</key>
+				<string>Menyediakan pengimbas</string>
+			</dict>
+		</array>
+	</dict>
+	<key>share</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>kongsi</string>
+				<key>title</key>
+				<string>Berkongsi pencetak</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

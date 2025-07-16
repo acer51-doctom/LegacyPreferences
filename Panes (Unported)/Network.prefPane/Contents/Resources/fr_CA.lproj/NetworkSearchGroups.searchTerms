@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>6to4</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Adresse de relais</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>IPv6</string>
+				<key>title</key>
+				<string>Adresse 6to4</string>
+			</dict>
+		</array>
+	</dict>
+	<key>802.1X</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>certificat 802.1x</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>EAP</string>
+				<key>title</key>
+				<string>Authentification 802.1X</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>identité externe, mschapv2, pap interne</string>
+				<key>title</key>
+				<string>TTLS</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>PEAP</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>TLS</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>PAC (protected access credential), provision, anonyme</string>
+				<key>title</key>
+				<string>EAP-FAST</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>LEAP</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>MD5</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>802.1X</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Advanced Ethernet</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>adresse, MAC</string>
+				<key>title</key>
+				<string>Identifiant Ethernet</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Vitesse Ethernet</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>flux, contrôle, semi, complet</string>
+				<key>title</key>
+				<string>Duplex</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>paquet</string>
+				<key>title</key>
+				<string>MTU</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Advanced Modem</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>fournisseur, modèle, composer, mode, son, erreur, impulsion, tonalité</string>
+				<key>title</key>
+				<string>Options avancées du modem</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Advanced VPN</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>détail, trafic, listage</string>
+				<key>title</key>
+				<string>Options VPN avancées</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Advanced Wi-Fi</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Adresse MAC, identifiant, AirPort</string>
+				<key>title</key>
+				<string>Réseaux Wi-Fi préférés</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Exiger le mot de passe Wi-Fi</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Bluetooth</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>nom d’utilisateur</string>
+				<key>title</key>
+				<string>Compte et mot de passe Bluetooth</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Connecter ou déconnecter Bluetooth</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Mise en réseau Bluetooth</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Bond</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>connexion, vitesse, duplex, envoi, réception</string>
+				<key>title</key>
+				<string>État du câble de connexion</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>agrégat de lien, connexion Ethernet</string>
+				<key>title</key>
+				<string>Gérer les agrégats de lien</string>
+			</dict>
+		</array>
+	</dict>
+	<key>DNS</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Serveurs DNS</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Domaines DNS</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Ethernet</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Domaines de recherche</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Options Ethernet</string>
+			</dict>
+		</array>
+	</dict>
+	<key>FireWire</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>dhcp, bootP manuel, </string>
+				<key>title</key>
+				<string>Configurer la mise en réseau FireWire</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>IP sur FireWire</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Modem</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>fournisseur, modèle, connexion, mode, erreur, impulsion, tonalité, téléphone</string>
+				<key>title</key>
+				<string>Options du modem</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>nom d’utilisateur</string>
+				<key>title</key>
+				<string>Compte et mot de passe du modem</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>barre des menus</string>
+				<key>title</key>
+				<string>Afficher l’état du modem dans la barre des menus</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Connecter ou déconnecter le modem</string>
+			</dict>
+		</array>
+	</dict>
+	<key>PPP</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>recomposer, paquets d’échos, journalisation maximale, consignation maximale, permutation d’utilisateur rapide, connexion, déconnecté, connecté, déconnexion, désactivé</string>
+				<key>title</key>
+				<string>PPP</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Réglages de déconnexion PPP</string>
+			</dict>
+		</array>
+	</dict>
+	<key>PPPoE</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Service PPPoE</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Compte et mot de passe PPPoE</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>État PPPoE</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Proxies</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>FTP, sécurisé, Web, diffusion, SOCKS, Gopher, automatique, passive, passif, fichier pac, pasv, contourner, contournement, ignorer, serveur mandataire</string>
+				<key>title</key>
+				<string>Serveurs mandataires</string>
+			</dict>
+		</array>
+	</dict>
+	<key>TCP/IP</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>adresse IP, adresse, masque sous-réseau, routeur, IPv6, longueur du préfixe, renouveler, bail, identifiant du client</string>
+				<key>title</key>
+				<string>IPv4 </string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>lien local, longueur du préfixe</string>
+				<key>title</key>
+				<string>IPv6</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>adresse, masque sous-réseau, routeur, serveur DNS, DHCP, manuellement, BootP, PPPoE, ipv4 ipv6, bail, renouveler</string>
+				<key>title</key>
+				<string>TCP/IP</string>
+			</dict>
+		</array>
+	</dict>
+	<key>VLAN</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>interface, étiquette, nom bsd</string>
+				<key>title</key>
+				<string>Réseau VLAN</string>
+			</dict>
+		</array>
+	</dict>
+	<key>VPN</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Options VPN</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Connecter ou déconnecter VPN</string>
+			</dict>
+		</array>
+	</dict>
+	<key>VPN on Demand</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>VPN sur demande</string>
+			</dict>
+		</array>
+	</dict>
+	<key>WINS</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>CIFS, SMB</string>
+				<key>title</key>
+				<string>NetBIOS</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Groupe de travail</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Serveur WINS</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Mise en réseau Windows</string>
+			</dict>
+		</array>
+	</dict>
+	<key>WWAN</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>fournisseur, APN, identification de l’appelant</string>
+				<key>title</key>
+				<string>Compte et mot de passe WWAN</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>État WWAN</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Connecter ou déconnecter WWAN</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Wi-Fi</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Nom de réseau</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>barre des menus</string>
+				<key>title</key>
+				<string>Afficher l’état du Wi-Fi dans la barre des menus</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>AirPort</string>
+				<key>title</key>
+				<string>Rejoindre un réseau Wi-Fi</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>sans fil, 802.11, wifi, wi-fi, AirPort</string>
+				<key>title</key>
+				<string>Wi-Fi</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

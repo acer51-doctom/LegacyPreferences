@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loginOptionsPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>usuaris, accés, accedir, inici de sessió, iniciar sessió, iniciar la sessió, inici, sessió, iniciar, ocultar, mostrar, engegar, arrencar, apagar, reiniciar, repòs, botons, VoiceOver, parla, parlar, teclat, entrar, mètode, mode, menú, contrasenyes, indicacions, engega, arrenca, apaga, veu, voice, over, contrasenya, paraules, obrir sessió, obrir la sessió, obrir, oculta, mostra, pronunciar</string>
+				<key>title</key>
+				<string>Configuració de la finestra d’inici de sessió</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>usuari, ràpid, accés, accedir, inici de sessió, iniciar sessió, iniciar la sessió, iniciar, inici, sessió, tancar sessió, tancar la sessió, tancar, canviar, canvi, canviar sessió, canviar la sessió, canvi de sessió, obrir sessió, obrir la sessió, obrir, finalitzar sessió, finalitzar la sessió, finalitzar, sortir, sortir de la sessió</string>
+				<key>title</key>
+				<string>Canviar entre comptes</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>accés, accedir, iniciar sessió, iniciar la sessió, inici de sessió, iniciar, inici, sessió, automatitzar, automatització, obrir sessió, obrir la sessió, obrir</string>
+				<key>title</key>
+				<string>Iniciar sessió automàticament</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>active, ldap, open, server, servidor, active directory, open directory</string>
+				<key>title</key>
+				<string>Serveis de directori</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>usuaris, accés, accedir, iniciar sessió, iniciar la sessió, inici de sessió, iniciar, inici, sessió, obrir sessió, obrir la sessió, obrir</string>
+				<key>title</key>
+				<string>Opcions inici sessió</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Servidor de compte de xarxa</string>
+			</dict>
+		</array>
+	</dict>
+	<key>mobilityPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array/>
+	</dict>
+	<key>passwordPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>convidat, compartir, llarg, curt, nom, autenticar, contrasenyes, filevault, compartint, contrasenya, paraules, autenticant, autenticació, arxiu, fitxer, protecció</string>
+				<key>title</key>
+				<string>Compte d’usuari o de grup</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>fotografies, imatges, fotos</string>
+				<key>title</key>
+				<string>Imatge d’usuari</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>usuaris, comptes, llarg, curt, nom, autenticar, accés, accedir, iniciar sessió, iniciar la sessió, inici de sessió, iniciar, inici, sessió, canviar, administrar, contrasenya, paraules, autenticació, obrir sessió, obrir la sessió, obrir, canvi</string>
+				<key>title</key>
+				<string>Nom d’usuari i contrasenya</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>vcard, targetes, targeta vcard, targeta</string>
+				<key>title</key>
+				<string>Contactes</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>gestionar, administrar, gestió, administració</string>
+				<key>title</key>
+				<string>Compte d’administrador</string>
+			</dict>
+		</array>
+	</dict>
+	<key>startupItemsPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>automàtic, automatitzar, accés, accedir, iniciar sessió, iniciar la sessió, inici de sessió, iniciar, inici, engegar, sessió, arrencar, automàticament, automatitzat, automatització, obrir sessió, obrir la sessió, obrir</string>
+				<key>title</key>
+				<string>Obrir aplicacions en iniciar sessió</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>accés, accedir, iniciar sessió, iniciar la sessió, inici de sessió, iniciar, inici, sessió, engegar, arrencar, obrir sessió, obrir la sessió, obrir</string>
+				<key>title</key>
+				<string>Ítems d’inici de sessió</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

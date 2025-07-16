@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Extensions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+				<key>index</key>
+				<string>الملحقات، ملحقات، extensions</string>
+				<key>title</key>
+				<string>الملحقات</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+				<key>index</key>
+				<string>توصيف، التوصيف، markup, mark up</string>
+				<key>title</key>
+				<string>الإجراءات</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+				<key>index</key>
+				<string>مشاركة، شارك، قائمة القراءة، البريد، الرسائل، airdrop، الملاحظات، التذكيرات، الأشخاص، إضافة، iphoto، aperture</string>
+				<key>title</key>
+				<string>مشاركة عناصر القائمة</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+				<key>index</key>
+				<string>إجراءات، سريعة، إجراءات سريعة، جزء المعاينة، quick, actions, finder, quick actions, preview pane</string>
+				<key>title</key>
+				<string>‏Finder</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+				<key>index</key>
+				<string>إجراءات، سريعة، touch، bar، touch bar</string>
+				<key>title</key>
+				<string>‏Touch Bar</string>
+			</dict>
+            <dict>
+                <key>comments</key>
+                <string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+                <key>index</key>
+                <string>ملحقات توفير بيانات الاعتماد، برامج إدارة كلمات السر، ملحقات إدارة كلمات السر، التعبئة التلقائية لكلمة السر، التعبئة التلقائية لكلمات السر، ملحقات التعبئة التلقائية</string>
+                <key>title</key>
+                <string>ملحقات التعبئة التلقائية لكلمة السر</string>
+            </dict>
+		</array>
+	</dict>
+</dict>
+</plist>

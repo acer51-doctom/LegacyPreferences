@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>AlwaysAllowed</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalizowane słowa kluczowe</string>
+                <key>index</key>
+                <string>ekran, czas, zawsze, pozwól, zezwalaj, limit, rodzina, rodzice, rodzicielski, nadzór, bezpieczeństwo, ochrona, prywatność, dzieci, ograniczanie, ograniczenia, zarządzaj, minutnik, zakaz, ograniczanie, zarządzanie, monitorowanie, śledzenie</string>
+                <key>title</key>
+                <string>Wybierz zawsze dozwolone aplikacje (Czas przed ekranem)</string>
+            </dict>
+        </array>
+    </dict>
+    <key>CommunicationLimit</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalizowane słowa kluczowe</string>
+                <key>index</key>
+                <string>ekran, czas, komunikacja, kontakt, telefon, wiadomość, FaceTime, SMS, limit, dodaj, dodawanie, utwórz, tworzenie, zastosuj, stosowanie, rodzina, rodzice, rodzicielski, nadzór, bezpieczeństwo, ochrona, prywatność, dzieci, ograniczanie, ograniczenia, zarządzaj, minutnik, zakaz, ograniczanie, zarządzanie</string>
+                <key>title</key>
+                <string>Ustaw limity komunikacji (Czas przed ekranem)</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>ekran, czas, komunikacja, kontakt, telefon, wiadomość, FaceTime, SMS, limit, dodaj, dodawanie, utwórz, tworzenie, zastosuj, stosowanie, rodzina, rodzice, rodzicielski, nadzór, bezpieczeństwo, ochrona, prywatność, dzieci, ograniczanie, ograniczenia, zarządzaj, minutnik, zakaz, ograniczanie, zarządzanie</string>
+                <key>title</key>
+                <string>Zmień limity komunikacji (Czas przed ekranem)</string>
+            </dict>
+        </array>
+    </dict>
+    <key>ContentAndPrivacy</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalizowane słowa kluczowe</string>
+                <key>index</key>
+                <string>ekran, czas, zawartość, treść, prywatność, limit, rodzina, rodzice, rodzicielski, nadzór, bezpieczeństwo, ochrona, dzieci, ograniczenie, zarządzaj, minutnik, zakaz, ograniczanie, zarządzanie, słownik, nieodpowiednie, przekleństwo, przekleństwa, dla dorosłych, zły, język, obsceniczny, obsceniczne, słowa, pornografia, wulgarny, wulgarne, filtrowany, filtrowane, filtrowanie, niefiltrowany, niefiltrowane</string>
+                <key>title</key>
+                <string>Wybierz ustawienia treści i prywatności (Czas przed ekranem)</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>ekran, czas, nadzór, rodzicielski, limity, dla dorosłych, treści, witryny, dziecko, dzieci, ogranicz, ograniczenia</string>
+                <key>title</key>
+                <string>Ogranicz treści dla dorosłych</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyNotifications</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalizowane słowa kluczowe</string>
+                <key>index</key>
+                <string>ekran, czas, dzień, dziennie, użycie, powiadomienia</string>
+                <key>title</key>
+                <string>Pokaż dzienny raport powiadomień (Czas przed ekranem)</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyPickups</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalizowane słowa kluczowe</string>
+                <key>index</key>
+                <string>ekran, czas, dzień, dziennie, aktywacje ekranu</string>
+                <key>title</key>
+                <string>Pokaż dzienny raport aktywacji urządzenia (Czas przed ekranem)</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyUsage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalizowane słowa kluczowe</string>
+                <key>index</key>
+                <string>ekran, czas, tydzień, tygodniowo, użycie, raport, monitorowanie, śledzenie, dziecko, dzieci, aplikacje</string>
+                <key>title</key>
+                <string>Pokaż dzienny raport użycia aplikacji (Czas przed ekranem)</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Downtime</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalizowane słowa kluczowe</string>
+                <key>index</key>
+                <string>ekran, czas, użycie, limit, bez urządzenia, rodzina, rodzice, rodzicielski, kontrola, bezpieczeństwo, prywatność, bezpieczeństwo, dzieci, dzieciaki, ogranicz, zarządzaj, zegar, pora spać, czas nocny, szkoła, noce, godzina policyjna, ograniczanie, zarządzanie</string>
+                <key>title</key>
+                <string>Zaplanuj czas bez urządzenia (Czas przed ekranem)</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Options</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalizowane słowa kluczowe</string>
+                <key>index</key>
+                <string>ekran, czas, ustawienie, opcja, limit, rodzina, rodzice, rodzicielski, nadzór, bezpieczeństwo, ochrona, dzieci, ograniczanie, ograniczenia, zarządzaj, minutnik, zakaz, ograniczanie, zarządzanie</string>
+                <key>title</key>
+                <string>Włącz lub wyłącz funkcję Czas przed ekranem</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>ekran, nadzór, rodzicielski, opcje, limit, limity, kod, hasło</string>
+                <key>title</key>
+                <string>Ustaw kod funkcji Czas przed ekranem</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Requests</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalizowane słowa kluczowe</string>
+                <key>index</key>
+                <string>ekran, czas, prośba, proszenie, zawsze, pozwól, zezwalaj, zabraniaj, limit, rodzina, rodzice, rodzicielski, nadzór, bezpieczeństwo, ochrona, prywatność, dzieci, ograniczanie, ograniczenia, zarządzaj, minutnik, zakaz, ograniczanie, zarządzanie</string>
+                <key>title</key>
+                <string>Pokaż prośby (Czas przed ekranem)</string>
+            </dict>
+        </array>
+    </dict>
+    <key>ViewUsageLimit</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalizowane słowa kluczowe</string>
+                <key>index</key>
+                <string>ekran, czas, użycie, aplikacja, limit, dodaj, dodawanie, utwórz, tworzenie, zastosuj, stosowanie, rodzina, rodzice, rodzicielski, nadzór, bezpieczeństwo, ochrona, prywatność, dzieci, ograniczanie, ograniczenia, zarządzaj, minutnik, zakaz, ograniczanie, zarządzanie</string>
+                <key>title</key>
+                <string>Wybierz limity aplikacji (Czas przed ekranem)</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyNotifications</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalizowane słowa kluczowe</string>
+                <key>index</key>
+                <string>ekran, czas, tydzień, tygodniowo, użycie, powiadomienia, nadzór, rodzicielski</string>
+                <key>title</key>
+                <string>Pokaż tygodniowy raport powiadomień (Czas przed ekranem)</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyPickups</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalizowane słowa kluczowe</string>
+                <key>index</key>
+                <string>ekran, czas, tydzień, tygodniowo, aktywacje, nadzór, rodzicielski</string>
+                <key>title</key>
+                <string>Pokaż tygodniowy raport aktywacji urządzenia (Czas przed ekranem)</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyUsage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalizowane słowa kluczowe</string>
+                <key>index</key>
+                <string>ekran, czas, tydzień, tygodniowo, użycie, raport, monitorowanie, śledzenie, dziecko, dzieci, aplikacje, nadzór, rodzicielski</string>
+                <key>title</key>
+                <string>Pokaż tygodniowy raport użycia aplikacji (Czas przed ekranem)</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>Dock</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>tùy chỉnh, control strip, thanh công cụ, định cỡ lại, lớn hơn, nhỏ hơn, vị trí, màn hình, bên trái, bên phải, dưới cùng, cạnh, lò xo, nảy, tỷ lệ, hoạt hình, genie, ẩn, hiển thị, phóng đại, thu nhỏ, phóng to, mở rộng, to hơn, được tùy chỉnh, đang tùy chỉnh, việc tùy chỉnh, được định cỡ lại, đang định cỡ lại, đang định vị, đang nhún nhảy, đang nảy, đang định tỷ lệ, đang tạo hoạt hình, đang ẩn, bị ẩn, đang hiển thị, được hiển thị, đang phóng đại, mức phóng đại, được thu nhỏ, đang thu nhỏ, được phóng to, đang phóng to, đang mở rộng, tài liệu, mở, đang mở, tự động, thanh menu</string>
+                    <key>title</key>
+                    <string>Cài đặt Dock</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>tự động, ẩn, hiển thị, dock</string>
+                    <key>title</key>
+                    <string>Tự động ẩn và hiển thị Dock</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>tự động, ẩn, hiển thị, thanh menu</string>
+                    <key>title</key>
+                    <string>Tự động ẩn và hiển thị thanh menu trên màn hình nền</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>tự động, ẩn, hiển thị, thanh menu</string>
+                    <key>title</key>
+                    <string>Tự động ẩn và hiển thị thanh menu ở chế độ toàn màn hình</string>
+                </dict>
+            </array>
+        </dict>
+        <key>AccessibilityShortcuts</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>phím tắt trợ năng, hiển thị, ẩn, thanh menu</string>
+                    <key>title</key>
+                    <string>Hiển thị Phím tắt trợ năng trong thanh menu</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>phím tắt trợ năng, hiển thị, trung tâm điều khiển</string>
+                    <key>title</key>
+                    <string>Hiển thị Phím tắt trợ năng trong Trung tâm điều khiển</string>
+                </dict>
+            </array>
+        </dict>
+        <key>AirDrop</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>bluetooth, hiển thị, ẩn, thanh menu</string>
+                    <key>title</key>
+                    <string>Hiển thị trạng thái AirDrop trong thanh menu</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Battery</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>pin, đang sạc, sạc, hiển thị, ẩn, thanh menu</string>
+                    <key>portableOnly</key><true/>
+                    <key>title</key>
+                    <string>Hiển thị trạng thái pin trong thanh menu</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>pin, đang sạc, sạc, hiển thị, ẩn, trung tâm điều khiển</string>
+                    <key>portableOnly</key><true/>
+                    <key>title</key>
+                    <string>Hiển thị trạng thái pin trong Trung tâm điều khiển</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>pin, phần trăm, tỷ lệ phần trăm, hiển thị, ẩn, thanh menu</string>
+                    <key>portableOnly</key><true/>
+                    <key>title</key>
+                    <string>Hiển thị phần trăm pin trong thanh menu</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Bluetooth</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>bluetooth, hiển thị, ẩn, thanh menu</string>
+                    <key>title</key>
+                    <string>Hiển thị trạng thái Bluetooth trong thanh menu</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Clock</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>đồng hồ, ngày, giờ, hiển thị, ẩn, thanh menu</string>
+                    <key>title</key>
+                    <string>Hiển thị ngày trong tuần trong thanh menu</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>đồng hồ, ngày, giờ, hiển thị, ẩn, thanh menu</string>
+                    <key>title</key>
+                    <string>Hiển thị ngày trong thanh menu</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>24, giờ, đồng hồ, ngày, thời gian, hiển thị, ẩn, thanh menu</string>
+                    <key>title</key>
+                    <string>Sử dụng đồng hồ 24 giờ trong thanh menu</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>SA, sa, CH, ch, đồng hồ, ngày, giờ, hiển thị, ẩn, thanh menu</string>
+                    <key>title</key>
+                    <string>Hiển thị SA/CH trong thanh menu</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>nhấp nháy, nháy, dấu phân cách, giây, số giây, đồng hồ, giờ, hiển thị, ẩn, thanh menu</string>
+                    <key>title</key>
+                    <string>Nháy dấu phân cách thời gian trong thanh menu</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>giây, số giây, đồng hồ, giờ, hiển thị, ẩn, thanh menu</string>
+                    <key>title</key>
+                    <string>Hiển thị giờ kèm theo giây trong thanh menu</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>giọng nói, nói, thông báo, giờ, nửa giờ, mười lăm phút, đồng hồ, thời gian</string>
+                    <key>title</key>
+                    <string>Thông báo thời gian</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Display</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>màn hình, độ sáng, Sidecar, hiển thị, ẩn, thanh menu</string>
+                    <key>title</key>
+                    <string>Hiển thị các màn hình trong thanh menu</string>
+                </dict>
+            </array>
+        </dict>
+        <key>DoNotDisturb</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>không làm phiền, hiển thị, ẩn, thanh menu</string>
+                    <key>title</key>
+                    <string>Hiển thị trạng thái Không làm phiền trong thanh menu</string>
+                </dict>
+            </array>
+        </dict>
+        <key>FocusModes</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>tập trung, không làm phiền, hiển thị, ẩn, thanh menu</string>
+                    <key>title</key>
+                    <string>Hiển thị trạng thái Tập trung trong thanh menu</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Hearing</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>nghe, hiển thị, ẩn, thanh menu</string>
+                    <key>title</key>
+                    <string>Hiển thị Nghe trong thanh menu</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>nghe, hiển thị, trung tâm điều khiển</string>
+                    <key>title</key>
+                    <string>Hiển thị Nghe trong Trung tâm điều khiển</string>
+                </dict>
+            </array>
+        </dict>
+        <key>KeyboardBrightness</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>bàn phím, độ sáng, đèn nền, hiển thị, ẩn, thanh menu</string>
+                    <key>portableOnly</key><true/>
+                    <key>title</key>
+                    <string>Hiển thị trạng thái độ sáng bàn phím trong thanh menu</string>
+                </dict>
+            </array>
+        </dict>
+        <key>NowPlaying</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>đang phát, nhạc, phương tiện, các điều khiển, từ xa, phát, phát lại, hiển thị, ẩn, thanh menu</string>
+                    <key>title</key>
+                    <string>Hiển thị trạng thái Đang phát trong thanh menu</string>
+                </dict>
+            </array>
+        </dict>
+        <key>ScreenMirroring</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>phản chiếu màn hình, AirPlay, hiển thị, ẩn, thanh menu</string>
+                    <key>title</key>
+                    <string>Hiển thị trạng thái phản chiếu màn hình trong thanh menu</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Sound</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>âm thanh, âm lượng, hiển thị, ẩn, thanh menu</string>
+                    <key>title</key>
+                    <string>Hiển thị âm lượng trong thanh menu</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Siri</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>siri, hiển thị, ẩn, thanh menu</string>
+                    <key>title</key>
+                    <string>Hiển thị Siri trong thanh menu</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Spotlight</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>spotlight, hiển thị, ẩn, thanh menu</string>
+                    <key>title</key>
+                    <string>Hiển thị Spotlight trong thanh menu</string>
+                </dict>
+            </array>
+        </dict>
+        <key>TimeMachine</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>time machine, sao lưu, hiển thị, ẩn, thanh menu</string>
+                    <key>title</key>
+                    <string>Hiển thị trạng thái Time Machine trong thanh menu</string>
+                </dict>
+            </array>
+        </dict>
+        <key>WiFi</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>wifi, wi-fi, hiển thị, ẩn, thanh menu</string>
+                    <key>title</key>
+                    <string>Hiển thị trạng thái Wi‑Fi trong thanh menu</string><!-- NON-BREAKING HYPHEN (U+2011) -->
+                </dict>
+            </array>
+        </dict>
+        <key>UserSwitcher</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>chuyển đổi nhanh người dùng, bộ chuyển đổi người dùng, hiển thị, ẩn, thanh menu</string>
+                    <key>title</key>
+                    <string>Hiển thị Chuyển đổi nhanh người dùng trong thanh menu</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>chuyển đổi nhanh người dùng, bộ chuyển đổi người dùng, hiển thị, trung tâm điều khiển</string>
+                    <key>title</key>
+                    <string>Hiển thị Chuyển đổi nhanh người dùng trong Trung tâm điều khiển</string>
+                </dict>
+            </array>
+        </dict>
+    </dict>
+</plist>

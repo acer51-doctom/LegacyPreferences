@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DesktopPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>foto, fotograf, latar belakang, desktop, hias latar, corak, sesuaikan, gambar, desk, top, hias, latar, disesuaikan, menyesuaikan, penyesuaian</string>
+				<key>title</key>
+				<string>Gambar desktop</string>
+			</dict>
+		</array>
+	</dict>
+	<key>ScreenSaverPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>nyahdaya, mula, album, iTunes, karya seni, rawak, fotograf, gambar, sesuaikan, penyelamat skrin, foto, menyahdayakan, bermula, disesuaikan, menyesuaikan, penyesuaian</string>
+				<key>title</key>
+				<string>Penyelamat skrin</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Tunjukkan jam dengan penyelamat skrin</string>
+			</dict>
+		</array>
+	</dict>
+	<key>ScreenSaverPref_HotCorners</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>sudut skrin aktif</string>
+				<key>title</key>
+				<string>Sudut pantas</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

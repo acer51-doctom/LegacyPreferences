@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HIDKeyboardModifierMappingSrc</key>
+	<array>
+		<array>
+			<string>--- Capslock</string>
+			<real>30064771129</real>
+		</array>
+		<array>
+			<string>--- Control</string>
+			<real>30064771300</real>
+			<real>30064771296</real>
+		</array>
+		<array>
+			<string>--- Option</string>
+			<real>30064771302</real>
+			<integer>30064771298</integer>
+		</array>
+		<array>
+			<string>--- Command</string>
+			<real>30064771303</real>
+			<real>30064771299</real>
+		</array>
+		<array>
+			<string>--- fn / Globe</string>
+			<real>1095216660483</real>
+			<integer>280379760050179</integer>
+		</array>
+	</array>
+	<key>HIDKeyboardModifierMappingDst</key>
+	<array>
+		<array>
+			<string>--- Capslock</string>
+			<real>30064771129</real>
+		</array>
+		<array>
+			<string>--- Control</string>
+			<integer>30064771300</integer>
+			<real>30064771296</real>
+		</array>
+		<array>
+			<string>--- Option</string>
+			<real>30064771298</real>
+			<integer>30064771302</integer>
+		</array>
+		<array>
+			<string>--- Command</string>
+			<real>30064771299</real>
+			<integer>30064771303</integer>
+		</array>
+		<array>
+			<string>--- Escape</string>
+			<real>30064771113</real>
+		</array>
+		<array>
+			<string>--- fn / Globe</string>
+			<real>1095216660483</real>
+			<integer>280379760050179</integer>
+		</array>
+		<array>
+			<string>--- No Action</string>
+			<integer>30064771072</integer>
+		</array>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DesktopPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>本地化索引詞</string>
+				<key>index</key>
+				<string>相片, 背景, 桌面, 桌面, 樣式, 圖, 圖片, 桌, 面, 壁紙, 紙, 個人化, 自訂, 自訂</string>
+				<key>title</key>
+				<string>桌面圖片</string>
+			</dict>
+		</array>
+	</dict>
+	<key>ScreenSaverPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>本地化索引詞</string>
+				<key>index</key>
+				<string>停用, 開始, 相簿, iTunes, 藝術品, 隨機, 相片, 圖片, 個人化, 螢幕保護程式, 照片, 正在停用, 正在開始, 自訂的, 自訂</string>
+				<key>title</key>
+				<string>螢幕保護程式</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>在螢幕保護程式裏顯示時鐘</string>
+			</dict>
+		</array>
+	</dict>
+	<key>ScreenSaverPref_HotCorners</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>本地化索引詞</string>
+				<key>index</key>
+				<string>啟用螢幕熱點</string>
+				<key>title</key>
+				<string>熱點</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

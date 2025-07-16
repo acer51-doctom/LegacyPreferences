@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>Internet</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Локализуемые ключевые слова</string>
+					<key>index</key>
+					<string>совместно использовать, подключение, беспроводной, nat, Wi-Fi, ethernet, FireWire</string>
+					<key>title</key>
+					<string>Общий интернет</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Main</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Локализуемые ключевые слова</string>
+					<key>index</key>
+					<string>локальный, подсеть, bonjour</string>
+					<key>title</key>
+					<string>Имя компьютера</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_ARDService</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Локализуемые ключевые слова</string>
+					<key>index</key>
+					<string>удаленно, управление, удаленное управление, ard, контроль, VNC</string>
+					<key>title</key>
+					<string>Удаленное управление</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_DVDorCDSharing</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>index</key>
+					<string/>
+					<key>title</key>
+					<string>Общие DVD или CD</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_PersonalFileSharing</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Локализуемые ключевые слова</string>
+					<key>index</key>
+					<string>Обмен NAT AFP, общий доступ</string>
+					<key>title</key>
+					<string>Общий доступ к файлам</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_PrinterSharing</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Локализуемые ключевые слова</string>
+					<key>index</key>
+					<string>cups, общий доступ</string>
+					<key>title</key>
+					<string>Общие принтеры</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_RemoteAppleEvent</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Локализуемые ключевые слова</string>
+					<key>index</key>
+					<string>ae</string>
+					<key>title</key>
+					<string>Удаленные события Apple Events</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_RemoteLogin</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Локализуемые ключевые слова</string>
+					<key>index</key>
+					<string>ssh, сервис, служба, журнал, вход, вкл., включить, включено, вход</string>
+					<key>title</key>
+					<string>Удаленный вход</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_ScreenSharing</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>index</key>
+					<string>управление, VNC</string>
+					<key>title</key>
+					<string>Общий экран</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_WindowsSharing</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Локализуемые ключевые слова</string>
+					<key>index</key>
+					<string>самба, samba, сервис, SMB/CIFS, принтеры, папки, совместно использовать</string>
+					<key>title</key>
+					<string>Общий доступ Windows</string>
+				</dict>
+			</array>
+		</dict>
+        <key>Services_ContentCaching</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>comments</key>
+                    <string>Локализуемые ключевые слова</string>
+                    <key>index</key>
+                    <string>кэш, кэширование</string>
+                    <key>title</key>
+                    <string>Кэширование контента</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Services_AirPlayReceiver</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>comments</key>
+                    <string>Локализуемые ключевые слова</string>
+                    <key>index</key>
+                    <string>airplay, ресивер</string>
+                    <key>title</key>
+                    <string>Ресивер AirPlay</string>
+                </dict>
+            </array>
+        </dict>
+	</dict>
+</plist>

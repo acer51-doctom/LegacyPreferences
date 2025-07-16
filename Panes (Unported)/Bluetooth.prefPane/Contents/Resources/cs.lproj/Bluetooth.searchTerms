@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Slova lokalizovatelného indexu</string>
+				<key>index</key>
+				<string>bezdrátové, detekce, zjistit, rozpoznat, hledat, propojit, párovat, spárovat, přidat, odstranit, nastavit, průvodce, klávesnice, myš, mobilní, telefon, náhlavní souprava, sluchátka, zapnuto, vypnuto, odpojit, oddělit, blue, tooth, modrozub, modrý, zub, přidání, odstranění, odpojení, oddělení, zjištění, zjistitelný, hledání</string>
+				<key>title</key>
+				<string>Bluetooth zařízení</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Slova lokalizovatelného indexu</string>
+				<key>index</key>
+				<string>blue, tooth, modrozub, modrý, zub, řádek nabídek, menu</string>
+				<key>title</key>
+				<string>Zobrazit stav Bluetooth v řádku nabídek</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Slova lokalizovatelného indexu</string>
+				<key>index</key>
+				<string>blue, tooth, modrozub, modrý, zub</string>
+				<key>title</key>
+				<string>Sériové Bluetooth porty</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Slova lokalizovatelného indexu</string>
+				<key>index</key>
+				<string>blue, tooth, modrozub, modrý, zub, zvuk</string>
+				<key>title</key>
+				<string>Bluetooth audio</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Slova lokalizovatelného indexu</string>
+				<key>index</key>
+				<string>blue, tooth, modrozub, modrý, zub</string>
+				<key>title</key>
+				<string>Průvodce nastavením Bluetooth</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

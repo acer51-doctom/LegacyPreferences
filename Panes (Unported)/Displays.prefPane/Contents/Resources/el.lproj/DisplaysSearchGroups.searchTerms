@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displaysArrangementTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>οθόνες, μόνιτορ, κατοπτρισμός, κατοπτρισμένο, τακτοποίηση, διευθέτηση</string>
+				<key>title</key>
+				<string>Τακτοποίηση πολλών οθονών</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>γραμμή μενού</string>
+				<key>title</key>
+				<string>Νέα τοποθέτηση γραμμής μενού</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysColorTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>οθόνες, προβολές, μόνιτορ, διακρίβωση, προσαρμογή, προσαρμογές, ρύθμιση, φωτεινότητα, φωτεινό, αχνό, σκούρο, λευκό σημείο, γάμμα, φως περιβάλλοντος, προφίλ, μείωση φωτεινότητας</string>
+				<key>title</key>
+				<string>Χρώματα και βαθμονόμηση οθόνης</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysDisplayTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>προβολές, οθόνες, μόνιτορ, βάθος, εκατομμύρια, χιλιάδες, 256, ColorSync, προσαρμογή, προσαρμογές, φωτεινό, αχνό, σκούρο, μείωση φωτεινότητας, true tone</string>
+				<key>title</key>
+				<string>Χρώματα, φωτεινότητα και ανάλυση</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>οθόνες, προβολές, μόνιτορ</string>
+				<key>title</key>
+				<string>Ρυθμός ανανέωσης οθόνης</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>οθόνες, μόνιτορ</string>
+				<key>title</key>
+				<string>Εντοπισμός πολλών οθονών</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>γραμμή μενού</string>
+				<key>title</key>
+				<string>Εμφάνιση οθονών στη γραμμή μενού</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>περιστροφή</string>
+				<key>title</key>
+				<string>Περιστροφή οθόνης</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>AirPlay</string>
+				<key>title</key>
+				<string>Επιλογές Κατοπτρισμού AirPlay</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysGeometryTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>θέση, ύψος, πλάτος, pincushion, περιστροφή, keystone, παραλληλόγραμμο, τόξο, καμπύλη γωνίας, λοξό, γεωμετρία, διαστάσεις</string>
+				<key>title</key>
+				<string>Εικόνα οθόνης</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>rgb, προσαρμογή, ευθυγράμμιση</string>
+				<key>title</key>
+				<string>Σύγκλιση εικόνας</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>στατικό, επαναφορά, τρεμόπαιγμα, παρεμβολή</string>
+				<key>title</key>
+				<string>Απομαγνητισμός</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysNightShiftTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>night, shift, night shift, αχνό, θερμό, θερμά χρώματα, φάσμα, ύπνος, θερμοκρασία, δύση, ανατολή, αυγή, μείωση φωτεινότητας</string>
+				<key>title</key>
+				<string>Επιλογές Night Shift</string>
+			</dict>
+		</array>
+	</dict>
+	<key>universalControlTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>καθολικό, χειριστήριο</string>
+				<key>title</key>
+				<string>Καθολικό χειριστήριο</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

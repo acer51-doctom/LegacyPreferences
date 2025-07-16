@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Accessibility_Shortcut</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>phím tắt trợ năng, trợ năng, phím tắt</string>
+				<key>title</key>
+				<string>Phím tắt trợ năng</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Alternate_Pointer_Actions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>bấm, chuột, chuyển đổi, thay thế, nút, Phím chuột, biểu cảm, mặt, khuôn mặt</string>
+				<key>title</key>
+				<string>Tác vụ con trỏ thay thế</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Captioning</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>CC, SDH, chú thích chi tiết, hiển thị chú thích chi tiết, phụ đề cho người điếc và khiếm thính, người điếc, nghe, phim, phụ đề, rãnh văn bản</string>
+				<key>title</key>
+				<string>Bật CC, SDH và phụ đề</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>CC, SDH, chú thích chi tiết, hiển thị chú thích chi tiết, phụ đề cho người điếc và khiếm thính, người điếc, nghe, phim, phụ đề, rãnh văn bản</string>
+				<key>title</key>
+				<string>Tùy chỉnh CC, SDH và phụ đề</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Dictation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>Phổ thông, truy cập, trợ năng, khuyết tật, tàn tật, thị lực, mù, tầm nhìn, nhìn thấy được, nghe, khiếm khuyết, đọc, đọc được, mục, được đọc, lệnh, nhận ra, nhận dạng, hỗ trợ, nói, giọng nói, hiệu chỉnh, phím, phím tắt, tùy chỉnh, micrô, âm lượng, đọc chính tả, khẩu lệnh</string>
+				<key>title</key>
+				<string>Khẩu lệnh</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Dwell</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>giữ, giữ lâu, bàn phím trên màn hình, bàn phím ảo, bàn phím trợ năng, di chuột, chuột, theo dõi đầu, Điều khiển giữ lâu, Phổ dụng, truy cập, trợ năng, người khuyết tật, khuyết tật, người tàn tật, điều khiển được hỗ trợ, khả năng di chuyển, xe lăn</string>
+				<key>title</key>
+				<string>Giữ lâu bàn phím trợ năng</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Full_Keyboard_Access</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>đầy đủ, bàn phím, truy cập, điều hướng, lệnh, tab</string>
+				<key>title</key>
+				<string>Truy cập bàn phím đầy đủ</string>
+			</dict>
+		</array>
+	</dict>
+	<key>General</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>Universal, truy cập, trợ năng, khuyết tật, tàn tật, hạn chế, khiếm khuyết, hỗ trợ, dễ dàng, điều chỉnh, chỉnh, nhập</string>
+				<key>title</key>
+				<string>Cài đặt trợ năng chung</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Head_Pointer</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>đầu, khuôn mặt, chuột, con trỏ, theo dõi, đang theo dõi</string>
+				<key>title</key>
+				<string>Con trỏ theo đầu</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Hearing</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>Phổ thông, truy cập, trợ năng, khuyết tật, tàn tật, bị hạn chế, điếc, nghe, khiếm khuyết, hỗ trợ</string>
+				<key>title</key>
+				<string>Nháy sáng màn hình để cảnh báo</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>Phổ thông, truy cập, trợ năng, khuyết tật, tàn tật, bị hạn chế, điếc, nghe, khiếm khuyết, hỗ trợ</string>
+				<key>title</key>
+				<string>Phát âm stereo dưới dạng mono</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Keyboard</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>Phổ thông, truy cập, trợ năng, khuyết tật, tàn tật, bị hạn chế, khiếm khuyết, chuyển đổi, chậm dần, hỗ trợ, dễ dàng, Phím bấm Liên tiếp, tốc độ lặp, phím bổ trợ, độ nhạy, điều chỉnh, nhập, chậm hơn, giảm, gõ</string>
+				<key>title</key>
+				<string>Giúp bạn dễ dùng bàn phím hơn</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>Phổ thông, truy cập, trợ năng, khuyết tật, tàn tật, hạn chế, khiếm khuyết, hỗ trợ, phím bổ trợ, xếp hạng, nhập, phản hồi khi nhập</string>
+				<key>title</key>
+				<string>Bật phản hồi khi nhập</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Media_Descriptions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>Phổ thông, tiếp cận, trợ năng, khuyết tật, tàn tật, bị hạn chế, mù, thị lực, tầm nhìn, hiển thị, khiếm khuyết, video, phương tiện, mô tả, được mô tả</string>
+				<key>title</key>
+				<string>Mô tả phương tiện</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Mouse</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>truy cập, trợ năng, điều chỉnh, chỉnh, sửa, hỗ trợ, con trỏ, độ trễ, tắt, bấm đúp, bấm hai lần, kéo, dễ dàng, nhanh, tàn tật, kiểu cảm ứng, phản hồi rung, suy giảm, quán tính, bàn phím, phím, hữu hạn, khóa, di chuyển, di động, số, điểm chỉ, cuộn, giảm tốc độ, chậm dần, giảm tốc, tốc độ, tải lò xo, công tắc, ba ngón tay, kéo bằng ba ngón tay, Phổ thông</string>
+				<key>title</key>
+				<string>Giúp bạn dễ dùng chuột và bàn di chuột hơn</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Vô hiệu hóa tính năng cuộn</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Quán tính cuộn</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_ColorFilters</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>màu, bộ lọc, mù màu</string>
+				<key>title</key>
+				<string>Hiển thị bộ lọc màu</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_Cursor</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>con trỏ, dấu chỉ, mũi tên, phóng lớn, to hơn, lớn hơn, phóng đại</string>
+				<key>title</key>
+				<string>Kích cỡ con trỏ</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>con trỏ, dấu chỉ, chuột, bàn di chuột, lắc, lắc lư</string>
+				<key>title</key>
+				<string>Lắc con trỏ chuột để định vị</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_Display</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>Phổ thông, truy cập, trợ năng, khuyết tật, tàn tật, bị hạn chế, mù, thị lực, tầm nhìn, nhìn thấy được, khiếm khuyết, phóng to, phóng lớn, phóng đại, đọc, xem, cải thiện, tương phản, đen, trắng, thang độ xám, chuyển động, giảm chuyển động, giảm độ trong suốt, điều chỉnh, độ trong suốt, trong suốt, độ mờ, mờ, nền, màu</string>
+				<key>title</key>
+				<string>Giúp bạn dễ xem màn hình hơn</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_VoiceOver</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>nói, giao diện, nghe, màn hình, trình đọc, Phổ thông, truy cập, trợ năng, khuyết tật, tàn tật, bị hạn chế, mù, khả năng nhìn, thị lực, nhìn thấy được, khiếm khuyết, thuyết minh</string>
+				<key>title</key>
+				<string>Bật và tắt VoiceOver</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>thanh menu</string>
+				<key>title</key>
+				<string>Hiển thị Trợ năng trong thanh menu</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_Zoom</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>touchbar, touch bar, đang thu phóng, được mở rộng, phóng to, được phóng đại, phóng đại, thu phóng, mở rộng</string>
+				<key>title</key>
+				<string>Bật thu phóng Touch Bar</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>Phổ thông, truy cập, trợ năng, khuyết tật, tàn tật, bị hạn chế, mù, thị lực, tầm nhìn, nhìn thấy được, khiếm khuyết, phóng to, phóng lớn, phóng đại, đọc, xem, nhìn, tăng, giảm, to hơn, lớn hơn, tối đa, tối thiểu, cuộn, chuột, con lăn, bi, bi cuộn, con lăn cuộn, bi chuột, bi lăn, thu phóng, to ra, lớn lên, phóng ra, phóng to văn bản</string>
+				<key>title</key>
+				<string>Bật phóng to văn bản</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>Phổ thông, truy cập, trợ năng, khuyết tật, tàn tật, bị hạn chế, mù, thị lực, tầm nhìn, nhìn thấy được, khiếm khuyết, phóng to, phóng lớn, phóng đại, đọc, xem, nhìn, tăng, giảm, to hơn, lớn hơn, tối đa, tối thiểu, cuộn, chuột, con lăn, bi, bi cuộn, con lăn cuộn, bi chuột, bi lăn, thu phóng, to ra, lớn lên, phóng ra, màn hình, giây, nhiều</string>
+				<key>title</key>
+				<string>Thu phóng để phóng to màn hình</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Siri</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>nhập, nhập vào siri, nhập siri</string>
+				<key>title</key>
+				<string>Nhập vào Siri</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Switch</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>bảng, trình sửa bảng, quét, đang quét, công tắc, Phổ dụng, truy cập, trợ năng, người khuyết tật, khuyết tật, điều khiển được hỗ trợ, khả năng di chuyển, xe lăn</string>
+				<key>title</key>
+				<string>Trình sửa bảng Điều khiển công tắc</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>quét, đang quét, công tắc, Phổ dụng, truy cập, trợ năng, người khuyết tật, khuyết tật, điều khiển được hỗ trợ, khả năng di chuyển, xe lăn</string>
+				<key>title</key>
+				<string>Bật Điều khiển công tắc</string>
+			</dict>
+		</array>
+	</dict>
+	<key>TextToSpeech</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>đọc văn bản, tổng hợp, TTS, nói, thông báo, tuyên bố, đọc, văn bản, giọng, tốc độ, cảnh báo</string>
+				<key>title</key>
+				<string>Đọc văn bản</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Virtual_Keyboard</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>bảng, trình sửa bảng, bàn phím, bàn phím trên màn hình, bàn phím ảo, bàn phím trợ năng, chuột, theo dõi đầu, Phổ dụng, truy cập, trợ năng, người khuyết tật, khuyết tật, người tàn tật, điều khiển được hỗ trợ, khả năng di chuyển, xe lăn</string>
+				<key>title</key>
+				<string>Trình sửa bảng bàn phím trợ năng</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>bàn phím, bàn phím trên màn hình, bàn phím ảo, bàn phím trợ năng, chuột, theo dõi đầu, Phổ dụng, truy cập, trợ năng, người khuyết tật, khuyết tật, người tàn tật, điều khiển được hỗ trợ, khả năng di chuyển, xe lăn, đăng nhập</string>
+				<key>title</key>
+				<string>Bật bàn phím trợ năng</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

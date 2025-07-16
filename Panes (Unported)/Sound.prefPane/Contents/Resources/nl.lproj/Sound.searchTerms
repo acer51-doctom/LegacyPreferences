@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effects</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>geluiden, lawaai, audio, luisteren, niveau, volume, sterkte, geluidssterkte, harder, zachter, stiller, luider, hoger, lager, omhoog, omlaag, meer, minder, luidspreker, piep, waarschuwing, signaal, piepen, geluidssignaal, opstartgeluid, opstartsignaal</string>
+				<key>title</key>
+				<string>Signalen en geluidseffecten </string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>audio, luisteren, niveau, volume, sterkte, geluidssterkte, harder, zachter, stiller, luider, hoger, lager, omhoog, omlaag, meer, minder, muziek, luidsprekers, horen</string>
+				<key>title</key>
+				<string>Geluidssterkte</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>audio, luisteren, niveau, volume, sterkte, geluidssterkte, harder, zachter, stiller, luider, hoger, lager, omhoog, omlaag, meer, minder, stil, stilte, uit, onhoorbaar, uitzetten, mute</string>
+				<key>title</key>
+				<string>Geluid uitzetten</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>menubalk</string>
+				<key>title</key>
+				<string>Volume in menubalk tonen</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>menubalk</string>
+				<key>title</key>
+				<string>Toon 'Geluid' in menubalk</string>
+			</dict>
+		</array>
+	</dict>
+	<key>input</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>audio, luisteren, niveau, volume, sterkte, geluidssterkte, harder, zachter, stiller, luider, hoger, lager, omhoog, omlaag, meer, minder, apparaten, bronnen, microfoons, instrumenten, MIDI, opnemen, opname, lijningang, horen</string>
+				<key>title</key>
+				<string>Geluidsinvoer</string>
+			</dict>
+		</array>
+	</dict>
+	<key>output</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>apparaten, koptelefoon, headset, luidsprekers, speakers, luisteren, horen, balans, hoofdtelefoon, head set</string>
+				<key>title</key>
+				<string>Geluidsuitvoer</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>airplay, luidsprekers</string>
+				<key>title</key>
+				<string>AirPlay-audiostreaming</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

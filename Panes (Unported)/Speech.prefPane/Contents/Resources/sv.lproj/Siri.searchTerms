@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Dictation</key>
+	<dict/>
+	<key>Siri</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbara indexord</string>
+				<key>index</key>
+				<string>Siri, assistent, dock, snabbtangent, kortkommando, symbol, lyssna, lyssning, språk, menyrad, mick, mic, mikrofon, igenkänning, känna igen, uppfatta, förstå, ljud, tal, tala, talande, kortkommando, genvägar, prata, prat</string>
+				<key>title</key>
+				<string>Siri</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbara indexord</string>
+				<key>index</key>
+				<string>aktivera, avaktivera, tysta, ljud av, stoppa, stäng av, slå på</string>
+				<key>title</key>
+				<string>Slå av och på Siri</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

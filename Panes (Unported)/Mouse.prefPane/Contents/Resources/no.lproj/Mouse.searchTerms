@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mouseTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>dobbeltklikk, klikk, styr, dra, flytt, raskere, hastighet, sakte, markør, pil, peker, klikke, styre, flytte, saktere, langsomt, langsommere, dobbelklikk, tastemetode</string>
+				<key>title</key>
+				<string>Musefølsomhet</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>primær, sekundær, snarvei, rull, rulling, ball, hjul, ruller, kule, muskule, musekule, mushjul, musehjul, Mighty Mouse, Magic Mouse</string>
+				<key>title</key>
+				<string>Museknapper</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>to, tre, fire, fingre, touch, berøring, rulling, bla, flytting, dra, trykking, klyping, zooming, rotering, spre, sveiping, berøre, rulle, flytte, trykke, klype, zoome, rotere, sveipe, spre</string>
+				<key>title</key>
+				<string>Magic Mouse-bevegelser</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Zooming med mus</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

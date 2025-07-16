@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loginOptionsPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Slova lokalizovatelného indexu</string>
+				<key>index</key>
+				<string>uživatelé, přihlásit, přihlásit se, vstoupit, skrýt, zobrazit, start, vypnutí, vypnout, spustit, restart, restartovat, spánek, uspat, tlačítka, VoiceOver, řeč, mluvit, číst, vstup, vstupní, metoda, mód, režim, menu, nabídka, hesla, nápovědy, nastartovat, hlas, heslo, skrytí, zobrazení</string>
+				<key>title</key>
+				<string>Nastavení přihlašovacího okna</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Slova lokalizovatelného indexu</string>
+				<key>index</key>
+				<string>uživatel, rychle, přihlásit, přihlásit se, přihlášení, vstoupit, odhlásit, odhlásit se, odejít, přepnout, přístup, přihlašování, vstup, otevření, vystoupit</string>
+				<key>title</key>
+				<string>Přepínání účtů</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Slova lokalizovatelného indexu</string>
+				<key>index</key>
+				<string>přihlásit, přihlásit se, přihlášení, automaticky, automatizovat, vstoupit, přístup, přihlašování, vstup, otevření</string>
+				<key>title</key>
+				<string>Automatické přihlášení</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>aktivní, ldap, otevřený, server, aktivní adresář, otevřený adresář</string>
+				<key>title</key>
+				<string>Adresářové služby</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>uživatelé, přihlásit, přihlásit se, vstoupit, přihlášení, přístup</string>
+				<key>title</key>
+				<string>Volby přihlášení</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Server síťového účtu</string>
+			</dict>
+		</array>
+	</dict>
+	<key>mobilityPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array/>
+	</dict>
+	<key>passwordPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Slova lokalizovatelného indexu</string>
+				<key>index</key>
+				<string>host sdílet, dlouhé, krátké, jméno, ověřit totožnost, hesla, filevault, sdílení, hesla, kódy, ověření totožnosti, identifikovat, identifikace, trezor</string>
+				<key>title</key>
+				<string>Uživatelský nebo skupinový účet</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Slova lokalizovatelného indexu</string>
+				<key>index</key>
+				<string>fotografie, obrázky, fotky</string>
+				<key>title</key>
+				<string>Ikona uživatele</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Slova lokalizovatelného indexu</string>
+				<key>index</key>
+				<string>uživatelé, účty, dlouhé, krátké, jméno, ověřit totožnost, přihlásit, přihlásit se, přihlášení, vstoupit, změnit, spravovat, hesla, kódy, ověření totožnosti, identifikace, vstoupit, přístup, přihlašování, vstup, otevření</string>
+				<key>title</key>
+				<string>Přihlašovací jméno a heslo</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Slova lokalizovatelného indexu</string>
+				<key>index</key>
+				<string>vizitka, vizitky, vcard</string>
+				<key>title</key>
+				<string>Kontakty</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Slova lokalizovatelného indexu</string>
+				<key>index</key>
+				<string>řídit, spravovat, řízení, správa</string>
+				<key>title</key>
+				<string>Správcovský účet</string>
+			</dict>
+		</array>
+	</dict>
+	<key>startupItemsPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Slova lokalizovatelného indexu</string>
+				<key>index</key>
+				<string>automaticky, automatizovat, přihlásit, přihlásit se, přihlášení, vstoupit, spustit, nastartovat, automatický, automatické, automatizace, spuštění, start, přihlašování, vstup, vstoupení</string>
+				<key>title</key>
+				<string>Otevřít aplikace při přihlášení</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Slova lokalizovatelného indexu</string>
+				<key>index</key>
+				<string>přihlásit, přihlásit se, vstoupit, spustit, zapnout, spuštění, přihlášení, přístup</string>
+				<key>title</key>
+				<string>Přihlášení</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>Dock</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>自訂, 個人化, 功能列, 工具列, 調整大小, 較大, 較小, 位置, 桌面, 左邊, 左側, 左, 右邊, 右側, 右, 底部, 邊緣, 彈回, 彈跳, 尺度, 啟動, 精靈, 隱藏, 顯示, 擴展, 自訂, controlstrip, 工具列, 調整大小, 放置, 縮放, 啟動, 動畫, 隱藏, 已隱藏, 顯示, 已顯示, 放大, 縮小, 縮到最小, 放到最大, 擴展, 文件, 打開, 開啟, 自動, 選單列</string>
+                    <key>title</key>
+                    <string>Dock設定</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>自動, 隱藏, 顯示, dock</string>
+                    <key>title</key>
+                    <string>自動隱藏及顯示Dock</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>自動, 隱藏, 顯示, 選單列</string>
+                    <key>title</key>
+                    <string>在桌面上自動隱藏和顯示選單列</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>自動, 隱藏, 顯示, 選單列</string>
+                    <key>title</key>
+                    <string>在全螢幕中自動隱藏和顯示選單列</string>
+                </dict>
+            </array>
+        </dict>
+        <key>AccessibilityShortcuts</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>輔助使用快速鍵, 顯示, 隱藏, 選單列</string>
+                    <key>title</key>
+                    <string>在選單列中顯示「輔助使用快速鍵」</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>輔助使用快速鍵, 顯示, 控制中心</string>
+                    <key>title</key>
+                    <string>在「控制中心」中顯示「輔助使用快速鍵」</string>
+                </dict>
+            </array>
+        </dict>
+        <key>AirDrop</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>藍牙, 顯示, 隱藏, 選單列</string>
+                    <key>title</key>
+                    <string>在選單列中顯示AirDrop</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Battery</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>電池, 充電, 顯示, 隱藏, 選單列</string>
+                    <key>portableOnly</key><true/>
+                    <key>title</key>
+                    <string>在選單列中顯示電池狀態</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>電池, 充電, 顯示, 隱藏, 控制中心</string>
+                    <key>portableOnly</key><true/>
+                    <key>title</key>
+                    <string>在「控制中心」中顯示電池狀態</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>電池, 百分率, 百分比, 顯示, 隱藏, 選單列</string>
+                    <key>portableOnly</key><true/>
+                    <key>title</key>
+                    <string>在選單列中顯示電池百分比</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Bluetooth</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>藍牙, 顯示, 隱藏, 選單列</string>
+                    <key>title</key>
+                    <string>在選單列中顯示藍牙狀態</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Clock</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>時鐘, 日期, 時間, 顯示, 隱藏, 選單列</string>
+                    <key>title</key>
+                    <string>在選單列中顯示星期</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>時鐘, 日期, 時間, 顯示, 隱藏, 選單列</string>
+                    <key>title</key>
+                    <string>在選單列中顯示日期</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>24, 小時, 時鐘, 日期, 時間, 顯示, 隱藏, 選單列</string>
+                    <key>title</key>
+                    <string>在選單列中顯示24小時制</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>AM, am, PM, pm, 上午, 下午, 時鐘, 日期, 時間, 顯示, 隱藏, 選單列</string>
+                    <key>title</key>
+                    <string>在選單列中顯示上午/下午</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>閃爍, 閃光燈, 分隔符號, 秒, 時鐘, 時間, 顯示, 隱藏, 選單列</string>
+                    <key>title</key>
+                    <string>在選單列中閃爍時間分隔符號</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>秒, 時鐘, 時間, 顯示, 隱藏, 選單列</string>
+                    <key>title</key>
+                    <string>在選單列中顯示時間秒數</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>語音, 報時, 播報, 小時, 半小時, 三十分鐘, 十五分鐘, 時鐘, 時間</string>
+                    <key>title</key>
+                    <string>語音報時</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Display</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>顯示器, 亮度, 並行, 顯示, 隱藏, 選單列</string>
+                    <key>title</key>
+                    <string>在選單列中顯示顯示器</string>
+                </dict>
+            </array>
+        </dict>
+        <key>DoNotDisturb</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>勿擾模式, 顯示, 隱藏, 選單列</string>
+                    <key>title</key>
+                    <string>在選單列中顯示「勿擾模式」狀態</string>
+                </dict>
+            </array>
+        </dict>
+        <key>FocusModes</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>專注, 專注模式, 勿擾模式, 顯示, 隱藏, 選單列</string>
+                    <key>title</key>
+                    <string>在選單列中顯示「專注模式」狀態</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Hearing</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>聽力, 顯示, 隱藏, 選單列</string>
+                    <key>title</key>
+                    <string>在選單列中顯示聽力</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>聽力, 顯示, 控制中心</string>
+                    <key>title</key>
+                    <string>在「控制中心」中顯示聽力</string>
+                </dict>
+            </array>
+        </dict>
+        <key>KeyboardBrightness</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>鍵盤, 亮度, 背光, 顯示, 隱藏, 選單列</string>
+                    <key>portableOnly</key><true/>
+                    <key>title</key>
+                    <string>在選單列中顯示鍵盤亮度狀態</string>
+                </dict>
+            </array>
+        </dict>
+        <key>NowPlaying</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>播放中, 音樂, 媒體, 控制項目, 遙控器, 播放, 顯示, 隱藏, 選單列</string>
+                    <key>title</key>
+                    <string>在選單列中顯示「播放中」</string>
+                </dict>
+            </array>
+        </dict>
+        <key>ScreenMirroring</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>螢幕鏡像輸出, AirPlay, 顯示, 隱藏, 選單列</string>
+                    <key>title</key>
+                    <string>在選單列中顯示「螢幕鏡像輸出」狀態</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Sound</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>聲音, 音量, 顯示, 隱藏, 選單列</string>
+                    <key>title</key>
+                    <string>在選單列中顯示音量</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Siri</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>siri, 顯示, 隱藏, 選單列</string>
+                    <key>title</key>
+                    <string>在選單列中顯示Siri</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Spotlight</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>spotlight, 顯示, 隱藏, 選單列</string>
+                    <key>title</key>
+                    <string>在選單列中顯示Spotlight</string>
+                </dict>
+            </array>
+        </dict>
+        <key>TimeMachine</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>時光機, 備份, 顯示, 隱藏, 選單列</string>
+                    <key>title</key>
+                    <string>在選單列中顯示「時光機」</string>
+                </dict>
+            </array>
+        </dict>
+        <key>WiFi</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>wifi, wi-fi, 顯示, 隱藏, 選單列</string>
+                    <key>title</key>
+                    <string>在選單列中顯示Wi‑Fi狀態</string><!-- NON-BREAKING HYPHEN (U+2011) -->
+                </dict>
+            </array>
+        </dict>
+        <key>UserSwitcher</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>快速使用者切換, 使用者切換器, 顯示, 隱藏, 選單列</string>
+                    <key>title</key>
+                    <string>在選單列中顯示「快速使用者切換」</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>快速使用者切換, 使用者切換器, 顯示, 控制中心</string>
+                    <key>title</key>
+                    <string>在「控制中心」中顯示「快速使用者切換」</string>
+                </dict>
+            </array>
+        </dict>
+    </dict>
+</plist>

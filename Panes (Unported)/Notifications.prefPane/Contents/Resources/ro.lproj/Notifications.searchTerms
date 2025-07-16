@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Notifications</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>centru, notificare, centru de notificări, notificări, banner, bannere, alertă, alerte, insignă, insigne, sunete, blocare ecran</string>
+				<key>title</key>
+				<string>Configurări centru de notificări</string>
+			</dict>
+		</array>
+	</dict>
+    <key>Focus</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Cuvinte de index localizabile</string>
+                <key>index</key>
+                <string>dnd, nu deranjați, concentrare, mod de concentrare, urgentă, urgente, status de absență, absență, răspuns automat</string>
+                <key>title</key>
+                <string>Configurări concentrare</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

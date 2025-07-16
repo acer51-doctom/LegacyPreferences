@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SoftwareUpdate</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Localizable index words</string>
+				<key>index</key>
+				<string>software, opdateringer, installer, seed, beta, opdateret, opdatere, hentet, henter, installeret, installerer, automatiseret, automatiser, automatisk, planlægger, opgrader, opgradering, system</string>
+				<key>title</key>
+				<string>Søg efter softwareopdateringer</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

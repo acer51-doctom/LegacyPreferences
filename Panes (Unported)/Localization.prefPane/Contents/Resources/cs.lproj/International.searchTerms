@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Region</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Slova lokalizovatelného indexu</string>
+				<key>index</key>
+				<string>národní, mezinárodní, míry, jednotky, styly, metrické, kalendáře, gregoriánský, buddhistický, hebrejský, islámský, japonský, čínský, koptský, etiopský, indický, perský, čínský, přizpůsobit, upravit, přizpůsobený, přizpůsobení, přizpůsoben, vlastní, národní prostředí, teplota</string>
+				<key>title</key>
+				<string>Formáty čísel, data a času</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Slova lokalizovatelného indexu</string>
+				<key>index</key>
+				<string>měna</string>
+				<key>title</key>
+				<string>Označení měny</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Slova lokalizovatelného indexu</string>
+				<key>index</key>
+				<string>Internetové služby, pošta, kontakty</string>
+				<key>title</key>
+				<string>Oblast pro internetové služby</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Language</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Slova lokalizovatelného indexu</string>
+				<key>index</key>
+				<string>jazyky, přizpůsobit, národní, přizpůsobené, přizpůsobení, řazení, oslovení, mužský, ženský, střední, Živý text, výběr textu na obrázcích</string>
+				<key>title</key>
+				<string>Předvolby a priority jazyka</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Translation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Slova lokalizovatelného indexu</string>
+				<key>index</key>
+				<string>přeložit, překládat, překládání, překlad</string>
+				<key>title</key>
+				<string>Překládané jazyky</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effects</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>קולות, שמע, אודיו, רמה, עוצמה, להגביר, להנמיך, גבוה, נמוך, צפצוף, צליל, התראה, לשמוע, לצפצף, צליל אתחול, צליל הפעלה, צפצוף אתחול</string>
+				<key>title</key>
+				<string>התראות ואפקטים</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>שמע, אודיו, קול, לשמוע, עוצמה, להגביר, להנמיך, מוסיקה, רמקולים, שמיעה</string>
+				<key>title</key>
+				<string>עוצמת שמע</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>שמע, לשמוע, רמה, עוצמה, להגביר, להנמיך, שקט, גבוה, נמוך, לכבות, לשמוע, להשתיק</string>
+				<key>title</key>
+				<string>השתק</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>שורת התפריטים</string>
+				<key>title</key>
+				<string>הצג עוצמת שמע בשורת התפריטים</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>שורת התפריטים</string>
+				<key>title</key>
+				<string>הצגת ״שמע״ בשורת התפריטים</string>
+			</dict>
+		</array>
+	</dict>
+	<key>input</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>שמע, לשמוע, רמה, עוצמה, להגביר, להנמיך, שקט, מיקורופונים, כלים, MIDI, להקליט, אודיו נכנס, שמיעה, הקלטה</string>
+				<key>title</key>
+				<string>אודיו נכנס</string>
+			</dict>
+		</array>
+	</dict>
+	<key>output</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>התקנים, אוזניות, אוזניה, רמקולים, לשמוע, איזון, שמיעה, אזנייה </string>
+				<key>title</key>
+				<string>אודיו יוצא</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>‏airplay, רמקולים</string>
+				<key>title</key>
+				<string>הזרמת שמע של AirPlay</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effects</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>gürültüler, ses, duyma, düzey, seviye, ses yüksekliği, yüksek sesli, daha sesli, daha sessiz, daha kısık, daha yumuşak, kısmak, azaltmak, düşürmek, yükseltmek, açmak, artırmak, hoparlör, bip, uyarı, zil, dinleme, bipleme, zil çalma, çalma, başlangıç sesi, noises, audio, hear, level, volume, louder, softer, quieter, increase, decrease, raise, lower, speaker, beep, warning, bell, ding, ring, hearing, beeping, dinging, ringing, startup sound, boot chime</string>
+				<key>title</key>
+				<string>Uyarı sesleri ve ses efektleri</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>ses, audio, duyma, düzey, seviye, ses yüksekliği, yüksek sesli, daha sesli, daha sessiz, daha kısık, daha yumuşak, yükseltmek, açmak, artırmak, kısmak, azaltmak, düşürmek, müzik, hoparlörler, dinleme, hear, level, volume, louder, softer, quieter, increase, decrease, raise, lower, music, speakers, hearing</string>
+				<key>title</key>
+				<string>Ses yüksekliği</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>ses, audio, duyma, düzey, seviye, ses yüksekliği, yüksek sesli, daha sesli, daha sessiz, daha kısık, daha yumuşak, yükseltmek, açmak, artırmak, kısmak, azaltmak, düşürmek, sessiz, kapatma, dinleme, sesi kapatma, hear, level, volume, louder, softer, quieter, increase, decrease, raise, lower, quiet, silent, silence, turn off, hearing, muting</string>
+				<key>title</key>
+				<string>Sesi kapat</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>menü çubuğu</string>
+				<key>title</key>
+				<string>Ses yüksekliğini menü çubuğunda göster</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>menü çubuğu</string>
+				<key>title</key>
+				<string>Sesi menü çubuğunda göster</string>
+			</dict>
+		</array>
+	</dict>
+	<key>input</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>audio, ses, duyma, düzey, seviye, ses yüksekliği, yüksek sesli, daha sesli, daha sessiz, daha kısık, daha yumuşak, artırmak, yükseltmek, azaltmak, kısmak, aygıtlar, kaynaklar, mikrofonlar, müzik aletleri, enstrümanlar, çalgılar, MIDI, kayıt, kaydetme, kayıt yapma, ses girişi, dinleme, hear, level, volume, louder, softer, quieter, increase, decrease, raise, lower, devices, sources, microphones, instruments, record, line in, hearing, recording</string>
+				<key>title</key>
+				<string>Ses girişi</string>
+			</dict>
+		</array>
+	</dict>
+	<key>output</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>aygıtlar, kulaklıklar, mikrofonlu kulaklık seti, hoparlörler, duyma, denge, dinleme, devices, headphones, headsets, speakers, hear, balance, hearing, head phones, head sets</string>
+				<key>title</key>
+				<string>Ses çıkışı</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>airplay, hoparlörler, speakers</string>
+				<key>title</key>
+				<string>AirPlay ses yayını</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

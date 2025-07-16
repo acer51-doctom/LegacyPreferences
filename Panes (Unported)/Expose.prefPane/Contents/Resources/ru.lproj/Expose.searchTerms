@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>горячая</string>
+				<key>title</key>
+				<string>Активные углы экрана</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>настроить, рабочий стол, клавиатура, функциональные клавиши, Fn, кнопки мыши, окна, программы, приложения, настроенный, настройка, настроенные, mission control</string>
+				<key>title</key>
+				<string>Сочетания Exposé</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Spaces</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>упорядочить, рабочие пространства, программы, приложения, рабочие столы, организованный, организация</string>
+				<key>title</key>
+				<string>Настроить Spaces</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

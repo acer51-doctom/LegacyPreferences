@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>InternetAccounts</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>akaun, pengguna, nama, nama pengguna, log, pengelogan, daftar, mendaftar, log masuk, daftar masuk, daftar diri, log keluar, daftar keluar, kata laluan, lulus, perkataan, sahkan, mengesahkan, pengesahan, iCloud, Apple ID, pelanggan, langganan, ahli, Mail, iCal, kalendar, Buku Alamat, buku alamat, kenalan, iChat, mesej, e-mel, CalDAV, CardDAV, LDAP, IMAP, nota, peringatan</string>
+				<key>title</key>
+				<string>Akaun Internet</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>strim foto</string>
+				<key>title</key>
+				<string>Strim Foto</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>cari mac saya</string>
+				<key>title</key>
+				<string>Cari Mac Saya</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.126</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>126</string>
+				<key>title</key>
+				<string>Sediakan akaun 126.com</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.163</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>163</string>
+				<key>title</key>
+				<string>Sediakan akaun 163.com</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.Exchange</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>exchange</string>
+				<key>title</key>
+				<string>Sediakan akaun Exchange</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.Google</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>google, gmail, googlemail</string>
+				<key>title</key>
+				<string>Sediakan akaun Google</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.Yahoo</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>yahoo, ymail</string>
+				<key>title</key>
+				<string>Sediakan akaun Yahoo!</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.aol</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>aol, aim</string>
+				<key>title</key>
+				<string>Sediakan akaun AOL</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.qq</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>qq</string>
+				<key>title</key>
+				<string>Sediakan akaun QQ.com</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

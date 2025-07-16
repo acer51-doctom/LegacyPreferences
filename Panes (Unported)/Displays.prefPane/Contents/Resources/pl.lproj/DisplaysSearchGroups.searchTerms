@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displaysArrangementTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>ekrany, wyświetlacze, monitory, klonuj, klonowane, rozmieszczanie, rozmieszczenie</string>
+				<key>title</key>
+				<string>Rozmieść wiele wyświetlaczy</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>pasek menu</string>
+				<key>title</key>
+				<string>Zmień położenie paska menu</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysColorTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>ekrany, wyświetlacze, monitory, kalibrowanie, korygowanie, jaśniej, ciemniej, punkt bieli, światło otoczenia, profile, kalibrować, korygować, korekty, przygasić, przygaszanie</string>
+				<key>title</key>
+				<string>Kolory i kalibracja wyświetlacza</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysDisplayTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>ekrany, wyświetlacze, monitory, głębia, miliony, tysiące, 256, ColorSync, korygowanie, jaśniej, ciemniej, kalibrować, korygować, korekty, przygasić, przygaszanie, true tone</string>
+				<key>title</key>
+				<string>Kolory, jasność i rozdzielczość</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>wyświetlacze, ekrany, monitory</string>
+				<key>title</key>
+				<string>Częstotliwość odświeżania wyświetlacza</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>wyświetlacze, ekrany, monitory</string>
+				<key>title</key>
+				<string>Wykryj wiele wyświetlaczy</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>pasek menu</string>
+				<key>title</key>
+				<string>Pokazuj ikonę wyświetlaczy na pasku menu</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>obrót, obróć, obrócić, obracanie, rotacja, obroty, obrócenie, odwrócenie</string>
+				<key>title</key>
+				<string>Obracaj ekran</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>AirPlay</string>
+				<key>title</key>
+				<string>Opcje klonowania AirPlay</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysGeometryTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>pozycja, wysokość, szerokość, poduszka, obrót, keystone, równoległobok, wykrzywienie, zakrzywienie narożników, pochylenie, geometria, wymiary</string>
+				<key>title</key>
+				<string>Obraz ekranu</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>rgb, korygowanie, dopasowanie, korygować, dopasować</string>
+				<key>title</key>
+				<string>Zbieżność obrazu</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>statyczne, zerowanie, migotanie, zakłócenia, migotać</string>
+				<key>title</key>
+				<string>Degauss</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysNightShiftTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>noc, night shift, przyciemnić, ciepły, ciepły kolor, spektrum, sen, temperatura, wschód słońca, zachód słońca, przyciemnianie</string>
+				<key>title</key>
+				<string>Opcje Night Shift</string>
+			</dict>
+		</array>
+	</dict>
+	<key>universalControlTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>uniwersalne, sterowanie</string>
+				<key>title</key>
+				<string>Uniwersalne sterowanie</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

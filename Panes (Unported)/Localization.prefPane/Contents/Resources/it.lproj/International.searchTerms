@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Region</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Parole dell'indice localizzabili</string>
+				<key>index</key>
+				<string>regionale, internazionale, misure, unità, stili, metrico, calendari, Gregoriano, Buddhista, Ebraico, Islamico, Giapponese, Cinese, Copto, Etiope, Indiano, Persiano, Repubblica di Cina, personalizza, personalizzato, personalizzare, personalizzazione, lingua, temperatura</string>
+				<key>title</key>
+				<string>Formati numero, data e ora</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Parole dell'indice localizzabili</string>
+				<key>index</key>
+				<string>valuta</string>
+				<key>title</key>
+				<string>Scelta valuta</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Parole dell'indice localizzabili</string>
+				<key>index</key>
+				<string>Servizi internet, posta, contatti</string>
+				<key>title</key>
+				<string>Zona per servizi internet</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Language</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Parole dell'indice localizzabili</string>
+				<key>index</key>
+				<string>lingue, personalizza, personalizzare, personalizzazione, internazionale, ordinamento, forma preferita, femminile, maschile, neutro, testo attivo, selezionare nelle immagini</string>
+				<key>title</key>
+				<string>Priorità e preferenze lingua</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Translation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Parole dell'indice localizzabili</string>
+				<key>index</key>
+				<string>tradurre,traduci,traduzione</string>
+				<key>title</key>
+				<string>Lingue per la traduzione</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

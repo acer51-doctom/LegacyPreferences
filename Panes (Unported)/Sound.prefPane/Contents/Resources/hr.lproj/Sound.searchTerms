@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effects</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>zvukovi, audio, slušati, razina, glasnoća, glasnije, tiho, tiše, povećati, smanjiti, podići, spustiti, zvučnik, zvučni signal, upozorenje, zvono, zvuk zvona, zvoniti, slušanje, zvučni signali, zvonjava, zvonjenje, zvuk pokretanja, zvono podizanja</string>
+				<key>title</key>
+				<string>Alarmi i zvučni efekti</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>audio, slušati, razina, glasnoća, glasnije, tiho, tiše, povećati, smanjiti, podići, spustiti, glazba, zvučnici, slušanje</string>
+				<key>title</key>
+				<string>Glasnoća</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>audio, slušati, razina, glasnoća, glasnije, tiho, tiše, povećati, smanjiti, podići, spustiti, tiho, bez zvuka, tišina, isključiti, slušanje, isključenje zvuka</string>
+				<key>title</key>
+				<string>Isključi zvuk</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>traka s izbornicima</string>
+				<key>title</key>
+				<string>Prikaži glasnoću u traci s izbornicima</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>traka s izbornicima</string>
+				<key>title</key>
+				<string>Prikaži zvuk u traci s izbornicima</string>
+			</dict>
+		</array>
+	</dict>
+	<key>input</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>audio, slušati, razina, glasnoća, glasnije, tiho, tiše, povećati, smanjiti, podići, spustiti, uređaji, izvori, mikrofoni, instrumenti, MIDI, snimka, linijski ulaz, slušanje, snimanje</string>
+				<key>title</key>
+				<string>Ulaz zvuka</string>
+			</dict>
+		</array>
+	</dict>
+	<key>output</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>uređaji, slušalice, slušalice, zvučnici, slušati, balans, slušanje, slušalice, slušalice</string>
+				<key>title</key>
+				<string>Izlaz zvuka</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>airplay, speakers</string>
+				<key>title</key>
+				<string>AirPlay audio streaming</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

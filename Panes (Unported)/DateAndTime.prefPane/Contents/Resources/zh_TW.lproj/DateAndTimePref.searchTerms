@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+	<key>DateTimePref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>本地化索引詞</string>
+				<key>index</key>
+				<string>自動, 自動的, 自動地, 自動化</string>
+				<key>title</key>
+				<string>設定日期與時間</string>
+			</dict>
+		</array>
+	</dict>
+
+	<key>TimeZonePref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>本地化索引詞</string>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>設定時區</string>
+			</dict>
+		</array>
+	</dict>
+
+	
+</dict>
+</plist>

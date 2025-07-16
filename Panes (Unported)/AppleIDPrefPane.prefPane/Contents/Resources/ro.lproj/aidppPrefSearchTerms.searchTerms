@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>AppleAccount</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Cuvinte de index localizabile</string>
+                <key>index</key>
+                <string>iCloud, cloud, me.com, cont apple, appleid, apple, id, cont, contact, plată, expediere</string>
+                <key>title</key>
+                <string>ID Apple</string>
+            </dict>
+        </array>
+    </dict>
+    <key>iCloud</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Cuvinte de index localizabile</string>
+                <key>index</key>
+                <string>iCloud, cloud, me.com, cont apple, găsire mac, stocare, documente și date, iCloud Drive, Favorite, Calendare, Contacte, Mail, Mementouri, Liste de lecturi, Bursa, Locuință, Safari, Notițe, </string>
+                <key>title</key>
+                <string>iCloud</string>
+            </dict>
+        </array>
+    </dict>
+    <key>com.apple.AppleMediaServicesUI.SpyglassPurchases</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Cuvinte de index localizabile</string>
+                <key>index</key>
+                <string>multimedia, achiziții, app store, servicii, abonamente</string>
+                <key>title</key>
+                <string>Conținut și achiziții</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

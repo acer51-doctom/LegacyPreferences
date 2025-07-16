@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>로컬라이즈가 가능한 인덱스 단어</string>
+				<key>index</key>
+				<string>재생, 삽입, 시작, 실행, 로드,(저음질), 디지털, 디스크, disc, 광학, 중간, 미디어, 공, iTunes, 음악 앱, 플레이어, 자동재생, 사진 앱, 그림, 포토, 사진, iDVD, 플레이어, 영화, 동영상, 비디오, 재생하기, 삽입하기, 시작하기, 실행하기, 로드하기</string>
+				<key>title</key>
+				<string>CD 및 DVD 관리</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>kuuma, aktivointi, aktiivinen</string>
+				<key>title</key>
+				<string>Aktiiviset näyttökulmat</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>muokkaa, työpöytä, näppäimistö, toimintonäppäimet, funktionäppäimet, Fn, hiiren painikkeet, hiiri, ikkunat, sovellukset, apit, ohjelmat, muokattu, muokkaus, muokkaaminen, mission control</string>
+				<key>title</key>
+				<string>Exposé-oikotiet</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Spaces</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>järjestä, työtilat, tilat, tilojen vaihto, sovellukset, apit, ohjelmat, työpöydät, järjestetty, järjestäminen, järjestää, järjestely, siirtely</string>
+				<key>title</key>
+				<string>Ota työpöytätilat käyttöön</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

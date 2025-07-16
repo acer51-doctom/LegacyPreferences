@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+        <key>Handoff</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>comments</key>
+                    <string>Slova lokalizovatelného indexu</string>
+                    <key>index</key>
+                    <string>kontinuita, předat, pokračovat, aktivita, pokračování, předání</string>
+                    <key>title</key>
+                    <string>Povolit Handoff</string>
+                </dict>
+            </array>
+        </dict>
+		<key>Main</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Slova lokalizovatelného indexu</string>
+					<key>index</key>
+					<string>vybraný, vybraná, vybrané, text, zvýraznění, zvýraznit, zvýrazněný, zvýrazněná, zvýrazněné, vzhled</string>
+					<key>title</key>
+					<string>Barva zvýraznění</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Slova lokalizovatelného indexu</string>
+					<key>index</key>
+					<string>Nabídka Apple, aplikace, dokumenty, servery</string>
+					<key>title</key>
+					<string>Počet posledních položek</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Slova lokalizovatelného indexu</string>
+					<key>index</key>
+					<string>plocha, přizpůsobit, upravit, vlastní, personalizovat, panel, panely, přizpůsobení, personalizace, vzhled</string>
+					<key>title</key>
+					<string>Vzhled tlačítek, nabídek a oken</string>
+				</dict>
+
+				<dict>
+					<key>comments</key>
+					<string>Slova lokalizovatelného indexu</string>
+					<key>index</key>
+					<string>plocha, přizpůsobit, upravit, vlastní, personalizovat, přizpůsobení, auto, automaticky, automatické, automatická, automatický, personalizace, vzhled, světlý, tmavý, motiv, režim, Tmavý režim</string>
+					<key>title</key>
+					<string>Vzhled</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Slova lokalizovatelného indexu</string>
+					<key>index</key>
+					<string>tlačítko, výběr, menu, nabídka, vzhled, barva</string>
+					<key>title</key>
+					<string>Barevný akcent</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Slova lokalizovatelného indexu</string>
+					<key>index</key>
+					<string>úpravy, změny, uložit, zavřít, ukončit, dokument, soubor</string>
+					<key>title</key>
+					<string>Zachovat změny</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Slova lokalizovatelného indexu</string>
+					<key>index</key>
+					<string>okno, skočit, posuvník, skok</string>
+					<key>title</key>
+					<string>Chování posuvníku</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Slova lokalizovatelného indexu</string>
+					<key>index</key>
+					<string>ikona, strana, panel, velikost, boční panel</string>
+					<key>title</key>
+					<string>Ikony na bočním panelu</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Slova lokalizovatelného indexu</string>
+					<key>index</key>
+					<string>ukončit, ukončení, otevřít, otevřít znovu, opět otevřít, otvírání, otevírání, opětovné otevření, obnova, obnovení, preferovat panely</string>
+					<key>title</key>
+					<string>Zavřít a obnovit okna</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Slova lokalizovatelného indexu</string>
+					<key>index</key>
+					<string>Safari, http, https, surfovat, surfování, www, web, webový server, webová stránka, webové stránky</string>
+					<key>title</key>
+					<string>Nastavit výchozí prohlížeč</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+</plist>

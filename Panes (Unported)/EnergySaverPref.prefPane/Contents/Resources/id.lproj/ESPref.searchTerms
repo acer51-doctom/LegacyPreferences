@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>currentSource</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Hemat Daya</string>
+                <key>index</key>
+                <string>tampilan, layar, monitor, cerahkan, redupkan, tidur, bangun, matikan, mulai, daya, nyala, mati, listrik, hijau, simpan, hemat, penghematan, pelihara, lingkungan, optimalkan, kinerja, prosesor, otomatis, kecerahan, hitam, kosong, menghitam, diredupkan, meredupkan, sedang tidur, tertidur, bangun, membangunkan, sedang membangunkan, sedang mematikan, menyalakan, nyalakan, sedang menyalakan, menyimpan, menghemat, memelihara, dioptimalkan, mengoptimalkan, pengoptimalan, otomatis, mengotomatiskan, secara otomatis, ups, suplai daya bebas gangguan, sumber daya bebas gangguan</string>
+                <key>comments</key>
+                <string>Kata indeks yang dapat dilokalkan</string>
+            </dict>
+        </array>
+    </dict>
+    <key>schedule</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Jadwalkan mulai, tidur, atau matikan</string>
+                <key>index</key>
+                <string>bangunkan, mulai, daya, nyala, mati, otomatis, terjadwal, menjadwalkan, sedang tidur, tertidur, bangun, membangunkan, sedang membangunkan, matikan, mematikan, menyalakan, nyalakan, sedang menyalakan, otomatis, mengotomatiskan, secara otomatis</string>
+                <key>comments</key>
+                <string>Kata indeks yang dapat dilokalkan</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

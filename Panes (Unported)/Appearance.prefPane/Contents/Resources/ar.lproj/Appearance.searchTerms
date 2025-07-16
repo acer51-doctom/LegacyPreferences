@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+        <key>Handoff</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>comments</key>
+                    <string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+                    <key>index</key>
+                    <string>استمرارية، انتقاء، متابعة، نشاط، استمرار، تسليم، continuity, pick it up, continue, activity, continuation, hand off</string>
+                    <key>title</key>
+                    <string>السماح بـ Handoff</string>
+                </dict>
+            </array>
+        </dict>
+		<key>Main</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+					<key>index</key>
+					<string>محدد، نص، تمييز، المظهر، مظهر، highlite، highliting، hilite، appearance، hiliting</string>
+					<key>title</key>
+					<string>لون التمييز، ألوان التمييز</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+					<key>index</key>
+					<string>قائمة Apple، قوائم Apple، تطبيقات، التطبيقات، تطبيق، التطبيق، مستندات، المستندات، مستند، المستند، خوادم، الخوادم، خادم، الخادم، Apple menu, applications, documents, servers</string>
+					<key>title</key>
+					<string>عدد العناصر الحديثة</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+					<key>index</key>
+					<string>سطح المكتب، تخصيص، إضفاء طابع شخصي، إضفاء الطابع الشخصي، علامة تبويب، علامات تبويب، مظهر، desktop, customize, personalize, tab, tabs, customizing, customization, personalizing, appearance</string>
+					<key>title</key>
+					<string>زر، أزرار، قائمة، قوائم، مظهر النافذة، مظهر النوافذ</string>
+				</dict>
+
+				<dict>
+					<key>comments</key>
+					<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+					<key>index</key>
+					<string>سطح المكتب، تخصيص، إضفاء طابع شخصي، تخصيص، تلقائي، مظهر، فاتح، داكن، وضع، نمط، النمط الداكن</string>
+					<key>title</key>
+					<string>المظهر</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+					<key>index</key>
+					<string>زر، تحديد، قائمة، مظهر، لون</string>
+					<key>title</key>
+					<string>اللون الثانوي</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+					<key>index</key>
+					<string>تحريرات، تعديلات، تغييرات، حفظ، إغلاق، إنهاء، خروج، مستند، ملف</string>
+					<key>title</key>
+					<string>الاحتفاظ بالتغييرات</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+					<key>index</key>
+					<string>نافذة، انتقال سريع، شريط التمرير، شريط تمرير، الانتقال السريع، window, jump, scrollbar, jumping</string>
+					<key>title</key>
+					<string>إجراء شريط التمرير، سلوك شريط التمرير</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+					<key>index</key>
+					<string>أيقونة، الأيقونة، ايقونة، الايقونة، ايقونه، الايقونه، أيقونه، الأيقونه، أيقونات، الأيقونات، ايقونات، الايقونات، شريط، الشريط، شرائط، الشرائط، شرط، الشرط، حجم، الحجم، أحجام، الأحجام، احجام، الاحجام، شريط جانبي، الشريط الجانبي، شرائط جانبية، الشرائط الجانبية، شرط جانبية، الشرط الجانبية، icon, side, bar, size, sidebar</string>
+					<key>title</key>
+					<string>أيقونات الشريط الجانبي</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+					<key>index</key>
+					<string>إنهاء، الإنهاء، فتح، إعادة الفتح، الفتح، إعادة التخزين، استعادة، الاستعادة، استرداد، الاسترداد، تفضيل، علامات تبويب، علامات التبويب، quit, quitting, open, reopen, re-open, opening, reopening, re-opening, restoring, prefer tabs</string>
+					<key>title</key>
+					<string>إغلاق واستعادة النوافذ</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+					<key>index</key>
+					<string>‏Safari،‏ http،‏ https، تصفح، www، موقع ويب، موقع إلكتروني، موقع الكتروني، صفحة ويب، Safari, http, https, surf, www, website, webpage, web site, web page</string>
+					<key>title</key>
+					<string>تعيين متصفح الويب الافتراضي</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Extensions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>расширения</string>
+				<key>title</key>
+				<string>Расширения</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>разметка, разметить</string>
+				<key>title</key>
+				<string>Действия</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>общий доступ, предоставить доступ, доступ, делиться, поделиться, список для чтения, почта, сообщения, airdrop, заметки, напоминания, люди, добавить, iphoto, aperture</string>
+				<key>title</key>
+				<string>Объекты меню «Поделиться»</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>быстрые, быстрый, быстрая, быстрое, действие, действия, finder, быстрые действия, панель просмотра</string>
+				<key>title</key>
+				<string>Finder</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>быстрые, быстрый, быстрая, быстрое, действие, действия, touch, bar, touch bar</string>
+				<key>title</key>
+				<string>Touch Bar</string>
+			</dict>
+            <dict>
+                <key>comments</key>
+                <string>Локализуемые ключевые слова</string>
+                <key>index</key>
+                <string>расширения провайдеров учетных данных, менеджеры паролей, менеджер паролей, расширение менеджера паролей, автозаполнение пароля, автозаполнение паролей, расширение автозаполнения, расширения для автозаполнения, credential provider extensions, password managers, password manager extensions, password autofill, autofill extensions</string>
+                <key>title</key>
+                <string>Расширения для автозаполнения паролей</string>
+            </dict>
+		</array>
+	</dict>
+</dict>
+</plist>

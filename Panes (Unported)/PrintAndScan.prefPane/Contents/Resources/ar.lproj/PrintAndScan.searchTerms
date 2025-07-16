@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fax</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+				<key>index</key>
+				<string>إرسال بالفاكس، فاكس، الفاكس، faxing، facsimile</string>
+				<key>title</key>
+				<string>إعدادات الفاكس، إعدادات فاكس</string>
+			</dict>
+		</array>
+	</dict>
+	<key>print</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+				<key>index</key>
+				<string>افتراضي، الافتراضي، قوائم انتظار، قوائم الانتظار، برامج تعريف، برامج التعريف، حجم الورق، حجم ورق، إعداد الصفحة، إعداد صفحة، cups، إضافة، الإضافة، طباعة، الطباعة</string>
+				<key>title</key>
+				<string>إعداد الطابعات، إعداد طابعات</string>
+			</dict>
+		</array>
+	</dict>
+	<key>scan</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+				<key>index</key>
+				<string>ماسحات ضوئية، الماسحات الضوئية، مسح ضوئي، المسح الضوئي، صورة، تصوير، الصورة، التصوير، scanners، scanning، image، imaging</string>
+				<key>title</key>
+				<string>إعداد الماسحات الضوئية، إعداد ماسحات ضوئية</string>
+			</dict>
+		</array>
+	</dict>
+	<key>share</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+				<key>index</key>
+				<string>مشاركة، المشاركة، share</string>
+				<key>title</key>
+				<string>مشاركة طابعة، مشاركة الطابعة</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

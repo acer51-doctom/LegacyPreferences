@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SoftwareUpdate</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+				<key>index</key>
+				<string>سوفتوير، سوفت وير، برامج، تحديثات، أبديت، بيتا، seed، beta، تثبيت، التثبيت، تنزيل، التنزيل، تلقائي، التلقائي، مجدول، المجدول، تطبيقات، التطبيقات، برامج، البرامج، محدّث، محدث، المحدث، تحديث، التحديث، تم التنزيل، تنزيل، التنزيل، مثبّت، مثبت، المثبت، تثبيت، التثبيت، تلقائي، التلقائي، مؤتمت، المؤتمت تشغيل تلقائي، التشغيل التلقائي، أتمتة، الأتمتة، تلقائيًا، جدولة، الجدولة، ترقية، نظام software, updates, install, seed, beta, updated, updating, downloaded, downloading, installed, installing, automated, automating, automatically, scheduling, upgrade, upgrading, system</string>
+				<key>title</key>
+				<string>التحقق من وجود تحديثات برامج</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

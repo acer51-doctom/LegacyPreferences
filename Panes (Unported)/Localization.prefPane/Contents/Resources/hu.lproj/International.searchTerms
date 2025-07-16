@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Region</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizálható indexszavak</string>
+				<key>index</key>
+				<string>területi, régió, régiós, regionális, terület, nemzetközi, mérték, mértékegység, mérés, egység, stílus, stílusok, metrikus, naptárak, Gregorián, György, buddhista, héber, iszlám, japán, kínai, kopt, etióp, indiai, perzsa, Kínai Köztársaság, testreszab, testreszabás, egyénre szab, egyénre szabás, testreszabott, egyénre szabott, területi beállítás, hőmérséklet</string>
+				<key>title</key>
+				<string>Szám-, dátum- és időformátumok</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizálható indexszavak</string>
+				<key>index</key>
+				<string>pénz</string>
+				<key>title</key>
+				<string>Pénznemek jelei</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizálható indexszavak</string>
+				<key>index</key>
+				<string>Internetszolgáltatások, e-mail, kontaktok</string>
+				<key>title</key>
+				<string>Internetszolgáltatások helye</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Language</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizálható indexszavak</string>
+				<key>index</key>
+				<string>nyelvek, testreszab, nemzetközi, testreszabott, testreszabás, rendezés, megszólítás, nőnemű, hímnemű, semleges, Élő szöveg, szöveg kiválasztása képeken</string>
+				<key>title</key>
+				<string>Nyelvi preferencia és prioritás</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Translation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizálható indexszavak</string>
+				<key>index</key>
+				<string>fordít, fordítás</string>
+				<key>title</key>
+				<string>Fordítási nyelvek</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

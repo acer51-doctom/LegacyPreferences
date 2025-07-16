@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>class</key>
+		<string>MTMouseScrollGesture</string>
+		<key>gesturename</key>
+		<string>GNAME_SCROLL</string>
+		<key>gesturelabel</key>
+		<string>GNAME_SCROLL_LABEL</string>
+	</dict>
+	<dict>    
+		<key>class</key>
+		<string>MTMouseSecondaryClickGesture</string>
+		<key>gesturename</key>
+		<string>GNAME_SECONDARYCLICK</string>
+		<key>gesturename_tap</key>
+		<string>SECONDARYCLICKGESTURE_TAP</string>
+		<key>choices</key>
+		<array>
+			<string>GNAME_SECONDARYCLICK_RIGHT</string>
+			<string>GNAME_SECONDARYCLICK_LEFT</string>
+		</array>
+	</dict>
+	<dict>
+		<key>class</key>
+		<string>MTMouseSmartZoomGesture</string>
+		<key>gesturename</key>
+		<string>GNAME_SMARTZOOM</string>
+		<key>moviechaptername</key>
+		<string>Shot 3</string>		
+		<key>gesturelabel</key>
+		<string>GNAME_SMARTZOOM_LABEL</string>
+	</dict>
+</array>
+</plist>

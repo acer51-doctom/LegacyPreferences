@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>currentSource</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Säästä akkua</string>
+                <key>index</key>
+                <string>näytöt, monitorit, kirkasta, himmennä, nuku, herää, sammu, käynnisty, virta, teho, virrankäyttö, sähkönkulutus, päälle, pois, sähkö, vihreä, säästä, säästäminen, suojele, ympäristö, lataa, liitä, irrota, optimoi, suorituskyky, prosessori, automaattinen, kirkkaus, musta, tyhjä, tummentaminen, himmennetty, himmentäminen, nukkuminen, nukkuu, herääminen, herää, sammuta, sammuttaminen, käynnistäminen, säästäminen, ladattu, lataaminen, liitetty, liittäminen, irrotettu, irrottaminen, optimoitu, optimoiminen, automatisoitu, automatisoiminen, automaattisesti, optimoi videon striimaus, optimoitu akun lataus, sovitin, kaapeli, liitin, automaattinen näytönohjaimen vaihtaminen</string>
+                <key>comments</key>
+                <string>Lokalisoitavat hakusanat</string>
+            </dict>
+            <dict>
+                <key>title</key>
+                <string>Näytä akun tila valikkorivillä</string>
+                <key>index</key>
+                <string>valikkorivi</string>
+                <key>comments</key>
+                <string>Lokalisoitavat hakusanat</string>
+            </dict>
+            <dict>
+                <key>title</key>
+                <string>Power Nap</string>
+                <key>index</key>
+                <string>power nap, powernap</string>
+                <key>comments</key>
+                <string>Lokalisoitavat hakusanat</string>
+            </dict>
+        </array>
+    </dict>
+    <key>usage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Akun käytön historia</string>
+                <key>index</key>
+                <string>virran taso, näytön päälläoloaika, energian käyttö</string>
+                <key>comments</key>
+                <string>Lokalisoitavat hakusanat</string>
+            </dict>
+        </array>
+    </dict>
+    <key>battery</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Akun kunto</string>
+                <key>index</key>
+                <string>akun huolto, enimmäiskapasiteetti, akun kesto, tärkeä akkuviesti, akun kunto</string>
+                <key>comments</key>
+                <string>Lokalisoitavat hakusanat</string>
+            </dict>
+        </array>
+    </dict>
+    <key>adapter</key>
+    <dict/>
+    <key>ups</key>
+    <dict/>
+    <key>schedule</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Ajasta käynnistyminen, nukkuminen tai sammuminen</string>
+                <key>index</key>
+                <string>nuku, herää, käynnisty, virta, päälle, pois, automaattinen, ajastettu, ajastaminen, nukkuminen, nukkuu, herääminen, herää, sammuta, sammuminen, käynnistäminen, laita, laittaminen, automatisoitu, automatisoiminen, automaattisesti</string>
+                <key>comments</key>
+                <string>Lokalisoitavat hakusanat</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

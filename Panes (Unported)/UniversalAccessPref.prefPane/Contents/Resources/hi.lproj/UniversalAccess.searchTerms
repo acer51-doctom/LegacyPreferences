@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Accessibility_Shortcut</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>ऐक्सेसिबिलिटी शॉर्टकट, ऐक्सेसिबिलिटी, शॉर्टकट, सुगमता, सहायक सेवाएँ, सहायक सुविधाएँ</string>
+				<key>title</key>
+				<string>ऐक्सेसिबिलिटी शॉर्टकट</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Alternate_Pointer_Actions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>क्लिक, माउस, स्विच, वैकल्पिक, बटन, माउस कीज़, एक्सप्रेशन, हाव-भाव, चेहरा, चेहरे से संबंधित</string>
+				<key>title</key>
+				<string>वैकल्पिक पॉइंटर क्रियाएँ</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Captioning</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>CC, SDH, क्लोज़्ड कैप्शन, क्लोज़्ड कैप्शनिंग, बधिर और कम सुनने वाले लोगों के लिए सबटाइटल, बधिर, श्रवण क्षमता, फ़िल्में, सबटाइटल, टेक्स्ट ट्रैक</string>
+				<key>title</key>
+				<string>CC, SDH और सबटाइटल सक्षम करें</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>CC, SDH, क्लोज़्ड कैप्शन, क्लोज़्ड कैप्शनिंग, बधिर और कम सुनने वाले लोगों के लिए सबटाइटल, बधिर, श्रवण क्षमता, फ़िल्में, सबटाइटल, टेक्स्ट ट्रैक</string>
+				<key>title</key>
+				<string>CC, SDH और सबटाइटल कस्टमाइज़ करें</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Dictation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>सार्वभौमिक, ऐक्सेस, पहुँच, सहायक सुविधाएँ, ऐक्सेसिबिलिटी, अक्षम, दिव्यांग, साइट, नेत्रहीन, दृष्टि, दृश्यमान, श्रवण क्षमता, दोष, बोलना, बोलने योग्य, आइटम, मौखिक, कमांड, आइटम, पहचान करना, पहचान, सहयोग करना, सहयोगी, बोलें, वॉइस, कैलिब्रेट, कैलिब्रेशन, सुनना, की, शॉर्टकट, कस्टमाइज़, अनुकूलित करना, माइक्रोफ़ोन, वॉल्यूम, बोलना, मान्यता देना, कैलिब्रेट करना, सुनना, अनुकूलित, अनुकूलित करना, डिक्टेशन, वॉइस नियंत्रण, सुगमता, सहायक सेवाएँ</string>
+				<key>title</key>
+				<string>वॉइस नियंत्रण</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Dwell</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>ड्वेल, ड्वेलिंग, ऑन स्क्रीन कीबोर्ड, ऑन-स्क्रीन कीबोर्ड, वर्चुअल कीबोर्ड, ऐक्सेसिबिलिटी कीबोर्ड, माउस हॉवर, माउस, हेड ट्रैकिंग, ड्वेल नियंत्रण, यूनिवर्सल, ऐक्सेस, सहायक सुविधाएँ, ऐक्सेसिबिलिटी, अक्षम, दिव्यांग, दोष, सहयोगी नियंत्रण, चलायमान, ह्वीलचेयर, सहायक सेवाएँ, सुगमता</string>
+				<key>title</key>
+				<string>ऐक्सेसिबिलिटी कीबोर्ड के लिए ड्वेल करें</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Full_Keyboard_Access</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य मुख्य शब्द</string>
+				<key>index</key>
+				<string>फ़ुल, कीबोर्ड, ऐक्सेस, नैविगेशन, कमांड, टैब</string>
+				<key>title</key>
+				<string>फ़ुल कीबोर्ड ऐक्सेस</string>
+			</dict>
+		</array>
+	</dict>
+	<key>General</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>सार्वभौमिक, ऐक्सेस, सहायक सुविधाएँ, ऐक्सेसिबिलिटी, अक्षम, दिव्यांग, सीमित, दोष, सहयोगी, सरल, ऐडजस्ट करें, ऐडजस्टमेंट, ऐडजस्ट करना, टाइप करना, सहायक सेवाएँ , सहायक सुविधाएँ, सुगमता</string>
+				<key>title</key>
+				<string>सामान्य ऐक्सेसिबिलिटी सेटिंग्ज़</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Head_Pointer</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>हेड, चेहरा, माउस, पॉइंटर, ट्रैक, ट्रैकिंग</string>
+				<key>title</key>
+				<string>हेड पॉइंटर</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Hearing</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>सार्वभौमिक, ऐक्सेस, सहायक सुविधाएँ, ऐक्सेसिबिलिटी, अक्षम, दिव्यांग, सीमित, बधिर, सुनना, श्रवण क्षमता, दोष, सहयोगी, सहायक सेवाएँ , सुगमता</string>
+				<key>title</key>
+				<string>अलर्ट के लिए स्क्रीन फ़्लैश करें</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>सार्वभौमिक, ऐक्सेस, सहायक सुविधाएँ, ऐक्सेसिबिलिटी, अक्षम, दिव्यांग, सीमित, बधिर, सुनना, श्रवण क्षमता, दोष, सहयोगी, सुगमता, सहायक सेवाएँ</string>
+				<key>title</key>
+				<string>मोनो के रूप में स्टीरियो चलाएँ</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Keyboard</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>सार्वभौमिक, ऐक्सेस, सहायक सुविधाएँ, ऐक्सेसिबिलिटी, अक्षम, विकलांग, सीमित, स्विच, दोष, धीमा करें, सहयोगी, सरल, स्टिकी कीज़, दोहराव की दर, मॉडिफ़ायर, संवेदनशीलता, ऐडजस्ट करें, ऐडजस्टमेंट, प्रकार, धीमा, धीमा करना, ऐडजस्ट करना, टाइपिंग, सहायक सेवाएँ, सुगमता</string>
+				<key>title</key>
+				<string>उपयोग करने के लिए कीबोर्ड आसान बनाएँ</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>सार्वभौमिक, ऐक्सेस, सहायक सुविधाएँ, ऐक्सेसिबिलिटी, अक्षम, दिव्यांग, सीमित, दोष, सहयोगी, मॉडिफ़ायर, रेटिंग, प्रकार, फ़ीडबैक टाइप करना, सहायक सेवाएँ, सुगमता</string>
+				<key>title</key>
+				<string>टाइपिंग प्रतिक्रिया सक्षम करें</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Media_Descriptions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>सार्वभौमिक, ऐक्सेस, ऐक्सेसिबिलिटी, अक्षम, दिव्यांग, सीमित, नेत्रहीन, साइट, दृष्टि, दृश्यमान, दोष, वीडियो, मीडिया, वर्णन, वर्णन करें, वर्णित, सहायक सेवाएँ , सहायक सुविधाएँ, सुगमता</string>
+				<key>title</key>
+				<string>मीडिया विवरण</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Mouse</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>ऐक्सेस, ऐक्सेसिबिलिटी, ऐडजस्ट करें, ऐडजस्ट करना, ऐडजस्टमेंट, सहयोगी, कर्सर, विलंब, अक्षम, डबल क्लिक, डबल-क्लिक, ड्रैग करें, आसान, तेज़, दिव्यांग, हैप्टिक, हैप्टिक फ़ीडबैक, दोष, इनर्शिया, कीबोर्ड, कीपैड, कीज़, सीमित, लॉक, ले जाएँ, मूव करना, सांख्यिक, पॉइंटर, स्क्रोल, स्क्रोल करना, धीमा करना, धीमा, गति, स्प्रिंग लोड, स्प्रिंग-लोड, स्विच, तीन उँगली, तीन उँगलियों से ड्रैग करें, सार्वभौमिक, सुगमता, सहायक सेवाएँ, सहायक सुविधाएँ</string>
+				<key>title</key>
+				<string>माउस और ट्रैकपैड के उपयोग को आसान बनाएँ</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>स्क्रोलिंग अक्षम करें</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>स्क्रोलिंग इनर्शिया</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_ColorFilters</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>रंग, फ़िल्टर, वर्णांध</string>
+				<key>title</key>
+				<string>रंग फ़िल्टर प्रदर्शित करें</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_Cursor</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>कर्सर, पॉइंटर, तीर, बड़ा करें, बड़ा, बड़ा करना, आवर्धन</string>
+				<key>title</key>
+				<string>कर्सर आकार</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>कर्सर, पॉइंटर, माउस, ट्रैकपैड, हिलाएँ, विगल</string>
+				<key>title</key>
+				<string>माउस पॉइंटर का पता लगाने के लिए माउस हिलाएँ</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_Display</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>सार्वभौमिक, ऐक्सेस, सहायक सुविधाएँ, ऐक्सेसिबिलिटी, अक्षम, विकलांग, सीमित, नेत्रहीन, साइट, दृष्टि, दृश्यमान, दोष, पढ़ें, दृश्य, बेहतर बनाएँ, कॉन्ट्रास्ट, काला, सफ़ेद, ग्रेस्केल, ऐडजस्टमेंट, पढ़ना, देखना, देखना, बेहतर बनाना, ऐडजस्ट करना, ग्रे स्केल, गति, गति घटाएँ, पारदर्शिता घटाएँ, पारदर्शिता, पारदर्शी, पारभासिकता, पारभासी, धुँधला, बैकग्राउंड, पृष्ठभूमि, रंग, सहायक सेवाएँ, सुगमता</string>
+				<key>title</key>
+				<string>देखने के लिए डिस्प्ले आसान बनाएँ</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_VoiceOver</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>मौखिक, इंटरफ़ेस, श्रवण क्षमता, स्क्रीन, पाठक, सार्वभौमिक, ऐक्सेस, सहायक सुविधाएँ, ऐक्सेसिबिलिटी, अक्षम, दिव्यांग, सीमित, नेत्रहीन, साइट, दृष्टि, दृश्यमान, दोष, वॉइस ओवर, सुगमता, सहायक सेवाएँ</string>
+				<key>title</key>
+				<string>VoiceOver चालू और बंद करें</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>मेनूबार</string>
+				<key>title</key>
+				<string>मेनू बार में ऐक्सेसिबिलिटी दिखाएँ</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_Zoom</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>touchbar, touch bar, ज़ूम, ज़ूम करना, बड़ा, बड़ा करना, आवर्धक, आवर्धन</string>
+				<key>title</key>
+				<string>Touch Bar ज़ूम सक्षम करें</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>सार्वभौमिक, ऐक्सेस, ऐक्सेसिबिलिटी, अक्षम, दिव्यांग, सीमित, नेत्रहीन, साइट, दृष्टि, दृश्यमान, दोष, बड़ा करें, आवर्धन, पढ़ें, देखें, दृश्य, बढ़ाएँ, घटाएँ, बड़ा, अधिकतम, न्यूनतम, स्क्रोल, माउस, ह्वील, बॉल, स्क्रोलबॉल, स्क्रोलह्वील, माउसबॉल, माउसह्वील, ज़ूम करना, बड़ा किया गया, पढ़ना, देखना, बड़ा करना, हॉवर टेक्स्ट, सहायक सेवाएँ, सहायक सुविधाएँ, सुगमता</string>
+				<key>title</key>
+				<string>हॉवर टेक्स्ट सक्षम करें</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>सार्वभौमिक, ऐक्सेस, ऐक्सेसिबिलिटी, अक्षम, दिव्यांग, सीमित, नेत्रहीन, साइट, दृष्टि, दृश्यमान, दोष, बड़ा करें, आवर्धन, पढ़ें, देखें, दृश्य, बढ़ाएँ, घटाएँ, बड़ा, अधिकतम, न्यूनतम, स्क्रोल, माउस, ह्वील, बॉल, स्क्रोलबॉल, स्क्रोलह्वील, माउसबॉल, माउसह्वील, ज़ूम करना, बड़ा किया गया, पढ़ना, देखना, बड़ा करना, डिस्प्ले, मॉनिटर, सेकंड, एकाधिक, स्क्रीन, सुगमता, सहायक सेवाएँ, सहायक सुविधाएँ</string>
+				<key>title</key>
+				<string>स्क्रीन बड़ी करने के लिए ज़ूम करें</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Siri</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>टाइप, siri में टाइप करें, siri टाइप करें, siri टाइप</string>
+				<key>title</key>
+				<string>Siri में टाइप करें</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Switch</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>पैनल, पैनल संपादक, स्कैन, स्कैनिंग, स्विच, वैश्विक, ऐक्सेस, ऐक्सेसिबिलिटी, अक्षम, दिव्यांग, बाधित, सहयोगी, सहयोगी नियंत्रण, चलायमान, ह्वीलचेयर, सहायक सेवाएँ , सहायक सुविधाएँ, सुगमता</string>
+				<key>title</key>
+				<string>स्विच नियंत्रण पैनल संपादक</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>स्कैन, स्कैनिंग, स्विच, वैश्विक, ऐक्सेस, ऐक्सेसिबिलिटी, अक्षम, दिव्यांग, बाधित, सहयोगी, सहयोगी नियंत्रण, चलायमान, ह्वीलचेयर, सहायक सेवाएँ, सहायक सुविधाएँ, सुगमता</string>
+				<key>title</key>
+				<string>स्विच नियंत्रण सक्षम करें</string>
+			</dict>
+		</array>
+	</dict>
+	<key>TextToSpeech</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>बोली, सिंथेसिस, TTS, मौखिक, घोषणा, घोषणाएँ, बोलें, टेक्स्ट, वॉइस, दर, बोलें, अलर्ट, घोषणा करना, बोलना</string>
+				<key>title</key>
+				<string>बोली</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Virtual_Keyboard</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>पैनल, पैनल संपादक, कीबोर्ड, ऑन स्क्रीन कीबोर्ड, ऑन-स्क्रीन कीबोर्ड, वर्चुअल कीबोर्ड, ऐक्सेसिबिलिटी कीबोर्ड, माउस, हेड ट्रैकिंग, सहायक सुविधाएँ, ऐक्सेस, ऐक्सेसिबिलिटी, अक्षम, दिव्यांग, दोष, सहयोगी नियंत्रण, चलायमान, ह्वीलचेयर, सहायक सेवाएँ, सुगमता</string>
+				<key>title</key>
+				<string>ऐक्सेसिबिलिटी कीबोर्ड पैनल संपादक</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>कीबोर्ड, ऑन स्क्रीन कीबोर्ड, ऑन-स्क्रीन कीबोर्ड, वर्चुअल कीबोर्ड, ऐक्सेसिबिलिटी कीबोर्ड, माउस, हेड ट्रैकिंग, सार्वभौमिक, ऐक्सेस, सहायक सुविधाएँ, ऐक्सेसिबिलिटी, अक्षम, दिव्याँग, दोष, सहयोगी नियंत्रण, चलायमान, ह्वीलचेयर, लॉगइन, सुगमता, सहायक सेवाएँ</string>
+				<key>title</key>
+				<string>ऐक्सेसिबिलिटी कीबोर्ड सक्षम करें</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

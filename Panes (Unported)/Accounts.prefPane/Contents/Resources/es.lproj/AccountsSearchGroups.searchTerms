@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loginOptionsPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Palabras de índice localizables</string>
+				<key>index</key>
+				<string>usuarios, conectar, conectarse, iniciar sesión, ocultar, mostrar, arranque, apagado, reinicio, reiniciar, reposo, botones, VoiceOver, habla, hablar, entrada, método, modo, menú, contraseñas, indicaciones, iniciar, arrancar, apagar, voice, over, contraseña, inicio de sesión, conexión, ocultación, visualización, voz</string>
+				<key>title</key>
+				<string>Ajustes de la ventana de inicio de sesión</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palabras de índice localizables</string>
+				<key>index</key>
+				<string>usuario, rápido, registro, inicio, inicio de sesión, iniciar sesión, registrarse, cerrar sesión, desconectarse, finalizar sesión, salir, iniciando, conectarse, registrándose, iniciando sesión, terminar sesión</string>
+				<key>title</key>
+				<string>Pasar de una cuenta a otra</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palabras de índice localizables</string>
+				<key>index</key>
+				<string>iniciar sesión, inicio de sesión, automatizar, registrarse, automatización, registro, iniciando sesión, inicio, conectarse, conexión, iniciar sesión, conectándose</string>
+				<key>title</key>
+				<string>Iniciar sesión automáticamente</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>active, ldap, open, servidor, active directory, open directory</string>
+				<key>title</key>
+				<string>Servicios de directorio</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>usuarios, registro, conectar, registrar, iniciar sesión, iniciar, registrarse, inicio de sesión, conexión, iniciándose, registrándose, conectándose, iniciando sesión</string>
+				<key>title</key>
+				<string>Opciones de inicio</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Servidor de cuentas de red</string>
+			</dict>
+		</array>
+	</dict>
+	<key>mobilityPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array/>
+	</dict>
+	<key>passwordPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Palabras de índice localizables</string>
+				<key>index</key>
+				<string>invitado, compartir, largo, corto, nombre, autenticar, contraseñas, filevault, compartición, compartiendo, paso, palabras, contraseña, autenticando, autenticación, archivo, protección</string>
+				<key>title</key>
+				<string>Cuenta de usuario o de grupo</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palabras de índice localizables</string>
+				<key>index</key>
+				<string>fotografías, imágenes, fotos</string>
+				<key>title</key>
+				<string>Imagen del usuario</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palabras de índice localizables</string>
+				<key>index</key>
+				<string>usuarios, cuentas, largo, corto, nombre, autenticar, registro, iniciar sesión, inicio de sesión, entrar, conectarse, cambiar, administrar, contraseña, palabras, autenticación, autenticar, registrar, iniciando sesión, conectándose, cambiando</string>
+				<key>title</key>
+				<string>Nombre de usuario y contraseña</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palabras de índice localizables</string>
+				<key>index</key>
+				<string>vcard, tarjetas</string>
+				<key>title</key>
+				<string>Contactos</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palabras de índice localizables</string>
+				<key>index</key>
+				<string>gestionar, administrar, controlar, administración</string>
+				<key>title</key>
+				<string>Cuenta de administrador</string>
+			</dict>
+		</array>
+	</dict>
+	<key>startupItemsPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Palabras de índice localizables</string>
+				<key>index</key>
+				<string>automático, automatizar, registro, registrar, iniciar sesión, iniciar, registrarse, inicio de sesión, inicio, arranque, automáticamente, automatizado, automatizada, automatización, iniciándose, registrándose, inscribiéndose, conectándose, conectar, conexión, iniciando sesión</string>
+				<key>title</key>
+				<string>Abrir aplicaciones al iniciar sesión</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palabras de índice localizables</string>
+				<key>index</key>
+				<string>registro, conectar, registrar, iniciar sesión, iniciar, registrarse, inicio de sesión, inicio, arranque, conexión, iniciándose, registrándose, conectándose, iniciando sesión</string>
+				<key>title</key>
+				<string>Ítems de inicio</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

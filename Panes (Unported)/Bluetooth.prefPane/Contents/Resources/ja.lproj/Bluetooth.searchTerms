@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>wireless ワイヤレス 無線, detect 検出, discover 発見 検知, find 探す 検索 見つける, pair ペアリング, add 追加, remove 削除, setup 設定 セットアップ, assistant アシスタント 支援 ヘルプ, keyboard キーボード 鍵盤, mouse マウス カーソル 挿入ポイント, cell セル, mobile 携帯 モバイル 移動, phone 電話 フォン, headset ヘッドセット, headphones ヘッドフォン ヘッドホン, on オン 入, off オフ 切, disconnect 接続解除 切断 切る, detach 切り離し, blue ブルー, tooth トゥース, adding 追加する 加える, removing 削除 削除する, disconnecting 接続を解除する 接続を切る, detaching 切り離す, discovering 検出する 見つけ出す, discoverable 検出可能 検知できる, finding 検索する 発見する</string>
+				<key>title</key>
+				<string>Bluetoothデバイス</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>blue ブルー, tooth トゥース, menubar メニュウバア メニューバア メニュウバー メニュバ</string>
+				<key>title</key>
+				<string>メニューバーにBluetoothの状況を表示</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>blue ブルー, tooth トゥース</string>
+				<key>title</key>
+				<string>Bluetoothシリアルポート</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>blue ブルー, tooth トゥース, sound 音 サウンド</string>
+				<key>title</key>
+				<string>Bluetoothオーディオ</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>blue ブルー, tooth トゥース</string>
+				<key>title</key>
+				<string>Bluetooth設定アシスタント</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

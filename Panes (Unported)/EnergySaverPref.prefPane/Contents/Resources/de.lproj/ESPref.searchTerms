@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>currentSource</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Strom sparen</string>
+                <key>index</key>
+                <string>Displays, Bildschirme, Monitore, heller, dimmen, Ruhezustand, aufwecken, ausschalten, starten, Strom, ein, aus, Elektrizität, grün, einsparen, sparen, Einsparung, erhalten, Umgebung, Ladung, Stecker, abgesteckt, optimieren, Performance, Leistung, Prozessor, automatisch, Helligkeit, schwarz, leer, dunkler, gedimmt, abdunkeln, schlafen, Ruhemodus, aktivieren, Aktivierung, Ruhezustand beenden, runterfahren, ausmachen, einschalten, Erhaltung, optimiert, optimieren, Optimierung, automatisiert, automatisieren, automatisch, USV, unterbrechungsfreie Stromversorgung, unterbrechungsfreie Stromquelle</string>
+                <key>comments</key>
+                <string>Lokalisierbare Indexwörter</string>
+            </dict>
+        </array>
+    </dict>
+    <key>schedule</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Zeitplan für Einschalten/Starten, Ruhezustand oder Ausschalten</string>
+                <key>index</key>
+                <string>wecken, starten, Strom, ein, aus, automatisch, geplant, planen, Ruhemodus, schlafend, aufwecken, aktivieren, Ruhezustand beenden, ausschalten, ausmachen, Stromversorgung, automatisiert, automatisieren, Automatik, automatisch</string>
+                <key>comments</key>
+                <string>Lokalisierbare Indexwörter</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

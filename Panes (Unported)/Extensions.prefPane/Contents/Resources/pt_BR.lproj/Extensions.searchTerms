@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Extensions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Palavras localizáveis do índice</string>
+				<key>index</key>
+				<string>extensões</string>
+				<key>title</key>
+				<string>Extensões</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palavras localizáveis do índice</string>
+				<key>index</key>
+				<string>marcação, marcar</string>
+				<key>title</key>
+				<string>Ações</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palavras localizáveis do índice</string>
+				<key>index</key>
+				<string>compartilhamento, compartilhar, lista de leitura, e-mail, mensagens, airdrop, notas, lembretes, pessoas, adicionar, iphoto, abertura</string>
+				<key>title</key>
+				<string>Itens do menu Compartilhar</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palavras localizáveis do índice</string>
+				<key>index</key>
+				<string>rápido, ações, finder, ações rápidas, painel de pré-visualização</string>
+				<key>title</key>
+				<string>Finder</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palavras localizáveis do índice</string>
+				<key>index</key>
+				<string>rápido, ações, touch, bar, touch bar</string>
+				<key>title</key>
+				<string>Touch Bar</string>
+			</dict>
+            <dict>
+                <key>comments</key>
+                <string>Palavras localizáveis do índice</string>
+                <key>index</key>
+                <string>extensões do fornecedor de credenciais, gerenciadores de senha, extensões do gerenciador de senhas, preenchimento automático de senhas, extensões de preenchimento automático, credential provider extensions, password managers, password manager extensions, password autofill, autofill extensions</string>
+                <key>title</key>
+                <string>Extensões de Preenchimento Automático de Senhas</string>
+            </dict>
+		</array>
+	</dict>
+</dict>
+</plist>

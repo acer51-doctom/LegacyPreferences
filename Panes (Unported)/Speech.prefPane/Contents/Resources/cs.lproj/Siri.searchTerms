@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Dictation</key>
+	<dict/>
+	<key>Siri</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovatelná indexová slova</string>
+				<key>index</key>
+				<string>Siri, asistent, dok, zkratka, ikona, klávesa, poslech, poslouchání, jazyk, řádek nabídek, mikrofon, rozpoznat, rozpoznání, rozpoznávání, zvuk, mluvit, mluvení, řeč, zkratky, mluvit, řečové funkce, hlas, vlna</string>
+				<key>title</key>
+				<string>Siri</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovatelná indexová slova</string>
+				<key>index</key>
+				<string>aktivovat, deaktivovat, vypnout, zapnout, ztišit, zastavit, stop, vypnout, zapnout</string>
+				<key>title</key>
+				<string>Zapnutí a vypnutí Siri</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

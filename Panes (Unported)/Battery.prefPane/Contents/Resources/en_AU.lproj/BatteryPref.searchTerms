@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>currentSource</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Conserve battery</string>
+                <key>index</key>
+                <string>displays, screens, monitors, brighten, dim, sleep, wake, shut down, start up, power, on, off, electricity, green, save, conservation, preserve, environmental, charge, plug, unplugged, optimise, performance, processor, automatic, brightness, black, blank, darkening, dimmed, dimming, sleeping, asleep, waking, awake, awaken, awakening, shutdown, shutting, powering, turn, turning, saving, conserving, preserving, charged, charging, plugged, plugging, un-plugged, unplugging, un-plugging, optimised, optimising, optimisation, automated, automating, automatically, optimise video streaming, optimised battery charging, adaptor, cable, plug, automatic graphics switching</string>
+                <key>comments</key>
+                <string>Localisable index words</string>
+            </dict>
+            <dict>
+                <key>title</key>
+                <string>Show battery status in menu bar</string>
+                <key>index</key>
+                <string>menubar</string>
+                <key>comments</key>
+                <string>Localisable index words</string>
+            </dict>
+            <dict>
+                <key>title</key>
+                <string>Power Nap</string>
+                <key>index</key>
+                <string>power nap, powernap</string>
+                <key>comments</key>
+                <string>Localisable index words</string>
+            </dict>
+        </array>
+    </dict>
+    <key>usage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Battery usage history</string>
+                <key>index</key>
+                <string>battery level, screen on time, energy usage</string>
+                <key>comments</key>
+                <string>Localisable index words</string>
+            </dict>
+        </array>
+    </dict>
+    <key>battery</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Battery health</string>
+                <key>index</key>
+                <string>battery service, maximum capacity, battery longevity, important battery message, battery condition</string>
+                <key>comments</key>
+                <string>Localisable index words</string>
+            </dict>
+        </array>
+    </dict>
+    <key>adapter</key>
+    <dict/>
+    <key>ups</key>
+    <dict/>
+    <key>schedule</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Schedule startup, sleep or shut down</string>
+                <key>index</key>
+                <string>sleep, wake, start up, power, on, off, automatic, scheduled, scheduling, sleeping, asleep, waking, awake, awaken, awakening, shutdown, shutting, powering, turn, turning, automated, automating, automatically</string>
+                <key>comments</key>
+                <string>Localisable index words</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

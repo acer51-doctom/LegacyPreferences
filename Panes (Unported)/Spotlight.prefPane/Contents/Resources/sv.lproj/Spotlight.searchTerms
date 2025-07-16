@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>privacy</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbara indexord</string>
+				<key>index</key>
+				<string>integritet, integritetsskydd, skydd, hindra, hemligt, hemlig, gömd, skyddad, skyddat, skyddar, förhindra, förhindrar, förhinder, blockerad, blockerat, blocka</string>
+				<key>title</key>
+				<string>Blockera sökning i privata filer</string>
+			</dict>
+		</array>
+	</dict>
+	<key>searchResults</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbara indexord</string>
+				<key>index</key>
+				<string>hitta, resultat, träffar, sökningar, sökning, sök</string>
+				<key>title</key>
+				<string>Spotlight-sökkategorier</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbara indexord</string>
+				<key>index</key>
+				<string>tangent, tangenttryckning, kombination</string>
+				<key>title</key>
+				<string>Spotlight-kortkommandon</string>
+			</dict>
+            <dict>
+                <key>comments</key>
+                <string>Lokaliserbara indexord</string>
+                <key>index</key>
+                <string>slåupp, slå upp</string>
+                <key>title</key>
+                <string>Spotlight-förslag i Slå upp</string>
+            </dict>
+		</array>
+	</dict>
+</dict>
+</plist>

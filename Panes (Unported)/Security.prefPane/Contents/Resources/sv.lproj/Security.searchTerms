@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Advanced</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>infraröd, mottagare, IR, infra-röd, infra-rött, infrarött</string>
+				<key>title</key>
+				<string>Avaktivera fjärrkontroll</string>
+			</dict>
+		</array>
+	</dict>
+	<key>FDE</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbara indexord</string>
+				<key>index</key>
+				<string>skiva, disk, kryptera, krypterat, kryptering, file vault, filevault</string>
+				<key>title</key>
+				<string>FileVault</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Firewall</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbara indexord</string>
+				<key>index</key>
+				<string>förhindra, blockera, nätverk, portar, udp, fildelning, fjärr, SSH, förhinder, blockerad, blockning, brandvägg</string>
+				<key>title</key>
+				<string>Slå av eller på brandväggen</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbara indexord</string>
+				<key>index</key>
+				<string>brandvägg</string>
+				<key>title</key>
+				<string>Avancerade brandväggsinställningar</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbara indexord</string>
+				<key>index</key>
+				<string>gömt läge</string>
+				<key>title</key>
+				<string>Dolt läge</string>
+			</dict>
+		</array>
+	</dict>
+	<key>General</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+            <dict>
+                <key>comments</key>
+                <string>Lokaliserbara indexord</string>
+                <key>index</key>
+                <string>apple watch, klocka, låsa upp, godkänna</string>
+                <key>title</key>
+                <string>Tillåt Apple Watch att låsa upp datorn</string>
+            </dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbara indexord</string>
+				<key>index</key>
+				<string>skärm, släckare, lösenord, autentisera, låsa, låsa upp, vila, väcka, skärmsläckare, lösen, autentiserad, autentisering, låst, låsning, olåst, försätta i vila, väckning</string>
+				<key>title</key>
+				<string>Kräv lösenord för att väcka datorn</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbara indexord</string>
+				<key>index</key>
+				<string>logga, inlogga, på, in, automatisk, loggning, logon, signering, signin, signon</string>
+				<key>title</key>
+				<string>Stäng av automatisk inloggning</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbara indexord</string>
+				<key>index</key>
+				<string>lås, lås upp, låsning, upplåsning</string>
+				<key>title</key>
+				<string>Lås Systeminställningar</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbara indexord</string>
+				<key>index</key>
+				<string>logga, ut, loggning, utloggning, logga ut</string>
+				<key>title</key>
+				<string>Logga ut vid overksamhet</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbara indexord</string>
+				<key>index</key>
+				<string>säker, säkerhet, säkrad, säkring, skydd, skyddad, skyddar</string>
+				<key>title</key>
+				<string>Säkerhetsinställningar</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Lås skärm</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>Gatekeeper, gate, keeper, grindvakt, identifierad, känd, utvecklare, program, app, hämtning, hämtningar</string>
+				<key>title</key>
+				<string>Gatekeeper</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbara indexord</string>
+				<key>index</key>
+				<string>privat, integritet</string>
+				<key>title</key>
+				<string>Integritetsinställningar</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Accessibility</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>hjälpmedel</string>
+				<key>title</key>
+				<string>Tillåt appar att använda Hjälpmedel</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_AllFiles</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Filer</string>
+				<key>title</key>
+				<string>Ge appar tillgång till alla användarfiler</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Assistive</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Universal, åtkomst, hjälpmedel, handikappad, förhinder, assisterande, hjälpmedelskontroll, mobilitet, rullstol</string>
+				<key>title</key>
+				<string>Tillåt assisterande appar att styra datorn</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Calendars</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Kalendrar, datum</string>
+				<key>title</key>
+				<string>Ge appar tillgång till Kalender</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Camera</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>kamera, app, program, tillgång, åtkomst, privat, integritet</string>
+				<key>title</key>
+				<string>Ge appar tillgång till kameran</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Contacts</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>kontakt, adress, app, program, tillgång, åtkomst, privat, integritet</string>
+				<key>title</key>
+				<string>Ge appar tillgång till Kontakter</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_SystemServices</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>plats, tjänst, tid, zon, behörighet, ads,  hitta min mac, hem, homekit, spotlight, integritet</string>
+				<key>title</key>
+				<string>Tillåt systemtjänster att fastställa din plats</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_LocationServices</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>plats, tjänst, app, program, tillgång, åtkomst, privat, integritet</string>
+				<key>title</key>
+				<string>Ge appar tillgång till platsinformation</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Microphone</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>mikrofon, app, program, tillgång, åtkomst, privat, integritet</string>
+				<key>title</key>
+				<string>Ge appar tillgång till mikrofonen</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Reminders</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Påminnelser, uppgift</string>
+				<key>title</key>
+				<string>Ge appar tillgång till Påminnelser</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

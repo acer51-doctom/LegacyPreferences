@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displaysArrangementTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>zasloni, monitori, zrcalo, zrcalno, zrcaljenje, raspoređivanje, raspored</string>
+				<key>title</key>
+				<string>Rasporedi više zaslona</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>traka s izbornicima</string>
+				<key>title</key>
+				<string>Premjesti traku s izbornicima</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysColorTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>monitori, zasloni, monitori, kalibriraj, podesi, posvijetli, posvijetli, zatamni, zatamni, bijela točka, gamma, ambijentalno svjetlo, profili, kalibriranje, podešavanje, podešavanja, zatamnjivanje</string>
+				<key>title</key>
+				<string>Boje i kalibracija zaslona</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysDisplayTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>monitori, zasloni, monitori, dubina, milijuni, tisuće, 256, ColorSync, podesi, posvijetli, posvijetli, zatamni, zatamni, podešavanje, podešavanje, zatamnjivanje, true tone</string>
+				<key>title</key>
+				<string>Boje, svjetlina i razlučivost</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>prikazi, zasloni, monitori</string>
+				<key>title</key>
+				<string>Stopa osvježavanja zaslona</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>zasloni, monitori</string>
+				<key>title</key>
+				<string>Detektiraj više zaslona</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>traka s izbornicima</string>
+				<key>title</key>
+				<string>Prikaži zaslone u traci s izbornicima</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>zakreni, rotacija</string>
+				<key>title</key>
+				<string>Zakretanje zaslona</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>AirPlay</string>
+				<key>title</key>
+				<string>Opcije AirPlay zrcaljenja</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysGeometryTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>položaj, visina, širina, jastučasto izobličenje, zakreni, perspektivno izobličenje, paralelogram, luk, krivulja ugla, iskrivljeno, geometrija, dimenzije</string>
+				<key>title</key>
+				<string>Slika zaslona</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>rgb, podesi, poravnaj, podešavanje, podešavanje, poravnavanje, poravnavanje</string>
+				<key>title</key>
+				<string>Konvergiranje slike</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>smetnje, resetiraj, podrhtavanje, interferencije, podrhtavanje</string>
+				<key>title</key>
+				<string>Demagnetiziraj</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysNightShiftTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>night, shift, night shift, zatamni, toplo, topla boja, spektar, pripravno stanje, temperatura, zalazak sunca, izlazak sunca, zatamnjivanje</string>
+				<key>title</key>
+				<string>Night Shift opcije</string>
+			</dict>
+		</array>
+	</dict>
+	<key>universalControlTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>univerzalno, upravljanje</string>
+				<key>title</key>
+				<string>Univerzalno upravljanje</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

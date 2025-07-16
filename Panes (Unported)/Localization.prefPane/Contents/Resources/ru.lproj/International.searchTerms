@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Region</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>региональный, международный, измерение, единицы, стили, метрическая, календарь, календари, григорианский, буддийский, еврейский, исламский, японский, китайский, коптский, эфиопский, индийский, персидский, тайваньский, настроить, настроенный, настройка, выбор, местный, температура</string>
+				<key>title</key>
+				<string>Форматы чисел, даты и времени</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>деньги</string>
+				<key>title</key>
+				<string>Знаки валют</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>Услуги интернета, интернет-службы, интернет-служба, интернет-сервис, интернет-сервисы, службы интернета, mail, e-mail, имейл, имэйл, электронная почта, электронное сообщение, контакты, адреса</string>
+				<key>title</key>
+				<string>Регион интернет-услуг</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Language</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>языки, настроить, международный, настроенный, настраивать, настройка, сортировка, личное обращение, женский, мужской, средний, Онлайн-текст, выбор текста на изображениях</string>
+				<key>title</key>
+				<string>Настройки языка и приоритет</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Translation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>перевести, перевод</string>
+				<key>title</key>
+				<string>Языки перевода</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

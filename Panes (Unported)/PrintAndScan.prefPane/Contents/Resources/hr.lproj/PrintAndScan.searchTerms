@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fax</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>faksiranje, faksimil</string>
+				<key>title</key>
+				<string>Postavke faksa</string>
+			</dict>
+		</array>
+	</dict>
+	<key>print</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>standardno, redovi, upravljački programi, veličina papira, podešavanje stranice, cups sustav za ispis, dodaj, ispis</string>
+				<key>title</key>
+				<string>Podešavanje pisača</string>
+			</dict>
+		</array>
+	</dict>
+	<key>scan</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>skeneri, skeniranje, slika, snimanje</string>
+				<key>title</key>
+				<string>Podešavanje skenera</string>
+			</dict>
+		</array>
+	</dict>
+	<key>share</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>dijeli</string>
+				<key>title</key>
+				<string>Dijeljenje pisača</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

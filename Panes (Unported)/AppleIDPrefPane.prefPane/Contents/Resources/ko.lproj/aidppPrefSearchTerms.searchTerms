@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>AppleAccount</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>로컬라이즈가 가능한 인덱스 단어</string>
+                <key>index</key>
+                <string>iCloud, 클라우드, me.com, apple 계정, appleid, apple, id, 계정, 연락처, 결제, 배송</string>
+                <key>title</key>
+                <string>Apple ID</string>
+            </dict>
+        </array>
+    </dict>
+    <key>iCloud</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>로컬라이즈가 가능한 인덱스 단어</string>
+                <key>index</key>
+                <string>iCloud, cloud, me.com, apple 계정, 나의 mac 찾기, 저장 공간, 문서 및 데이터, iCloud Drive, 책갈피, 캘린더, 연락처, Mail, 미리 알림, 읽기 목록, 주식, 홈, Safari, 메모, </string>
+                <key>title</key>
+                <string>iCloud</string>
+            </dict>
+        </array>
+    </dict>
+    <key>com.apple.AppleMediaServicesUI.SpyglassPurchases</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>로컬라이즈가 가능한 인덱스 단어</string>
+                <key>index</key>
+                <string>미디어, 구입, app store, 서비스, 구독</string>
+                <key>title</key>
+                <string>미디어 및 구입 항목</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

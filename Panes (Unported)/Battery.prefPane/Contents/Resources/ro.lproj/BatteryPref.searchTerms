@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>currentSource</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Menajează bateria</string>
+                <key>index</key>
+                <string>afișaje, ecrane, monitoare, mai strălucitor, mai întunecat, adormi, trezi, opri, porni, alimenta, pornit, oprit, electricitate, verde, salva, economisi, conserva, conservare, păstra, mediu, încărca, conectat, deconectat, optimiza, performanțe, procesor, automat, luminozitate, negru, gol, întoarcere, estompat, estompare, adormire, somn, trezire, treaz, trezit, oprire, închidere, alimentare, salvare, economisire, conservare, păstrare, încărcat, încărcare, cuplat, alimentat, cuplare, decuplat, decuplare, optimiza, optimizat, optimizare, automatizat, automatizare, automat, optimizare flux video, încărcare optimizată baterie, adaptor, cablu, priză, comutare grafică automată</string>
+                <key>comments</key>
+                <string>Cuvinte de index localizabile</string>
+            </dict>
+            <dict>
+                <key>title</key>
+                <string>Afișează starea bateriei în bara de meniu</string>
+                <key>index</key>
+                <string>bară de meniu</string>
+                <key>comments</key>
+                <string>Cuvinte de index localizabile</string>
+            </dict>
+            <dict>
+                <key>title</key>
+                <string>Power Nap</string>
+                <key>index</key>
+                <string>power nap, powernap</string>
+                <key>comments</key>
+                <string>Cuvinte de index localizabile</string>
+            </dict>
+        </array>
+    </dict>
+    <key>usage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Istoric utilizare baterie</string>
+                <key>index</key>
+                <string>nivel baterie, durată ecran activat, utilizare energie</string>
+                <key>comments</key>
+                <string>Cuvinte de index localizabile</string>
+            </dict>
+        </array>
+    </dict>
+    <key>battery</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Stare sănătate baterie</string>
+                <key>index</key>
+                <string>service baterie, capacitate maximă, longevitate baterie, mesaj important baterie, stare baterie</string>
+                <key>comments</key>
+                <string>Cuvinte de index localizabile</string>
+            </dict>
+        </array>
+    </dict>
+    <key>adapter</key>
+    <dict/>
+    <key>ups</key>
+    <dict/>
+    <key>schedule</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Program pentru pornire, adormire sau oprire</string>
+                <key>index</key>
+                <string>adormire, trezire, porni, alimenta, inițializa, pornit, oprit, automat, programat, programare, adormire, somn, trezire, treaz, trezit, trezire, oprire, închidere, întrerupere, automat, automatizare</string>
+                <key>comments</key>
+                <string>Cuvinte de index localizabile</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

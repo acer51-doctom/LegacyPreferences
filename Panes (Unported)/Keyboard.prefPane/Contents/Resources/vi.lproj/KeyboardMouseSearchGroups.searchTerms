@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>InputSources</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>phương thức, thanh menu</string>
+				<key>title</key>
+				<string>Hiển thị menu nhập liệu trong thanh menu</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>nhập, nhập liệu, nguồn, Qwerty, Pro, PC, Tiêu chuẩn, ISO, ANSI, JIS, Mở rộng, Tiếng Dvorak, Tiếng Afghan, Tiếng Ả Rập, Tiếng Armenia, Tiếng Áo, Tiếng Azeri, Tiếng Bỉ, Tiếng Brazil, Tiếng Anh, Tiếng Bulgaria, Tiếng Byelorussia, Tiếng Canada, Tiếng Cherokee, Tiếng Croatia, Tiếng Séc, Tiếng Đan Mạch, Tiếng Devanagari, Tiếng Hà Lan, Tiếng Estonia, Tiếng Faroe, Tiếng Phần Lan, Tiếng Pháp, Tiếng Đức, Tiếng Hy Lạp, Tiếng Gujarati, Tiếng Gurmukhi, Tiếng Hawaii, Tiếng Do Thái, Tiếng Hungary, Tiếng Iceland, Tiếng Inuktitut, Tiếng Ireland, Tiếng Ý, Tiếng Jawi, Tiếng Kazakh, Tiếng Latvia, Tiếng Litva, Tiếng Macedonia, Tiếng Malta, Tiếng Maori, Tiếng Nepal, Tiếng Sami, Tiếng Na Uy, Tiếng Ba Tư, Tiếng Ba Lan, Tiếng Bồ Đào Nha, Tiếng Romania, Tiếng Nga, Tiếng Serbia, Tiếng Slovak, Tiếng Slovenia, Tiếng Tây Ban Nha, Tiếng Thụy Điển, Tiếng Thụy Sĩ, Tiếng Thái, Tiếng Tây Tạng, Tiếng Thổ Nhĩ Kỳ, Tiếng Anh (Mỹ), Tiếng Duy Ngô Nhĩ, Tiếng Ukraina, Unicode, Hex, Tiếng Việt, Tiếng Wales</string>
+				<key>title</key>
+				<string>Bố cục bàn phím</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>chính, ngôn ngữ, chế độ, nguồn, quốc tế, nước ngoài, ký tự, Unicode, Tiếng Nhật, Kotoeri, Hiragana, Katakana, Romaji, Ainu, Tiếng Trung, Phồn thể, Hanin, Giản thể, Wubi, Tiếng Hàn, Hangul, Tiếng Việt, Telex, Tiếng Tamil, Anjal</string>
+				<key>title</key>
+				<string>Phương thức nhập ngôn ngữ</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>bảng, ký hiệu, màn hình, ký tự, Unicode, Tiếng Nhật, Kana, nguồn, Keycaps, phím, dấu câu</string>
+				<key>title</key>
+				<string>Bảng</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>nhập liệu, nguồn, tài liệu, bộ gõ, kiểu gõ</string>
+				<key>title</key>
+				<string>Sử dụng một nguồn nhập liệu trong tất cả các tài liệu</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>nhập liệu, nguồn, tài liệu, bộ gõ, kiểu gõ</string>
+				<key>title</key>
+				<string>Cho phép nguồn nhập liệu khác nhau cho từng tài liệu</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Text</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>phân số, thay thế, thay, phím tắt</string>
+				<key>title</key>
+				<string>Thay thế ký hiệu và văn bản</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>ngôn ngữ, kiểm tra chính tả, tự động sửa, sửa chính tả, chữ hoa/thường, giãn cách</string>
+				<key>title</key>
+				<string>Chính tả</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>gợi ý nhập, quicktype, nhập nhanh, đoán trước từ nhập, văn bản dự đoán, touch bar, thanh, touchbar</string>
+				<key>title</key>
+				<string>Các gợi ý nhập trên Touch Bar</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>trích dẫn thông minh, trích dẫn, dấu gạch ngang</string>
+				<key>title</key>
+				<string>Sử dụng trích dẫn và gạch ngang thông minh</string>
+			</dict>
+		</array>
+	</dict>
+	<key>keyboardTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>Bluetooth, bàn phím, các thiết bị</string>
+				<key>title</key>
+				<string>Thiết lập bàn phím Bluetooth</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>phím, trì hoãn, lặp lại phím, lặp lại, dấu, phản hồi, chức năng, Fn, F1, F2, F3, F4, F5, F6, F7, F8, F9, F10, F11, F12, các phím, tỷ lệ, nhập</string>
+				<key>title</key>
+				<string>Độ nhạy của bàn phím</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>xem, tầm nhìn, tối, ánh sáng yếu, mờ, đêm, nhập, chiếu sáng, được chiếu sáng, nhập liệu, độ sáng, điều chỉnh, tự động, chiếu sáng ngược, chiếu sáng nền</string>
+				<key>title</key>
+				<string>Chiếu sáng bàn phím</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>touch bar, touchbar, thanh, control strip, dải, Fn, phím chức năng, tùy chỉnh, cá nhân hóa</string>
+				<key>title</key>
+				<string>Tùy chỉnh Touch Bar hoặc Control Strip</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>thanh menu, bảng, ký hiệu, biểu tượng, trình xem bàn phím</string>
+				<key>title</key>
+				<string>Hiển thị trình xem bàn phím và biểu tượng trên thanh menu</string>
+			</dict>
+		</array>
+	</dict>
+	<key>keyboardTab_ModifierKeys</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>Caps Lock, Control, Option, Command</string>
+				<key>title</key>
+				<string>Đặt lại các phím bổ trợ</string>
+			</dict>
+		</array>
+	</dict>
+	<key>shortcutsTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>phím tắt, Launchpad, Dock, Mission Control, ảnh chụp màn hình, ảnh màn hình, Dịch vụ, Spotlight, Trợ năng, truy cập bàn phím đầy đủ, các nguồn đầu vào, ứng dụng, phím chức năng, touch bar, thanh, touchbar</string>
+				<key>title</key>
+				<string>Phím tắt</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Dictation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>chính tả, đọc chính tả, nghe, ngôn ngữ, micrô, nhận biết, nhận, nói, đọc, lời nói, phím tắt</string>
+				<key>title</key>
+				<string>Đọc chính tả</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Parole dell'indice localizzabili</string>
+				<key>index</key>
+				<string>wireless, rileva, trova, cerca, abbina, aggiungi, rimuovi, configura, assistente, tastiera, mouse, cellulare, telefonino, telefono, cuffie auricolari, auricolari, acceso, spento, disconnetti, rimuovi, blue, tooth, aggiungere, rimuovere, disconnettere, trovare, visibile, cercare, cuffie</string>
+				<key>title</key>
+				<string>Dispositivi Bluetooth</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Parole dell'indice localizzabili</string>
+				<key>index</key>
+				<string>blue, tooth, barra dei menu</string>
+				<key>title</key>
+				<string>Mostra lo stato del Bluetooth nella barra dei menu</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Parole dell'indice localizzabili</string>
+				<key>index</key>
+				<string>blue, tooth</string>
+				<key>title</key>
+				<string>Porte seriali Bluetooth</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Parole dell'indice localizzabili</string>
+				<key>index</key>
+				<string>blue, tooth, audio</string>
+				<key>title</key>
+				<string>Audio Bluetooth</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Parole dell'indice localizzabili</string>
+				<key>index</key>
+				<string>blue, tooth</string>
+				<key>title</key>
+				<string>Impostazione Assistita Bluetooth</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

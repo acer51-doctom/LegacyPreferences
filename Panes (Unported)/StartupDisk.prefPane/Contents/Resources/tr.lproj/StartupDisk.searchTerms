@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>StartupSearchGroup</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>başlatma, açmak, ilk, birincil, birinci, sabit, disk, sürücü, disk bölümü, sistem, netboot, ağdan başlatma, başlıyor, start, boot, up, initial, hard, disc, drive, volume, system, starting</string>
+				<key>title</key>
+				<string>Başlangıç diski</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>disk, FireWire, fire wire, disc</string>
+				<key>title</key>
+				<string>Hedef Disk Modu</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

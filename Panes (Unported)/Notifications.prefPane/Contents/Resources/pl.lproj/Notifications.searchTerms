@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Notifications</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>centrum, powiadomienie, centrum powiadomień, powiadomienia, baner, banery, alert, alerty, plakietka, plakietki, dźwięki, blokada ekranu</string>
+				<key>title</key>
+				<string>Ustawienia centrum powiadomień</string>
+			</dict>
+		</array>
+	</dict>
+    <key>Focus</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalizowane słowa kluczowe</string>
+                <key>index</key>
+                <string>dnd, nie przeszkadzać, priorytet, tryb skupienia, skupienie, pilne, ważne, status nieobecności, nieobecność, nieobecny, nieobecna, automatyczna odpowiedź</string>
+                <key>title</key>
+                <string>Ustawienia trybu skupienia</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

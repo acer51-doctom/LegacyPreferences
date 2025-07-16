@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SoftwareUpdate</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>yazılım, güncelleme, yükle, çekirdek, tohum, beta, güncellenmiş, güncelleştirilmiş, güncellenen, güncelleştirilen, güncelleme, güncelleştirme, indirilmiş, indirilen, yüklü, yüklenmiş, yüklenen, otomatik olarak, zamanlama, yükselt, yükseltme, sistem, software, updates, install, seed, beta, updated, updating, downloaded, downloading, installed, installing, automated, automating, automatically, scheduling, upgrade, upgrading, system</string>
+				<key>title</key>
+				<string>Yazılım Güncellemelerini Denetle</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

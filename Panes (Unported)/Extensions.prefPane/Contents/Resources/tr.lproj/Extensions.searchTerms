@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Extensions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>genişletmeler</string>
+				<key>title</key>
+				<string>Genişletmeler</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>işaretle, işaret, markup, mark up</string>
+				<key>title</key>
+				<string>Eylemler</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>paylaşma, paylaş, okuma listesi, mail, mesajlar, airdrop, notlar, anımsatıcılar, kişiler, ekle, iphoto, aperture</string>
+				<key>title</key>
+				<string>Menü öğelerini paylaş</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>hızlı, eylemler, finder, hızlı eylemler, önizleme bölümü</string>
+				<key>title</key>
+				<string>Finder</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>hızlı, eylemler, touch, bar, touch bar</string>
+				<key>title</key>
+				<string>Touch Bar</string>
+			</dict>
+            <dict>
+                <key>comments</key>
+                <string>Yerelleştirilebilir dizin sözcükleri</string>
+                <key>index</key>
+                <string>kimlik bilgisi sağlayıcı genişletmeleri, parola yöneticileri, parola yöneticisi genişletmeleri, otomatik parola doldurma, otomatik doldurma genişletmeleri, credential provider extensions, password managers, password manager extensions, password autofill, autofill extensions</string>
+                <key>title</key>
+                <string>Otomatik Parola Doldurma Genişletmeleri</string>
+            </dict>
+		</array>
+	</dict>
+</dict>
+</plist>

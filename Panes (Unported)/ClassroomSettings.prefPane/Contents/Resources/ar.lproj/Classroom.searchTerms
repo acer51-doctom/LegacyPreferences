@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Classroom</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة</string>
+				<key>index</key>
+				<string>قاعة الدراسة، معلم، شاشة، تحكم، درس</string>
+				<key>title</key>
+				<string>قاعة الدراسة</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

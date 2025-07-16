@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Region</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>regional, international, Maße, Einheiten, Stile, metrisch, Kalender, gregorianisch, buddhistisch, hebräisch, islamisch, japanisch, chinesisch, koptisch, äthiopisch, indisch, persisch, Republik China, anpassen, angepasst, eigene, Anpassung, Gebietsschema, Gebiet, Temperatur</string>
+				<key>title</key>
+				<string>Zahlen-, Datums- und Zeitformate</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Geld</string>
+				<key>title</key>
+				<string>Währungsbezeichnung</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Internetdienste, Mail, Kontakte</string>
+				<key>title</key>
+				<string>Region für Internetdienste</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Language</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Sprachen, Sprache, anpassen, angepasst, Anpassung, international, sortieren, sortiert, Sortierung, Anrede, Ansprache, feminin, weiblich, maskulin, männlich, neutral, divers, Live Text, Text in Bildern auswählen</string>
+				<key>title</key>
+				<string>Sprachpräferenz und -priorität</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Translation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>übersetzen, Übersetzung</string>
+				<key>title</key>
+				<string>Sprachen zum Übersetzen</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fax</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>fakslama, faksimile, faxing, facsimile</string>
+				<key>title</key>
+				<string>Faks ayarları</string>
+			</dict>
+		</array>
+	</dict>
+	<key>print</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>saptanmış, kuyruklar, sürücüler, kâğıt boyutu, sayfa düzeni, ekleme, basma, baskı alma, yazdırma, default, queues, drivers, paper size, page setup, cups, add, printing</string>
+				<key>title</key>
+				<string>Yazıcıları ayarlama</string>
+			</dict>
+		</array>
+	</dict>
+	<key>scan</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>tarayıcılar, tarama, görüntü, görüntüleme, scanners, scanning, image, imaging</string>
+				<key>title</key>
+				<string>Tarayıcıları ayarlama</string>
+			</dict>
+		</array>
+	</dict>
+	<key>share</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>paylaş</string>
+				<key>title</key>
+				<string>Bir yazıcıyı paylaşma</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

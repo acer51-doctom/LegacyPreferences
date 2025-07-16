@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DesktopPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Parole dell'indice localizzabili</string>
+				<key>index</key>
+				<string>fotografie, sfondo, scrivania, desktop, sfondo scrivania, wallpaper, modello, personalizza, foto, immagini, personalizzate, personalizzare, personalizzazione</string>
+				<key>title</key>
+				<string>Immagine scrivania</string>
+			</dict>
+		</array>
+	</dict>
+	<key>ScreenSaverPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Parole dell'indice localizzabili</string>
+				<key>index</key>
+				<string>disabilitare, avvia, album, iTunes, illustrazione, casuale, fotografie, immagini, personalizza, salvaschermo, salvaschermi, foto, disattivare, iniziare, personalizzate, personalizzare, personalizzazione</string>
+				<key>title</key>
+				<string>Salvaschermo</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Mostra orologio con il salvaschermo</string>
+			</dict>
+		</array>
+	</dict>
+	<key>ScreenSaverPref_HotCorners</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Parole dell'indice localizzabili</string>
+				<key>index</key>
+				<string>angoli schermo attivi</string>
+				<key>title</key>
+				<string>Angoli attivi</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

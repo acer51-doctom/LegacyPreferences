@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>播放, play, 插入, insert, 启动, 开始, start, 运行, run, 载入, load, 压缩, compact, 数码, digital, 磁盘, disks, 光盘, discs, 光, optical, 介质, medium, 媒体, media, 空白, blank, 音乐, Music, iTunes, 播放器, 播放程序, player, 自动播放, autoplay, 照片, Photos, 图片, pictures, 照片, photographs, photos, iDVD, movies, 影片, videos, 视频, 正在播放, playing, 正在插入, inserting, 正在启动, starting, 正在运行, running, 正在载入, loading</string>
+				<key>title</key>
+				<string>处理CD和DVD, Handle CDs and DVDs</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

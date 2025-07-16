@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+        <key>Handoff</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>comments</key>
+                    <string>Lokalisoitavat hakusanat</string>
+                    <key>index</key>
+                    <string>jatkuvuus, jatka, toiminta, aktiviteetti, jatkaminen, jatkuminen, jatko, handoff</string>
+                    <key>title</key>
+                    <string>Salli Handoff</string>
+                </dict>
+            </array>
+        </dict>
+		<key>Main</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Lokalisoitavat hakusanat</string>
+					<key>index</key>
+					<string>valittu, teksti, korostaminen, korosta, korostus, ulkoasu</string>
+					<key>title</key>
+					<string>Korostusväri</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Lokalisoitavat hakusanat</string>
+					<key>index</key>
+					<string>Omenavalikko, ohjelmat, apit, dokumentit, palvelimet</string>
+					<key>title</key>
+					<string>Äskeisten kohteiden määrä</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Lokalisoitavat hakusanat</string>
+					<key>index</key>
+					<string>työpöytä, muokkaa, personalisoi, välilehti, välilehdet, muokkaaminen, muokkaus, personalisoiminen, ulkoasu</string>
+					<key>title</key>
+					<string>Painikkeiden, valikoiden ja ikkunoiden ulkoasu</string>
+				</dict>
+
+				<dict>
+					<key>comments</key>
+					<string>Lokalisoitavat hakusanat</string>
+					<key>index</key>
+					<string>työpöytä, muokkaa, personalisoi, muokkaaminen, muokkaus, automaattinen, personalisoiminen, ulkoasu, vaalea, tumma, teema, tila, Tumma tila</string>
+					<key>title</key>
+					<string>Ulkoasu</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Lokalisoitavat hakusanat</string>
+					<key>index</key>
+					<string>painike, valinta, valikko, ulkonäkö, ulkoasu, väri</string>
+					<key>title</key>
+					<string>Kohdistusväri</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Lokalisoitavat hakusanat</string>
+					<key>index</key>
+					<string>muokkaukset, muutokset, tallenna, sulje, lopeta, dokumentti, tiedosto</string>
+					<key>title</key>
+					<string>Säilytä muutokset</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Lokalisoitavat hakusanat</string>
+					<key>index</key>
+					<string>ikkuna, hyppää, vierityspalkki, hyppääminen</string>
+					<key>title</key>
+					<string>Vierityspalkin käytös</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Lokalisoitavat hakusanat</string>
+					<key>index</key>
+					<string>kuvake, sivu, palkki, koko, sivupalkki</string>
+					<key>title</key>
+					<string>Sivupalkin kuvakkeet</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Lokalisoitavat hakusanat</string>
+					<key>index</key>
+					<string>lopeta, lopettaminen, avaa, avaa uudelleen, avaaminen, avaus, uudelleenavaaminen, uudelleenavaus, palautus, palauttaminen, suosia välilehtiä, suosikkivälilehdet</string>
+					<key>title</key>
+					<string>Sulje ja palauta ikkunat</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Lokalisoitavat hakusanat</string>
+					<key>index</key>
+					<string>Safari, http, https, surffailu, www, verkkosivusto, sivusto, verkkosivu, sivu</string>
+					<key>title</key>
+					<string>Aseta oletusselain</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+</plist>

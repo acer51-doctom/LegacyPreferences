@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>currentSource</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Spara ström</string>
+                <key>index</key>
+                <string>bildskärm, skärm, monitor, ljusare, mörkare, ljusstyrka, vila, vakna, stäng av, starta, ström, energi, på, av, el, elektricitet, grön, spara, bespara, bevara, miljö, miljövänlig, optimera, prestanda, processor, automatiskt, svart, mörk, mörkning, dimmer, dimning, vilar, sover, vaknar, vaken, väckt, väcker, stänger av, sätter på, sätt på, slå på, slår på, sparar, besparar, laddad, laddar, optimerad, optimerar, optimering, automatiserad, automatisering, automatisk, ups, avbrottsfri kraftförsörjning, avbrottsfri strömkälla, avbrottsfri energi</string>
+                <key>comments</key>
+                <string>Lokaliserbara indexord</string>
+            </dict>
+        </array>
+    </dict>
+    <key>schedule</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Schemalägg start, vila eller avstängning</string>
+                <key>index</key>
+                <string>vakna, starta, på, av, automatisk, schemalagd, schemaläggning, vilar, sover, vaknar, vaken, väckt, väcker, avstängning, stäng av, stänger av, sätter på, slå på, slår på, automatiserad, automatisera, automatisk</string>
+                <key>comments</key>
+                <string>Lokaliserbara indexord</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

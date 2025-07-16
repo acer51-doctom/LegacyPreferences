@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>StartupSearchGroup</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>start, boot, oppstart, starte opp, harddisk, disk, stasjon, volum, system, netboot, starte, oppstarting, nettstart, nettverksstart, nettverksoppstart, nettverksdisk</string>
+				<key>title</key>
+				<string>Startdisk</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>plate, FireWire, fire wire</string>
+				<key>title</key>
+				<string>Måldiskmodus</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

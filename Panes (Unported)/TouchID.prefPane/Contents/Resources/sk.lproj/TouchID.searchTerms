@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TouchID</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>Touch ID, touchid, ID, touch, dotyk, odtlačok prsta, prst, odtlačok, odomknúť, odomknutie, platiť, zaplatiť, platba, kúpiť, zakúpiť, nákup</string>
+				<key>title</key>
+				<string>Touch ID</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

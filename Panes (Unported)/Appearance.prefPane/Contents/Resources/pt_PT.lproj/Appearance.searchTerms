@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+        <key>Handoff</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>comments</key>
+                    <string>Palavras de índice localizáveis</string>
+                    <key>index</key>
+                    <string>continuidade, continuar, atividade, actividade, continuação, handoff, transferência</string>
+                    <key>title</key>
+                    <string>Permitir Handoff</string>
+                </dict>
+            </array>
+        </dict>
+		<key>Main</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Palavras de índice localizáveis</string>
+					<key>index</key>
+					<string>selecionado, seleccionado, texto, destaque, destacar, realce, realçar, apresentação, aspeto, aspecto</string>
+					<key>title</key>
+					<string>Cor de destaque</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Palavras de índice localizáveis</string>
+					<key>index</key>
+					<string>menu Apple, aplicações, documentos, servidores</string>
+					<key>title</key>
+					<string>Número de elementos recentes</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Palavras de índice localizáveis</string>
+					<key>index</key>
+					<string>secretária, personalizar, personalização, separador, separadores, apresentação, aspeto, aspecto</string>
+					<key>title</key>
+					<string>Botão, menu e aspeto da janela</string>
+				</dict>
+
+				<dict>
+					<key>comments</key>
+					<string>Palavras de índice localizáveis</string>
+					<key>index</key>
+					<string>secretária, personalizar, personalização, apresentação, aspeto, aspecto, automático, escuro, claro, tons escuros, tons claros, tema, modo, modo escuro, modo escurecido</string>
+					<key>title</key>
+					<string>Apresentação</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Palavras de índice localizáveis</string>
+					<key>index</key>
+					<string>botão, seleção, menu, aspeto, apresentação, aspeto, aspecto, cor</string>
+					<key>title</key>
+					<string>Cor de realce</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Palavras de índice localizáveis</string>
+					<key>index</key>
+					<string>edições, alterações, guardar, fechar, sair, documento, ficheiro</string>
+					<key>title</key>
+					<string>Manter alterações</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Palavras de índice localizáveis</string>
+					<key>index</key>
+					<string>janela, saltar, barra de deslocação, salto</string>
+					<key>title</key>
+					<string>Comportamento das barras de deslocação</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Palavras de índice localizáveis</string>
+					<key>index</key>
+					<string>ícone, lateral, barra, tamanho, barra lateral</string>
+					<key>title</key>
+					<string>Ícones da barra lateral</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Palavras de índice localizáveis</string>
+					<key>index</key>
+					<string>sair, fechar, abrir, reabrir, iniciar, restaurar, restaurar, preferir separadores</string>
+					<key>title</key>
+					<string>Fechar e restaurar janelas</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Palavras de índice localizáveis</string>
+					<key>index</key>
+					<string>Safari, http, https, surf, www, website, site, página web</string>
+					<key>title</key>
+					<string>Navegador predefinido</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+</plist>

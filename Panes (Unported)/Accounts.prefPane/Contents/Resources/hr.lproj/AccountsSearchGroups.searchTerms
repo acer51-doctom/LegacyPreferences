@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loginOptionsPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>korisnici, log datoteka, znak, prijava, prijava, upis, upis, sakrij, prikaži, pokreni, isključi, ponovno pokreni, pripravno stanje, tipke, VoiceOver, govor, govori, unos, način, mod, izbornik, lozinke, tragovi, pokreni, gore, isključi, dolje, govor, preko, propusno, riječi, prijavljivanje, prijava, upisivanje, upisivanje, upis, sakrivanje, prikazivanje, govorenje</string>
+				<key>title</key>
+				<string>Postavke prozora za prijavu</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>korisnik, brzo, log, znak, prijava, prijava, upis, upis, odjava, odjava, ispis, ispis, promjena, prijavljivanje, prijava, prijava, odjava, odjava, upisivanje, upisivanje, upis, ispis, ispis</string>
+				<key>title</key>
+				<string>Promijeni račun</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>znak, upis, prijava, automatiziraj, automatiziranje, automatizacija, prijavljivanje, prijava, prijava, upisivanje, upis, upis</string>
+				<key>title</key>
+				<string>Prijavi se automatski</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>aktivno, ldap, otvori, poslužitelj, aktivni direktorij, otvori direktorij</string>
+				<key>title</key>
+				<string>Usluge direktorija</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>korisnici, prijavi, upiši, prijavi, prijavi, upiši, upiši, prijavljivanje, prijava, upisivanje, upis, upis</string>
+				<key>title</key>
+				<string>Opcije prijave</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Poslužitelj mrežnog računa</string>
+			</dict>
+		</array>
+	</dict>
+	<key>mobilityPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array/>
+	</dict>
+	<key>passwordPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>gost, dijeli, dugo, kratko, ime, autoriziraj, lozinke, filevault, dijeljenje, propusno, riječi, autorizacija, autorizacija, datoteka, vault</string>
+				<key>title</key>
+				<string>Korisnički ili grupni račun</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>fotografije, slike, foto</string>
+				<key>title</key>
+				<string>Slika korisnika</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>korisnici, računi, dugo, kratko, ime, autoriziraj, log, znak, prijava, prijava, upis, upis, promijeni, administriraj, propusno, riječi, autorizacija, autorizacija, prijavljivanje, prijava, upisivanje, upis, upis, promjena</string>
+				<key>title</key>
+				<string>Ime i lozinka za prijavu</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>vcard, kartice</string>
+				<key>title</key>
+				<string>Kontakti</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>upravljaj, administriraj, upravljanje, administriranje</string>
+				<key>title</key>
+				<string>Administratorski račun</string>
+			</dict>
+		</array>
+	</dict>
+	<key>startupItemsPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>automatski, automatiziraj, log, znak, prijava, prijava, upis, upis, pokreni, gore, automatski, automatizirano, automatiziranje, automatski, pokretanje, prijavljivanje, prijava, upisivanje, upis, upis</string>
+				<key>title</key>
+				<string>Otvori aplikacije prilikom prijave</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>prijavi, upiši, prijavi, prijavi, upiši, upiši, pokreni, gore, pokretanje, prijavljivanje, prijava, upisivanje, upis, upis</string>
+				<key>title</key>
+				<string>Stavke za prijavu</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

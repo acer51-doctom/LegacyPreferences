@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+        <key>Handoff</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>comments</key>
+                    <string>로컬라이즈가 가능한 인덱스 단어</string>
+                    <key>index</key>
+                    <string>연속성, 유지, 계속, 동작, 지속, Hand Off</string>
+                    <key>title</key>
+                    <string>Handoff 허용</string>
+                </dict>
+            </array>
+        </dict>
+		<key>Main</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>로컬라이즈가 가능한 인덱스 단어</string>
+					<key>index</key>
+					<string>선택됨, 텍스트, 선택하기, 선택, 하이라이트, 선택, 강조, 화면 모드</string>
+					<key>title</key>
+					<string>선택 색상</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>로컬라이즈가 가능한 인덱스 단어</string>
+					<key>index</key>
+					<string>Apple 메뉴, 응용 프로그램, 문서, 서버</string>
+					<key>title</key>
+					<string>최근 항목 개수</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>로컬라이즈가 가능한 인덱스 단어</string>
+					<key>index</key>
+					<string>데스크탑, 사용자화, 개인화, 사용자화하기, 탭, 커스터마이징, 사용자 설정, 개인 설정, 화면 모드</string>
+					<key>title</key>
+					<string>버튼, 메뉴, 윈도우 보기</string>
+				</dict>
+
+				<dict>
+					<key>comments</key>
+					<string>로컬라이즈가 가능한 인덱스 단어</string>
+					<key>index</key>
+					<string>데스크탑, 사용자화, 개인화, 사용자화하기, 커스터마이징, 사용자 설정, 자동, 개인 설정, 화면 모드, 라이트, 다크, 테마, 모드, 다크 모드</string>
+					<key>title</key>
+					<string>화면 모드</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>로컬라이즈가 가능한 인덱스 단어</string>
+					<key>index</key>
+					<string>버튼, 선택 항목, 메뉴, 화면, 화면 모드, 색상</string>
+					<key>title</key>
+					<string>강조 색상</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>로컬라이즈가 가능한 인덱스 단어</string>
+					<key>index</key>
+					<string>편집, 변경 사항, 저장, 닫기, 종료, 문서, 파일</string>
+					<key>title</key>
+					<string>변경 사항 유지</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>로컬라이즈가 가능한 인덱스 단어</string>
+					<key>index</key>
+					<string>윈도우, 이동, 스크롤 막대, 이동하기</string>
+					<key>title</key>
+					<string>스크롤 막대 동작</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>로컬라이즈가 가능한 인덱스 단어</string>
+					<key>index</key>
+					<string>아이콘, 사이드, 바, 막대, 크기, 사이드바</string>
+					<key>title</key>
+					<string>사이드바 아이콘</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>로컬라이즈가 가능한 인덱스 단어</string>
+					<key>index</key>
+					<string>종료, 종료 중, 열기, 다시열기, 다시 열기, 여는 중, 다시여는중, 다시 여는 중, 복원 중, 문서를 열 때 탭에서 열기</string>
+					<key>title</key>
+					<string>윈도우 닫기 및 복원</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>로컬라이즈가 가능한 인덱스 단어</string>
+					<key>index</key>
+					<string>Safari, http, https, surf, www, 웹 사이트, 웹 페이지</string>
+					<key>title</key>
+					<string>기본 웹 브라우저로 설정</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+</plist>

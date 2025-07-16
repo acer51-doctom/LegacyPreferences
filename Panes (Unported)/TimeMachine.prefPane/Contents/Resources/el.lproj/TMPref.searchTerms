@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>εφεδρικό αντίγραφο, αρχειοθήκη, κρυπτογράφηση, κρυπτογραφημένο, σκληρός, δίσκοι, μονάδες, τόμοι, δεδομένα, πληροφορίες, φάκελοι, χάνω, απώλεια, λείπουν, ατύχημα, καταστροφή, σβήσιμο, διαγραφή, ανάκτηση, αρχειοθέτηση, χαμένο, διαγραμμένο</string>
+				<key>title</key>
+				<string>Δημιουργία εφεδρικών αντιγράφων και επαναφορά αρχείων</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

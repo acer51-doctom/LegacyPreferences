@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iCloud</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>iCloud, nuage, me.com, famille, partage</string>
+				<key>title</key>
+				<string>Famille</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DesktopPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbara indexord</string>
+				<key>index</key>
+				<string>fotografier, bakgrund, skrivbord, bild, mönster, anpassa, foton, anpassad, anpassning</string>
+				<key>title</key>
+				<string>Skrivbordsbild</string>
+			</dict>
+		</array>
+	</dict>
+	<key>ScreenSaverPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbara indexord</string>
+				<key>index</key>
+				<string>avaktivera, starta, album, iTunes, bildmaterial, konst, slumpmässig, fotografier, bilder, anpassa, skärmsläckare, foton, avaktivering, startar, anpassad, anpassning</string>
+				<key>title</key>
+				<string>Skärmsläckare</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Visa klocka med skärmsläckaren</string>
+			</dict>
+		</array>
+	</dict>
+	<key>ScreenSaverPref_HotCorners</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbara indexord</string>
+				<key>index</key>
+				<string>aktiva skärmhörn</string>
+				<key>title</key>
+				<string>Aktiva hörn</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

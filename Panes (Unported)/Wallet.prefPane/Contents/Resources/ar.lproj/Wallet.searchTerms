@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Wallet</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة، Localizable index words</string>
+				<key>index</key>
+				<string>‏Wallet، الحافظة، المحفظة، Apple Pay، أبل باي، آبل باي</string>
+				<key>title</key>
+				<string>‏Wallet و Apple Pay</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

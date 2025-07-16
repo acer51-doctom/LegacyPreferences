@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>currentSource</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Spare strøm</string>
+                <key>index</key>
+                <string>skjermer, monitorer, gjøre lysere, dempe, dvale, vekke, slå av, starte, starte opp, oppstart, strøm, på, av, elektrisitet, grønn, spare, redusere, sparing, reduksjon, miljø, miljøet, ytelse, prosessor, automatisk, lysstyrke, svart, tom, mørkne, nedtonet, nedtone, nedtoning, vekke, våkne, vekking, slå av, lukke, spare, bevare, optimalisere, optimalisering, optimalisert, automatisering, automatisert, automatisere, automatisk, oppvåkning, oppvåkne, nødstrøm, strømadapter, energisparing, energiøkonomisering, energikilde, avbruddsfri strømforsyning, strømforsyning</string>
+                <key>comments</key>
+                <string>Lokaliserbare indeksord</string>
+            </dict>
+        </array>
+    </dict>
+    <key>schedule</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Planlegge oppstart, dvale eller avslåing</string>
+                <key>index</key>
+                <string>vekke, starte opp, strøm, på, av, automatisk, planlagt, planlegge, dvalemodus, våken, våkne, våkning, vekking, slå av, automatisert, automatisere, automatisk</string>
+                <key>comments</key>
+                <string>Lokaliserbare indeksord</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

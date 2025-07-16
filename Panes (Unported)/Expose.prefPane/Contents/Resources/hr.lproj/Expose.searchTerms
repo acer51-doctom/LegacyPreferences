@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>toplo</string>
+				<key>title</key>
+				<string>Aktivni kutovi zaslona</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>podesi, radna površina, tipkovnica, funkcijske tipke, Fn, tipke miša, prozori, aplikacije, programi, podešeno, podešavanje, podešavanje, mission control</string>
+				<key>title</key>
+				<string>Exposé prečaci</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Spaces</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>organiziraj, radne površine, aplikacije, programi, radne površine, organizirano, organiziranje</string>
+				<key>title</key>
+				<string>Podesi Spaces</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>InputSources</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>način, traka s izbornicima</string>
+				<key>title</key>
+				<string>Prikaži izbornik Unos u traci s izbornicima</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>vrsta, tipkanje, izvori, qwerty, pro, PC, standard, ISO, ANSI, JIS, extended, dvorak, afganistanski, arapski, armenski, austrijski, azerbajdžanski, belgijski, brazilski, britanski, bugarski, bjeloruski, kanadski, cherokee, hrvatski, češki, danski, devanagari, nizozemski, estonski, farski, finski, francuski, njemački, grčki, gujarati, gurmuki, havajski, hebrejski, mađarski, islandski, inuktitut, irski, talijanski, javanski, kazaški, latvijski, litvanski, makedonski, malteški, maorski, nepalski, sami, norveški, perzijski, poljski, portugalski, rumunjski, ruski, srpski, slovački, slovenski, španjolski, švedski, švicarski, tajlandski, tibetanski, turski, američki, uighur, ukrajinski, unicode, hex, vijetnamski, velški</string>
+				<key>title</key>
+				<string>Rasporedi tipkovnice</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>glavni, jezici, mod, izvori, međunarodno, strano, znakovi, unicode, japanski, kotoeri, hiragana, katakana, romaji, ainu, kineski, tradicionalni, hanin, pojednostavljeni, wubi, korejski, hangul, vijetnamski, teleks, tamilski, anjal</string>
+				<key>title</key>
+				<string>Načini unosa jezika</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>paleta, simbol, preglednik, simboli, znak, unicode, japanski, kana, znakovi, izvori, tipke, tipke, tipke, interpunkcija</string>
+				<key>title</key>
+				<string>Palete</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>unos, izvor, dokument</string>
+				<key>title</key>
+				<string>Koristi jedan izvor unosa u svim dokumentima</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>unos, izvor, dokument</string>
+				<key>title</key>
+				<string>Dozvoli drugačiji izvor unosa za svaki dokument</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Text</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>razlomci, zamijeni, zamjena, zamijeni, zamjena, prečaci</string>
+				<key>title</key>
+				<string>Zamjena simbola i teksta</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>jezik, provjera pravopisa, provjera pravopisa, automatski ispravci, ispravak pravopisa, veličina slova, razmak</string>
+				<key>title</key>
+				<string>Pravopis</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>prijedlozi za tipkanje, brzo tipkanje, dovršavanje tipkanja, predviđanje tipkanja, predviđeni tekst, touch bar, traka, touchbar</string>
+				<key>title</key>
+				<string>Prijedlozi za tipkanje u Touch Baru</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>pametni navodnici, navodnici, crtice</string>
+				<key>title</key>
+				<string>Koristi pametne navodnike i crtice</string>
+			</dict>
+		</array>
+	</dict>
+	<key>keyboardTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>Bluetooth, tipkovnica, uređaji</string>
+				<key>title</key>
+				<string>Podesi Bluetooth tipkovnicu</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>tipke, odgoda, ponavljanje tipke, ponavljanje, naglasak, odziv, funkcija, Fn, F1, F2, F3, F4, F5, F6, F7, F8, F9, F10, F11, F12, tipke, brzina, tipkaj, s odgodom, ponavljajući, tipkanje</string>
+				<key>title</key>
+				<string>Osjetljivost tipkovnice</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>vidjeti, vid, tamno, slabo osvjetljenje, prigušiti, noć, tipkaj, gledanje, osvjetljenje, osvijetljeno, tipkanje, svjetlina, prilagodi, automatski, pozadinsko osvjetljenje, pozadinski osvjetljeno</string>
+				<key>title</key>
+				<string>Osvijetli tipkovnicu</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>touch bar, touchbar, traka, control strip, područje, Fn, funkcijske tipke, podešavanje, personaliziranje</string>
+				<key>title</key>
+				<string>Podesi Touch Bar ili Control Strip</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>traka s izbornicima, palete, simbol, emoji, preglednik tipkovnice</string>
+				<key>title</key>
+				<string>Prikaži preglednike tipkovnice i emojija u traci s izbornicima</string>
+			</dict>
+		</array>
+	</dict>
+	<key>keyboardTab_ModifierKeys</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>Caps Lock, Control, Option, Command</string>
+				<key>title</key>
+				<string>Resetiraj modifikatore</string>
+			</dict>
+		</array>
+	</dict>
+	<key>shortcutsTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>prečaci, Launchpad, Dock, Mission Control, slika zaslona, slike zaslona, usluge, Spotlight, Pristupačnost, puni pristup putem tipkovnice, izvori unosa, aplikacija, funkcijske tipke, touch bar, traka, touchbar</string>
+				<key>title</key>
+				<string>Prečaci tipkovnice</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Dictation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>diktirati, diktiranje, diktat, slušati, slušanje, jezik, mikrofon, prepoznati, prepoznavanje, raspoznati, govoriti, govorenje, govor, prečice, razgovor</string>
+				<key>title</key>
+				<string>Diktat</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

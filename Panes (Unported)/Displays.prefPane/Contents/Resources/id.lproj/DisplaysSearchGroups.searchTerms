@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displaysArrangementTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Kata indeks yang dapat dilokalkan</string>
+				<key>index</key>
+				<string>layar, monitor, cermin, dicerminkan, pencerminan, mengatur, pengaturan</string>
+				<key>title</key>
+				<string>Atur beberapa layar</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Kata indeks yang dapat dilokalkan</string>
+				<key>index</key>
+				<string>bar menu</string>
+				<key>title</key>
+				<string>Pindah bar menu</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysColorTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Kata indeks yang dapat dilokalkan</string>
+				<key>index</key>
+				<string>layar, layar, monitor, skala, sesuaikan, terangkan, jadikan terang, suramkan, gelapkan, titik putih, gama, cahaya ambien, profil, menskalakan, menyesuaikan, penyesuaian, menyuramkan</string>
+				<key>title</key>
+				<string>Warna dan kalibrasi layar</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysDisplayTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Kata indeks yang dapat dilokalkan</string>
+				<key>index</key>
+				<string>tampilan, layar, monitor, kedalaman, jutaan, ribuan, 256, ColorSync, sesuaikan, terangkan, jadikan terang, suramkan, gelapkan, menyesuaikan, penyesuaian, menyuramkan, true tone</string>
+				<key>title</key>
+				<string>Warna, kecerahan, dan resolusi</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Kata indeks yang dapat dilokalkan</string>
+				<key>index</key>
+				<string>layar, layar, monitor</string>
+				<key>title</key>
+				<string>Laju refesh layar</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Kata indeks yang dapat dilokalkan</string>
+				<key>index</key>
+				<string>layar, monitor</string>
+				<key>title</key>
+				<string>Deteksi beberapa layar</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Kata indeks yang dapat dilokalkan</string>
+				<key>index</key>
+				<string>bar menu</string>
+				<key>title</key>
+				<string>Tampilkan layar pada bar menu</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Kata indeks yang dapat dilokalkan</string>
+				<key>index</key>
+				<string>putar, rotasi</string>
+				<key>title</key>
+				<string>Rotasi layar</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Kata indeks yang dapat dilokalkan</string>
+				<key>index</key>
+				<string>AirPlay</string>
+				<key>title</key>
+				<string>Pilihan pencerminan AirPlay</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysGeometryTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Kata indeks yang dapat dilokalkan</string>
+				<key>index</key>
+				<string>posisi, tinggi, lebar, bantalan, putar, dasar, keystone, genjang, busur, sudut kurva, miring, geometri, dimensi</string>
+				<key>title</key>
+				<string>Gambar layar</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Kata indeks yang dapat dilokalkan</string>
+				<key>index</key>
+				<string>rgb, sesuaikan, ratakan, menyesuaikan, penyesuaian, meratakan, perataan</string>
+				<key>title</key>
+				<string>Konvergensi gambar</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Kata indeks yang dapat dilokalkan</string>
+				<key>index</key>
+				<string>statis, atur ulang, gangguan, berkedip-kedip</string>
+				<key>title</key>
+				<string>Demagnet</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysNightShiftTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Kata indeks yang dapat dilokalkan</string>
+				<key>index</key>
+				<string>night, shift, night shift, redup, hangat, warna hangat, spektrum, tidur, suhu, matahari terbenam, matahari terbit, meredup</string>
+				<key>title</key>
+				<string>Pilihan Night Shift</string>
+			</dict>
+		</array>
+	</dict>
+	<key>universalControlTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Kata indeks yang dapat dilokalkan</string>
+				<key>index</key>
+				<string>universal, kontrol</string>
+				<key>title</key>
+				<string>Kontrol Universal</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

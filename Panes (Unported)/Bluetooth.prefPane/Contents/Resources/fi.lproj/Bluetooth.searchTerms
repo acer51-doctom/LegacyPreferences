@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>langaton, havaitse, löydä, etsi, pari, lisää, poista, ota käyttöön, apuri, näppäimistö, hiiri, matkapuhelin, kännykkä, kuulokemikrofoni, mikrofonikuulokkeet, kuulokkeet, päällä, pois, katkaise, irrota, blue, tooth, lisääminen, poistaminen, katkaiseminen, irrottaminen, löytäminen, löydettävissä</string>
+				<key>title</key>
+				<string>Bluetooth-laitteet</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>blue, tooth, valikkorivi</string>
+				<key>title</key>
+				<string>Näytä Bluetooth-tila valikkorivillä</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>blue, tooth</string>
+				<key>title</key>
+				<string>Bluetooth-sarjaportit</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>blue, tooth, ääni</string>
+				<key>title</key>
+				<string>Bluetooth-ääni</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>blue, tooth</string>
+				<key>title</key>
+				<string>Bluetoothin käyttöönottoapuri</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

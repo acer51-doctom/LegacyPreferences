@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>AlwaysAllowed</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+                <key>index</key>
+                <string>χρόνος, επί, οθόνης, πάντα, επιτρέπεται, όρια, όριο, οικογένεια, γονείς, γονικός, έλεγχος, ασφάλεια, απόρρητο, ιδιωτικότητα, ασφαλές, παιδιά, περιορισμός, διαχείριση, χρονόμετρο, απαγόρευση, παρακολούθηση, καταγραφή</string>
+                <key>title</key>
+                <string>Επιλέξτε τις πάντα επιτρεπόμενες εφαρμογές για τον Χρόνο επί οθόνης</string>
+            </dict>
+        </array>
+    </dict>
+    <key>CommunicationLimit</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+                <key>index</key>
+                <string>χρόνος, επί, οθόνης, επικοινωνία, επαφή, τηλέφωνο, μήνυμα, γραπτό μήνυμα, FaceTime, SMS, όριο, προσθήκη, δημιουργία, οικογένεια, γονείς, γονικός, έλεγχος, ασφάλεια, απόρρητο, ιδιωτικότητα, ασφαλές, παιδιά, περιορισμός, διαχείριση, χρονόμετρο, απαγόρευση</string>
+                <key>title</key>
+                <string>Καθορισμός ορίων επικοινωνίας στον Χρόνο επί οθόνης</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>χρόνος, επί, οθόνης, επικοινωνία, επαφή, τηλέφωνο, μήνυμα, γραπτό μήνυμα, FaceTime, SMS, όριο, προσθήκη, δημιουργία, οικογένεια, γονείς, γονικός, έλεγχος, ασφάλεια, απόρρητο, ιδιωτικότητα, ασφαλές, παιδιά, περιορισμός, διαχείριση, χρονόμετρο, απαγόρευση</string>
+                <key>title</key>
+                <string>Αλλαγή ορίων επικοινωνίας στον Χρόνο επί οθόνης</string>
+            </dict>
+        </array>
+    </dict>
+    <key>ContentAndPrivacy</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+                <key>index</key>
+                <string>χρόνος, επί, οθόνης, περιεχόμενο, απόρρητο, ιδιωτικότητα, όριο, όρια, οικογένεια, γονείς, γονικός, έλεγχος, ασφάλεια, ασφαλές, παιδιά, περιορισμός, διαχείριση, χρονόμετρο, απαγόρευση, λεξικό, ακατάλληλο, βρισιά, βρισιές, αισχρολογίες, αισχρολογία, βωμολοχία, βωμολοχίες, βλαστήμια, κακή, γλώσσα, λέξεις, πορνογραφία, φιλτραρισμένο, χυδαίο, αφιλτράριστο</string>
+                <key>title</key>
+                <string>Επιλέξτε ρυθμίσεις περιεχομένου και απορρήτου για τον Χρόνο επί οθόνης</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>χρόνος, επί, οθόνης, γονικός, έλεγχος, όρια, ακατάλληλο, περιεχόμενο, ιστότοποι, παιδί, παιδιά, περιορισμός</string>
+                <key>title</key>
+                <string>Περιορισμός ακατάλληλου περιεχομένου</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyNotifications</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+                <key>index</key>
+                <string>χρόνος, επί, οθόνης, ημέρα, ημερήσια, χρήση, γνωστοποιήσεις</string>
+                <key>title</key>
+                <string>Εμφάνιση ημερήσιας αναφοράς γνωστοποιήσεων Χρόνου επί οθόνης</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyPickups</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+                <key>index</key>
+                <string>χρόνος, επί, οθόνης, ημέρα, ημερήσια, αφυπνίσεις</string>
+                <key>title</key>
+                <string>Εμφάνιση ημερήσιας αναφοράς αφυπνίσεων συσκευής Χρόνου επί οθόνης</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyUsage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+                <key>index</key>
+                <string>χρόνος, επί, οθόνης, εβδομάδα, εβδομαδιαία, χρήση, αναφορά, παρακολούθηση, καταγραφή, παιδί, παιδιά, εφαρμογές</string>
+                <key>title</key>
+                <string>Εμφάνιση ημερήσιας αναφοράς χρήσης εφαρμογών Χρόνου επί οθόνης</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Downtime</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+                <key>index</key>
+                <string>χρόνος, επί, οθόνης, χρήση, όριο, όρια, μη χρήση, οικογένεια, γονείς, γονικός, έλεγχος, ασφάλεια, ιδιωτικότητα, ασφαλές, παιδιά, περιορισμός, διαχείριση, χρονόμετρο, ώρα, ύπνου, ύπνος, σχολείο</string>
+                <key>title</key>
+                <string>Προγραμματισμός μη χρήσης για τον Χρόνο επί οθόνης</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Options</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+                <key>index</key>
+                <string>χρόνος, επί, οθόνης, ρύθμιση, επιλογή, όρια, όριο, οικογένεια, γονείς, γονικός, έλεγχος, ασφάλεια, ασφαλές, παιδιά, περιορισμός, διαχείριση, χρονόμετρο, απαγόρευση</string>
+                <key>title</key>
+                <string>Ενεργοποίηση ή απενεργοποίηση του Χρόνου επί οθόνης</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>οθόνη, γονικός, έλεγχος, επιλογές, όριο, όρια, συνθηματικό, κωδικός</string>
+                <key>title</key>
+                <string>Καθορισμός κωδικού Χρόνου επί οθόνης</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Requests</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+                <key>index</key>
+                <string>χρόνος, επί, οθόνης, αίτημα, επιτρέπεται, έγκριση, απόρριψη, όρια, όριο, οικογένεια, γονείς, γονικός, έλεγχος, ασφάλεια, απόρρητο, ιδιωτικότητα, ασφαλές, παιδιά, περιορισμός, διαχείριση, χρονόμετρο, απαγόρευση</string>
+                <key>title</key>
+                <string>Εμφάνιση αιτημάτων Χρόνου επί οθόνης</string>
+            </dict>
+        </array>
+    </dict>
+    <key>ViewUsageLimit</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+                <key>index</key>
+                <string>χρόνος, επί, οθόνης, χρήση, εφαρμογή, όρια, όριο, προσθήκη, δημιουργία, οικογένεια, γονείς, γονικός, έλεγχος, ασφάλεια, απόρρητο, ιδιωτικότητα, ασφαλές, παιδιά, περιορισμός, διαχείριση, χρονόμετρο, απαγόρευση</string>
+                <key>title</key>
+                <string>Επιλέξτε όρια εφαρμογών για τον Χρόνο επί οθόνης</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyNotifications</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+                <key>index</key>
+                <string>χρόνος, επί, οθόνης, εβδομάδα, εβδομαδιαία, χρήση, γνωστοποιήσεις, γονικός, έλεγχος</string>
+                <key>title</key>
+                <string>Εμφάνιση εβδομαδιαίας αναφοράς γνωστοποιήσεων Χρόνου επί οθόνης</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyPickups</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+                <key>index</key>
+                <string>χρόνος, επί, οθόνης, εβδομάδα, εβδομαδιαία, αφυπνίσεις, γονικός, έλεγχος</string>
+                <key>title</key>
+                <string>Εμφάνιση εβδομαδιαίας αναφοράς αφυπνίσεων συσκευής Χρόνου επί οθόνης</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyUsage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+                <key>index</key>
+                <string>χρόνος, επί, οθόνης, εβδομάδα, εβδομαδιαία, χρήση, αναφορά, παρακολούθηση, καταγραφή, παιδί, παιδιά, εφαρμογές, γονικός, έλεγχος</string>
+                <key>title</key>
+                <string>Εμφάνιση εβδομαδιαίας αναφοράς χρήσης εφαρμογών Χρόνου επί οθόνης</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Advanced</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>ИК-приемник, инфракрасный, приемник, ресивер, IR</string>
+				<key>title</key>
+				<string>Отключить пульт</string>
+			</dict>
+		</array>
+	</dict>
+	<key>FDE</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>диск, том, виртуальная память, шифровка, зашифровано, зашифровать, шифровать, шифрование, file vault, filevault</string>
+				<key>title</key>
+				<string>FileVault</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Firewall</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>предотвратить, заблокировать, сеть, порты, udp, обмен файлами, удаленно, SSH, предотвращение, заблокировано, блокировка, брандмауэр</string>
+				<key>title</key>
+				<string>Включить или выключить брандмауэр</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>брандмауэр</string>
+				<key>title</key>
+				<string>Дополнительные настройки брандмауэра</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>режимневидимости</string>
+				<key>title</key>
+				<string>Режим невидимости</string>
+			</dict>
+		</array>
+	</dict>
+	<key>General</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+            <dict>
+                <key>comments</key>
+                <string>Локализуемые ключевые слова</string>
+                <key>index</key>
+                <string>apple watch, часы, разблокировать, подтвердить, разблокировка, открыть, подтверждение, watch, открывать, часами</string>
+                <key>title</key>
+                <string>Разрешить Apple Watch разблокировать Mac</string>
+            </dict>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>экран, монитор, пароль, идентификация, заблокировать, закрыть, разблокировать, раскрыть, режим сна, сон, выход из режима сна, пробуждение, заставка экрана, заставка, пароль, идентифицирован, идентифицирована, идентифицировано, заблокировано, закрыто, разблокировано, раскрыто, пробуждение, выход из режима сна</string>
+				<key>title</key>
+				<string>Запрашивать пароль для вывода компьютера из режима сна</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>журнал, вход, автоматически, вкл., включить, включено, вход</string>
+				<key>title</key>
+				<string>Выключить автоматический вход</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>заблокировать, разблокировать, открыть, закрыть, блокировка, открытие, защита, снятие защиты, установка защиты</string>
+				<key>title</key>
+				<string>Установить защиту для Системных настроек</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>вход, выход, выполнение входа, выполнение выхода</string>
+				<key>title</key>
+				<string>Выйти при простое компьютера</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>безопасно, безопасность, надежность защита, защищено, обеспечение безопасности, частная сфера, приватность</string>
+				<key>title</key>
+				<string>Настройки безопасности</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Заблокировать экран</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>Gatekeeper, gate, keeper, определено, определенный, определенная, идентифицирован, идентифицирована, идентифицировано, разработчик, программы, загрузки</string>
+				<key>title</key>
+				<string>Gatekeeper</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>приватный, личный, частный, конфиденциальность</string>
+				<key>title</key>
+				<string>Настройки конфиденциальности</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Accessibility</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>универсальный доступ</string>
+				<key>title</key>
+				<string>Разрешить приложениям использовать универсальный доступ</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_AllFiles</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Файлы</string>
+				<key>title</key>
+				<string>Разрешить приложениям доступ ко всем пользовательским файлам</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Assistive</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Универсальный, доступ, Универсальный доступ, доступность, инвалид, с физическими недостатками, с ограниченными возможностями, глухой, глухота, слух, ограниченно дееспособный, вспомогательный, вспомогательные</string>
+				<key>title</key>
+				<string>Разрешить вспомогательным приложениям управлять компьютером</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Calendars</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Календари, даты</string>
+				<key>title</key>
+				<string>Разрешить приложениям доступ к Календарю</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Camera</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>камера, программа, ПО, доступ, приватный, личный, частный, конфиденциальность, приватность, приложение</string>
+				<key>title</key>
+				<string>Разрешить приложениям доступ к камере</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Contacts</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>контакт, адрес, программа, доступ, приватный, личный, частный, конфиденциальность, приложение</string>
+				<key>title</key>
+				<string>Разрешить приложениям доступ к Контактам</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_SystemServices</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>геопозиция, служба, время, часовой пояс, доступ, реклама, найти mac, дом, homekit, spotlight, конфиденциальность</string>
+				<key>title</key>
+				<string>Разрешить системным службам определять Вашу геопозицию</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_LocationServices</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>геопозиция, служба, сервис, программа, доступ, приватный, личный, частный, конфиденциальность, приложение</string>
+				<key>title</key>
+				<string>Разрешить приложениям доступ к геопозиции</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Microphone</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>микрофон, программа, ПО, доступ, приватный, личный, частный, конфиденциальность, приватность, приложение</string>
+				<key>title</key>
+				<string>Разрешить приложениям доступ к микрофону</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Reminders</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Напоминания, задачи</string>
+				<key>title</key>
+				<string>Разрешить приложениям доступ к Напоминаниям</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

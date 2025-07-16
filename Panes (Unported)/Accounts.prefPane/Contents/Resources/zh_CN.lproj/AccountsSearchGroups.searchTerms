@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loginOptionsPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>用户, users, 登录, log, sign, log in, log on, sign in, sign on, logging, logon, signing, signin, signon, 隐藏, hide, hiding, 显示, show, showing, 启动, startup, 关机, shutdown, 重新启动, restart, 睡眠, sleep, 按钮, buttons, 旁白, VoiceOver, 语音, speech, 说出, speak, speaking, 输入, input, 方法, method, 模式, mode, 菜单, menu, 密码, passwords, 提示, hints, 启, start, 动, up, 关, shut, 闭, down, 声音, voice, over, 密, pass, 码, words</string>
+				<key>title</key>
+				<string>登录窗口设置, Login window settings</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>用户, user, 快速, fast, 登录, log, sign, log in, log on, sign in, sign on, logging, login, logon, signing, signin, signon, 退出登录, log out, log off, sign out, sign off, logout, logoff, signout, signoff, 切换, switching</string>
+				<key>title</key>
+				<string>在帐户间切换, Switch between accounts</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>登录, sign, sign on, log on, logging, login, logon, signing, signin, signon, 自动, automate, automating, automation</string>
+				<key>title</key>
+				<string>自动登录, Log in automatically</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>活跃, active, ldap, 打开, open, 服务器, server, active directory, open directory</string>
+				<key>title</key>
+				<string>目录服务, Directory services</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>用户, users, 登录, log, sign, log in, log on, sign in, sign on, logging, logon, signing, signin, signon</string>
+				<key>title</key>
+				<string>登录选项, Login options</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>网络帐户服务器, Network account server</string>
+			</dict>
+		</array>
+	</dict>
+	<key>mobilityPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array/>
+	</dict>
+	<key>passwordPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>客人, guest, 共享, share, 长, long, 短, short, 名称, name, 鉴定, 认证, authenticate, 密码, passwords, 文件保险箱, filevault, 共享, sharing, 密, pass, 码, words, 认证, 认证, authenticating, authentication, 文件, file, 保险箱, vault</string>
+				<key>title</key>
+				<string>用户或群组帐户, User or group account</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>相片, photographs, 图片, pictures, 照片, photos</string>
+				<key>title</key>
+				<string>用户图片, User picture</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>用户, users, 帐户, accounts, 长, long, 短, short, 名称, name, 鉴定, 认证, authenticate, authenticating, authentication, 登录, log, sign, log in, log on, sign in, sign on, logging, logon, signing, signin, signon, 更改, change, changing, 管理, administer, 密, pass, 码, words</string>
+				<key>title</key>
+				<string>登录名称和密码, Login name and password</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>vcard, 卡, cards</string>
+				<key>title</key>
+				<string>通讯录, Contacts</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>管理, manage, 管理员, administer, 正在管理, managing, administering</string>
+				<key>title</key>
+				<string>管理员帐户, Administrator account</string>
+			</dict>
+		</array>
+	</dict>
+	<key>startupItemsPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>自动的, automatic, 自动, automate, 登录, log, sign, log in, log on, sign in, sign on, 启, start, 动, up, 自动地, automatically, 自动, automated, automating, automation, 启动, starting, 正在登录, logging, logon, signing, signin, signon</string>
+				<key>title</key>
+				<string>登录时打开应用程序, Open applications at login</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>日志, 记录, log, 登录, sign, log in, log on, sign in, sign on, sign, log in, log on, sign in, sign on, 开启, start, up, 启动, starting</string>
+				<key>title</key>
+				<string>登录项, Login items</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

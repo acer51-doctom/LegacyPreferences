@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>privacy</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>yksityisyys, suojaa, estä, salainen, kätketty, suojattu, suojaus, suojaaminen, esto, estäminen, yksityinen</string>
+				<key>title</key>
+				<string>Estä yksityisten tiedostojen haku</string>
+			</dict>
+		</array>
+	</dict>
+	<key>searchResults</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>etsi, tulokset, osuma, osumia, haku, haut, hakeminen, etsiminen</string>
+				<key>title</key>
+				<string>Spotlight-hakukategoriat</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>näppäin, näppäinpainallus, yhdistelmä</string>
+				<key>title</key>
+				<string>Spotlight-oikotiet</string>
+			</dict>
+            <dict>
+                <key>comments</key>
+                <string>Lokalisoitavat hakusanat</string>
+                <key>index</key>
+                <string>katso lisää, katsoa lisää</string>
+                <key>title</key>
+                <string>Spotlight-ehdotukset Katso lisää -toiminnossa</string>
+            </dict>
+		</array>
+	</dict>
+</dict>
+</plist>

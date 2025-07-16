@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mouseTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovatelná indexová slova</string>
+				<key>index</key>
+				<string>dvojí kliknutí, poklikání, kliknutí, tažení, rychleji, rychlost, pomalu, kurzor, šipka, ukazatel, klikání, zpomalit</string>
+				<key>title</key>
+				<string>Citlivost myši</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovatelná indexová slova</string>
+				<key>index</key>
+				<string>primární, sekundární, zkratka, posun, posunout, posouvání, kulička, kolečko, scrollball, scrollwheel, mouseball, mousewheel, Mighty Mouse, Magic Mouse</string>
+				<key>title</key>
+				<string>Tlačítka myši</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovatelná indexová slova</string>
+				<key>index</key>
+				<string>dvěma, třemi, čtyřmi, prsty, dotknout, posunout, táhnout, klepnout, zvětšit, otočit, roztáhnout, přejet, dotek, posuv, tažení, klepnutí, zvětšení, otáčení, přejetí</string>
+				<key>title</key>
+				<string>Gesta na Magic Mouse</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovatelná indexová slova</string>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Přibližování myší</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

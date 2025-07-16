@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>AlwaysAllowed</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalizovateľné slová indexu</string>
+                <key>index</key>
+                <string>obrazovka, čas, vždy, povoliť, obmedziť, rodina, rodičia, rodičovská, kontrola, súkromie, bezpečnosť, deti, obmedzenie, spravovanie, časovač, večierka, obmedzovanie, spravovanie, monitorovanie, sledovanie</string>
+                <key>title</key>
+                <string>Vybrať vždy povolené apky v Čase pred obrazovkou</string>
+            </dict>
+        </array>
+    </dict>
+    <key>CommunicationLimit</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalizovateľné slová indexu</string>
+                <key>index</key>
+                <string>obrazovka, čas, komunikácia, kontakt, telefón, textová, správa, FaceTime, SMS, obmedziť, limit, pridať, vytvoriť, použiť, rodina, rodičia, rodičovská, kontrola, súkromie, bezpečnosť, deti, obmedzenie, spravovanie, časovač, večierka, obmedzovanie, spravovanie</string>
+                <key>title</key>
+                <string>Nastaviť limity pre komunikáciu v apke Čas pred obrazovkou</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>obrazovka, čas, komunikácia, kontakt, telefón, textová, správa, FaceTime, SMS, obmedziť, limit, pridať, vytvoriť, použiť, rodina, rodičia, rodičovská, kontrola, súkromie, bezpečnosť, deti, obmedzenie, spravovanie, časovač, večierka, obmedzovanie, spravovanie</string>
+                <key>title</key>
+                <string>Zmeniť limity pre komunikáciu v apke Čas pred obrazovkou</string>
+            </dict>
+        </array>
+    </dict>
+    <key>ContentAndPrivacy</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalizovateľné slová indexu</string>
+                <key>index</key>
+                <string>obrazovka, čas, obsah, súkromie, obmedziť, rodina, rodičia, rodičovská, kontrola, bezpečnosť, zabezpečenie, deti, obmedzenie, spravovanie, časovač, večierka, obmedzovanie, spravovanie, slovník, nevhodné, nadávať, nadávky, hrešenie, nevhodný jazyk, obscénny, obscénnosť, nemravný, nemravnosť, slová, pornografia, vulgárny, vyjadrovanie, štyri písmená, na štyri písmená, filtrovaný, nefiltrovaný, bez filtrovania</string>
+                <key>title</key>
+                <string>Upraviť nastavenia obsahu a súkromia pre Čas pred obrazovkou</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>obrazovka, čas, rodičovská, ochrana, limity, nevhodný, obsah, webstránky, dieťa, deti, obmedziť</string>
+                <key>title</key>
+                <string>Obmedziť nevhodný obsah</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyNotifications</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalizovateľné slová indexu</string>
+                <key>index</key>
+                <string>obrazovka, čas, deň, denne, používanie, hlásenia</string>
+                <key>title</key>
+                <string>Zobraziť denný prehľad hlásení v Čase pred obrazovkou</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyPickups</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalizovateľné slová indexu</string>
+                <key>index</key>
+                <string>obrazovka, čas, deň, denne, balenie</string>
+                <key>title</key>
+                <string>Zobraziť dennú frekvenciu používania zariadenia v Čase pred obrazovkou</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyUsage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalizovateľné slová indexu</string>
+                <key>index</key>
+                <string>obrazovka, čas, týždeň, týždenne, používanie, správa, monitorovať, sledovať, dieťa, deti, apky</string>
+                <key>title</key>
+                <string>Zobraziť denný prehľad o používaní apiek v Čase pred obrazovkou</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Downtime</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalizovateľné slová indexu</string>
+                <key>index</key>
+                <string>obrazovka, čas, používanie, obmedziť, obmedzenie, rodina, rodičovská, ochrana, bezpečnosť, súkromie, zabezpečenie, deti, obmedziť, spravovať, časovač, večierka, škola, noci, obmedzujúce, spravujúce</string>
+                <key>title</key>
+                <string>Naplánovať odpočinok v Čase pred obrazovkou</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Options</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalizovateľné slová indexu</string>
+                <key>index</key>
+                <string>obrazovka, čas, nastavenie, možnosť, obmedziť, rodina, rodičia, rodičovská, kontrola, zabezpečenie, bezpečnosť, deti, obmedzenie, spravovanie, časovač, večierka, obmedzovanie, spravovanie</string>
+                <key>title</key>
+                <string>Zapnúť alebo vypnúť Čas pred obrazovkou</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>obrazovka, rodičovská, ochrana, možnosti, limit, limity, heslo, kód</string>
+                <key>title</key>
+                <string>Nastaviť kód pre Čas pred obrazovkou</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Requests</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalizovateľné slová indexu</string>
+                <key>index</key>
+                <string>obrazovka, čas, žiadosť, povoliť, schváliť, nepovoliť, neschváliť, obmedziť, rodina, rodičia, rodičovská, kontrola, súkromie, bezpečnosť, deti, obmedzenie, spravovanie, časovač, večierka, obmedzovanie, spravovanie</string>
+                <key>title</key>
+                <string>Zobraziť žiadosti Času pred obrazovkou</string>
+            </dict>
+        </array>
+    </dict>
+    <key>ViewUsageLimit</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalizovateľné slová indexu</string>
+                <key>index</key>
+                <string>obrazovka, čas, používanie, apka, obmedziť, pridať, vytvoriť, použiť, rodina, rodičia, rodičovská, kontrola, súkromie, bezpečnosť, deti, obmedzenie, spravovanie, časovač, večierka, obmedzovanie, spravovanie</string>
+                <key>title</key>
+                <string>Nastaviť limity pre apky v Čase pred obrazovkou</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyNotifications</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalizovateľné slová indexu</string>
+                <key>index</key>
+                <string>obrazovka, čas, týždeň, týždenné, používanie, hlásenia, rodičovská, ochrana</string>
+                <key>title</key>
+                <string>Zobraziť týždenný prehľad hlásení v Čase pred obrazovkou</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyPickups</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalizovateľné slová indexu</string>
+                <key>index</key>
+                <string>obrazovka, čas, týždeň, týždenné, používanie, zobudenie, rodičovská, ochrana</string>
+                <key>title</key>
+                <string>Zobraziť týždennú frekvenciu používania zariadenia v Čase pred obrazovkou</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyUsage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalizovateľné slová indexu</string>
+                <key>index</key>
+                <string>obrazovka, čas, týždeň, týždenne, používanie, správa, monitorovať, sledovať, dieťa, deti, apky, rodičovská, ochrana</string>
+                <key>title</key>
+                <string>Zobraziť týždenný prehľad o používaní apiek v Čase pred obrazovkou</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

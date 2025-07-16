@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>currentSource</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Jimatkan Kuasa</string>
+                <key>index</key>
+                <string>paparan, skrin, monitor, cerahkan, malap, tidur, bangun, matikan, mulakan, kuasa, aktif, nyahaktif, hidup, mati, elektrik, hijau, jimat, penjimatan, menjimatkan, pemuliharaan, persekitaran, optimumkan, prestasi, pemproses, automatik, kecerahan, hitam, kosong, penggelapan, dimalapkan, sedang dimalapkan, sedang tidur, tertidur, terjaga, membangunkan, sedang membangunkan, penutupan, menutup, menguasakan, memulihara, memelihara, dioptimumkan, mengoptimumkan, sedang dioptimumkan, pengoptimuman, diautomasi, mengautomasi, automatik, secara automatik, ups, bekalan kuasa tanpa gangguan, sumber kuasa tanpa gangguan</string>
+                <key>comments</key>
+                <string>Perkataan indeks yang boleh disetempatkan</string>
+            </dict>
+        </array>
+    </dict>
+    <key>schedule</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Jadualkan permulaan, tidur, atau penutupan</string>
+                <key>index</key>
+                <string>tidur, bangun, memulakan, kuasa, aktif, nyahaktif, automatik, berjadual, penjadualan, sedang tidur, tertidur, terjaga, membangunkan, sedang membangunkan, penutupan, menutup, menjanakan, menukarkan, terautomasi, mengautomasikan, secara automatik</string>
+                <key>comments</key>
+                <string>Perkataan indeks yang boleh disetempatkan</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

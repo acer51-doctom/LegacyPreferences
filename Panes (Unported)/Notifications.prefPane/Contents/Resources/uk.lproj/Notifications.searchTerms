@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Notifications</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локалізовувані індексні слова</string>
+				<key>index</key>
+				<string>центр, сповіщення, центр сповіщень, сповіщення, банер, банери, попередження, значок, значки, звуки, замкнений екран, оповіщення, повідомлення</string>
+				<key>title</key>
+				<string>Параметри Центру сповіщень</string>
+			</dict>
+		</array>
+	</dict>
+    <key>Focus</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Локалізовувані індексні слова</string>
+                <key>index</key>
+                <string>не турбувати, зосередження, термінові, терміново, відсутність, відсутній, відсутня, зайнятий, зайнята, автовідповідь, автовідповідач, автовідповісти, відповісти автоматично, автоматична відповідь</string>
+                <key>title</key>
+                <string>Параметри зосередження, налаштування режиму зосередження, режим зосередження, зосередження</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

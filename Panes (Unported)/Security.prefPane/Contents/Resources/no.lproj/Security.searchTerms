@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Advanced</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>infrarød, mottaker, IR</string>
+				<key>title</key>
+				<string>Deaktivere fjernkontroll</string>
+			</dict>
+		</array>
+	</dict>
+	<key>FDE</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>disk, kryptere, kryptert, kryptering, diskkryptering, file vault, filevault</string>
+				<key>title</key>
+				<string>FileVault</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Firewall</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>forhindre, blokkere, nettverk, porter, udp, fildeling, fjernkontroll, remote, SSH, avverge, hindre, blokkert, blokkering, brannmur</string>
+				<key>title</key>
+				<string>Slå brannmuren på eller av</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>brannmur</string>
+				<key>title</key>
+				<string>Avanserte brannmurinnstillinger</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>usynlig</string>
+				<key>title</key>
+				<string>Usynlig-modus</string>
+			</dict>
+		</array>
+	</dict>
+	<key>General</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+            <dict>
+                <key>comments</key>
+                <string>Lokaliserbare indeksord</string>
+                <key>index</key>
+                <string>apple watch, watch, klokke, låse opp, godkjenne</string>
+                <key>title</key>
+                <string>Tillat at Apple Watch kan låse opp Macen</string>
+            </dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>skjerm, sparer, passord, godkjenne, autentisere, låse, låse opp, dvale, vekke, skjermsparer, passord, pass, ord, godkjent, autentisert, autentisering, godkjenning, låse, låser, låst opp, opplåst, låser opp, dvale, dvalemodus, vekke</string>
+				<key>title</key>
+				<string>Krev passord for å vekke maskinen</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>logge, logge på, automatisk, logge seg på, pålogging, innlogging, logge seg inn,logge inn</string>
+				<key>title</key>
+				<string>Deaktivere automatisk pålogging</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>låse, lås, låse opp, låsing, opplåsing</string>
+				<key>title</key>
+				<string>Låse Systemvalg</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>logge, av, på, logge av, avlogging, innlogging, pålogging, logge inn</string>
+				<key>title</key>
+				<string>Logge av når inaktiv</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>sikker, sikkerhet, sikring, beskyttelse, sikret, sikrer, beskyttet, beskytter</string>
+				<key>title</key>
+				<string>Sikkerhetsinnstillinger</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Lås skjerm</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>Gatekeeper, gate, keeper, identifisere, ID, identifisert, utvikler, utviklere, app, apper, nedlastinger, last ned</string>
+				<key>title</key>
+				<string>Gatekeeper</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>privat, personvern</string>
+				<key>title</key>
+				<string>Personverninnstillinger</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Accessibility</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>tilgjengelighet</string>
+				<key>title</key>
+				<string>Gi apper tilgang til Tilgjengelighet</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_AllFiles</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Filer</string>
+				<key>title</key>
+				<string>Gi apper tilgang til alle brukerfiler</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Assistive</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>særlige behov, tilgang, tilgjengelighet, funksjonshemmet, handikappet, svekket, hjelp, hjelpkontroll, bevegelighet, rullestol</string>
+				<key>title</key>
+				<string>Gi hjelpeapper tillatelse til å styre datamaskinen</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Calendars</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Kalendere, datoer</string>
+				<key>title</key>
+				<string>Gi apper tilgang til Kalender</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Camera</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>facebook, app, tilgang, privat, personvern</string>
+				<key>title</key>
+				<string>Gi apper tilgang til kameraet</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Contacts</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>kontakter, adresse, app, tilgang, privat, personvern</string>
+				<key>title</key>
+				<string>Gi apper tilgang til Kontakter</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_SystemServices</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>sted, tjeneste, tid, sone, tilgang, annonser, finn mac, hjem, homekit, spotlight, personvern</string>
+				<key>title</key>
+				<string>Tillat at systemtjenester kan se hvor du er</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_LocationServices</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>sted, posisjon, plassering, stedstjeneste, app, tilgang, privat, personlig, personvern</string>
+				<key>title</key>
+				<string>Gi apper tilgang til posisjon</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Microphone</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>mikrofon, app, tilgang, privat, personvern</string>
+				<key>title</key>
+				<string>Gi apper tilgang til mikrofonen</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Reminders</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Påminnelser, oppgaver</string>
+				<key>title</key>
+				<string>Gi apper tilgang til Påminnelser</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

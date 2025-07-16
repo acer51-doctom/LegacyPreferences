@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>חם</string>
+				<key>title</key>
+				<string>פינות חמות</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>התאם אישית, מכתבה, מקלדת, מקשי פונקציה, Fn, כפתורי עכבר, חלונות, יישומים, תוכנות, מותאם אישית, להתאים אישית, התאמה אישית, mission control</string>
+				<key>title</key>
+				<string>קיצור Exposé</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Spaces</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>לארגן, מרחבי עבודה, יישומים, תוכנות, מכתבות, מאורגן, ארגון</string>
+				<key>title</key>
+				<string>הגדר את Spaces</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

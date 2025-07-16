@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>100</key>
+	<string>com.apple.finder</string>
+	<key>101</key>
+	<string>com.apple.Music</string>
+	<key>102</key>
+	<string>com.apple.DiskUtility</string>
+	<key>103</key>
+	<string>com.apple.ImageCaptureApp</string>
+	<key>104</key>
+	<string>com.apple.iMovie7</string>
+	<key>105</key>
+	<string>com.apple.dvdplayer</string>
+	<key>106</key>
+	<string>com.apple.iDVD</string>
+	<key>107</key>
+	<string>com.apple.Photos</string>
+	<key>108</key>
+	<string>com.apple.FinalCutPro</string>
+	<key>111</key>
+	<string>com.apple.iChat</string>
+	<key>112</key>
+	<string>com.apple.BlurayPlayer</string>
+</dict>
+</plist>

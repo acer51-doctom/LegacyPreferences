@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>DO_NOT_LOCALIZE: Switch to Space 1</string>
+		<key>key</key>
+		<integer>18</integer>
+		<key>modifier</key>
+		<integer>262144</integer>
+		<key>sybmolichotkey</key>
+		<integer>118</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>DO_NOT_LOCALIZE: Switch to Space 2</string>
+		<key>key</key>
+		<integer>19</integer>
+		<key>modifier</key>
+		<integer>262144</integer>
+		<key>sybmolichotkey</key>
+		<integer>119</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>DO_NOT_LOCALIZE: Switch to Space 3</string>
+		<key>key</key>
+		<integer>20</integer>
+		<key>modifier</key>
+		<integer>262144</integer>
+		<key>sybmolichotkey</key>
+		<integer>120</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>DO_NOT_LOCALIZE: Switch to Space 4</string>
+		<key>key</key>
+		<integer>21</integer>
+		<key>modifier</key>
+		<integer>262144</integer>
+		<key>sybmolichotkey</key>
+		<integer>121</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>DO_NOT_LOCALIZE: Switch to Space 5</string>
+		<key>key</key>
+		<integer>23</integer>
+		<key>modifier</key>
+		<integer>262144</integer>
+		<key>sybmolichotkey</key>
+		<integer>122</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>DO_NOT_LOCALIZE: Switch to Space 6</string>
+		<key>key</key>
+		<integer>22</integer>
+		<key>modifier</key>
+		<integer>262144</integer>
+		<key>sybmolichotkey</key>
+		<integer>123</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>DO_NOT_LOCALIZE: Switch to Space 7</string>
+		<key>key</key>
+		<integer>26</integer>
+		<key>modifier</key>
+		<integer>262144</integer>
+		<key>sybmolichotkey</key>
+		<integer>124</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>DO_NOT_LOCALIZE: Switch to Space 8</string>
+		<key>key</key>
+		<integer>28</integer>
+		<key>modifier</key>
+		<integer>262144</integer>
+		<key>sybmolichotkey</key>
+		<integer>125</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>DO_NOT_LOCALIZE: Switch to Space 9</string>
+		<key>key</key>
+		<integer>25</integer>
+		<key>modifier</key>
+		<integer>262144</integer>
+		<key>sybmolichotkey</key>
+		<integer>126</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>DO_NOT_LOCALIZE: Switch to Space 10</string>
+		<key>key</key>
+		<integer>29</integer>
+		<key>modifier</key>
+		<integer>262144</integer>
+		<key>sybmolichotkey</key>
+		<integer>127</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>DO_NOT_LOCALIZE: Switch to Space 11</string>
+		<key>key</key>
+		<integer>18</integer>
+		<key>modifier</key>
+		<integer>786432</integer>
+		<key>sybmolichotkey</key>
+		<integer>128</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>DO_NOT_LOCALIZE: Switch to Space 12</string>
+		<key>key</key>
+		<integer>19</integer>
+		<key>modifier</key>
+		<integer>786432</integer>
+		<key>sybmolichotkey</key>
+		<integer>129</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>DO_NOT_LOCALIZE: Switch to Space 13</string>
+		<key>key</key>
+		<integer>20</integer>
+		<key>modifier</key>
+		<integer>786432</integer>
+		<key>sybmolichotkey</key>
+		<integer>130</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>DO_NOT_LOCALIZE: Switch to Space 14</string>
+		<key>key</key>
+		<integer>21</integer>
+		<key>modifier</key>
+		<integer>786432</integer>
+		<key>sybmolichotkey</key>
+		<integer>131</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>DO_NOT_LOCALIZE: Switch to Space 15</string>
+		<key>key</key>
+		<integer>23</integer>
+		<key>modifier</key>
+		<integer>786432</integer>
+		<key>sybmolichotkey</key>
+		<integer>132</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>DO_NOT_LOCALIZE: Switch to Space 16</string>
+		<key>key</key>
+		<integer>22</integer>
+		<key>modifier</key>
+		<integer>786432</integer>
+		<key>sybmolichotkey</key>
+		<integer>133</integer>
+	</dict>
+</array>
+</plist>

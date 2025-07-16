@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Advanced</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>infrarood, ontvanger, IR</string>
+				<key>title</key>
+				<string>Afstandsbediening uitschakelen</string>
+			</dict>
+		</array>
+	</dict>
+	<key>FDE</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>schijf, versleutelen, versleuteld, encryptie, versleuteling, file vault, filevault</string>
+				<key>title</key>
+				<string>FileVault</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Firewall</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>voorkomen, blokkeren, netwerk, poorten, udp, bestandsdeling, remote, op afstand, SSH, preventie, blokkade, geblokkeerd, firewall</string>
+				<key>title</key>
+				<string>Firewall in- of uitschakelen</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>fire wall</string>
+				<key>title</key>
+				<string>Geavanceerde firewallinstellingen</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>stealthmodus</string>
+				<key>title</key>
+				<string>Stealth-modus</string>
+			</dict>
+		</array>
+	</dict>
+	<key>General</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+            <dict>
+                <key>comments</key>
+                <string>Lokaliseerbare indextermen</string>
+                <key>index</key>
+                <string>apple watch, watch, horloge, ontgrendelen, goedkeuren</string>
+                <key>title</key>
+                <string>Ontgrendelen van Mac door Apple Watch toestaan</string>
+            </dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>scherm, beveiliging, wachtwoord, authenticatie, vergrendelen, ontgrendelen, sluimeren, sluimerstand, schermbeveiliging, code, authenticeren, vergrendeld, ontgrendeld, vergrendeling, ontgrendeling</string>
+				<key>title</key>
+				<string>Om wachtwoord vragen bij opheffen sluimerstand</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>inloggen, aanmelden, meld aan, log in</string>
+				<key>title</key>
+				<string>Automatisch inloggen uitschakelen</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>vergrendelen, ontgrendelen, vergrendeling, ontgrendeling</string>
+				<key>title</key>
+				<string>Systeemvoorkeuren vergrendelen</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>afmelden, uitloggen, afgemeld, uitgelogd</string>
+				<key>title</key>
+				<string>Uitloggen bij inactiviteit</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>veilig, veiligheid, beveiliging, beveiligd, beschermen, beschermd, bescherming</string>
+				<key>title</key>
+				<string>Beveiligingsinstellingen</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Scherm vergrendelen</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>Gatekeeper, gate, keeper, bekend, ontwikkelaars, programma's, apps, downloads</string>
+				<key>title</key>
+				<string>Gatekeeper</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>privé, privacy</string>
+				<key>title</key>
+				<string>Privacy-instellingen</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Accessibility</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>toegankelijkheid</string>
+				<key>title</key>
+				<string>Apps toegang geven tot Toegankelijkheid</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_AllFiles</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Bestanden</string>
+				<key>title</key>
+				<string>Apps toegang geven tot alle gebruikersbestanden</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Assistive</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>universeel, universele, toegang, toegankelijkheid, invalide, gehandicapt, handicap, beperkt, belemmerd, assistive control, bediening, hulpmiddelen, mobiliteit, rolstoel</string>
+				<key>title</key>
+				<string>Toestaan dat ondersteuningsapps deze computer besturen</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Calendars</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Agenda's, datums</string>
+				<key>title</key>
+				<string>Apps toegang geven tot Agenda</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Camera</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>camera, app, toegang, privé, privacy</string>
+				<key>title</key>
+				<string>Apps toegang geven tot de camera</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Contacts</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>contact, adres, app, toegang, privé, privacy</string>
+				<key>title</key>
+				<string>Apps toegang geven tot contactgegevens</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_SystemServices</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>locatie, voorziening, tijd, zone, toegang, advertenties,  zoek mijn mac, woning, homekit, spotlight, privacy</string>
+				<key>title</key>
+				<string>Sta toe dat systeemvoorzieningen je locatie bepalen</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_LocationServices</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>locatie, voorziening, app, toegang, privé, privacy</string>
+				<key>title</key>
+				<string>Apps toegang geven tot locaties</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Microphone</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>microfoon, app, toegang, privé, privacy</string>
+				<key>title</key>
+				<string>Apps toegang geven tot de microfoon</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Reminders</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Herinneringen, taak</string>
+				<key>title</key>
+				<string>Apps toegang geven tot Herinneringen</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

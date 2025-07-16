@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>currentSource</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Conservar energía</string>
+                <key>index</key>
+                <string>pantallas, monitores, aumentar, reducir, brillo, reposo, activación, apagado, arranque, inicio, activado, desactivado, electricidad, ecología, guardar, ahorrar, conservar, conservación, preservar, medioambiental, medio ambiente, cargar, enchufe, conectar, sin corriente, optimizar, rendimiento, procesador, automático, negro, en blanco, obscurecer, apagado, en reposo, arrancando, arranque, apagando, apagado, encender, encendiendo, encendido, ahorro, conservar, preservación, cargado, cargando, optimizado, optimización, automatizado, automatizar, automáticamente, sai, sistema de alimentación ininterrumpida, fuente de alimentación ininterrumpida</string>
+                <key>comments</key>
+                <string>Palabras de índice localizables</string>
+            </dict>
+        </array>
+    </dict>
+    <key>schedule</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Programar arranque, reposo o apagado</string>
+                <key>index</key>
+                <string>activar, arranque, inicio, encendido, apagado, automático, programado, programar, programación, en reposo, desactivado, activado, apagando, apagado, automatizado, automatizar, automáticamente</string>
+                <key>comments</key>
+                <string>Palabras de índice localizables</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

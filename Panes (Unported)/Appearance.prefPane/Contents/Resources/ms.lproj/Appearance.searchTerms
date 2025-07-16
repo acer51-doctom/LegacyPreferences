@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+        <key>Handoff</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>comments</key>
+                    <string>Perkataan indeks yang boleh disetempatkan</string>
+                    <key>index</key>
+                    <string>kesinambungan, mengambilnya, teruskan, aktiviti, berterusan, serahkan</string>
+                    <key>title</key>
+                    <string>Benarkan Handoff</string>
+                </dict>
+            </array>
+        </dict>
+		<key>Main</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Perkataan indeks yang boleh disetempatkan</string>
+					<key>index</key>
+					<string>dipilih, teks, penyerlahan, menyerlah, penampilan, serlahkan</string>
+					<key>title</key>
+					<string>Warna serlahan</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Perkataan indeks yang boleh disetempatkan</string>
+					<key>index</key>
+					<string>menu Apple, aplikasi, dokumen, pelayan</string>
+					<key>title</key>
+					<string>Bilangan Item Terbaharu</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Perkataan indeks yang boleh disetempatkan</string>
+					<key>index</key>
+					<string>desktop, sesuaikan, peribadikan, tab, menyesuaikan, penyesuaian, memperibadikan, penampilan</string>
+					<key>title</key>
+					<string>Rupa butang, menu dan tetingkap</string>
+				</dict>
+
+				<dict>
+					<key>comments</key>
+					<string>Perkataan indeks yang boleh disetempatkan</string>
+					<key>index</key>
+					<string>desktop, sesuaikan, peribadikan, menyesuaikan, penyesuaian, auto, memperibadikan, penampilan, cerah, gelap, tema, mod, Mod Gelap</string>
+					<key>title</key>
+					<string>Penampilan</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Perkataan indeks yang boleh disetempatkan</string>
+					<key>index</key>
+					<string>butang, pilihan, menu, rupa, penampilan, warna</string>
+					<key>title</key>
+					<string>Warna aksen</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Perkataan indeks yang boleh disetempatkan</string>
+					<key>index</key>
+					<string>edit, ubah, tukar, simpan, tutup, keluar, dokumen, fail</string>
+					<key>title</key>
+					<string>Simpan perubahan</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Perkataan indeks yang boleh disetempatkan</string>
+					<key>index</key>
+					<string>tetingkap, lompat, bar skrol, lompatan</string>
+					<key>title</key>
+					<string>Kelakuan bar skrol</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Perkataan indeks yang boleh disetempatkan</string>
+					<key>index</key>
+					<string>ikon, sisi, bar, saiz, bar sisi</string>
+					<key>title</key>
+					<string>Ikon bar sisi</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Perkataan indeks yang boleh disetempatkan</string>
+					<key>index</key>
+					<string>keluar daripada, keluar, buka, buka semula, membuka, membuka semula, memulihkan, utamakan tab</string>
+					<key>title</key>
+					<string>Tutup dan pulihkan tetingkap</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Perkataan indeks yang boleh disetempatkan</string>
+					<key>index</key>
+					<string>Safari, http, https, surf, layari, www, tapak web, halaman web</string>
+					<key>title</key>
+					<string>Setkan pelayar web lalai</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>currentSource</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Spar på strøm</string>
+                <key>index</key>
+                <string>skærme, computerskærme, monitorer, lysne, dæmpe, vågeblus, afbryde vågeblus, lukke ned, starte, strøm, til, fra, elektricitet, grøn, spare, besparelse, bevare, miljø, optimere, ydeevne, processor, automatisk, lysstyrke, sort, tomt, mørkne, dæmpe, dæmpet, på vågeblus, sove, vågne, vågen, vågne op, nedlukning, luk ned, sætte strøm til, slå, spare, bespare, optimeret, optimerer, optimering, automatiseret, automatisering, automatisk, ups, konstant strømforsyning, konstant strømkilde</string>
+                <key>comments</key>
+                <string>Registerindgange, der kan oversættes</string>
+            </dict>
+        </array>
+    </dict>
+    <key>schedule</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Planlæg start, vågeblus eller nedlukning</string>
+                <key>index</key>
+                <string>afbryde vågeblus, afbryder, til, fra, automatisk, planlægge, planlagt, på vågeblus, sove, vågne, vågen, vågne op, opvågning, nedlukning, lukke ned, sætte strøm til, slå, slå til, automatiseret, automatisere, automatisk</string>
+                <key>comments</key>
+                <string>Registerindgange, der kan oversættes</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

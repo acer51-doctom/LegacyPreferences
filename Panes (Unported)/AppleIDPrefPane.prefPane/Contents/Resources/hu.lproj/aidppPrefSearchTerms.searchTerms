@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>AppleAccount</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalizálható indexszavak</string>
+                <key>index</key>
+                <string>iCloud, cloud, me.com, apple-fiók, appleid, apple, id, fiók, kontakt, fizetés, szállítás</string>
+                <key>title</key>
+                <string>Apple ID</string>
+            </dict>
+        </array>
+    </dict>
+    <key>iCloud</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalizálható indexszavak</string>
+                <key>index</key>
+                <string>iCloud, felhő, me.com, apple-fiók, mac keresése, tárhely, dokumentumok és adatok, iCloud Drive, Könyvjelzők, Naptárak, Kontaktok, Mail, Emlékeztetők, Olvasólisták, Részvények, Otthon, Safari, Jegyzetek, </string>
+                <key>title</key>
+                <string>iCloud</string>
+            </dict>
+        </array>
+    </dict>
+    <key>com.apple.AppleMediaServicesUI.SpyglassPurchases</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalizálható indexszavak</string>
+                <key>index</key>
+                <string>média, vásárlások, app store, szolgáltatások, előfizetések</string>
+                <key>title</key>
+                <string>Média és vásárlások</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

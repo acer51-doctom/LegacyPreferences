@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>AlwaysAllowed</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Paraules d’índex traduïbles</string>
+                <key>index</key>
+                <string>ús, temps, sempre, permetre, limitar, límit, límits, família, pares, pare, mare, parental, parentals, control, controls, seguretat, privadesa, privacitat, nen, nena, nens, nenes, fill, filla, fills, filles, restringir, gestionar, administrar, temporitzador, restricció, restriccions, gestió, administració, controlar</string>
+                <key>title</key>
+                <string>Escull les apps sempre permeses a “Temps d’ús”</string>
+            </dict>
+        </array>
+    </dict>
+    <key>CommunicationLimit</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Paraules d’índex traduïbles</string>
+                <key>index</key>
+                <string>ús, temps, comunicació, contacte, telèfon, text, missatge, FaceTime, SMS, limitar, límit, límits, afegir, crear, aplicar, família, pares, pare, mare, parental, parentals, controls, control, seguretat, privadesa, privacitat, nen, nena, nens, nenes, fill, filla, fills, filles, restringir, gestionar, administrar, temporitzador, restricció, restriccions, gestió, administració</string>
+                <key>title</key>
+                <string>Establir límits de comunicació a “Temps d’ús”</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>ús, temps, comunicació, contacte, telèfon, text, missatge, FaceTime, SMS, limitar, límit, límits, afegir, crear, aplicar, família, pares, pare, mare, parental, parentals, controls, control, seguretat, privadesa, privacitat, nen, nena, nens, nenes, fill, filla, fills, filles, restringir, gestionar, administrar, temporitzador, restricció, restriccions, gestió, administració</string>
+                <key>title</key>
+                <string>Canviar els límits de comunicació a “Temps d’ús”</string>
+            </dict>
+        </array>
+    </dict>
+    <key>ContentAndPrivacy</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Paraules d’índex traduïbles</string>
+                <key>index</key>
+                <string>ús, temps, sempre, permetre, limitar, límit, límits, família, pares, pare, mare, parental, parentals, control, controls, seguretat, privadesa, privacitat, nen, nena, nens, nenes, fill, filla, fills, filles, restringir, gestionar, administrar, temporitzador, restricció, restriccions, gestió, administració, diccionari, inadequat, inadequada, inadequats, inadequades, insultar, insult, insults, paraulota, paraulotes, explícit, mala, males, paraula, paraules, obscè, obscena, obscens, obscenes, obscenitat, obscenitats, pornografia, porno, vulgar, vulgars, ofensiu, ofensiva, ofensius, ofensives, censura, censurat, censurada, censurats, censurades, censurar</string>
+                <key>title</key>
+                <string>Escull la configuració de contingut i privacitat de “Temps d’ús”</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>pantalla, temps, parentals, controls, límits, explícit, contingut, llocs web, nen, nena, nens, nenes, fill, filla, fills, filles, restringir</string>
+                <key>title</key>
+                <string>Restringeix el contingut explícit</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyNotifications</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Paraules d’índex traduïbles</string>
+                <key>index</key>
+                <string>ús, temps, dia, diari, diària, diaris, diàries, utilització, notificacions</string>
+                <key>title</key>
+                <string>Mostra un informe diari d’ús de les notificacions a “Temps d’ús”</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyPickups</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Paraules d’índex traduïbles</string>
+                <key>index</key>
+                <string>ús, temps, dia, diari, diària, diaris, diàries, consultes</string>
+                <key>title</key>
+                <string>Mostra un informe diari d’ús de les consultes a “Temps d’ús”</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyUsage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Paraules d’índex traduïbles</string>
+                <key>index</key>
+                <string>pantalla, temps, setmana, setmanalment, ús, notificacions, consultes, parentals, controls, informar, controlar, nen, nena, nens, nenes, fill, filla, fills, filles, apps</string>
+                <key>title</key>
+                <string>Mostra un informe diari d’ús de les apps a “Temps d’ús”</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Downtime</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Paraules d’índex traduïbles</string>
+                <key>index</key>
+                <string>ús, temps, utilització, limitar, límit, límits, inactivitat, família, pares, pare, mare, parental, parentals, controls, control, seguretat, privadesa, privacitat, nen, nena, nens, nenes, fill, filla, fills, filles, restringir, gestionar, administrar, temps, temporal, temporals, temporitzador, nocturn, col·legi, escola, nits, nit, dormir, son, restricció, restriccions, gestió, administració</string>
+                <key>title</key>
+                <string>Programa el temps d’inactivitat a “Temps d’ús”</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Options</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Paraules d’índex traduïbles</string>
+                <key>index</key>
+                <string>ús, temps, configuració, configuracions, opció, opcions, limitar, límit, límits, família, pares, pare, mare, parental, parentals, control, controls, seguretat, nen, nena, nens, nenes, fill, filla, fills, filles, restringir, gestionar, administrar, temporitzador, restricció, restriccions, gestió, administració</string>
+                <key>title</key>
+                <string>Activar o desactivar “Temps d’ús”</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>pantalla, parentals, controls, opcions, límit, límits, contrasenya, codi</string>
+                <key>title</key>
+                <string>Defineix un codi de “Temps d’ús”</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Requests</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Paraules d’índex traduïbles</string>
+                <key>index</key>
+                <string>ús, temps, demanar, sol·licitar, petició, peticions, sol·licitud, sol·licituds, sempre, permetre, limitar, límit, límits, família, pares, pare, mare, parental, parentals, control, controls, seguretat, privadesa, privacitat, nen, nena, nens, nenes, fill, filla, fills, filles, restringir, gestionar, administrar, temporitzador, restricció, restriccions, gestió, administració</string>
+                <key>title</key>
+                <string>Mostrar sol·licituds de temps d’ús</string>
+            </dict>
+        </array>
+    </dict>
+    <key>ViewUsageLimit</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Paraules d’índex traduïbles</string>
+                <key>index</key>
+                <string>ús, temps, utilització, app, apps, aplicació, aplicacions, limitar, límit, límits, afegir, crear, aplicar, família, pares, pare, mare, parental, parentals, controls, control, seguretat, privadesa, privacitat, nen, nena, nens, nenes, fill, filla, fills, filles, restringir, gestionar, administrar, temporitzador, restricció, restriccions, gestió, administració</string>
+                <key>title</key>
+                <string>Escull els límits d’apps a “Temps d’ús”</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyNotifications</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Paraules d’índex traduïbles</string>
+                <key>index</key>
+                <string>pantalla, temps, setmana, setmanalment, ús, notificacions, consultes, parentals, controls</string>
+                <key>title</key>
+                <string>Mostra un informe setmanal de les notificacions a “Temps d’ús”</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyPickups</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Paraules d’índex traduïbles</string>
+                <key>index</key>
+                <string>pantalla, temps, setmana, setmanalment, consultes, parentals, controls</string>
+                <key>title</key>
+                <string>Mostra un informe setmanal d’ús de les consultes a “Temps d’ús”</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyUsage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Paraules d’índex traduïbles</string>
+                <key>index</key>
+                <string>pantalla, temps, setmana, setmanalment, ús, notificacions, consultes, parentals, controls, informar, controlar, nen, nena, nens, nenes, fill, filla, fills, filles, apps, parentals, controls</string>
+                <key>title</key>
+                <string>Mostra un informe setmanal d’ús de les apps a “Temps d’ús”</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

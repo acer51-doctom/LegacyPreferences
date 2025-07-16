@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizálható indexszavak</string>
+				<key>index</key>
+				<string>lejátszás, behelyezés, indít, indítás, fut, futtat, futtatás, betölt, betöltés, kompakt, digitális, lemez, lemezek, optikai, médium, média, üres, nyers, iTunes, Zene, lejátszó, automatikus lejátszás, önlejátszó, önlejátszás, Fotók, kép, képek, fotók, fényképek, iDVD, film, filmek, videó, videók, lejátszik, behelyez</string>
+				<key>title</key>
+				<string>Kezeld a CD-ket és DVD-ket</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

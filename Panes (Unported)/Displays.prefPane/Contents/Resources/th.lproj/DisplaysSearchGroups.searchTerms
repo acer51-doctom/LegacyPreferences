@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displaysArrangementTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>หน้าจอ, มอนิเตอร์, เครื่องสะท้อน, สะท้อน, กำลังสะท้อน, กำลังจัดเรียง, การจัดเรียง</string>
+				<key>title</key>
+				<string>จัดเรียงจอภาพแบบหลายจอ</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>แถบเมนู</string>
+				<key>title</key>
+				<string>ปรับตำแหน่งแถบเมนู</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysColorTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>จอภาพ, หน้าจอ, มอนิเตอร์, ปรับเทียบ, ปรับ, ทำให้สว่าง, ทำให้สว่างจ้า, ทำให้มัว, ทำให้มืด, จุดขาว, แกมมา, แสงภายนอก, โปรไฟล์, กำลังปรับเทียบ, กำลังปรับ, การปรับ, กำลังทำให้มืด</string>
+				<key>title</key>
+				<string>แสดงสีและการปรับเทียบ</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysDisplayTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>จอภาพ หน้าจอ มอนิเตอร์ ความลึก ล้าน พัน 256 ColorSync ปรับ ทำให้สว่าง ทำให้สว่างจ้า ทำให้มัว ทำให้มืด กำลังปรับ การปรับ กำลังทำให้มืด true tone</string>
+				<key>title</key>
+				<string>สี ความสว่าง และความละเอียด</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>จอภาพ, หน้าจอ, มอนิเตอร์</string>
+				<key>title</key>
+				<string>อัตราการดึงข้อมูลหน้าจอใหม่</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>หน้าจอ, มอนิเตอร์</string>
+				<key>title</key>
+				<string>ตรวจพบจอภาพแบบหลายจอ</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>แถบเมนู</string>
+				<key>title</key>
+				<string>แสดงจอภาพในแถบเมนู</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>หมุน การหมุน</string>
+				<key>title</key>
+				<string>การหมุนหน้าจอ</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>AirPlay</string>
+				<key>title</key>
+				<string>ตัวเลือกการสะท้อน AirPlay</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysGeometryTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>ตำแหน่ง ความสูง ความกว้าง pincushion หมุน keystone parallelogram โค้ง ความโค้งที่มุม เอียง geometry ขนาด</string>
+				<key>title</key>
+				<string>ภาพหน้าจอ</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>rgb ปรับ จัดแนว กำลังปรับ การปรับ กำลังจัดแนว การจัดแนว</string>
+				<key>title</key>
+				<string>การรวมภาพ</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>คงที่, รีเซ็ต, สั่น, คลื่นแทรก, การสั่น</string>
+				<key>title</key>
+				<string>ขจัดสนามแม่เหล็ก</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysNightShiftTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>night, shift, night shift, หรี่, อุ่น, สีโทนอุ่น, สเปกตรัม, หลับ, อุณหภูมิ, พระอาทิตย์ตก, พระอาทิตย์ขึ้น, การหรี่แสง</string>
+				<key>title</key>
+				<string>ตัวเลือก Night Shift</string>
+			</dict>
+		</array>
+	</dict>
+	<key>universalControlTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>คำแปลดัชนี</string>
+				<key>index</key>
+				<string>ทั่วไป, การควบคุม</string>
+				<key>title</key>
+				<string>การควบคุมจากอุปกรณ์กลาง</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DesktopPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локалізовувані індексні слова</string>
+				<key>index</key>
+				<string>фотографії, тло, робочий стіл, робочого, столу, стола, рабочого, шпалери, візерунок, налаштувати, настроїти, задати, фото, малюнки, зображення, робочий, стіл, фон, фоновий рисунок, настроїти, персоналізувати, налаштування, тло, тла, налаштувати</string>
+				<key>title</key>
+				<string>Зображення Робочого стола</string>
+			</dict>
+		</array>
+	</dict>
+	<key>ScreenSaverPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локалізовувані індексні слова</string>
+				<key>index</key>
+				<string>вимикати, вимкнути, почати, увімкнути, вмикати, альбоми, iTunes, малюнки, довільний, довільно, фотографії, фото, зображення, малюнки, налаштувати, екранні ефекти, фотографії, відключення, початок, налаштований, настроїти, персоналізувати, налаштування</string>
+				<key>title</key>
+				<string>Екранні ефекти</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Показувати з годинником</string>
+			</dict>
+		</array>
+	</dict>
+	<key>ScreenSaverPref_HotCorners</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локалізовувані індексні слова</string>
+				<key>index</key>
+				<string>активні кути екрана</string>
+				<key>title</key>
+				<string>Активні кути</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

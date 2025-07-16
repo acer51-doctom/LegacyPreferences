@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>InternetAccounts</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>บัญชี, ผู้ใช้, ชื่อ, ชื่อผู้ใช้, เข้า, กำลังเข้าใช้, ลงชื่อ, กำลังลงชื่อเข้า, ล็อกอิน, เข้าใช้งาน, ลงชื่อเข้า, การเข้าสู่ระบบ, การเข้าใช้งาน, การลงชื่อเข้า, การลงชื่อเข้า, ล็อกเอาท์, ออกจากระบบ, ลงชื่อออก, การออกจากระบบ, การลงชื่อออก, รหัส, รหัสผ่าน, ผ่าน, คำ, ตรวจสอบสิทธิ์, กำลังตรวจสอบสิทธิ์, การตรวจสอบสิทธิ์, iCloud, Apple ID, ผู้สมัคร, การสมัครสมาชิก, สมาชิก, เมล, iCal, ปฏิทิน, สมุดที่อยู่, สมุดรายชื่อ, รายชื่อ, iChat, ข้อความ, อีเมล, CalDAV, CardDAV, LDAP, IMAP, โน้ต, เตือนความจำ</string>
+				<key>title</key>
+				<string>บัญชีอินเทอร์เน็ต</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>การสตรีมรูปภาพ</string>
+				<key>title</key>
+				<string>การสตรีมรูปภาพ</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>ค้นหา Mac ของฉัน</string>
+				<key>title</key>
+				<string>ค้นหา Mac ของฉัน</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.126</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>126</string>
+				<key>title</key>
+				<string>ตั้งค่าบัญชี 126.com</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.163</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>163</string>
+				<key>title</key>
+				<string>ตั้งค่าบัญชี 163.com</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.Exchange</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>Exchange</string>
+				<key>title</key>
+				<string>ตั้งค่าบัญชี Exchange</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.Google</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>Google, Gmail, GoogleMail</string>
+				<key>title</key>
+				<string>ตั้งค่าบัญชี Google</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.Yahoo</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>Yahoo, yMail</string>
+				<key>title</key>
+				<string>ตั้งค่าบัญชี Yahoo!</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.aol</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>AOL, AIM</string>
+				<key>title</key>
+				<string>ตั้งค่าบัญชี AOL</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.qq</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>QQ</string>
+				<key>title</key>
+				<string>ตั้งค่าบัญชี QQ.com</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

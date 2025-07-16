@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mouseTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Palabras de índice localizables</string>
+				<key>index</key>
+				<string>doble clic, hacer doble clic, hacer clic, mover, arrastrar, más rápido, velocidad, lento, cursor, flecha, puntero, clic, movimiento, arrastre, más lento, hacer lento, reducir velocidad, desacelerar</string>
+				<key>title</key>
+				<string>Sensibilidad del mouse</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palabras de índice localizables</string>
+				<key>index</key>
+				<string>principal, secundario, función rápida, desplazar, desplazamiento, bola, rueda, bola de desplazamiento, bola del mouse, rueda del mouse, Mighty Mouse, Magic Mouse</string>
+				<key>title</key>
+				<string>Botones del mouse</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palabras de índice localizables</string>
+				<key>index</key>
+				<string>dos, tres, cuatro, dedos, tocar, desplazar, arrastrar, presionar, separar, juntar, acercar, alejar, aumentar, reducir, girar, pasar, toque, desplazamiento, arrastre, presión, zoom, giro, rotación, deslizar</string>
+				<key>title</key>
+				<string>Gestos del mouse Magic Mouse</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palabras de índice localizables</string>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Zoom con el mouse</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

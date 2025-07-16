@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mouseTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>로컬라이즈가 가능한 인덱스 단어</string>
+				<key>index</key>
+				<string>이중 클릭, 클릭, 트랙, 드래그, 빠르게, 속도, 스피드, 느리게, 커서, 화살표, 포인터, 클릭하기, 이동하기, 드래그하기, 더 느리게, 느림</string>
+				<key>title</key>
+				<string>마우스 감도</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>로컬라이즈가 가능한 인덱스 단어</string>
+				<key>index</key>
+				<string>주요, 보조, 단축키, 스크롤, 스크롤하기, 볼, 휠, 스크롤 볼, 스크롤볼, 스크롤 휠, 스크롤휠, 마우스 볼, 마우스볼, 마우스 휠, 마우스휠, Mighty Mouse, Magic Mouse, primary, secondary, shortcut, scroll, scrolling, ball, wheel, scrollball, scrollwheel, mouseball, mousewheel</string>
+				<key>title</key>
+				<string>마우스 버튼</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>로컬라이즈가 가능한 인덱스 단어</string>
+				<key>index</key>
+				<string>두 개, 둘, 두, 이, 세 개, 세, 셋, 삼, 네 개, 네, 넷, 사, 손가락, 터치, 터치하기, 스크롤, 스크롤하기, 드래그, 드래그하기, 탭, 탭하기, 줌, 확대, 축소, 확대/축소, 확대하기, 축소하기, 확대/축소하기, 회전, 회전시키기, 돌리기, 펼치기, 펴기, 쓸어넘기기, 쓸어 넘기기, 쓸어내리기, 쓸어 내리기, 쓸어올리기, 쓸어 올리기, 쓸어, 넘기기, 내리기, 올리기, 스와이프하기, two, three, four, fingers, touch, scroll, drag, tap, zoom, rotate, spread, swipe, touching, scrolling, dragging, tapping, zooming, rotating, swiping</string>
+				<key>title</key>
+				<string>Magic Mouse 제스처</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>로컬라이즈가 가능한 인덱스 단어</string>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>마우스로 확대/축소하기</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>ดัชนีคำที่แปลได้</string>
+				<key>index</key>
+				<string>ข้อมูลสำรอง, ที่เก็บถาวร, เข้ารหัส, การเข้ารหัส, เข้ารหัสแล้ว, กำลังเข้ารหัส, ฮาร์ด, ดิสก์, แผ่นดิสก์, ดิสก์โวลุ่ม, ความจุ, ข้อมูล, โฟลเดอร์, หาย, เสียหาย, สูญหาย, อุบัติเหตุ, ภัยพิบัติ, ลบ, กู้คืน, กำลังเก็บถาวร, กำลังเสียไป, สูญหาย, กำลังลบ, ลบแล้ว, กำลังลบ, กำลังจัดเก็บ, กำลังเรียกคืนค่า</string>
+				<key>title</key>
+				<string>สำรองข้อมูลและกู้คืนไฟล์</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

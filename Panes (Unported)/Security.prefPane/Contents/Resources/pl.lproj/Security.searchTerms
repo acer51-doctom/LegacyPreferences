@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Advanced</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>podczerwień, odbiornik, IR, podczerwieni</string>
+				<key>title</key>
+				<string>Wyłącz pilota</string>
+			</dict>
+		</array>
+	</dict>
+	<key>FDE</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>dysk, szyfruj, zaszyfrowane, szyfrowanie, szyfr, szyfrować, file vault, filevault</string>
+				<key>title</key>
+				<string>FileVault</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Firewall</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>zapobiegać, blokować, blokowanie, blokada, sieć, porty, udp, udostępniać pliki, udostępnianie plików, zdalne, zdalnie, SSH, zapobieganie, zablokowane, zapora, zapora sieciowa, firewall</string>
+				<key>title</key>
+				<string>Włącz lub wyłącz zaporę sieciową</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>zapora sieciowa</string>
+				<key>title</key>
+				<string>Zaawansowane ustawienia zapory sieciowej</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>tryb utajony</string>
+				<key>title</key>
+				<string>Tryb utajony</string>
+			</dict>
+		</array>
+	</dict>
+	<key>General</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalizowane słowa kluczowe</string>
+                <key>index</key>
+                <string>apple watch, zegarek, odblokować, odblokowywanie, odblokowanie, apple watchem, zatwierdzić</string>
+                <key>title</key>
+                <string>Pozwalaj Apple Watch odblokowywać Maca</string>
+            </dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>ekran, wygaszacz, hasło, uwierzytelniać, blokować, blokada, odblokować, sen, budzić, wygaszacz ekranu, uwierzytelniony, uwierzytelnianie, blokowanie, śpi, budzenie</string>
+				<key>title</key>
+				<string>Wymagaj hasła do obudzenia komputera</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>logowanie, wylogowanie, automatyczne, zalogować, wylogować</string>
+				<key>title</key>
+				<string>Wyłącz logowanie automatyczne</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>blokada, blokować, odblokować, blokowanie</string>
+				<key>title</key>
+				<string>Zablokuj Preferencje systemowe</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>wylogowanie, logowanie, zalogować, wylogować</string>
+				<key>title</key>
+				<string>Wyloguj, gdy nieaktywny</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>zabezpieczone, bezpieczne, bezpieczeństwo, chronić, ochrona, zabezpieczać, zabezpieczone, zabezpieczanie</string>
+				<key>title</key>
+				<string>Ustawienia ochrony</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Zablokuj ekran</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>Gatekeeper, gate, keeper, zidentyfikowani, deweloperzy, aplikacje, pobrane rzeczy</string>
+				<key>title</key>
+				<string>Gatekeeper</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>prywatne, prywatność</string>
+				<key>title</key>
+				<string>Ustawienia prywatności</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Accessibility</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>dostępność</string>
+				<key>title</key>
+				<string>Pozwalaj aplikacjom używać Dostępności</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_AllFiles</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Pliki</string>
+				<key>title</key>
+				<string>Pozwalaj aplikacjom uzyskiwać dostęp do wszystkich plików użytkownika</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Assistive</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>uniwersalny, dostęp, dostępność, niepełnosprawni, inwalidzi, assistive control, mobilność, wózek inwalidzki</string>
+				<key>title</key>
+				<string>Pozwalaj aplikacjom wspomagającym sterować komputerem</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Calendars</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Kalendarze, daty</string>
+				<key>title</key>
+				<string>Pozwalaj aplikacjom uzyskiwać dostęp do Kalendarza</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Camera</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>kamera, program, aplikacja, dostęp, prywatny, prywatność</string>
+				<key>title</key>
+				<string>Pozwalaj aplikacjom uzyskiwać dostęp do kamery</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Contacts</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>kontakt, adres, program, aplikacja, dostęp, prywatny, prywatność</string>
+				<key>title</key>
+				<string>Pozwalaj aplikacjom uzyskiwać dostęp do Kontaktów</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_SystemServices</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>lokalizacja, usługa, czas, strefa czasowa, strefa, dostęp, reklamy, znajdź mój mac, dom, home, homekit, spotlight, prywatność</string>
+				<key>title</key>
+				<string>Pozwalaj usługom systemowym określać Twoje położenie</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_LocationServices</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>położenie, lokalizacja, usługa, program, aplikacja, dostęp, prywatny, prywatność</string>
+				<key>title</key>
+				<string>Pozwalaj aplikacjom uzyskiwać dostęp do danych lokalizacji</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Microphone</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>mikrofon, program, aplikacja, dostęp, prywatny, prywatność</string>
+				<key>title</key>
+				<string>Pozwalaj aplikacjom uzyskiwać dostęp do mikrofonu</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Reminders</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Przypomnienia, rzeczy do zrobienia</string>
+				<key>title</key>
+				<string>Pozwalaj aplikacjom uzyskiwać dostęp do Przypomnień</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

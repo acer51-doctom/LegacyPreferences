@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>sauvegarde,sauvegarder, archive, chiffrer, chiffrement, chiffré, crypté, crypter, dur, disque, disques, lecteurs, volumes, données, information, dossier, perdre, perte, manquant, accident, désastre, effacer, récupérer, archivage, perdu, écraser, supprimer, suppression, éliminer, récupération, restaurer, restauration</string>
+				<key>title</key>
+				<string>Sauvegarde et restauration de fichiers</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

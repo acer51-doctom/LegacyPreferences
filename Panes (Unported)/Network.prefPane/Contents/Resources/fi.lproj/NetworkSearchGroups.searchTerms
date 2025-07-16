@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>6to4</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Välitysosoite</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>IPv6</string>
+				<key>title</key>
+				<string>6to4-osoite</string>
+			</dict>
+		</array>
+	</dict>
+	<key>802.1X</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>802.1X-varmenne</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>eap</string>
+				<key>title</key>
+				<string>802.1X-todentaminen</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>ulkoverkon tunnus, mschapv2, sisäverkon pap</string>
+				<key>title</key>
+				<string>TTLS</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>PEAP</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>TLS</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>suojattu yhteys, tunnistetieto, tunnistetiedot, valtakirja, valtuutus, varaus, varaaminen, nimetön, anonyymi</string>
+				<key>title</key>
+				<string>EAP-FAST</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>LEAP</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>MD5</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>802.1X</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Advanced Ethernet</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>MAC-osoite</string>
+				<key>title</key>
+				<string>Ethernet-tunnus</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Ethernetin nopeus</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>vuo, ohjaus, half, full, vuoro, kaksi</string>
+				<key>title</key>
+				<string>Duplex</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>paketti</string>
+				<key>title</key>
+				<string>MTU</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Advanced Modem</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>valmistaja, malli, valinta, modeemi, ääni, virhe, pulssi, äänitaajuus, taajuus</string>
+				<key>title</key>
+				<string>Modeemin lisävalinnat</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Advanced VPN</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>tarkka, liikenne, loki</string>
+				<key>title</key>
+				<string>VPN-lisävalinnat</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Advanced Wi-Fi</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>MAC-osoite, tunnus, AirPort</string>
+				<key>title</key>
+				<string>Ensisijaiset Wi-Fi-verkot</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Vaadi Wi-Fille salasana</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Bluetooth</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>käyttäjätunnus</string>
+				<key>title</key>
+				<string>Bluetooth-tili ja -salasana</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Yhdistä tai katkaise Bluetooth-yhteys</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Bluetooth-verkko</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Bond</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>sitoa, nopeus, duplex, lähettää, lähettäminen, lähetys, vastaanottaa, ottaa vastaan</string>
+				<key>title</key>
+				<string>Sidoksen tila</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>linkkiaggregointi, linkkien yhdistäminen, Ethernet-sidos</string>
+				<key>title</key>
+				<string>Hallitse yhdistelmälinkkejä</string>
+			</dict>
+		</array>
+	</dict>
+	<key>DNS</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>DNS-palvelimet</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>DNS-domainit</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Ethernet</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Hakudomainit</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Ethernet-valinnat</string>
+			</dict>
+		</array>
+	</dict>
+	<key>FireWire</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>dhcp, manuaalinen bootP, </string>
+				<key>title</key>
+				<string>Määritä FireWire-verkko</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>IP Over FireWire</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Modem</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>valmistaja, malli, valinta, modeemi, virhe, pulssi, äänitaajuus, taajuus, soittosarja, puhelin</string>
+				<key>title</key>
+				<string>Modeemiasetukset</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>käyttäjätunnus</string>
+				<key>title</key>
+				<string>Modeemitili ja -salasana</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>valikkorivi</string>
+				<key>title</key>
+				<string>Näytä modeemin tila valikkorivillä</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Yhdistä tai katkaise modeemiyhteys</string>
+			</dict>
+		</array>
+	</dict>
+	<key>PPP</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>valitse uudelleen, echo-paketit, monisanainen kirjaaminen, nopea käyttäjänvaihto, kirjaudu, ulos, uloskirjautuminen</string>
+				<key>title</key>
+				<string>PPP</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>PPP-katkaisuasetukset</string>
+			</dict>
+		</array>
+	</dict>
+	<key>PPPoE</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>PPPoE-palvelu</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>PPPoE-tili ja -salasana</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>PPPoE:n tila</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Proxies</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>FTP, suojattu, verkko, web, webbi, striimaus, suoratoisto, SOCKS, Gopher, automaattinen, passiivinen, pac-tiedosto, pasv, ohita, välipalvelin, proxy</string>
+				<key>title</key>
+				<string>Välipalvelimet</string>
+			</dict>
+		</array>
+	</dict>
+	<key>TCP/IP</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>ip-osoite, ip osoite, osoite, aliverkon peite, reititin, IPv6, etuliitteen pituus, uusi, uudista, laina, asiakastunnus</string>
+				<key>title</key>
+				<string>IPv4 </string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>link local, etuliitteen pituus</string>
+				<key>title</key>
+				<string>IPv6</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>osoite, aliverkon peite, reititin, DNS-palvelin, nimipalvelin, DHCP, käsin, BootP, PPPoE, ipv4 ipv6, laina, uusi, uudista</string>
+				<key>title</key>
+				<string>TCP/IP</string>
+			</dict>
+		</array>
+	</dict>
+	<key>VLAN</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>liitäntä, tagi, tunniste, bsd nimi, bsd-nimi</string>
+				<key>title</key>
+				<string>VLAN</string>
+			</dict>
+		</array>
+	</dict>
+	<key>VPN</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>VPN-valinnat</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Yhdistä tai katkaise VPN-yhteys</string>
+			</dict>
+		</array>
+	</dict>
+	<key>VPN on Demand</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>VPN on Demand</string>
+			</dict>
+		</array>
+	</dict>
+	<key>WINS</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>CIFS, SMB</string>
+				<key>title</key>
+				<string>NetBIOS</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Työryhmä</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>WINS-palvelin</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Windows-verkko</string>
+			</dict>
+		</array>
+	</dict>
+	<key>WWAN</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>valmistaja, APN, cid</string>
+				<key>title</key>
+				<string>WWAN-tili ja -salasana</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>WWAN-tila</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Yhdistä tai katkaise WWAN-yhteys</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Wi-Fi</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Verkon nimi</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>valikkorivi</string>
+				<key>title</key>
+				<string>Näytä Wi-Fi-tila valikkorivillä</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>AirPort</string>
+				<key>title</key>
+				<string>Wi-Fi-verkkoon liittyminen</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>langaton, 802.11, wifi, wi-fi, AirPort</string>
+				<key>title</key>
+				<string>Wi-Fi</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>InputSources</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>kaedah, bar menu</string>
+				<key>title</key>
+				<string>Tunjukkan menu input dalam bar menu</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>taip, menaip, sumber, QWERTY, Pro, PC, Standard, ISO, ANSI, JIS, Lanjutan, Dvorak, Afghan, Arab, Armenia, Austria, Azeri, Belgium, Brazil, British, Bulgaria, Belarus, Kanada, Cherokee, Croatia, Czech, Denmark, Devanagari, Belanda, Estonia, Faroe, Finland, Perancis, Jerman, Greek, Gujarati, Gurmukhi, Hawaii, Ibrani, Hungary, Iceland, Inuktitut, Ireland, Itali, Jawi, Kazakh, Latvia, Lithuania, Macedonia, Malta, Maori, Nepali, Sami, Norwegia, Parsi, Poland, Portugis, Romania, Rusia, Serbia, Slovak, Slovenia, Sepanyol, Sweden, Switzerland, Thai, Tibet, Turki, A.S., Uighur, Ukrain, Unicode, Hex, Vietnam, Wales</string>
+				<key>title</key>
+				<string>Tataletak papan kekunci</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>utama, bahasa, mod, sumber, antarabangsa, asing, aksara, Unicode, Jepun, Kotoeri, Hiragana, Katakana, Romaji, Ainu, Cina, Tradisional, Hani, Ringkas, Wubi, Korea, Hangul, Vietnam, Teleks, Tamil, Anjal</string>
+				<key>title</key>
+				<string>Kaedah input bahasa</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>palet, simbol, pemapar, simbol, aksara, Unicode, Jepun, Kana, aksara, sumber, Penutup kekunci, kekunci, Penutup Kekunci, tanda baca</string>
+				<key>title</key>
+				<string>Palet</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>input, sumber, dokumen</string>
+				<key>title</key>
+				<string>Gunakan satu sumber input dalam semua dokumen</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>input, sumber, dokumen</string>
+				<key>title</key>
+				<string>Benarkan sumber input yang berbeza untuk setiap dokumen</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Text</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>pecahan, ganti, menggantikan, penggantian, menggantikan, pintasan</string>
+				<key>title</key>
+				<string>Penggantian simbol dan teks</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>bahasa, semak ejaan, penyemakan ejaan, autobetul, ejaan yang betul, kes, jarak</string>
+				<key>title</key>
+				<string>Ejaan</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>cadangan menaip, quicktype, taip cepat, menaip prediktif, teks prediktif, touch bar, bar, touchbar</string>
+				<key>title</key>
+				<string>Cadangan menaip Touch Bar</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>petikan pintar, petikan, sengkang</string>
+				<key>title</key>
+				<string>Gunakan petikan dan sengkang pintar</string>
+			</dict>
+		</array>
+	</dict>
+	<key>keyboardTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>Bluetooth, papan kekunci, peranti</string>
+				<key>title</key>
+				<string>Sediakan papan kekunci Bluetooth</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>kekunci, penundaan, ulangan kekunci, aksen, tindak balas, fungsi, Fn, F1, F2, F3, F4, F5, F6, F7, F8, F9, F10, F11, F12, kekunci, kadar, jenis, menundakan, mengulangi, menaip</string>
+				<key>title</key>
+				<string>Kepekaan papan kekunci</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>lihat, penglihatan, gelap, cahaya rendah, malap, malam, jenis, melihat, menerangi, diterangkan, menaip, kecerahan, laras, secara automatik, lampu belakang, cahaya belakang</string>
+				<key>title</key>
+				<string>Terangi papan kekunci</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>touch bar, touchbar, bar, control strip, jalur, Fn, kekunci fungsi, sesuaikan, peribadikan</string>
+				<key>title</key>
+				<string>Sesuaikan Touch Bar atau Control Strip</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>bar menu, palet, simbol emoji, pemapar papan kekunci</string>
+				<key>title</key>
+				<string>Tunjukkan pemapar papan kekunci dan emoji dalam bar menu</string>
+			</dict>
+		</array>
+	</dict>
+	<key>keyboardTab_ModifierKeys</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>Caps Lock, Control, Option, Command</string>
+				<key>title</key>
+				<string>Reset kekunci pengubah suai</string>
+			</dict>
+		</array>
+	</dict>
+	<key>shortcutsTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>pintasan, Launchpad, Dock, Mission Control, tangkapan skrin, tangkapan skrin, tangkapan skrin, tangkapan skrin, Perkhidmatan, Spotlight, Kebolehcapaian, akses papan kekunci penuh, sumber input, app, kekunci fungsi, touch bar, bar, touchbar</string>
+				<key>title</key>
+				<string>Pintasan papan kekunci</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Dictation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>rencana, sedang merencana, perencanaan, dengar, sedang mendengar, bahasa, mikrofon, mengenali, pengenalan, sedang mengenali, cakap, sedang bercakap, pertuturan, pintasan, bercakap</string>
+				<key>title</key>
+				<string>Perencanaan</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

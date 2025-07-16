@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>6to4</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Átjátszási cím</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>IPv6</string>
+				<key>title</key>
+				<string>6to4-cím</string>
+			</dict>
+		</array>
+	</dict>
+	<key>802.1X</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>802.1X tanúsítvány</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>eap</string>
+				<key>title</key>
+				<string>802.1X hitelesítés</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>külső azonosság, mschapv2, pap belső</string>
+				<key>title</key>
+				<string>TTLS</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>PEAP</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>TLS</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>védett hozzáférés, provision, anonymous, névtelen</string>
+				<key>title</key>
+				<string>EAP-FAST</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>LEAP</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>MD5</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>802.1X</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Advanced Ethernet</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>MAC-cím</string>
+				<key>title</key>
+				<string>Ethernet ID</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Ethernet sebesség</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>áramlás, vezérlés, fél, teljes</string>
+				<key>title</key>
+				<string>Duplex</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>csomag</string>
+				<key>title</key>
+				<string>MTU</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Advanced Modem</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>forgalmazó, modell, tárcsázás, mód, hang, hiba, impulzus, hangfrekvencia</string>
+				<key>title</key>
+				<string>Haladó modembeállítások</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Advanced VPN</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>részletes, forgalom, naplózás</string>
+				<key>title</key>
+				<string>Haladó VPN-beállítások</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Advanced Wi-Fi</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>MAC-cím, azonosító, AirPort</string>
+				<key>title</key>
+				<string>Előnyben részesített Wi-Fi-hálózatok</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Jelszó kérése a Wi-Fi-hálózathoz</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Bluetooth</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>felhasználónév</string>
+				<key>title</key>
+				<string>Bluetooth-fiók és jelszó</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Bluetooth csatlakoztatása vagy bontása</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Bluetooth hálózat</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Bond</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>kötés, bond, sebesség, duplex, küldés, fogadás</string>
+				<key>title</key>
+				<string>Kötés állapota</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>link összesítő, link aggregate, ethernet bond, ethernet kötés</string>
+				<key>title</key>
+				<string>Linkösszesítők kezelése</string>
+			</dict>
+		</array>
+	</dict>
+	<key>DNS</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>DNS-szerverek</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>DNS-domének</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Ethernet</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Keresési domének</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Ethernet-beállítások</string>
+			</dict>
+		</array>
+	</dict>
+	<key>FireWire</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>dhcp, kézi bootP, </string>
+				<key>title</key>
+				<string>FireWire-hálózatkezelés konfigurálása</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>IP FireWire-en keresztül</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Modem</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>forgalmazó, modell, tárcsázás, mód, hiba, hang, impulzus, betárcsázás, telefon</string>
+				<key>title</key>
+				<string>Modembeállítások</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>felhasználónév</string>
+				<key>title</key>
+				<string>Modemfiók és jelszó</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>menüsor</string>
+				<key>title</key>
+				<string>Modem állapotának megjelenítése a menüsoron</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Modem csatlakoztatása vagy bontása</string>
+			</dict>
+		</array>
+	</dict>
+	<key>PPP</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>újratárcsáz, újratárcsázás, visszhangcsomagok, echo packets, részletes naplózás, gyors felhasználóváltás, napló, bejelentkezik, bejelentkezés, kijelentkezik, kijelentkezés, kilép, kilépés</string>
+				<key>title</key>
+				<string>PPP</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>PPP bontási beállítások</string>
+			</dict>
+		</array>
+	</dict>
+	<key>PPPoE</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>PPPoE szolgáltatás</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>PPPoE-fiók és jelszó</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>PPPoE állapota</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Proxies</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>FTP, biztonságos, web, streamelés, SOCKS, Gopher, automatikus, passzív, pac-fájl, pasv, megkerülés, proxy</string>
+				<key>title</key>
+				<string>Proxyk</string>
+			</dict>
+		</array>
+	</dict>
+	<key>TCP/IP</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>ip-cím, cím, alhálózati maszk, subnet mask, router, IPv6, előtag hossz, megújítás, kiosztás, kliensazonosító</string>
+				<key>title</key>
+				<string>IPv4 </string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>link helyi, előtaghossz, prefix length</string>
+				<key>title</key>
+				<string>IPv6</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>cím, alhálómaszk, subnet mask, router, DNS szerver, DHCP, kézzel, BootP, PPPoE, ipv4, ipv6, kiosztás, megújítás</string>
+				<key>title</key>
+				<string>TCP/IP</string>
+			</dict>
+		</array>
+	</dict>
+	<key>VLAN</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>interfész, címke, tag, bsd név</string>
+				<key>title</key>
+				<string>VLAN</string>
+			</dict>
+		</array>
+	</dict>
+	<key>VPN</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>VPN beállítások</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>VPN csatlakoztatása vagy bontása</string>
+			</dict>
+		</array>
+	</dict>
+	<key>VPN on Demand</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Igény szerinti VPN</string>
+			</dict>
+		</array>
+	</dict>
+	<key>WINS</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>CIFS, SMB</string>
+				<key>title</key>
+				<string>NetBIOS</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Munkacsoport</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>WINS szerver</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Windows hálózat</string>
+			</dict>
+		</array>
+	</dict>
+	<key>WWAN</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>forgalmazó, APN, cid</string>
+				<key>title</key>
+				<string>WWAN-fiók és jelszó</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>WWAN állapota</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>WWAN csatlakoztatása vagy bontása</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Wi-Fi</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Hálózat neve</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>menüsor</string>
+				<key>title</key>
+				<string>Wi-Fi-állapot megjelenítése a menüsoron</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>AirPort</string>
+				<key>title</key>
+				<string>Csatlakozás egy Wi-Fi-hálózathoz</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>vezeték nélküli, 802.11, wifi, wi-fi, AirPort</string>
+				<key>title</key>
+				<string>Wi-Fi</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

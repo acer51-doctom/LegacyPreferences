@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>InputSources</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>metóda, lišta</string>
+				<key>title</key>
+				<string>Zobraziť vstupný jazyk v lište</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>písať, písanie, zdroje, Qwerty, Pro, PC, Štandardný, ISO, ANSI, JIS, Rozšírený, Dvorak, afgánska, arabská, arménska, rakúska, azeri, belgická, brazílska, britská, bulharská, bieloruská, kanadská, cherokee, chorvátska, česká, dánska, dévanágarí, holandská, estónska, faerská, fínska, francúzska, nemecká, grécka, gudžarátska, gurmukhí, havajská, hebrejská, maďarská, islandská, inuktitut, írska, talianska, jawi, kazašská, litovská, lotyšská, macedónska, maltská, maorská, nepálska, sami, nórska, perzská, poľská, portugalská, rumunská, ruská, srbská, slovenská, slovinská, španielska, švédska, švajčiarska, thajská, tibetská, turecká, USA, ujgurská, ukrajinská, Unicode, Hex, vietnamská, waleská</string>
+				<key>title</key>
+				<string>Rozloženia klávesnice</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>hlavné, jazyky, režim, zdroje, medzinárodné, zahraničné, znaky, Unicode, japonské, Kotoeri, Hiragana, Katakana, Romaji, Ainu, čínske, tradičné, Hanin, zjednodušené, Wubi, kórejské, Hangul, vietnamské, Telex, tamilské, Anjal</string>
+				<key>title</key>
+				<string>Vstupné jazyky</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>paleta, symbol, prehliadač, symboly, znak, Unicode, japonské, Kana, znaky, zdroje, klávesy, interpunkcia</string>
+				<key>title</key>
+				<string>Palety</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>vstup, zdroj, dokument</string>
+				<key>title</key>
+				<string>Použiť jeden vstupný zdroj pre všetky dokumenty</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>vstup, zdroj, dokument</string>
+				<key>title</key>
+				<string>Povoliť rozdielny vstupný zdroj pre každý dokument</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Text</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>zlomky, nahradiť, nahrádzanie, zameniť, zámeny, skratky</string>
+				<key>title</key>
+				<string>Zámena symbolu a textu</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>jazyk, kontrola pravopisu, kontrolovanie pravopisu, automatická oprava pravopisu, automatické opravy, opravovať pravopis, veľkosť, veľkosť písma, medzery, riadkovanie</string>
+				<key>title</key>
+				<string>Pravopis</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>návrhy na písanie, quicktype, quick type, prediktívne písanie, prediktívny text, touch bar, bar, touchbar</string>
+				<key>title</key>
+				<string>Návrhy pre písanie v Touch Bare</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>dynamické úvodzovky, úvodzovky, pomlčky</string>
+				<key>title</key>
+				<string>Použiť dynamické úvodzovky a pomlčky</string>
+			</dict>
+		</array>
+	</dict>
+	<key>keyboardTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>Bluetooth, klávesnica, zariadenia</string>
+				<key>title</key>
+				<string>Nastavenie Bluetooth klávesnice</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>klávesy, oneskorenie, rýchlosť opakovania, diakritika, opakovanie, reakcia, funkcia, Fn, F1, F2, F3, F4, F5, F6, F7, F8, F9, F10, F11, F12, klávesy, rýchlosť, písať, oneskorený, opakuje sa, písanie</string>
+				<key>title</key>
+				<string>Citlivosť klávesnice</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>vidieť, zrak, tmavý, slabé svetlo, stlmiť jas, noc, písať, videnie, podsvietenie, podsvietená, písanie, jas, upraviť, automaticky, podsvietiť, podsvietené</string>
+				<key>title</key>
+				<string>Podsvietiť klávesnicu</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>touch bar, touchbar, bar, control strip, strip, Fn, funkčné klávesy, prispôsobiť, upraviť</string>
+				<key>title</key>
+				<string>Prispôsobiť Touch Bar alebo Control Strip</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>lišta, palety, symboly, emoji, prehliadač klávesnice</string>
+				<key>title</key>
+				<string>Zobraziť prehliadače klávesnice a emoji v lište</string>
+			</dict>
+		</array>
+	</dict>
+	<key>keyboardTab_ModifierKeys</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>Caps Lock, Control, Option, Command</string>
+				<key>title</key>
+				<string>Resetovať klávesy - modifikátory</string>
+			</dict>
+		</array>
+	</dict>
+	<key>shortcutsTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>skratky, Launchpad, Dock, Mission Control, snímka obrazovky, snímky obrazovky, Služby, Spotlight, Prístupnosť, plný prístup z klávesnice, vstupné zdroje, aplikácia, apka, funkčné klávesy, touch bar, bar, touchbar</string>
+				<key>title</key>
+				<string>Klávesové skratky</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Dictation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>diktovať, diktovanie, počúvať, počúvanie, jazyk, mikrofón, rozpoznať, rozpoznávanie, rozpoznanie, rozprávať, rozprávanie, reč, skratky, hovoriť</string>
+				<key>title</key>
+				<string>Diktovanie</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

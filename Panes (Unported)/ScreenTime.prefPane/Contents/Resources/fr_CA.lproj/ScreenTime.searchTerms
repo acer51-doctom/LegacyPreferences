@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>AlwaysAllowed</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Termes d’indexation localisables</string>
+                <key>index</key>
+                <string>temps, écran, toujours, autoriser, limite, famille, parents, contrôle, sécurité, confidentialité, enfants, jeunes, restreindre, contrôler, gérer, minuteur, minuterie, couvre-feu, restriction, gestion, surveiller, suivre</string>
+                <key>title</key>
+                <string>Choisir les apps toujours autorisées dans Temps d’écran</string>
+            </dict>
+        </array>
+    </dict>
+    <key>CommunicationLimit</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Termes d’indexation localisables</string>
+                <key>index</key>
+                <string>écran, temps, communication, contact, téléphone, message texte, message, FaceTime, SMS, limite, ajouter, créer, appliquer, famille, parents, contrôle, parental, sûreté, confidentialité, sécurité, enfants, jeunes, restreindre, contrôler, gérer, minuteur, minuterie, couvre-feu, restriction, limitation, privation, gestion</string>
+                <key>title</key>
+                <string>Choisir les limites de communication dans Temps d’écran</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>écran, temps, communication, contact, téléphone, message texte, message, FaceTime, SMS, limite, ajouter, créer, appliquer, famille, parents, contrôle, parental, sûreté, confidentialité, sécurité, enfants, jeunes, restreindre, contrôler, gérer, minuteur, minuterie, couvre-feu, restriction, limitation, privation, gestion</string>
+                <key>title</key>
+                <string>Modifier les limites de communication dans Temps d’écran</string>
+            </dict>
+        </array>
+    </dict>
+    <key>ContentAndPrivacy</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Termes d’indexation localisables</string>
+                <key>index</key>
+                <string>écran, temps, contenu, confidentialité, limite, famille, parents, contrôle, parental, sûreté, sécurité, enfants, jeunes, restreindre, contrôler, gérer, minuteur, minuterie, couvre-feu, restriction, limitation, privation, gestion, dictionnaire, inapproprié, jurer, juron, sacre, sacrer, explicite, mauvais, langue, langage, obscène, obscénité, mots, pornographie, gros mot, vulgaire, filtré, filtrage, filtre, non filtré</string>
+                <key>title</key>
+                <string>Choisir le contenu et les réglages de sécurité de Temps d’écran</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>temps, écran, contrôle, parental, limites, explicite, contenu, sites Web, enfant, enfants, limiter</string>
+                <key>title</key>
+                <string>Limiter le contenu explicite</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyNotifications</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Termes d’indexation localisables</string>
+                <key>index</key>
+                <string>écran, temps, jour, quotidien, utilisation, notifications</string>
+                <key>title</key>
+                <string>Afficher le rapport quotidien des notifications dans Temps d’écran</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyPickups</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Termes d’indexation localisables</string>
+                <key>index</key>
+                <string>écran, temps, jour, quotidien, prises en main</string>
+                <key>title</key>
+                <string>Afficher le rapport quotidien sur les utilisations de l’appareil dans Temps d’écran</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyUsage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Termes d’indexation localisables</string>
+                <key>index</key>
+                <string>temps, écran, semaine, hebdomadaire, utilisation, rapport, surveiller, suivre, enfant, enfants, apps</string>
+                <key>title</key>
+                <string>Afficher le rapport quotidien d’utilisation des apps dans Temps d’écran</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Downtime</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Termes d’indexation localisables</string>
+                <key>index</key>
+                <string>écran, temps, utilisation, limite, temps d’arrêt, famille, parents, contrôle, parental, sûreté, confidentialité, sécurité, enfants, jeunes, restreindre, contrôler, gérer, minuteur, minuterie, sommeil, heure du coucher, coucher, lit, école, nuits, veilles de jour scolaire, couvre-feu, restriction, limitation, privation, gestion</string>
+                <key>title</key>
+                <string>Programmer un temps d’arrêt dans Temps d’écran</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Options</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Termes d’indexation localisables</string>
+                <key>index</key>
+                <string>écran, temps, réglage, option, limite, famille, parents, contrôle, parental, sûreté, sécurité, enfants, jeunes, restreindre, contrôler, gérer, minuteur, minuterie, couvre-feu, restriction, limitation, privation, gestion</string>
+                <key>title</key>
+                <string>Activer ou désactiver Temps d’écran</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>écran, contrôle, parental, options, limite, limites, mot de passe, code</string>
+                <key>title</key>
+                <string>Choisir un code de Temps d’écran</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Requests</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Termes d’indexation localisables</string>
+                <key>index</key>
+                <string>écran, temps, demande, autoriser, approuver, refuser, rejeter, limite, famille, parents, contrôle, parental, sûreté, confidentialité, sécurité, enfants, jeunes, restreindre, contrôler, gérer, minuteur, minuterie, couvre-feu, restriction, limitation, privation, gestion</string>
+                <key>title</key>
+                <string>Afficher les demandes de Temps d’écran</string>
+            </dict>
+        </array>
+    </dict>
+    <key>ViewUsageLimit</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Termes d’indexation localisables</string>
+                <key>index</key>
+                <string>écran, temps, utilisation, app, limite, ajouter, créer, appliquer, famille, parents, contrôle, parental, sûreté, confidentialité, sécurité, enfants, jeunes, restreindre, contrôler, gérer, minuteur, minuterie, couvre-feu, restriction, limitation, privation, gestion</string>
+                <key>title</key>
+                <string>Choisir des limites d’apps dans Temps d’écran</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyNotifications</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Termes d’indexation localisables</string>
+                <key>index</key>
+                <string>temps, écran, semaine, hebdomadaire, utilisation, notifications, parental</string>
+                <key>title</key>
+                <string>Afficher le rapport hebdomadaire des notifications dans Temps d’écran</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyPickups</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Termes d’indexation localisables</string>
+                <key>index</key>
+                <string>temps, écran, semaine, hebdomadaire, activations, contrôle, parental</string>
+                <key>title</key>
+                <string>Afficher le rapport hebdomadaire sur les utilisations de l’appareil dans Temps d’écran</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyUsage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Termes d’indexation localisables</string>
+                <key>index</key>
+                <string>temps, écran, semaine, hebdomadaire, utilisation, rapport, surveiller, suivre, enfant, enfants, apps, contrôle, parental</string>
+                <key>title</key>
+                <string>Afficher le rapport hebdomadaire d’utilisation des apps dans Temps d’écran</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

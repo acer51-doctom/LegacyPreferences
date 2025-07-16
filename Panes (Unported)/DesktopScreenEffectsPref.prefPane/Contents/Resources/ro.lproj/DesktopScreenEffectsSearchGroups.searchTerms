@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DesktopPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>fotografii, fundal, desktop, tapet, tipar, personaliza, poze, imagini, desk, top, personalizat, personalizare</string>
+				<key>title</key>
+				<string>Imagine desktop</string>
+			</dict>
+		</array>
+	</dict>
+	<key>ScreenSaverPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>dezactiva, start, album, iTunes, ilustrație, aleatoriu, fotografii, imagini, personaliza, screensavere, poze, dezactivare, pornire, personalizat, personalizare</string>
+				<key>title</key>
+				<string>Screensaver</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Afișează ceas cu screensaver</string>
+			</dict>
+		</array>
+	</dict>
+	<key>ScreenSaverPref_HotCorners</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>colțuri ecran active</string>
+				<key>title</key>
+				<string>Colțuri active</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

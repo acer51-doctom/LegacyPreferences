@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>InputSources</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>本地化索引詞</string>
+				<key>index</key>
+				<string>方法, 選單列</string>
+				<key>title</key>
+				<string>在選單列中顯示輸入法選單</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>本地化索引詞</string>
+				<key>index</key>
+				<string>打字, 輸入, 來源, Qwerty, 專業, PC, 標準, ISO, ANSI, JIS, 延伸, Dvorak, 德沃夏克, 阿富汗文, 阿拉伯文, 亞美尼亞文, 奧地利文, 亞塞拜然文, 比利時文, 巴西文, 英式英文, 保加利亞文, 白俄羅斯文, 加拿大英文, 柴羅基文, 克羅埃西亞文, 捷克文, 丹麥文, 天城文, 荷蘭文, 愛沙尼亞文, 法羅文, 芬蘭文, 法文, 德文, 希臘文, 古吉拉特文, 古爾穆奇文, 夏威夷文, 希伯來文, 匈牙利文, 冰島文, 因紐特文, 愛爾蘭文, 義大利文, Jawi, 哈薩克文, 拉脫維亞文, 立陶宛文, 馬其頓文, 馬爾他文, 毛利文, 尼泊爾文, 薩米文, 挪威文, 波斯文, 波蘭文, 葡萄牙文, 羅馬尼亞文, 俄文, 塞爾維亞文, 斯洛伐克文, 斯洛維尼亞文, 西班牙文, 瑞典文, 瑞士文, 泰文, 藏文, 土耳其文, 美式英文, 維吾爾文, 烏克蘭文, Unicode, 十六進位, 越南文, 威爾斯文</string>
+				<key>title</key>
+				<string>鍵盤佈局</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>本地化索引詞</string>
+				<key>index</key>
+				<string>主要, 語言, 模式, 來源, 國際, 外國, 字元, Unicode, 日文, Kotoeri, 平假名, 片假名, Romaji, 阿伊努文, 中文, 繁體, 漢音, 簡體, 五筆, 韓文, 諺文, 越南文, Telex, 坦米爾文, Anjal</string>
+				<key>title</key>
+				<string>語言輸入法</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>本地化索引詞</string>
+				<key>index</key>
+				<string>面板, 符號, 檢閱器, 符號, 字元, Unicode, 日文, 片假名, 字元, 來源, 按鍵鎖定, 鍵, 按鍵鎖定, 標點符號</string>
+				<key>title</key>
+				<string>面板</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>輸入, 來源, 文件</string>
+				<key>title</key>
+				<string>在所有的文件中使用一種輸入方式</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>輸入, 來源, 文件</string>
+				<key>title</key>
+				<string>允許每個文件有不同的輸入方式</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Text</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>本地化索引詞</string>
+				<key>index</key>
+				<string>分數, 取代, 替代, 代替, 置換, 更換, 快速鍵</string>
+				<key>title</key>
+				<string>符號和文字</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>本地化索引詞</string>
+				<key>index</key>
+				<string>語言, 拼字檢查, 檢查拼字, 自動修正, 修正拼字, 大小寫, 空格</string>
+				<key>title</key>
+				<string>拼字檢查</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>本地化索引詞</string>
+				<key>index</key>
+				<string>輸入建議, 快速輸入, 預測字詞輸入, 預測文字, 觸控列, 列</string>
+				<key>title</key>
+				<string>觸控列輸入建議</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>本地化索引詞</string>
+				<key>index</key>
+				<string>智慧型引號, 引號, 破折號</string>
+				<key>title</key>
+				<string>使用智慧型引號和破折號</string>
+			</dict>
+		</array>
+	</dict>
+	<key>keyboardTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>本地化索引詞</string>
+				<key>index</key>
+				<string>藍牙, 鍵盤, 裝置</string>
+				<key>title</key>
+				<string>設定藍牙鍵盤</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>本地化索引詞</string>
+				<key>index</key>
+				<string>按鍵, keys, 延遲, delay, 按鍵延遲, key repeat, 重複, repeat, 重音, accent, 回應, response, 功能, function, Fn, F1, F2, F3, F4, F5, F6, F7, F8, F9, F10, F11, F12, 按鍵, keys, 速率, rate, 類型, type, 延遲, delaying, 重複, repeating, 輸入, typing</string>
+				<key>title</key>
+				<string>鍵盤靈敏度</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>本地化索引詞</string>
+				<key>index</key>
+				<string>看見, see, 檢視, 視覺, vision, 暗, dark, 光線不足, low light, 變暗, dim, 夜晚, 晚上, night, 輸入, type, 檢視, seeing, 背光, illuminating, 背光鍵盤, illuminated, 打字, typing, 亮度, brightness, 調整, adjust, 自動, automatically, 背光燈, backlight, 背光照明, backlit</string>
+				<key>title</key>
+				<string>背光鍵盤</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>本地化索引詞</string>
+				<key>index</key>
+				<string>觸控列, 列, 功能列, Fn, 功能鍵, 自訂, 個人化</string>
+				<key>title</key>
+				<string>自訂觸控列或功能列</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>選單列, 面板, 符號, 表情符號, 模擬鍵盤</string>
+				<key>title</key>
+				<string>在選單列上顯示模擬鍵盤和表情符號檢視器</string>
+			</dict>
+		</array>
+	</dict>
+	<key>keyboardTab_ModifierKeys</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>本地化索引詞</string>
+				<key>index</key>
+				<string>Caps Lock, Control, Option, Command</string>
+				<key>title</key>
+				<string>重置變更鍵</string>
+			</dict>
+		</array>
+	</dict>
+	<key>shortcutsTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>本地化索引詞</string>
+				<key>index</key>
+				<string>快速鍵, 啟動台, Dock, 指揮中心, 截圖, 螢幕截圖, 截圖, 螢幕抓圖, 螢幕快照, 服務, Spotlight, 輔助使用, 完全鍵盤取用, 輸入方式, App, 功能鍵, 觸控列, 列</string>
+				<key>title</key>
+				<string>鍵盤快速鍵</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Dictation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>本地化索引詞</string>
+				<key>index</key>
+				<string>聽寫, 聽, 寫, 聽取, 聆聽, 語言, 麥克風, 辨識, 識別, 辨認, 朗讀, 讀, 語音, 快速鍵, 講</string>
+				<key>title</key>
+				<string>聽寫</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

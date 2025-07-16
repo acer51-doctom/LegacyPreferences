@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loginOptionsPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Benutzer, Benutzer:innen, anmelden, identifizieren, Identifikation, ein, aus, einblenden, ausblenden, ausschalten, einschalten, Ruhezustand, Tasten, VoiceOver, Sprache, Sprachausgabe, Speech, sprechen, Eingabe, Methode, Modus, Menü, Passwörter, Hinweise, starten, beenden, Stimme, Protokoll, Protokollierung, anzeigen</string>
+				<key>title</key>
+				<string>Anmeldefenster-Einstellungen</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Benutzer, Benutzer:in, schnell, anmelden, Login, Log-in, anmelden bei, anmelden in, abmelden, abmelden bei, abmelden von, wechseln, Wechsel, Anmeldung, Abmeldung, Logoff, Log-off, ausloggen</string>
+				<key>title</key>
+				<string>Zwischen Accounts wechseln</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Login, anmelden, anmelden bei, anmelden in, automatisch, automatisieren, Automatisierung, Anmeldung, Log-in, einloggen</string>
+				<key>title</key>
+				<string>Automatisch anmelden</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>active, ldap, open, server, active directory, open directory</string>
+				<key>title</key>
+				<string>Verzeichnisdienste</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>Benutzer, Benutzer:innen, anmelden, anmelden bei, anmelden in, anmelden an, Log-in, Anmeldung, einloggen</string>
+				<key>title</key>
+				<string>Anmeldeoptionen</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Netzwerkaccount-Server</string>
+			</dict>
+		</array>
+	</dict>
+	<key>mobilityPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array/>
+	</dict>
+	<key>passwordPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Gast, freigeben, teilen, lang, kurz, Name, authentifizieren, Passwort, Passwörter, FileVault, Freigabe, Wort, Wörter, Authentifizierung, identifizieren, Identifizierung, Datei, File, Vault</string>
+				<key>title</key>
+				<string>Benutzer- oder Gruppenaccount</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Fotografien, Bilder, Fotos</string>
+				<key>title</key>
+				<string>Benutzerbild</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Benutzer, Benutzer:innen, Accounts, lang, kurz, Name, authentifizieren, identifizieren, anmelden bei, anmelden in, Login, ändern, verwalten, Verwaltung, Passwort, Passwörter, Authentifizierung, Identifizierung, anmelden, Log-in, Anmeldung, einloggen, Ändern, Änderung</string>
+				<key>title</key>
+				<string>Anmeldename und -passwort</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>vCard, Karten, Kontaktkarten</string>
+				<key>title</key>
+				<string>Kontakte</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>verwalten, Verwaltung</string>
+				<key>title</key>
+				<string>Administratoraccount</string>
+			</dict>
+		</array>
+	</dict>
+	<key>startupItemsPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>automatisch, automatisieren, Login, anmelden, anmelden bei, anmelden in, starten, automatisiert, automatisieren, Automatisierung, starten, Start, Programmstart, Log-in, Anmeldung, einloggen</string>
+				<key>title</key>
+				<string>Programme bei der Anmeldung öffnen</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Login, anmelden, anmelden bei, anmelden in, starten, starten, Start, Programmstart, Log-in, Anmeldung, einloggen</string>
+				<key>title</key>
+				<string>Anmeldeobjekte</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Accessibility_Shortcut</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>erişilebilirlik kestirmesi, erişilebilirlik, kestirme, accessibility shortcut, accessibility, shortcut</string>
+				<key>title</key>
+				<string>Erişilebilirlik Kestirmesi</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Alternate_Pointer_Actions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>tıkla, fare, anahtar, alternatif, düğme, Fare Tuşları, ifade, yüz, click, mouse, switch, alternate, button, Mouse Keys, expression, face, facial</string>
+				<key>title</key>
+				<string>Alternatif İmleç Eylemleri</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Captioning</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>CC, SDH, gizli altyazılar, gizli altyazı, sağır ve işitme zorluğu çekenler için altyazılar, sağır, işitme, filmler, alt yazı, altyazılar, metin izi, closed captions, closed captioning, subtitles for deaf and hard of hearing, deaf, hearing, movies, subtitle, subtitles, text track</string>
+				<key>title</key>
+				<string>Açıklamalı altyazıları etkinleştir</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>CC, engelliler için altyazılar, SDH, gizli altyazılar, gizli altyazı, sağır ve işitme zorluğu çekenler için altyazılar, sağır, işitme, filmler, alt yazı, altyazılar, metin izi, closed captions, closed captioning, subtitles for deaf and hard of hearing, deaf, hearing, movies, subtitle, subtitles, text track</string>
+				<key>title</key>
+				<string>Açıklamalı altyazıları özelleştir</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Dictation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>Evrensel, erişim, erişilebilirlik, etkisiz, engelli, görme, kör, görüş, görünür, duyma, özürlü, konuş, konuşulabilir, öğeler, sesli, komutlar, öğeler, tanı, tanıma, yardım et, yardımcı, söyle, sesler, ayarla, ayarlama, dinle, tuş, kestirmeler, özelleştir, mikrofon, ses yüksekliği, konuşma, tanıyış, seslendirme, kalibrasyon, kalibre etme, dinleme, özelleştirilmiş, özelleştirme, dikte, sesle denetim, Universal, access, accessibility, disabled, handicapped, sight, blind, vision, visible, hearing, impaired, speak, speakable, items, spoken, commands, items, recognize, recognition, assist, assistive, talk, voices, calibrate, calibration, listen, key, shortcuts, customize, microphone, volume, speaking, recognizing, talking, calibrating, listening, customized, customizing, dictation, voice control</string>
+				<key>title</key>
+				<string>Sesle Denetim</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Dwell</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>durakla, duraklama, ekran klavyesi, ekran üstü klavye, sanal klavye, erişilebilirlik klavyesi, fareyi üzerinde tutma, fare, kafa takibi, Duraklamayla Denetim, Evrensel, erişim, erişilebilirlik, engelli, özürlü, sakat, yardımcı denetim, mobilite, tekerlekli sandalye, dwell, dwelling, on screen keyboard, on-screen keyboard, virtual keyboard, accessibility keyboard, mouse hover, mouse, head tracking, Dwell Control, Universal, access, accessibility, disabled, handicapped, impaired, assistive control, mobility, wheelchair</string>
+				<key>title</key>
+				<string>Erişilebilirlik Klavyesi için Durakla</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Full_Keyboard_Access</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>tam, klavye, erişimi, dolaşma, navigasyon, komutlar, sekme, full, keyboard, access, navigation, commands, tab</string>
+				<key>title</key>
+				<string>Tam Klavye Erişimi</string>
+			</dict>
+		</array>
+	</dict>
+	<key>General</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>Evrensel, erişim, erişilebilirlik, erişilirlik, engelli, özürlü, sınırlanmış, sakat, yardımcı, kolay, ayarla, ayarlama, ayarlamak, yazma, Universal, access, accessibility, disabled, handicapped, impaired, assistive, motion, reduce motion, reduce transparency</string>
+				<key>title</key>
+				<string>Genel erişilebilirlik ayarları</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Head_Pointer</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>baş, kafa, yüz, fare, imleç, izleme, takip, head, face, mouse, pointer, track, tracking</string>
+				<key>title</key>
+				<string>Kafa Kumandalı İmleç</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Hearing</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>Evrensel, erişim, erişilebilirlik, erişilirlik, engelli, özürlü, sınırlı, sağır, duyma, işitme, sakat, yardımcı, duymak, işitmek, Universal, access, accessibility, disabled, handicapped, limited, deaf, hear, hearing, impaired, assistive</string>
+				<key>title</key>
+				<string>Uyarılar için ekranın yanıp sönmesi</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>Evrensel, erişim, erişilebilirlik, erişilirlik, engelli, özürlü, sınırlı, sağır, duyma, işitme, sakat, yardımcı, duymak, işitmek, Universal, access, accessibility, disabled, handicapped, limited, deaf, hear, hearing, impaired, assistive</string>
+				<key>title</key>
+				<string>Stereoyu mono çal</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Keyboard</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>Evrensel, erişim, erişilebilirlik, erişilirlik, engelli, özürlü, sınırlı, anahtar, taşınabilirlik, sakat, yavaşlama, yardımcı, kolay, basit, Yapışkan Tuşlar, yineleme hızı, niteleme tuşları, niteleme tuşu, duyarlık, hassasiyet, ayarlama, ayarlamalar, ayarlar, tür, yavaş, daha yavaş, yavaşlama, yazma, yazmak, Universal, access, accessibility, disabled, handicapped, limited, switch, impaired, slow down, assistive, easy, Sticky Keys, repeat rate, modifier, sensitivity, adjust, adjustments, type, slower, slowing, adjusting, typing</string>
+				<key>title</key>
+				<string>Klavye kullanımını kolaylaştırma</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>Evrensel, erişim, erişilebilirlik, erişilirlik, engelli, özürlü, sınırlanmış, sakat, yardımcı, niteleyici, hız, yaz, yazma geri bildirimi, Universal, access, accessibility, disabled, handicapped, limited, impaired, assistive, modifier, rate, type, typing feedback</string>
+				<key>title</key>
+				<string>Yazma Geri Bildirimi’ni Etkinleştir</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Media_Descriptions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>Evrensel, erişim, erişilebilirlik, erişilirlik, engelli, özürlü, sakat, kör, görme, görüş, görülebilir, görünür, video, ortam, açıklamalar, açıkla, açıklamalı, Universal, access, accessibility, disabled, handicapped, limited, blind, sight, vision, visible, impaired, video, media, descriptions, describe, described</string>
+				<key>title</key>
+				<string>Ortam Açıklamaları</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Mouse</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>erişim, erişilebilirlik, ayarla, ayarlama, ayarlamalar, yardımcı, imleç, gecikme, engelli, çift tıkla, çift tıklama, sürükle, kolay, hızlı, sakat, dokunuş, dokunuş geri bildirimi, özürlü, eylemsizlik, klavye, tuş takımı, tuşlar, sınırlı, kilit, taşı, taşıma, sayısal, işaretçi, sarma, kaydırma, yavaşlat, yavaş, yavaşlatma, hız, yaylanarak açılan, yaylanarak açılma, anahtar, üç parmak, üç parmakla sürükle, üç parmakla sürükleme, Evrensel, access, accessibility, adjust, adjusting, adjustments, assistive, cursor, delay, disabled, double click, double-click, drag, easy, fast, handicapped, haptic, haptic feedback, impaired, inertia, keyboard, keypad, keys, limited, lock, move, moving, numeric, pointer, scroll, scrolling, slow down, slower, slowing, speed, spring load, spring-load, switch, three finger, three finger drag, Universal</string>
+				<key>title</key>
+				<string>Fare ve izleme dörtgeni kullanımını kolaylaştırma</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Sarmayı etkisizleştir</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Sarma eylemsizliği</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_ColorFilters</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>renk, filtre, renk körü, color, filter, colorblind</string>
+				<key>title</key>
+				<string>Renk filtrelerini görüntüle</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_Cursor</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>imleç, işaretçi, ok, büyüt, daha büyük, büyük, yaklaştır, büyütme, yaklaştırma, cursor, pointer, arrow, enlarge, larger, bigger, magnify, magnifying, magnification</string>
+				<key>title</key>
+				<string>İmleç boyutu</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>imleç, işaretçi, fare, izleme dörtgeni, salla, kıpırdatma, kıpırdama, cursor, pointer, mouse, trackpad, shake, wiggle</string>
+				<key>title</key>
+				<string>Yerini belirlemek için fare imlecini salla</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_Display</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>Evrensel, erişim, erişilebilirlik, erişilirlik, engelli, özürlü, sakat, kör, görme, görüş, görülebilir, görünür, okuma, görüntüleme, iyileştirme, kontrast, siyah, beyaz, gri, gritonlu, ayarlamalar, ayarlar, okuma, görme, izleme, iyileştirme, ayarlama, gri tonlu, hareket, hareketi azalt, saydamlığı azalt, saydamlık, saydam, yarı saydamlık, yarı saydam, bulanık, arka plan, arkaplan, renk, Universal, access, accessibility, disabled, handicapped, limited, blind, sight, vision, visible, impaired, read, view, enhance, contrast, black, white, grayscale, adjustments, reading, seeing, viewing, enhancing, adjusting, gray scale, motion, reduce motion, reduce transparency, transparency, transparent, translucency, translucent, blur, background, color</string>
+				<key>title</key>
+				<string>Ekranı görmeyi kolaylaştırma</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_VoiceOver</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>sesli, sözel, arabirim, arayüz, duyma, işitme, ekran, okuyucu, Evrensel, erişim, erişilebilirlik, erişilirlik, engelli, özürlü, sakat, kör, görüş, görme, görünür, voice over, spoken, interface, hearing, screen, reader, Universal, access, accessibility, disabled, handicapped, limited, blind, sight, vision, visible, impaired</string>
+				<key>title</key>
+				<string>VoiceOver’ı aç ve kapat</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>menü çubuğu</string>
+				<key>title</key>
+				<string>Erişilebilirlik’i menü çubuğunda göster</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_Zoom</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>büyütme, büyütülmüş, genişletilmiş, büyük, touchbar, touch bar, zooming, enlarged, enlarging, magnified, magnifying, zoom, enlarge</string>
+				<key>title</key>
+				<string>Touch Bar’ı büyütmeyi etkinleştir</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>Evrensel, erişim, erişilebilirlik, erişilirlik, engelli, özürlü, sınırlı, kör, görme, görüş, görünür, görülebilir, sakat, büyütme, büyütmek, okuma, görmek, görüntüleme, izleme, artırma, azaltma, daha büyük, daha geniş, daha yakın, en fazla, en çok, maksimum, en az, minimum, fare, teker, top, sarmaçubuğu, sarma çubuğu, sarma tekeri, sarmatekeri, fare tekeri, büyütülmüş, okuma, görüntülemek, arttırma, küçültme, metnin üzerinde tutma, metnin üzerine getirme, Universal, access, accessibility, disabled, handicapped, limited, blind, sight, vision, visible, impaired, enlarge, magnify, magnification, read, see, view, increase, decrease, larger, bigger, maximum, minimum, scroll, mouse, wheel, ball, scrollball, scrollwheel, mouseball, mousewheel, zooming, enlarged, enlarging, magnified, magnifying, reading, seeing, viewing, increasing, decreasing, zoom, enlarge, hover text</string>
+				<key>title</key>
+				<string>Metin üzerinde tutmayı etkinleştir</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>Evrensel, erişim, erişilebilirlik, erişilirlik, engelli, özürlü, sınırlı, kör, görme, görüş, görünür, görülebilir, sakat, büyütme, büyütmek, okuma, görmek, görüntüleme, izleme, artırma, azaltma, daha büyük, daha geniş, daha yakın, en fazla, en çok, maksimum, en az, minimum, fare, teker, top, sarmaçubuğu, sarma çubuğu, sarma tekeri, sarmatekeri, fare tekeri, büyütülmüş, okuma, görüntülemek, arttırma, küçültme, ekranlar, monitörler, saniye, birden fazla, Universal, access, accessibility, disabled, handicapped, limited, blind, sight, vision, visible, impaired, enlarge, magnify, magnification, read, see, view, increase, decrease, larger, bigger, maximum, minimum, scroll, mouse, wheel, ball, scrollball, scrollwheel, mouseball, mousewheel, zooming, enlarged, enlarging, magnified, magnifying, reading, seeing, viewing, increasing, decreasing, zoom, enlarge, displays, monitors, second, multiple, screens</string>
+				<key>title</key>
+				<string>Ekran görüntüsünü büyütme</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Siri</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>yaz, siri’ye yaz, siriye yaz, yaz siri, siri yaz, type, type to siri, type siri, siri type</string>
+				<key>title</key>
+				<string>Siri’ye Yaz</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Switch</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>panel, panel düzenleyici, tara, tarama, anahtar, anahtarlar, Evrensel, erişim, erişilebilirlik, erişilirlik, engelli, özürlü, sakat, yardımcı denetim, mobilite, tekerlekli sandalye, panel, panel editor, scan, scanning, switch, switches, Universal, access, accessibility, disabled, handicapped, impaired, assistive control, mobility, wheelchair</string>
+				<key>title</key>
+				<string>Anahtarla Denetim Panel Düzenleyici</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>tara, tarama, anahtar, anahtarlar, Evrensel, erişim, erişilebilirlik, erişilirlik, engelli, özürlü, sakat, yardımcı denetim, mobilite, tekerlekli sandalye</string>
+				<key>title</key>
+				<string>Anahtarla Denetim’i Etkinleştir</string>
+			</dict>
+		</array>
+	</dict>
+	<key>TextToSpeech</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>konuşma, sentez, TTS, sesli, duyur, duyurular, seslendir, metin, ses, hız, konuş, uyarılar, duyurma, seslendirme, söyleme, speech, synthesis, spoken, announce, announcements, speak, text, voice, rate, talk, alerts, announcing, speaking, talking</string>
+				<key>title</key>
+				<string>Konuşma</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Virtual_Keyboard</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>panel, panel düzenleyici, klavye, ekran klavyesi, ekran üstü klavye, sanal klavye, erişilebilirlik klavyesi, fare, kafa takibi, Evrensel, erişim, erişilebilirlik, engelli, özürlü, sakat, yardımcı denetim, mobilite, tekerlekli sandalye, panel, panel editor, keyboard, on screen keyboard, on-screen keyboard, virtual keyboard, accessibility keyboard, mouse, head tracking, Universal, access, accessibility, disabled, handicapped, impaired, assistive control, mobility, wheelchair</string>
+				<key>title</key>
+				<string>Erişilebilirlik Klavyesi Panel Düzenleyici</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>klavye, ekran klavyesi, ekran üstü klavye, sanal klavye, erişilebilirlik klavyesi, fare, kafa takibi, Evrensel, erişim, erişilebilirlik, engelli, özürlü, sakat, yardımcı denetim, mobilite, tekerlekli sandalye, oturum açma, giriş, keyboard, on screen keyboard, on-screen keyboard, virtual keyboard, accessibility keyboard, mouse, head tracking, Universal, access, accessibility, disabled, handicapped, impaired, assistive control, mobility, wheelchair, login</string>
+				<key>title</key>
+				<string>Erişilebilirlik Klavyesi’ni Etkinleştir</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

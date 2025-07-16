@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Extensions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Erweiterungen</string>
+				<key>title</key>
+				<string>Erweiterungen</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>markieren, Markierung</string>
+				<key>title</key>
+				<string>Aktionen</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>geteilt, teilen, leseliste, mail, nachrichten, airdrop, notizen, erinnerungen, personen, hinzufügen, iphoto, aperture</string>
+				<key>title</key>
+				<string>Menüobjekte teilen</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>schnell, aktionen, finder, schnellaktionen, vorschaubereich</string>
+				<key>title</key>
+				<string>Finder</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>schnell, aktionen, touch, bar, touch bar</string>
+				<key>title</key>
+				<string>Touch Bar</string>
+			</dict>
+            <dict>
+                <key>comments</key>
+                <string>Lokalisierbare Indexwörter</string>
+                <key>index</key>
+                <string>Zugangsdatenanbietererweiterungen, Passwort-Manager, Passwort-Manager-Erweiterungen, Passwörter automatisch ausfüllen, Erweiterungen für automatisches Ausfüllen</string>
+                <key>title</key>
+                <string>Erweiterungen für automatisches Ausfüllen von Passwörtern</string>
+            </dict>
+		</array>
+	</dict>
+</dict>
+</plist>

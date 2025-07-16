@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>AlwaysAllowed</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>ローカライズ可能な索引の用語</string>
+                <key>index</key>
+                <string>screen スクリーン 画面, time タイム 時間 時刻, always 常に いつも, allow 許可 許可する 許す, limit リミット 制限, family ファミリー ファミリ 家族, parents ペアレント 親, parental ペアレンタル, controls コントロール 管理 制御, safety 安全 セーフティ セーフティー 守る 保護する, privacy プライバシー プライベート 個人情報, security セキュリティ セキュリティー 安全性, children 子 子供 子ども チルドレン チャイルド, kids 子ども キッズ, restrict 制約, manage 管理 制御, timer タイマー タイマ, curfew 夜間の使用禁止, restricting 制限する 限定する, managing 管理する 制御する マネージメント, monitor モニタ モニター 監視 監視する 見守る, track 追跡 追跡する トラック トラッキング</string>
+                <key>title</key>
+                <string>スクリーンタイムで常に許可するAppを選択</string>
+            </dict>
+        </array>
+    </dict>
+    <key>CommunicationLimit</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>ローカライズ可能な索引の用語</string>
+                <key>index</key>
+                <string>screen スクリーン 画面, time タイム 時間 時刻, communication 通信 通話 コミュニケーション, contact 連絡先 コンタクト, phone 電話, text テキスト 文字, message メッセージ, FaceTime フェースタイム フェイスタイム, SMS ショートメッセージサービス ショートメッセージ ショートメール, limit リミット 制限, add 追加 追加する, create 作成 作成する, apply 適用 適用する, family ファミリー ファミリ 家族, parents ペアレント 親, parental ペアレンタル, controls コントロール 管理 制御, safety 安全 セーフティ セーフティー 守る 保護する, privacy プライバシー プライベート 個人情報, security セキュリティ セキュリティー 安全性, children 子 子供 子ども チルドレン チャイルド, kids 子ども キッズ, restrict 制約, manage 管理 制御, timer タイマー タイマ 時間 時刻, curfew 夜間の使用禁止, restricting 制限する 限定する, managing 管理する 制御する マネージメント</string>
+                <key>title</key>
+                <string>スクリーンタイムで通信/通話の制限を設定</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>screen スクリーン 画面, time タイム 時間 時刻, communication 通信 通話 コミュニケーション, contact 連絡先 コンタクト, phone 電話, text テキスト 文字, message メッセージ, FaceTime フェースタイム フェイスタイム, SMS ショートメッセージサービス ショートメッセージ ショートメール, limit リミット 制限, add 追加 追加する, create 作成 作成する, apply 適用 適用する, family ファミリー ファミリ 家族, parents ペアレント 親, parental ペアレンタル, controls コントロール 管理 制御, safety 安全 セーフティ セーフティー 守る 保護する, privacy プライバシー プライベート 個人情報, security セキュリティ セキュリティー 安全性, children 子 子供 子ども チルドレン チャイルド, kids 子ども キッズ, restrict 制約, manage 管理 制御, timer タイマー タイマ 時間 時刻, curfew 夜間の使用禁止, restricting 制限する 限定する, managing 管理する 制御する マネージメント</string>
+                <key>title</key>
+                <string>スクリーンタイムで通信/通話の制限を変更</string>
+            </dict>
+        </array>
+    </dict>
+    <key>ContentAndPrivacy</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>ローカライズ可能な索引の用語</string>
+                <key>index</key>
+                <string>screen スクリーン 画面, time タイム 時間 時刻, content コンテンツ, privacy プライバシー プライベート 個人情報, limit リミット 制限, parents ペアレント 親, parental ペアレンタル, controls コントロール 管理 制御, safety 安全 セーフティ セーフティー 守る 保護する, security セキュリティ セキュリティー 安全性, children 子 子供 子ども チルドレン チャイルド, kids 子ども キッズ, restrict 制約, manage 管理する 管理 制御 コントロール, timer タイマー タイマ, curfew 夜間の使用禁止, restricting 制限する 限定する, managing 管理する 制御する マネージメント, dictionary 辞書 ディクショナリ ディクショナリー リスト, inappropriate 不適切 不適当 ふさわしくない, curse 呪い のろい 冒涜 暴言, swear 暴言 罵る 悪態 毒づく, expletives 罵り ののしり 卑猥 暴言, explicit あからさま 露骨 性的 きわどい, bad 悪い 良くない よくない 不適切, language 言語 言葉 単語 表現, obscene わいせつ 猥褻 みだら セックス アダルト ポルノ 性的, obscenity わいせつ 猥褻 みだら 暴言 冒涜, words 単語 語句, pornography ポルノ わいせつ 猥雑 セックス アダルト 性的, cuss 悪口 罵り 罵る ののしり ののしる 暴言, vulgar わいせつ ひわい 卑猥 低俗, four-letter 4 文字 フォーレター 禁止用語, four letter フォー レター, filtered フィルタされた フィルタ済み フィルタ設定 フィルターされた フィルター済み フィルター設定 フィルタする フィルターする フィルタを設定 フィルターを設定, filtering フィルタリング, unfiltered フィルタされていない フィルタされない フィルタ未設定 フィルターされていない フィルターされない フィルター未設定 フィルタしない フィルターしない, un-filtered</string>
+                <key>title</key>
+                <string>スクリーンタイムのコンテンツおよびプライバシー設定を選択</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>screen スクリーン 画面, time タイム 時間 時刻, parental ペアレンタル, controls コントロール 管理 制御, limits リミット 制限, explicit あからさま 露骨 性的 きわどい, content コンテンツ, websites ウェブサイト webサイト ホームページ, child 子 子供 子ども チャイルド, children 子 子供 子ども チルドレン チャイルド, restrict 制約</string>
+                <key>title</key>
+                <string>不適切なコンテンツを制限</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyNotifications</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>ローカライズ可能な索引の用語</string>
+                <key>index</key>
+                <string>screen スクリーン 画面, time タイム 時間 時刻, day 日 日付 日にち, daily 毎日 1日 1日当たり, usage 使用状況 使用 利用, notifications 通知 お知らせ</string>
+                <key>title</key>
+                <string>スクリーンタイムで1日の通知レポートを表示</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyPickups</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>ローカライズ可能な索引の用語</string>
+                <key>index</key>
+                <string>screen スクリーン 画面, time タイム 時間 時刻, day 日 日付 日にち, daily 毎日 1日 1日当たり, pickups 持ち上げ回数 持ち上げ 再開 ピックアップ</string>
+                <key>title</key>
+                <string>スクリーンタイムで1日のデバイス持ち上げ/再開レポートを表示</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyUsage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>ローカライズ可能な索引の用語</string>
+                <key>index</key>
+                <string>screen スクリーン 画面, time タイム 時間 時刻, week 週 1週間, weekly 毎週 1週間 1週当たり, usage 使用状況 使用 利用, report レポート 報告 成績, monitor モニタ モニター 監視 監視する 見守る, track 追跡 追跡する トラック トラッキング, child 子 子供 子ども チャイルド, children 子 子供 子ども チルドレン チャイルド, app アプリ アプリケーション</string>
+                <key>title</key>
+                <string>スクリーンタイムで1日のApp使用状況レポートを表示</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Downtime</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>ローカライズ可能な索引の用語</string>
+                <key>index</key>
+                <string>screen スクリーン 画面, time タイム 時間 時刻, usage 使用状況 使用 利用, limit リミット 制限, downtime 休止時間 ダウンタイム, family ファミリー ファミリ 家族, parents ペアレント 親, parental ペアレンタル, controls コントロール 管理 制御, safety 安全 セーフティ セーフティー 守る 保護する, privacy プライバシー プライベート 個人情報, security セキュリティ セキュリティー 安全性, children 子 子供 子ども チルドレン チャイルド, kids 子ども キッズ, restrict 制約, manage 管理 制御, timer タイマー タイマ, bedtime ベッドタイム 就寝 寝る 夜, school 学校 教室 スクール, nights 夜 深夜 夜間 ナイト, curfew 夜間の使用禁止, restricting 制限する 限定する, managing 管理する 制御する マネージメント</string>
+                <key>title</key>
+                <string>スクリーンタイムで休止時間をスケジュール設定</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Options</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>ローカライズ可能な索引の用語</string>
+                <key>index</key>
+                <string>screen スクリーン 画面, time タイム 時間 時刻, setting 設定 セッティング, option オプション, limit リミット 制限, family ファミリー ファミリ 家族, parents ペアレント 親, parental ペアレンタル, controls コントロール 管理 制御, safety 安全 セーフティ セーフティー 守る 保護する, security セキュリティ セキュリティー 安全性, children 子 子供 子ども チルドレン チャイルド, kids 子ども キッズ, restrict 制約, manage 管理 制御, timer タイマー タイマ, curfew 夜間の使用禁止, restricting 制限する 限定する, managing 管理する 制御する マネージメント</string>
+                <key>title</key>
+                <string>スクリーンタイムをオンまたはオフに切り替え</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>screen スクリーン 画面, parental ペアレンタル, controls コントロール 管理 制御, option オプション, limit リミット 制限, limits リミット 制限, password パスワード, passcode パスコード</string>
+                <key>title</key>
+                <string>スクリーンタイム・パスコードを設定</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Requests</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>ローカライズ可能な索引の用語</string>
+                <key>index</key>
+                <string>screen スクリーン 画面, time タイム 時間 時刻, request リクエスト 要求 申請 依頼, allow 許可 許可する 許す, approve 承認 承認する, disapprove 許可しない 認めない 承認しない, limit リミット 制限, family ファミリー ファミリ 家族, parents ペアレント 親, parental ペアレンタル, controls コントロール 管理 制御, safety 安全 セーフティ セーフティー 守る 保護する, privacy プライバシー プライベート 個人情報, security セキュリティ セキュリティー 安全性, children 子 子供 子ども チルドレン チャイルド, kids 子ども キッズ, restrict 制約, manage 管理 制御, timer タイマー タイマ, curfew 夜間の使用禁止, restricting 制限する 限定する, managing 管理する 制御する マネージメント</string>
+                <key>title</key>
+                <string>スクリーンタイムのリクエストを表示</string>
+            </dict>
+        </array>
+    </dict>
+    <key>ViewUsageLimit</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>ローカライズ可能な索引の用語</string>
+                <key>index</key>
+                <string>screen スクリーン 画面, time タイム 時間 時刻, usage 使用状況 使用 利用, app アプリケーション プログラム ソフトウェア アプリ, limit リミット 制限, add 追加 追加する, create 作成 作成する, apply 適用 適用する, family ファミリー ファミリ 家族, parents ペアレント 親, parental ペアレンタル, controls コントロール 管理 制御, safety 安全 セーフティ セーフティー 守る 保護する, privacy プライバシー プライベート 個人情報, security セキュリティ セキュリティー 安全性, children 子 子供 子ども チルドレン チャイルド, kids 子ども キッズ, restrict 制約, manage 管理 制御, timer タイマー タイマ 時間 時刻, curfew 夜間の使用禁止, restricting 制限する 限定する, managing 管理する 制御する マネージメント</string>
+                <key>title</key>
+                <string>スクリーンタイムでApp使用時間の制限を選択</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyNotifications</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>ローカライズ可能な索引の用語</string>
+                <key>index</key>
+                <string>screen スクリーン 画面, time タイム 時間 時刻, week 週 1週間, weekly 毎週 1週間 1週当たり, usage 使用状況 使用 利用, notifications 通知 お知らせ, parental ペアレンタル, controls コントロール 管理 制御</string>
+                <key>title</key>
+                <string>スクリーンタイムで1週間の通知レポートを表示</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyPickups</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>ローカライズ可能な索引の用語</string>
+                <key>index</key>
+                <string>screen スクリーン 画面, time タイム 時間 時刻, week 週 1週間, weekly 毎週 1週間 1週当たり, pickups 持ち上げ回数 持ち上げ 再開 ピックアップ, parental ペアレンタル, controls コントロール 管理 制御</string>
+                <key>title</key>
+                <string>スクリーンタイムで1週間のデバイス持ち上げ/再開レポートを表示</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyUsage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>ローカライズ可能な索引の用語</string>
+                <key>index</key>
+                <string>screen スクリーン 画面, time タイム 時間 時刻, week 週 1週間, weekly 毎週 1週間 1週当たり, usage 使用状況 使用 利用, report レポート 報告 成績, monitor モニタ モニター 監視 監視する 見守る, track 追跡 追跡する トラック トラッキング, child 子 子供 子ども チャイルド, children 子 子供 子ども チルドレン チャイルド, app アプリ アプリケーション, parental ペアレンタル, controls コントロール 管理 制御</string>
+                <key>title</key>
+                <string>スクリーンタイムで1週間のApp使用状況レポートを表示</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

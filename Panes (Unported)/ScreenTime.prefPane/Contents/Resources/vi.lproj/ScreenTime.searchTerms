@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>AlwaysAllowed</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Các từ chỉ mục có thể bản địa hóa</string>
+                <key>index</key>
+                <string>màn hình, thời gian, luôn luôn, cho phép, giới hạn, gia đình, phụ huynh, kiểm soát, an toàn, quyền riêng tư, bảo mật, trẻ em, hạn chế, quản lý, đồng hồ hẹn giờ, thời gian không sử dụng, đang hạn chế, đang quản lý, giám sát, theo dõi</string>
+                <key>title</key>
+                <string>Chọn các ứng dụng luôn được phép trong Thời gian sử dụng</string>
+            </dict>
+        </array>
+    </dict>
+    <key>CommunicationLimit</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Các từ chỉ mục có thể bản địa hóa</string>
+                <key>index</key>
+                <string>màn hình, thời gian, liên lạc, liên hệ, điện thoại, văn bản, tin nhắn, FaceTime, SMS, giới hạn, thêm, tạo, áp dụng, gia đình, phụ huynh, kiểm soát, an toàn, quyền riêng tư, bảo mật, trẻ em, hạn chế, quản lý, đồng hồ hẹn giờ, giờ giới nghiêm, đang hạn chế, đang quản lý</string>
+                <key>title</key>
+                <string>Đặt giới hạn liên lạc trong Thời gian sử dụng</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>màn hình, thời gian, liên lạc, liên hệ, điện thoại, văn bản, tin nhắn, FaceTime, SMS, giới hạn, tạo, áp dụng, gia đình, phụ huynh, kiểm soát, an toàn, quyền riêng tư, bảo mật, trẻ em, hạn chế, quản lý, đồng hồ hẹn giờ, thời gian không sử dụng, đang hạn chế, đang quản lý</string>
+                <key>title</key>
+                <string>Thay đổi giới hạn liên lạc trong Thời gian sử dụng</string>
+            </dict>
+        </array>
+    </dict>
+    <key>ContentAndPrivacy</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Các từ chỉ mục có thể bản địa hóa</string>
+                <key>index</key>
+                <string>màn hình, thời gian, nội dung, quyền riêng tư, giới hạn, gia đình, phụ huynh, kiểm soát, an toàn, bảo mật, trẻ em, hạn chế, quản lý, đồng hồ hẹn giờ, thời gian không sử dụng, từ điển, không phù hợp, lời nguyền rủa, lời nói tục, rõ ràng, xấu, ngôn ngữ, khiêu dâm, tục tĩu, gợi dục, từ, bốn chữ, đã lọc, đang lọc, chưa lọc</string>
+                <key>title</key>
+                <string>Chọn cài đặt quyền riêng tư và nội dung của Thời gian sử dụng</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>màn hình, thời gian, phụ huynh, kiểm soát, giới hạn, thô tục, nội dung, trang web, trẻ em, hạn chế</string>
+                <key>title</key>
+                <string>Hạn chế nội dung thô tục</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyNotifications</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Các từ chỉ mục có thể bản địa hóa</string>
+                <key>index</key>
+                <string>màn hình, thời gian, ngày, hàng ngày, sử dụng, thông báo</string>
+                <key>title</key>
+                <string>Hiển thị báo cáo thông báo hàng ngày trong Thời gian sử dụng</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyPickups</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Các từ chỉ mục có thể bản địa hóa</string>
+                <key>index</key>
+                <string>màn hình, thời gian, ngày, hàng ngày, số lần đánh thức</string>
+                <key>title</key>
+                <string>Hiển thị báo cáo số lần đánh thức thiết bị hàng ngày trong Thời gian sử dụng</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyUsage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Các từ chỉ mục có thể bản địa hóa</string>
+                <key>index</key>
+                <string>màn hình, thời gian, tuần, hàng tuần, sử dụng, báo cáo, giám sát, theo dõi, trẻ em, ứng dụng</string>
+                <key>title</key>
+                <string>Hiển thị báo cáo sử dụng ứng dụng hàng ngày trong Thời gian sử dụng</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Downtime</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Các từ chỉ mục có thể bản địa hóa</string>
+                <key>index</key>
+                <string>màn hình, thời gian, sử dụng, giới hạn, giờ nghỉ, gia đình, phụ huynh, kiểm soát, an toàn, quyền riêng tư, bảo mật, trẻ em, hạn chế, quản lý, đồng hồ hẹn giờ, giờ đi ngủ, trường học, ban đêm, thời gian không sử dụng, đang hạn chế, đang quản lý</string>
+                <key>title</key>
+                <string>Lên lịch biểu giờ nghỉ trong Thời gian sử dụng</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Options</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Các từ chỉ mục có thể bản địa hóa</string>
+                <key>index</key>
+                <string>màn hình, thời gian, cài đặt, tùy chọn, giới hạn, gia đình, phụ huynh, kiểm soát, an toàn, bảo mật, trẻ em, hạn chế, quản lý, đồng hồ hẹn giờ, thời gian không sử dụng, đang hạn chế, đang quản lý</string>
+                <key>title</key>
+                <string>Bật hoặc tắt Thời gian sử dụng</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>màn hình, phụ huynh, kiểm soát, tùy chọn, giới hạn, mật khẩu, mật mã</string>
+                <key>title</key>
+                <string>Đặt mật mã Thời gian sử dụng</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Requests</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Các từ chỉ mục có thể bản địa hóa</string>
+                <key>index</key>
+                <string>màn hình, thời gian, yêu cầu, cho phép, phê duyệt, từ chối, giới hạn, gia đình, phụ huynh, kiểm soát, an toàn, quyền riêng tư, bảo mật, trẻ em, hạn chế, quản lý, đồng hồ hẹn giờ, thời gian không sử dụng, đang hạn chế, đang quản lý</string>
+                <key>title</key>
+                <string>Hiển thị yêu cầu Thời gian sử dụng</string>
+            </dict>
+        </array>
+    </dict>
+    <key>ViewUsageLimit</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Các từ chỉ mục có thể bản địa hóa</string>
+                <key>index</key>
+                <string>màn hình, thời gian, sử dụng, ứng dụng, giới hạn, tạo, áp dụng, gia đình, phụ huynh, kiểm soát, an toàn, quyền riêng tư, bảo mật, trẻ em, hạn chế, quản lý, đồng hồ hẹn giờ, thời gian không sử dụng, đang hạn chế, đang quản lý</string>
+                <key>title</key>
+                <string>Chọn giới hạn ứng dụng trong Thời gian sử dụng</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyNotifications</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Các từ chỉ mục có thể bản địa hóa</string>
+                <key>index</key>
+                <string>màn hình, thời gian, tuần, hàng tuần, sử dụng, thông báo, phụ huynh, kiểm soát</string>
+                <key>title</key>
+                <string>Hiển thị báo cáo thông báo hàng tuần trong Thời gian sử dụng</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyPickups</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Các từ chỉ mục có thể bản địa hóa</string>
+                <key>index</key>
+                <string>màn hình, thời gian, tuần, hàng tuần, số lần đánh thức, phụ huynh, kiểm soát</string>
+                <key>title</key>
+                <string>Hiển thị báo cáo số lần đánh thức thiết bị hàng tuần trong Thời gian sử dụng</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyUsage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Các từ chỉ mục có thể bản địa hóa</string>
+                <key>index</key>
+                <string>màn hình, thời gian, tuần, hàng tuần, sử dụng, báo cáo, giám sát, theo dõi, trẻ em, ứng dụng, phụ huynh, kiểm soát</string>
+                <key>title</key>
+                <string>Hiển thị báo cáo sử dụng ứng dụng hàng tuần trong Thời gian sử dụng</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

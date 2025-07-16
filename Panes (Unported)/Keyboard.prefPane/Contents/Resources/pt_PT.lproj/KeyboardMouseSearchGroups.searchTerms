@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>InputSources</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Palavras de índice localizáveis</string>
+				<key>index</key>
+				<string>método, barra de menus</string>
+				<key>title</key>
+				<string>Mostrar menu “Tipo de teclado” na barra de menus</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palavras de índice localizáveis</string>
+				<key>index</key>
+				<string>digitar, escrever, tipos, origens, Qwerty, Pro, PC, padrão, ISO, ANSI, JIS, expandido, dvorak, afegão, árabe, arménio, austríaco, azeri, belga, brasileiro, britânico, búlgaro, bielorrusso, canadiano, cherokee, croata, checo, dinamarquês, devanágari, holandês, estónio, feroês, finlandês, francês, alemão, grego, guzerate, gurmukhi, havaiano, hebraico, húngaro, islandês, inuktitut, irlandês, italiano, jawi, cazaque, letão, lituano, macedónio, maltês, maori, nepalês, sami, norueguês, persa, polaco, português, romeno, russo, sérvio, eslovaco, esloveno, espanhol, sueco, suíço, tailandês, tibetano, turco, americano, uighur, ucraniano, Unicode, Hex, vietnamita, galês</string>
+				<key>title</key>
+				<string>Disposições de teclado</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palavras de índice localizáveis</string>
+				<key>index</key>
+				<string>principal, idiomas, modo, origens, internacional, estrangeiro, caracteres, Unicode, japonês, kotoeri, hiragana, katakana, romaji, ainu, chinês, tradicional, hanin, simplificado, wubi, coreano, hangul, vietnamita, telex, tâmil, anjal</string>
+				<key>title</key>
+				<string>Métodos de escrita</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palavras de índice localizáveis</string>
+				<key>index</key>
+				<string>paleta, símbolo, visualizador, símbolos, carácter, Unicode, japonês, kana, caracteres, origens, Keycaps, teclas, Key Caps, pontuação</string>
+				<key>title</key>
+				<string>Paletas</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>entrada, origem, documento</string>
+				<key>title</key>
+				<string>Usar um tipo de teclado para todos os documentos</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>entrada, origem, documento</string>
+				<key>title</key>
+				<string>Permitir um tipo de teclado diferente para cada documento</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Text</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Palavras de índice localizáveis</string>
+				<key>index</key>
+				<string>frações, substituir, substituição, substituto, substituta, atalhos</string>
+				<key>title</key>
+				<string>Substituição de símbolos e texto</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palavras de índice localizáveis</string>
+				<key>index</key>
+				<string>idioma, correção ortográfica, corrigir ortografia, correção automática, maiúsculas/minúsculas, espaçamento</string>
+				<key>title</key>
+				<string>Ortografia</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palavras de índice localizáveis</string>
+				<key>index</key>
+				<string>sugestões de escrita, quicktype, escrita rápida, escrita preditiva, texto preditivo, touch bar, barra, touchbar</string>
+				<key>title</key>
+				<string>Sugestões de escrita na Touch Bar</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palavras de índice localizáveis</string>
+				<key>index</key>
+				<string>aspas curvas, aspas, traços</string>
+				<key>title</key>
+				<string>Usar aspas curvas e travessões</string>
+			</dict>
+		</array>
+	</dict>
+	<key>keyboardTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Palavras de índice localizáveis</string>
+				<key>index</key>
+				<string>Bluetooth, teclado, dispositivos</string>
+				<key>title</key>
+				<string>Configurar teclado Bluetooth</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palavras de índice localizáveis</string>
+				<key>index</key>
+				<string>teclas, atraso, repetição de tecla, repetir, acento, resposta, função, Fn, F1, F2, F3, F4, F5, F6, F7, F8, F9, F10, F11, F12, teclas, velocidade, tipo, atrasar, repetição, digitar</string>
+				<key>title</key>
+				<string>Sensibilidade do teclado</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palavras de índice localizáveis</string>
+				<key>index</key>
+				<string>ver, visão, escuro, pouca luz, escurecer, noite, escrever, iluminar, iluminado, digitar, brilho, luminosidade, ajustar, automaticamente, retroiluminação, retroiluminado</string>
+				<key>title</key>
+				<string>Iluminar o teclado</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palavras de índice localizáveis</string>
+				<key>index</key>
+				<string>touch bar, touchbar, barra, control strip, controlo, Fn, teclas de função, personalizar, personalização</string>
+				<key>title</key>
+				<string>Personalizar Touch Bar ou Control Strip</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>barra de menus, paletas, símbolo, emoji, disposição do teclado</string>
+				<key>title</key>
+				<string>Mostrar visualizadores de teclado e de emoji na barra de menus</string>
+			</dict>
+		</array>
+	</dict>
+	<key>keyboardTab_ModifierKeys</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Palavras de índice localizáveis</string>
+				<key>index</key>
+				<string>Caps Lock, Controlo, Opção, Comando</string>
+				<key>title</key>
+				<string>Anular teclas modificadoras</string>
+			</dict>
+		</array>
+	</dict>
+	<key>shortcutsTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Palavras de índice localizáveis</string>
+				<key>index</key>
+				<string>atalhos, Launchpad, Dock, Mission Control, captura de ecrã, capturas, Serviços, Spotlight, Acessibilidade, acesso total com teclado, acesso completo através do teclado, tipos de teclado, aplicação, teclas de função, touch bar, barra, touchbar</string>
+				<key>title</key>
+				<string>Atalhos de teclado</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Dictation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Palavras de índice localizáveis</string>
+				<key>index</key>
+				<string>ditar, ditado, ouvir, idioma, microfone, reconhecer, reconhecimento, reconhecido, fala, falar, enunciar, enunciação, pronunciar, atalhos</string>
+				<key>title</key>
+				<string>Ditado</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Extensions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>extensions</string>
+				<key>title</key>
+				<string>Extensions</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>marca, marcar</string>
+				<key>title</key>
+				<string>Accions</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>compartint, compartir, llista de lectura, correu, mail, missatges, airdrop, notes, recordatoris, persones, afegir, iphoto, aperture</string>
+				<key>title</key>
+				<string>Compartir ítems del menú</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>accions, ràpides, finder, accions ràpides, tauler de previsualització</string>
+				<key>title</key>
+				<string>Finder</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>accions, ràpides, touch, bar, touch bar</string>
+				<key>title</key>
+				<string>Touch Bar</string>
+			</dict>
+            <dict>
+                <key>comments</key>
+                <string>Paraules d’índex localitzables</string>
+                <key>index</key>
+                <string>extensions de proveïdors de credencials, gestors de contrasenyes, extensions de gestors de contrasenyes, autocompletar contrasenya, autocompletar contrasenyes, extensions d’autocompletar</string>
+                <key>title</key>
+                <string>Extensions d’“Autocompletar contrasenya”</string>
+            </dict>
+		</array>
+	</dict>
+</dict>
+</plist>

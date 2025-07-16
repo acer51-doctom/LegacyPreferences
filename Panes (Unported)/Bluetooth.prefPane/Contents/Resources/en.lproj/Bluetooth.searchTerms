@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Localizable index words</string>
+				<key>index</key>
+				<string>wireless, detect, discover, find, pair, add, remove, setup, assistant, keyboard, mouse, cell, mobile, phone, headset, headphones, on, off, disconnect, detach, blue, tooth, adding, removing, disconnecting, detaching, discovering, discoverable, finding</string>
+				<key>title</key>
+				<string>Bluetooth devices</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Localizable index words</string>
+				<key>index</key>
+				<string>blue, tooth, menubar</string>
+				<key>title</key>
+				<string>Show Bluetooth status in menu bar</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Localizable index words</string>
+				<key>index</key>
+				<string>blue, tooth</string>
+				<key>title</key>
+				<string>Bluetooth serial ports</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Localizable index words</string>
+				<key>index</key>
+				<string>blue, tooth, sound</string>
+				<key>title</key>
+				<string>Bluetooth audio</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Localizable index words</string>
+				<key>index</key>
+				<string>blue, tooth</string>
+				<key>title</key>
+				<string>Bluetooth Setup Assistant</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

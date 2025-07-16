@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>ไร้สาย, ตรวจหา, ค้นหา, หา, จับคู่, เพิ่ม, เอาออก, ติดตั้ง, ผู้ช่วย, แป้นพิมพ์, เมาส์, เซลล์, มือถือ, โทรศัพท์, ชุดหูฟัง, หูฟัง, เปิด, ปิด, เลิกเชื่อมต่อ, แยก, บลู, ทูธ, การเพิ่ม, การเอาออก, กำลังเลิกเชื่อมต่อ, การแยก, การค้นหา, ค้นหาได้, หาเจอ, สามารถค้นหาได้, ถูกมองเห็นได้</string>
+				<key>title</key>
+				<string>อุปกรณ์บลูทูธ</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>บลู, ทูธ, แถบเมนู</string>
+				<key>title</key>
+				<string>แสดงสถานะบลูทูธในแถบเมนู</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>บลู, ทูธ</string>
+				<key>title</key>
+				<string>พอร์ตอนุกรมบลูทูธ</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>บลู, ทูธ, เสียง</string>
+				<key>title</key>
+				<string>เสียงบลูทูธ</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>บลู, ทูธ</string>
+				<key>title</key>
+				<string>ผู้ช่วยตั้งค่าบลูทูธ</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

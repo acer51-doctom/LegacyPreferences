@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displaysArrangementTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Localisable index words</string>
+				<key>index</key>
+				<string>screens, monitors, mirror, mirrored, mirroring, arranging, arrangement</string>
+				<key>title</key>
+				<string>Arrange multiple displays</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Localisable index words</string>
+				<key>index</key>
+				<string>menubar</string>
+				<key>title</key>
+				<string>Relocate menu bar</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysColorTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Localisable index words</string>
+				<key>index</key>
+				<string>displays, screens, monitors, calibrate, adjust, lighten, brighten, dim, darken, white point, gamma, ambient light, profiles, calibrating, adjusting, adjustments, dimming</string>
+				<key>title</key>
+				<string>Display colours and calibration</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysDisplayTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Localisable index words</string>
+				<key>index</key>
+				<string>displays, screens, monitors, depth, millions, thousands, 256, ColorSync, adjust, lighten, brighten, dim, darken, adjusting, adjustments, dimming, true tone</string>
+				<key>title</key>
+				<string>Colours, brightness and resolution</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Localisable index words</string>
+				<key>index</key>
+				<string>displays, screens, monitors</string>
+				<key>title</key>
+				<string>Screen refresh rate</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Localisable index words</string>
+				<key>index</key>
+				<string>screens, monitors</string>
+				<key>title</key>
+				<string>Detect multiple displays</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Localisable index words</string>
+				<key>index</key>
+				<string>menubar</string>
+				<key>title</key>
+				<string>Show displays in menu bar</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Localisable index words</string>
+				<key>index</key>
+				<string>rotate, rotation</string>
+				<key>title</key>
+				<string>Screen rotation</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Localisable index words</string>
+				<key>index</key>
+				<string>AirPlay</string>
+				<key>title</key>
+				<string>AirPlay mirroring options</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysGeometryTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Localisable index words</string>
+				<key>index</key>
+				<string>position, height, width, pincushion, rotate, keystone, parallelogram, bow, corner curve, skewed, geometry, dimensions</string>
+				<key>title</key>
+				<string>Screen image</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Localisable index words</string>
+				<key>index</key>
+				<string>rgb, adjust, align, adjusting, adjustment, aligning, alignment</string>
+				<key>title</key>
+				<string>Image convergence</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Localisable index words</string>
+				<key>index</key>
+				<string>static, reset, flicker, interference, flickering</string>
+				<key>title</key>
+				<string>Degauss</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysNightShiftTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Localisable index words</string>
+				<key>index</key>
+				<string>night, shift, night shift, dim, warm, warm colour, spectrum, sleep, temperature, sunset, sunrise, dimming</string>
+				<key>title</key>
+				<string>Night Shift options</string>
+			</dict>
+		</array>
+	</dict>
+	<key>universalControlTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Localisable index words</string>
+				<key>index</key>
+				<string>universal, control</string>
+				<key>title</key>
+				<string>Universal Control</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

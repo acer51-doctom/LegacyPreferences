@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>InternetAccounts</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>חשבון, חשבונות, משתמש, משתמשים, שם, שמות, שם משתמש, כניסה, התחברות, להיכנס, להתחבר, יציאה, לצאת, התנתקות, להתנתק, סיסמה, סיסמאות, מילה, מילים, אימות, לאמת, iCloud, Apple ID, מנוי, מינוי, חבר, Mail, דואר, iCal, לוח שנה, פנקס כתובות, ספר כתובות, אנשי קשר, iChat, הודעות, דוא״ל, CalDAV, CardDAV, LDAP, IMAP, פתקים, תזכורות</string>
+				<key>title</key>
+				<string>חשבונות אינטרנט</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>זרם תמונות</string>
+				<key>title</key>
+				<string>זרם תמונות</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>מצא את ה-Mac שלי</string>
+				<key>title</key>
+				<string>מצא את ה-Mac שלי</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.126</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>126</string>
+				<key>title</key>
+				<string>הגדר חשבון ‎126.com</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.163</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>163</string>
+				<key>title</key>
+				<string>הגדר חשבון ‎163.com</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.Exchange</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>exchange</string>
+				<key>title</key>
+				<string>הגדר חשבון Exchange</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.Google</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>google‏, gmail‏, googlemail</string>
+				<key>title</key>
+				<string>הגדר חשבון Google</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.Yahoo</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>yahoo,‏ ymail</string>
+				<key>title</key>
+				<string>הגדר חשבון Yahoo!‎</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.aol</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>aol,‏ aim</string>
+				<key>title</key>
+				<string>הגדר חשבון AOL</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.qq</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>qq</string>
+				<key>title</key>
+				<string>הגדר חשבון ‎ QQ.com</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

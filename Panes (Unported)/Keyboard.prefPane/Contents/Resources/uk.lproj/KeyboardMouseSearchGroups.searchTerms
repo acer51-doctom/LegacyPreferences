@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>InputSources</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локалізовувані індексні слова</string>
+				<key>index</key>
+				<string>метод, смуга, меню</string>
+				<key>title</key>
+				<string>Показувати меню клавіатур на смузі меню</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локалізовувані індексні слова</string>
+				<key>index</key>
+				<string>набирати, набір, вводити, ввід, введення, джерела, Qwerty, професійний, ПК, стандарт, ISO, ANSI, JIS, розширений, Дворак, афганська, арабська, вірменська, австрійська, азербайджанська, бельгійська, бразильська, британська, болгарська, білоруська, канадська, черокі, хорватська, чеська, датська, деванагарі, естонська, фарерська, фінська, французька, німецька, грецька, гуджаратська, гурмукхі, гавайська, іврит, угорська, ісландська, інуїтська, ірландська, італійська, яванська, казахська, латвійська, литовська, македонська, мальтійська, маорійська, непальська, лапландська, нідерландська, норвезька, перська, польська, португальська, румунська, російська, сербська, словацька, словенська, іспанська, шведська, швейцарська, тайська, тибетська, турецька, американська, уйгурська, українська, Юнікод, шістнадцяткова, в’єтнамська, валлійська</string>
+				<key>title</key>
+				<string>Розкладки клавіатури</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локалізовувані індексні слова</string>
+				<key>index</key>
+				<string>головна, мови, режим, джерела, міжнародний, іноземний, символи, Юнікод, японська, кото, хірагана, катакана, ромадзі, айну, китайська, традиційна, ханін, спрощена, письмо, вубі, корейська, хангул, хангиль, в'єтнамська, в’єтнамська, телекс, тамільська, анджальська</string>
+				<key>title</key>
+				<string>Мовні методи вводу</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локалізовувані індексні слова</string>
+				<key>index</key>
+				<string>палітра, символ, переглядач, символи, знак, знаки, Юнікод, японська, кана, джерело, джерела, клавіші, клавіша, пунктуація, розділові знаки</string>
+				<key>title</key>
+				<string>Палітри</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>розкладка, ввід, введення, джерело, документ</string>
+				<key>title</key>
+				<string>Використовувати в усіх документах одну розкладку</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>розкладка, ввід, введення, джерело, документ</string>
+				<key>title</key>
+				<string>Використовувати в різних документах різні розкладки</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Text</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локалізовувані індексні слова</string>
+				<key>index</key>
+				<string>символи, замінити, замінення, підставлення, підставляння, дроби, замінювати, заміна, підставляти, підстановка, клавіатурні скорочення</string>
+				<key>title</key>
+				<string>Підстановка символів і тексту</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локалізовувані індексні слова</string>
+				<key>index</key>
+				<string>мова, перевірка правопису, перевірка орфографії, автоматичне виправлення, виправлення помилок правопису, регістр літер, інтервали</string>
+				<key>title</key>
+				<string>Правопис</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локалізовувані індексні слова</string>
+				<key>index</key>
+				<string>варіанти вводу, швидкий друк, передбачений ввід, передбачений текст, touch bar, смуга, touchbar</string>
+				<key>title</key>
+				<string>Варіанти вводу на Touch Bar</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локалізовувані індексні слова</string>
+				<key>index</key>
+				<string>динамічні лапки, лапки, тире</string>
+				<key>title</key>
+				<string>Використовувати динамічні лапки та тире</string>
+			</dict>
+		</array>
+	</dict>
+	<key>keyboardTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локалізовувані індексні слова</string>
+				<key>index</key>
+				<string>Bluetooth, клавіатура, пристрої</string>
+				<key>title</key>
+				<string>Настроїти клавіатуру Bluetooth</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локалізовувані індексні слова</string>
+				<key>index</key>
+				<string>клавіші, затримка, повтор клавіші, повтор, наголос, відповідь, функція, Fn, F1, F2, F3, F4, F5, F6, F7, F8, F9, F10, F11, F12, клавіші, частота, тип, затримування, затримати, повторення, повторювати, повторити, введення, ввід, вводити, друкувати</string>
+				<key>title</key>
+				<string>Чутливість клавіатури</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локалізовувані індексні слова</string>
+				<key>index</key>
+				<string>дивитись, бачення, вигляд, бачити, темно, темне, темний, тьмяне світло, тьмяний, тьмяне, ніч, тип, виділення, виділити, виділяти, підсвічування, підсвічуваний, підсвічений, введення, ввід, вводити, друкувати, яскравість, коригувати, автоматично, заднє підсвічування, підсвічування</string>
+				<key>title</key>
+				<string>Підсвічувати клавіатуру</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локалізовувані індексні слова</string>
+				<key>index</key>
+				<string>touch bar, touchbar, смуга, control strip, стрічка, Fn, функціональні клавіші, настроювання, персоналізувати</string>
+				<key>title</key>
+				<string>Настроїти Touch Bar або Control Strip</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>смуга меню, палітри, символ, емодзі, переглядач клавіатури</string>
+				<key>title</key>
+				<string>Показувати переглядачі клавіатури та емодзі на смузі меню</string>
+			</dict>
+		</array>
+	</dict>
+	<key>keyboardTab_ModifierKeys</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локалізовувані індексні слова</string>
+				<key>index</key>
+				<string>Caps Lock, Control, Alt, Command</string>
+				<key>title</key>
+				<string>Відновити стандартні клавіші-модифікатори</string>
+			</dict>
+		</array>
+	</dict>
+	<key>shortcutsTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локалізовувані індексні слова</string>
+				<key>index</key>
+				<string>скорочення, Launchpad, Dock, Mission Control, знімок екрана, знімки екрана, екранний знімок, екранні знімки, служби, Spotlight, спеціальні можливості, доступність, повний доступ із клавіатури, джерела вводу, програма, функціональні клавіші, touch bar, смуга, touchbar</string>
+				<key>title</key>
+				<string>Клавіатурні скорочення</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Dictation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локалізовувані індексні слова</string>
+				<key>index</key>
+				<string>диктувати, диктування, слухати, слухання, мова, мікрофон, розпізнавати, розпізнавання, вимовляти, вимовляння, читання вголос, клавіатурні скорочення, говорити</string>
+				<key>title</key>
+				<string>Диктування</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

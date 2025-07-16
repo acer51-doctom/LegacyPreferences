@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Accessibility_Shortcut</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>scurtătură de accesibilitate, accesibilitate, scurtătură</string>
+				<key>title</key>
+				<string>Scurtătură accesibilitate</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Alternate_Pointer_Actions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>clic, maus, comutator, alternativ, buton, taste maus, expresie, chip, față, facial</string>
+				<key>title</key>
+				<string>Acțiuni alternative ale cursorului</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Captioning</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>CC, SDH, subtitrări complexe, subtitrare complexă, subtitrări pentru deficiențe auditive, surd, auz, filme, subtitrare, subtitrări, pistă de text</string>
+				<key>title</key>
+				<string>Activează CC, SDH și subtitrări</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>CC, SDH, subtitrări complexe, subtitrare complexă, subtitrări pentru deficiențe auditive, surd, auz, filme, subtitrare, subtitrări, pistă de text</string>
+				<key>title</key>
+				<string>Personalizează CC, SDH și subtitrări</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Dictation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>Universal, acces, accesibilitate, dizabilitat, handicapat, vedere, orb, viziune, vizibil, auz, deficient, vorbi, enunțabil, articole, enunțat, comenzi, articole, recunoaște, recunoaștere, asista, asistiv, vorbi, voci, calibra, calibrare, asculta, tastă, scurtături, personaliza, microfon, volum, enunțare, recunoaștere, vorbire, calibrare, ascultare, personalizat, personalizare, dictare, comandă vocală</string>
+				<key>title</key>
+				<string>Comenzi vocale</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Dwell</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>temporizator, temporizare, tastatură pe ecran, tastatură ecran, tastatură virtuală, tastatură de accesibilitate, maus nemișcat, maus, urmărire cap, Control temporizator, Universal, acces, accesibilitate, dizabilitate, handicap, deficiență, control asistiv, mobilitate, scaun cu rotile</string>
+				<key>title</key>
+				<string>Temporizator pentru Tastatură de accesibilitate</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Full_Keyboard_Access</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>acces, complet, tastatură, navigare, comenzi, tab</string>
+				<key>title</key>
+				<string>Acces complet din tastatură</string>
+			</dict>
+		</array>
+	</dict>
+	<key>General</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>Universal, acces, accesibilitate, dizabilitate, handicap, limitare, deficiență, asistiv, ușor, ajusta, ajustări, ajustare, tastare</string>
+				<key>title</key>
+				<string>Configurări generale de accesibilitate</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Head_Pointer</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>cap, chip, față, maus, cursor, urmări, urmărire</string>
+				<key>title</key>
+				<string>Cursor controlat cu capul</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Hearing</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>Universal, acces, accesibilitate, dizabilitat, handicapat, limitat, surd, auzi, auz, deficitar, asistiv</string>
+				<key>title</key>
+				<string>Flash de ecran pentru alerte</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>Universal, acces, accesibilitate, dizabilitat, handicapat, limitat, surd, auzi, auz, deficitar, asistiv</string>
+				<key>title</key>
+				<string>Redă stereo ca mono</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Keyboard</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>Universal, acces, accesibilitate, invalid, handicap, limitat, comutator, deficitar, mai încet, asistiv, ușor, taste persistente, rată repetare, modificator, sensibilitate, ajusta, ajustări, tasta, mai încet, încetinire, ajustare, tastare</string>
+				<key>title</key>
+				<string>Facilitează utilizarea tastaturii</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>Universal, acces, accesibilitate, dizabilitate, handicap, limitare, deficiență, asistiv, modificator, rată, tasta, feedback la scriere</string>
+				<key>title</key>
+				<string>Activează feedbackul la scriere</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Media_Descriptions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>Universal, acces, accesibilitate, dizabilitat, handicapat, limitat, orb, vedere, văz, vizibil, deficiențe, video, media, descrieri, descrie, descrise</string>
+				<key>title</key>
+				<string>Descrieri multimedia</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Mouse</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>acces, accesibilitate, ajustează, ajustare, ajustări, asistiv, cursor, întârziere, invalid, dublu clic, dublu-clic, tragere, ușor, rapid, handicap, haptic, feedback haptic, dizabilitate, inerție, tastatură, tastatură numerică, taste, limitat, blocare, mută, mutare, numeric, pointer, derulează, derulare, încetinește, mai încet, încetinire, viteză, resort, deschidere automată, comutator, trei degete, tragere trei degete, Universal</string>
+				<key>title</key>
+				<string>Facilitează utilizarea mausului și a trackpadului</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Dezactivează derularea</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Inerție la derulare</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_ColorFilters</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>culoare, filtru, daltonist</string>
+				<key>title</key>
+				<string>Afișează filtre de culoare</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_Cursor</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>cursor, pointer, săgeată, amplifică, lărgire, mai mare, mărire, mărit, mări, mărește</string>
+				<key>title</key>
+				<string>Dimensiune cursor</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>cursor, pointer, maus, trackpad, agitare, animare</string>
+				<key>title</key>
+				<string>Indică poziția cursorului mausului la agitarea acestuia</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_Display</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>Universal, acces, accesibilitate, dizabilitat, handicapat, limitat, orb, vedere, viziune, vizibil, deficitar, citi, vedea, intensifică, contrast, negru, alb, tonuri de gri, ajustări, citire, vedere, vizualizare, intensificare, ajustare, tonuri de gri, mișcare, redu mișcarea, reducere mișcare, redu transparența, reducere transparență, transparență, transparent, transluciditate, translucid, estompare, fundal, culoare</string>
+				<key>title</key>
+				<string>Facilitează vizualizarea ecranului</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_VoiceOver</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>enunțat, interfață, auz, ecran, cititor, Universal, acces, accesibilitate, dizabilitat, handicapat, limitat, orb, vedere, viziune, vizibil, deficitar, voice over</string>
+				<key>title</key>
+				<string>Activează și dezactivează VoiceOver</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>bară de meniu</string>
+				<key>title</key>
+				<string>Afișează Accesibilitate în bara de meniu</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_Zoom</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>touchbar, touch bar, zoom, mări, mărire, mărit, zoom, amplificare</string>
+				<key>title</key>
+				<string>Activează zoomul cu Touch Bar</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>Universal, acces, accesibilitate, dizabilitat, handicapat, limitat, orb, vedere, viziune, vizibil, deficitar, mări, amplifica, amplificare, citi, vedea, vizualiza, crește, micșora, mai mare, maxim, minim, derula, maus, rotiță, bilă, bilă de derulare, rotiță de derulare, zoom, mărit, mărire, amplificat, citire, vedere, vizualizare, mărire, micșorare, zoom, mări, text survolat</string>
+				<key>title</key>
+				<string>Activează textul survolat</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>Universal, acces, accesibilitate, dizabilitat, handicapat, limitat, orb, vedere, viziune, vizibil, deficitar, mări, amplifica, amplificare, citi, vedea, vizualiza, crește, micșora, mai mare, maxim, minim, derula, maus, rotiță, bilă, bilă de derulare, rotiță de derulare, zoom, mărit, mărire, amplificat, citire, vedere, vizualizare, mărire, micșorare, zoom, mări, afișaje, monitoare, secundă, multiple, ecrane</string>
+				<key>title</key>
+				<string>Zoom pentru mărirea ecranului</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Siri</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>tastare, tastare pentru siri, tastare siri, siri tastare</string>
+				<key>title</key>
+				<string>Tastare pentru Siri</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Switch</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>panou, editor de panouri, scan, scanare, comutator, comutatoare, Universal, acces, accesibilitate, dizabilitate, handicap, deficiență, control asistiv, mobilitate, scaun cu rotile</string>
+				<key>title</key>
+				<string>Editor panou control comutator</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>scan, scanare, comutator, comutatoare, Universal, acces, accesibilitate, dizabilitate, handicap, deficiență, asistiv, control asistiv, mobilitate, scaun cu rotile</string>
+				<key>title</key>
+				<string>Activează “Control comutator”</string>
+			</dict>
+		</array>
+	</dict>
+	<key>TextToSpeech</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>enunțare, sinteză, TTS, enunțat, anunța, anunțuri, enunța, text, voce, viteză, vorbi, alerte, anunțare, vorbire</string>
+				<key>title</key>
+				<string>Enunțare</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Virtual_Keyboard</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>panou, editor de panouri, tastatură, tastatură pe ecran, tastatură ecran, tastatură virtuală, tastatură de accesibilitate, maus, urmărire cap, Universal, acces, accesibilitate, dizabilitate, handicap, deficiență, control asistiv, mobilitate, scaun cu rotile</string>
+				<key>title</key>
+				<string>Editor panouri Tastatură de accesibilitate</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>tastatură, tastatură pe ecran, tastatură ecran, tastatură virtuală, tastatură de accesibilitate, maus, urmărire cap, Universal, acces, accesibilitate, dizabilitate, handicap, deficiență, control asistiv, mobilitate, scaun cu rotile, login</string>
+				<key>title</key>
+				<string>Activează Tastatura de accesibilitate</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

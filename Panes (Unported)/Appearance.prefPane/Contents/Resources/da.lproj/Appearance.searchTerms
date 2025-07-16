@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+        <key>Handoff</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>comments</key>
+                    <string>Registerindgange, der kan oversættes</string>
+                    <key>index</key>
+                    <string>kontinuitet, besvar, fortsæt, aktivitet, fortsættelse, overlevere</string>
+                    <key>title</key>
+                    <string>Tillad Handoff</string>
+                </dict>
+            </array>
+        </dict>
+		<key>Main</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Registerindgange, der kan oversættes</string>
+					<key>index</key>
+					<string>valgt, tekst, fremhævning, fremhævelse, fremhæve, fremhæv, markering, udseende</string>
+					<key>title</key>
+					<string>Markeringsfarve</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Registerindgange, der kan oversættes</string>
+					<key>index</key>
+					<string>Apple-menu, apps, dokumenter, servere</string>
+					<key>title</key>
+					<string>Antal seneste emner</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Registerindgange, der kan oversættes</string>
+					<key>index</key>
+					<string>skrivebord, tilpasse, personliggøre, fane, faner, tilpasning, speciel, personliggørelse, udseende</string>
+					<key>title</key>
+					<string>Udseende af knap, menu og vindue</string>
+				</dict>
+
+				<dict>
+					<key>comments</key>
+					<string>Registerindgange, der kan oversættes</string>
+					<key>index</key>
+					<string>skrivebord, tilpasse, personliggøre, tilpasning, speciel, automatisk, personliggørelse, udseende, lys, mørk, tema, funktion, mørk funktion</string>
+					<key>title</key>
+					<string>Udseende</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Registerindgange, der kan oversættes</string>
+					<key>index</key>
+					<string>knap, det valgte, menu, look, udseende, farve</string>
+					<key>title</key>
+					<string>Accentfarve</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Registerindgange, der kan oversættes</string>
+					<key>index</key>
+					<string>redigeringer, ændringer, gem, luk, slut, dokument, arkiv</string>
+					<key>title</key>
+					<string>Behold ændringer</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Registerindgange, der kan oversættes</string>
+					<key>index</key>
+					<string>vindue, hop, rullefelt, hoppe</string>
+					<key>title</key>
+					<string>Rulleskakts virkemåde</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Registerindgange, der kan oversættes</string>
+					<key>index</key>
+					<string>symbol, side, linje, størrelse, indholdsoversigt</string>
+					<key>title</key>
+					<string>Symboler i indholdsoversigt</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Registerindgange, der kan oversættes</string>
+					<key>index</key>
+					<string>slut, slutter, åbn, åbn igen, åbner, åbner igen, gendanner, foretræk faner</string>
+					<key>title</key>
+					<string>Luk og gendan vinduer</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Registerindgange, der kan oversættes</string>
+					<key>index</key>
+					<string>Safari, http, https, surfe, www, websted, website, webside</string>
+					<key>title</key>
+					<string>Indstil standardbrowser</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+</plist>

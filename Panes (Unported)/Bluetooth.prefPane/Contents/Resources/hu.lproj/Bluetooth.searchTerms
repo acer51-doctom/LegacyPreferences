@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizálható indexszavak</string>
+				<key>index</key>
+				<string>vezeték nélküli, észlel, detektál, felfedez, keres, talál, párosít, hozzáad, eltávolít, töröl, beállít, asszisztens, segéd, billentyűzet, egér, cella, mobil, telefon, headset, fejhallgató, fülhallgató, be, ki, bont, szétkapcsol, lecsatol, lebont, kék, fog, blue, tooth, hozzáadás, eltávolítás, törlés, bontás, lebontás, szétcsatlakoztatás, felfedezés, észlelés, felfedezhető, észlelhető, keresés</string>
+				<key>title</key>
+				<string>Bluetooth eszközök</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizálható indexszavak</string>
+				<key>index</key>
+				<string>kék, fog, blue, tooth, menüsor, menüsáv</string>
+				<key>title</key>
+				<string>Bluetooth állapotának megjelenítése a menüsoron</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizálható indexszavak</string>
+				<key>index</key>
+				<string>kék, fog, blue, tooth</string>
+				<key>title</key>
+				<string>Bluetooth soros portok</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizálható indexszavak</string>
+				<key>index</key>
+				<string>kék, fog, blue, tooth, hang</string>
+				<key>title</key>
+				<string>Bluetooth-hang</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizálható indexszavak</string>
+				<key>index</key>
+				<string>kék, fog, blue, tooth</string>
+				<key>title</key>
+				<string>Bluetooth beállítási asszisztens</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

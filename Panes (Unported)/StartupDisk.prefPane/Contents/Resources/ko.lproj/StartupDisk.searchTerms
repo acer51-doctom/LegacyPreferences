@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>StartupSearchGroup</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>로컬라이즈가 가능한 인덱스 단어</string>
+				<key>index</key>
+				<string>시작, 시동, 초기, 하드, 디스크, 드라이브, 볼륨, 시스템, netboot, 넷부트, 네트워크 시동, 시동 중</string>
+				<key>title</key>
+				<string>시동 디스크</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>로컬라이즈가 가능한 인덱스 단어</string>
+				<key>index</key>
+				<string>디스크, FireWire, fire wire</string>
+				<key>title</key>
+				<string>대상 디스크 모드</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

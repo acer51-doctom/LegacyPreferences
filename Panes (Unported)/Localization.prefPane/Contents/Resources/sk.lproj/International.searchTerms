@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Region</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>regionálny, medzinárodné, miera, jednotky, štýly, metrický, kalendáre, Gregoriánsky, Budhistický, Hebrejský, Islamský, Japonský, Čínsky, Koptský, Etiópsky, Indický, Perzský, Čínska republika, prispôsobiť, prispôsobený, prispôsobovanie, prispôsobenie, poloha, teplota</string>
+				<key>title</key>
+				<string>Číslo, dátum a časové formáty</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>peniaze</string>
+				<key>title</key>
+				<string>Označenie meny</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>Internetové služby, mail, kontakty</string>
+				<key>title</key>
+				<string>Región internetových služieb</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Language</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>jazyky, prispôsobiť, medzinárodné, prispôsobené, prispôsobujem, prispôsobenie, triedenie, oslovenie, mužský, ženský, neutrálny, Živý text, označiť text na obrázkoch</string>
+				<key>title</key>
+				<string>Nastavenie a priorita jazyka</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Translation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>tlmočiť, tlmočenie, preklad, prekladanie</string>
+				<key>title</key>
+				<string>Tlmočené jazyky</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

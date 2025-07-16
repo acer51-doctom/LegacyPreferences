@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>currentSource</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>חיסכון בחשמל</string>
+                <key>index</key>
+                <string>צגים, מסכים, הבהר, עמעם, שינה, מתעורר, כיבוי, הפעלה, חשמל, ירוק, חסכון, לחסוך, לשמר, סביבתי, מיטוב, ביצועים, מעבד, אוטומטי, בהירות, שחור, ריק, החשכה, מעומעם, עמעום, ישן, ער, התעוררות, מכבה, מפעיל, חוסך, משמר, ממוטב, ממטב, אופטימיזציה, באופן אוטומטי, אוטומציה, אוטומטית, ups, אל-פסק, מכשיר אל-פסק, מערכת אל-פסק</string>
+                <key>comments</key>
+                <string>מילות אינדקס הניתנות לתרגום</string>
+            </dict>
+        </array>
+    </dict>
+    <key>schedule</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>ניתן להגדיר שעות להפעלה, שינה או כיבוי</string>
+                <key>index</key>
+                <string>ער, הפעלה, חשמל, דלוק, כבוי, אוטומטי, תיזמון, מתוזמן, ישן, ישן, ער, מתעורר, התעורר, התעוררות, כיבוי, מכבה, מפעיל, הפעלה, באופן אוטומטי, אוטומטי</string>
+                <key>comments</key>
+                <string>מילות אינדקס הניתנות לתרגום</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

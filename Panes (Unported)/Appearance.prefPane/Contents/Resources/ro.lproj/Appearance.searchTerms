@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+        <key>Handoff</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>comments</key>
+                    <string>Cuvinte de index localizabile</string>
+                    <key>index</key>
+                    <string>continuitate, reia, continuă, activitate, continuare, predare, înmânare, hand off</string>
+                    <key>title</key>
+                    <string>Permite Handoff</string>
+                </dict>
+            </array>
+        </dict>
+		<key>Main</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Cuvinte de index localizabile</string>
+					<key>index</key>
+					<string>selectat, text, evidențiere, evidenția, evidențiere, evidenția, evidenția, aspect</string>
+					<key>title</key>
+					<string>Culoare de evidențiere</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Cuvinte de index localizabile</string>
+					<key>index</key>
+					<string>Meniu Apple, aplicații, documente, servere</string>
+					<key>title</key>
+					<string>Număr de articole recente</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Cuvinte de index localizabile</string>
+					<key>index</key>
+					<string>desktop, personaliza, personaliza, filă, file, personalizare, personalizat, personalizare, aspect</string>
+					<key>title</key>
+					<string>Aspect buton, meniu și fereastră</string>
+				</dict>
+
+				<dict>
+					<key>comments</key>
+					<string>Cuvinte de index localizabile</string>
+					<key>index</key>
+					<string>desktop, personaliza, personaliza, personalizare, personalizat, automat, personalizare, aspect, deschis, întunecat, temă, mod, mod întunecat</string>
+					<key>title</key>
+					<string>Aspect</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Cuvinte de index localizabile</string>
+					<key>index</key>
+					<string>buton, selectare, meniu, aspect, culoare</string>
+					<key>title</key>
+					<string>Culoare accent</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Cuvinte de index localizabile</string>
+					<key>index</key>
+					<string>editări, modificări, salva, închide, termina, document, fișier</string>
+					<key>title</key>
+					<string>Păstrează modificările</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Cuvinte de index localizabile</string>
+					<key>index</key>
+					<string>fereastră, salt, bară de derulare, sărire</string>
+					<key>title</key>
+					<string>Comportament bară de derulare</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Cuvinte de index localizabile</string>
+					<key>index</key>
+					<string>pictogramă, laterală, bară, dimensiune, bară laterală</string>
+					<key>title</key>
+					<string>Pictograme bară laterală</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Cuvinte de index localizabile</string>
+					<key>index</key>
+					<string>termină, terminare, deschide, redeschide, re-deschide, deschidere, redeschidere, re-deschidere, restaurare, preferarea filelor</string>
+					<key>title</key>
+					<string>Închide și restaurează ferestrele</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Cuvinte de index localizabile</string>
+					<key>index</key>
+					<string>Safari, http, https, navigare, www, site web, pagină web</string>
+					<key>title</key>
+					<string>Configurează browserul web implicit</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+</plist>

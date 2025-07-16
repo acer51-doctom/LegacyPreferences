@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>aktivt</string>
+				<key>title</key>
+				<string>Aktive skjermhjørner</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>tilpasse, skrivebord, tastatur, funksjonstaster, Fn, museknapper, vinduer, apper, programmer, applikasjoner, tilpasset, egendefinert, tilpassing, mission control</string>
+				<key>title</key>
+				<string>Exposé-snarveier</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Spaces</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>organisere, arbeidsområder, apper, programmer, applikasjoner, skrivebord, organisert, organiserer</string>
+				<key>title</key>
+				<string>Konfigurer Spaces</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

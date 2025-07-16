@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Extensions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>ส่วนขยาย</string>
+				<key>title</key>
+				<string>ส่วนขยาย</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>ทำเครื่องหมาย, การทำเครื่องหมาย</string>
+				<key>title</key>
+				<string>การทำงาน</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>การแชร์, แชร์, รายการอ่าน, เมล, ข้อความ, airdrop, โน้ต, เตือนความจำ, ผู้คน, เพิ่ม, iphoto, aperture</string>
+				<key>title</key>
+				<string>แชร์รายการเมนู</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>ด่วน, การทำงาน, finder, การทำงานด่วน, บานหน้าต่างแสดงตัวอย่าง</string>
+				<key>title</key>
+				<string>Finder</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>ด่วน, การทำงาน, สัมผัส, แถบ, touch bar</string>
+				<key>title</key>
+				<string>Touch Bar</string>
+			</dict>
+            <dict>
+                <key>comments</key>
+                <string>คำดัชนีที่แปลได้</string>
+                <key>index</key>
+                <string>ส่วนขยายผู้ให้บริการข้อมูลประจำตัว ตัวจัดการรหัสผ่าน ส่วนขยายตัวจัดการรหัสผ่าน การป้อนรหัสผ่านอัตโนมัติ ส่วนขยายการป้อนอัตโนมัติ</string>
+                <key>title</key>
+                <string>ส่วนขยายการป้อนรหัสผ่านอัตโนมัติ</string>
+            </dict>
+		</array>
+	</dict>
+</dict>
+</plist>

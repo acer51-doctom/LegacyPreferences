@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>currentSource</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Conservar a bateria</string>
+                <key>index</key>
+                <string>monitores, telas, monitor, iluminar, escurecer, repouso, despertar, desligar, inicializar, energia, ativar, desativar, eletricidade, verde, economizar, conservar, conservação, preservar, ambiental, carregar, desconectado, otimizar, desempenho, processador, automático, brilho, preto, branco, escurecendo, escurecido, apagando, repousando, adormecido, despertando, acordar, acordado, acordando, desligado, desligando, ativando, ligar, ligando, economizando, conservando, preservando, carregado, carregando, conectado, conectando, desconectado, desconectando, des-conectando, otimizado, otimizando, automatizado, automatizando, automaticamente, otimizar transmissão de vídeo, carregamento de bateria otimizado, adaptador, cabo, plugue, troca automática de gráficos, displays, screens, monitors, brighten, dim, sleep, wake, shut down, start up, power, on, off, electricity, green, save, conserve, conservation, preserve, environmental, charge, plug, unplugged, optimize, performance, processor, automatic, brightness, black, blank, darkening, dimmed, dimming, sleeping, asleep, waking, awake, awaken, awakening, shutdown, shutting, powering, turn, turning, saving, conserving, preserving, charged, charging, plugged, plugging, un-plugged, unplugging, un-plugging, optimized, optimizing, optimization, automated, automating, automatically, optimize video streaming, optimized battery charging, adapter, cable, plug, automatic graphics switching</string>
+                <key>comments</key>
+                <string>Palavras localizáveis do índice</string>
+            </dict>
+            <dict>
+                <key>title</key>
+                <string>Mostrar estado da bateria na barra de menus</string>
+                <key>index</key>
+                <string>barra de menus</string>
+                <key>comments</key>
+                <string>Palavras localizáveis do índice</string>
+            </dict>
+            <dict>
+                <key>title</key>
+                <string>Power Nap</string>
+                <key>index</key>
+                <string>soneca, repouso, power nap, powernap</string>
+                <key>comments</key>
+                <string>Palavras localizáveis do índice</string>
+            </dict>
+        </array>
+    </dict>
+    <key>usage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Histórico de uso da bateria</string>
+                <key>index</key>
+                <string>nível da bateria, tempo com a tela ligada, uso de energia, battery level, screen on time, energy usage</string>
+                <key>comments</key>
+                <string>Palavras localizáveis do índice</string>
+            </dict>
+        </array>
+    </dict>
+    <key>battery</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Saúde da bateria</string>
+                <key>index</key>
+                <string>manutenção de bateria, capacidade máxima, longevidade da bateria, mensagem importante sobre bateria, condição da bateria, battery service, maximum capacity, battery longevity, important battery message, battery condition</string>
+                <key>comments</key>
+                <string>Palavras localizáveis do índice</string>
+            </dict>
+        </array>
+    </dict>
+    <key>adapter</key>
+    <dict/>
+    <key>ups</key>
+    <dict/>
+    <key>schedule</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Agendar inicialização, repouso ou desligamento</string>
+                <key>index</key>
+                <string>repouso, despertar, inicialização, energia, ativado, desativado, automático, agendado, agendando, programado, programando, repousando, adormecido, acordar, acordado, acordando, desligar, desligando, alimentando, ligar, ligando, automatizado, automatizando, automaticamente, sleep, wake, start up, power, on, off, automatic, scheduled, scheduling, sleeping, asleep, waking, awake, awaken, awakening, shutdown, shutting, powering, turn, turning, automated, automating, automatically</string>
+                <key>comments</key>
+                <string>Palavras localizáveis do índice</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

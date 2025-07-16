@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>activ</string>
+				<key>title</key>
+				<string>Colțuri active ale ecranului</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>personaliza, desktop, tastatură, taste funcționale, Fn, butoane maus, fereastră, aplicație, programe, personalizat, personalizare, mission control</string>
+				<key>title</key>
+				<string>Scurtături Exposé</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Spaces</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>organiza, spații de lucru, aplicații, programe, desktopuri, organizat, organizare</string>
+				<key>title</key>
+				<string>Configurare Spaces</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

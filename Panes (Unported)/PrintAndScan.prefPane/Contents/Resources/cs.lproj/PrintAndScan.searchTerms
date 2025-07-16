@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fax</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovatelná indexová slova</string>
+				<key>index</key>
+				<string>faxování, fax</string>
+				<key>title</key>
+				<string>Nastavení faxu</string>
+			</dict>
+		</array>
+	</dict>
+	<key>print</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovatelná indexová slova</string>
+				<key>index</key>
+				<string>výchozí, fronty, ovladače, velikost papíru, vzhled stránky, cups, přidat, tisk</string>
+				<key>title</key>
+				<string>Nastavení tiskáren</string>
+			</dict>
+		</array>
+	</dict>
+	<key>scan</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovatelná indexová slova</string>
+				<key>index</key>
+				<string>skenery, skenování, obrázek</string>
+				<key>title</key>
+				<string>Nastavení skenerů</string>
+			</dict>
+		</array>
+	</dict>
+	<key>share</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovatelná indexová slova</string>
+				<key>index</key>
+				<string>sdílet</string>
+				<key>title</key>
+				<string>Sdílení tiskárny</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Accessibility_Shortcut</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>drecera d’accessibilitat, accessibilitat, drecera</string>
+				<key>title</key>
+				<string>Drecera d’accessibilitat</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Alternate_Pointer_Actions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>clic, ratolí, polsador, alternatiu, botó, tecles per al ratolí, expressió, cara, facial</string>
+				<key>title</key>
+				<string>Accions de punter alternatives</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Captioning</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>CC, SDH, subtítols descriptius, subtítols per a persones sordes o amb dificultats auditives, sordesa, audició, vídeos, pel·lícules, subtítol, subtítols, pista de text</string>
+				<key>title</key>
+				<string>Activar els subtítols, els subtítols descriptius i SDH</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>CC, SDH, subtítols descriptius, subtítols per a persones sordes o amb dificultats auditives, sordesa, audició, vídeos, pel·lícules, subtítol, subtítols, pista de text</string>
+				<key>title</key>
+				<string>Personalitzar els subtítols, els subtítols descriptius i SDH</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Dictation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex traduïbles</string>
+				<key>index</key>
+				<string>universal, accés, accessibilitat, discapacitat, vista, cec, ceguesa, visió, visible, audició, problemes, parla, parlar, veu, ordres, reconèixer, reconeixement, assistir, assistent, veus, calibrar, calibratge, calibració, escoltar, tecla, dreceres, personalitzar, micròfon, volum, reconeixement, escoltar, personalitzat, personalització, dictat, control per veu</string>
+				<key>title</key>
+				<string>Control per veu</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Dwell</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>permanència, teclat en pantalla, teclat de pantalla, teclat virtual, teclat d’accessibilitat, situar el punter del ratolí, ratolí, seguiment de cap, control de permanència, Universal, accés, accessibilitat, discapacitat, minusvàlid, control assistencial, mobilitat, cadira de rodes</string>
+				<key>title</key>
+				<string>Permanència del teclat d’accessibilitat</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Full_Keyboard_Access</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>accés, complet, teclat, navegació, ordres, tabulador</string>
+				<key>title</key>
+				<string>Accés complet al teclat</string>
+			</dict>
+		</array>
+	</dict>
+	<key>General</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>Universal, accés, accessibilitat, discapacitat, minusvàlid, limitat, disminuït, assistencial, fàcil, ajustar, ajustaments, ajustar, escriptura</string>
+				<key>title</key>
+				<string>Configuració general d’accessibilitat</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Head_Pointer</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>cap, cara, facial, facials, ratolí, punter, seguir, seguiment</string>
+				<key>title</key>
+				<string>Punter accionat amb el cap</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Hearing</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>Universal, accés, accessibilitat, discapacitat, minusvàlid, limitat, sord, escoltar, audició, disminuït, assistencial</string>
+				<key>title</key>
+				<string>Parpelleig de pantalla per a avisos</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>Universal, accés, accessibilitat, discapacitat, minusvàlid, limitat, sord, escoltar, audició, disminuït, assistencial</string>
+				<key>title</key>
+				<string>Reproduir l’estèreo com a mono</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Keyboard</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>Universal, accés, accessibilitat, discapacitat, minusvàlid, limitat, polsador, disminuït, reduir, assistencial, fàcil, tecles de pulsació fàcil, velocitat de repetició, modificador, sensibilitat, ajustar, ajustaments, tecleig, més lent, alentint, ajustant, teclejant</string>
+				<key>title</key>
+				<string>Facilitar l’ús del teclat</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>Universal, accés, accessibilitat, discapacitat, minusvàlid, limitat, disminuït, assistencial, modificador, valoració, tipus, pronunciar en escriure</string>
+				<key>title</key>
+				<string>Activar “Pronunciar en escriure”</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Media_Descriptions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>Universal, accés, accessibilitat, discapacitat, minusvàlid, limitat, cec, vista, visió, visible, disminuït, vídeo, contingut, descripcions, descriure, descrit</string>
+				<key>title</key>
+				<string>Descripcions de contingut</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Mouse</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>accés, accessibilitat, ajustar, ajustament, ajustaments, assistencial, cursor, retard, discapacitat, doble clic, fer clic dues vegades, arrossegar, fàcil, ràpid, minusvàlid, tàctil, retorn tàctil, problema, deficiència, inèrcia, teclat, teclat numèric, claus, limitat, bloquejar, moure, numèric, punter, desplaçar, alentir, més lent, velocitat, obertura automàtica, obrir automàticament, canviar, tres dits, arrossegament amb tres dits, arrossegar amb tres dits, Universal</string>
+				<key>title</key>
+				<string>Facilitar l’ús del ratolí i el trackpad</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Desactivar desplaçament</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Inèrcia de desplaçament</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_ColorFilters</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>color, filtre, daltonià</string>
+				<key>title</key>
+				<string>Mostrar els filtres de color</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_Cursor</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>cursor, punter, fletxa, fer més gran, major, més gran, augmentar, engrandint, ampliació</string>
+				<key>title</key>
+				<string>Mida del cursor</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>cursor, punter, ratolí, trackpad, moure, agitar</string>
+				<key>title</key>
+				<string>Moure el punter per localitzar-lo</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_Display</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>Universal, accés, accessibilitat, discapacitat, minusvàlid, limitat, cec, vista, visió, visible, disminuït, llegir, veure, millorar, contrast, negre, blanc, escala de grisos, ajustaments, lectura, visionant, veient, millorant, ajustant, escala de grisos, moviment, reduir moviment, reduir transparència, transparència, transparent, translucidesa, translúcid, borrós, fons, color</string>
+				<key>title</key>
+				<string>Facilitar la visió de la pantalla</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_VoiceOver</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>parlat, interfície, escoltant, pantalla, lector, Universal, accés, accessibilitat, discapacitat, minusvàlid, limitat, cec, vista, visió, visible, disminuït, voiceover</string>
+				<key>title</key>
+				<string>Activar o desactivar VoiceOver</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>barra de menús</string>
+				<key>title</key>
+				<string>Mostrar Accessibilitat a la barra de menús</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_Zoom</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>touchbar, touch bar, ampliar, reduir, fer zoom, ampliat, expandir, zoom, engrandir</string>
+				<key>title</key>
+				<string>Activar el zoom de la Touch Bar</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex traduïbles</string>
+				<key>index</key>
+				<string>Universal, accés, accessibilitat, discapacitat, minusvàlid, limitat, cec, vista, visió, visible, disminuït, fer més gran, augmentar, augment, llegir, veure, vista, engrandir, disminuir, més gran, major, màxim, mínim, desplaçar, ratolí, roda, bola, bola de desplaçament, roda de desplaçament, bola de ratolí, roda de ratolí, augment amb zoom, fet més gran, fent més gran, augmentat, augmentant, llegint, visionant, veient, engrandint, disminuint, zoom, fer més gran, text flotant</string>
+				<key>title</key>
+				<string>Activar el text flotant</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>Universal, accés, accessibilitat, discapacitat, minusvàlid, limitat, cec, vista, visió, visible, disminuït, fer més gran, augmentar, augment, llegir, veure, vista, engrandir, disminuir, més gran, major, màxim, mínim, desplaçar, ratolí, roda, bola, bola de desplaçament, roda de desplaçament, bola de ratolí, roda de ratolí, augment amb zoom, fet més gran, fent més gran, augmentat, augmentant, llegint, visionant, veient, engrandint, disminuint, zoom, fer més gran, pantalles, monitors, segona, múltiple, pantalles</string>
+				<key>title</key>
+				<string>Augmentar per fer la pantalla més gran</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Siri</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>escriure, escriure a siri, escriu siri, siri escriu</string>
+				<key>title</key>
+				<string>Escriure a Siri</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Switch</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>tauler, editor de taulers, explorar, escanejar, exploració, polsador, polsadors, Universal, accés, accessibilitat, desactivat, discapacitat, minusvàlid, control assistencial, mobilitat, cadira de rodes</string>
+				<key>title</key>
+				<string>Editor de Taulers del control de polsador</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>explorar, escanejar, exploració, polsador, polsadors, Universal, accés, accessibilitat, desactivat, discapacitat, minusvàlid, control assistencial, mobilitat, cadira de rodes</string>
+				<key>title</key>
+				<string>Activar el control de polsador</string>
+			</dict>
+		</array>
+	</dict>
+	<key>TextToSpeech</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>parla, síntesi, text a veu, parlat, anunciar, avisos, parlar, text, veu, velocitat, conversa, anunciar, avisar</string>
+				<key>title</key>
+				<string>Veu</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Virtual_Keyboard</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>tauler, editor de taulers, teclat, teclat en pantalla, teclat de pantalla, teclat virtual, teclat d’accessibilitat, ratolí, seguiment de cap, Universal, accés, accessibilitat, desactivat, discapacitat, minusvàlid, control assistencial, mobilitat, cadira de rodes</string>
+				<key>title</key>
+				<string>Editor de Taulers del teclat d’accessibilitat</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>teclat, teclat en pantalla, teclat de pantalla, teclat virtual, teclat d’accessibilitat, ratolí, seguiment de cap, Universal, accés, accessibilitat, desactivat, discapacitat, minusvàlid, control assistencial, mobilitat, cadira de rodes, inici de sessió</string>
+				<key>title</key>
+				<string>Activar el teclat d’accessibilitat</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

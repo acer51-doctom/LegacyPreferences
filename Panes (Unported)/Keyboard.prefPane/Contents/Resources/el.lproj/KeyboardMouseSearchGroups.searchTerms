@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>InputSources</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>μέθοδος, γραμμή μενού</string>
+				<key>title</key>
+				<string>Μενού Εισόδου στη γραμμή μενού</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>τύπος, πληκτρολόγηση, πηγές, Qwerty, Pro, PC, τυπικό, τυποποιημένο, στάνταρ, ISO, ANSI, JIS, εκτεταμένο, Dvorak, αφγανικό, αραβικό, αρμενικό, αυστριακό, αζερί, βελγικό, βραζιλιάνικο, βρετανικό, βουλγαρικό, λευκορωσικό, καναδικό, τσερόκι, κροατικό, τσεχικό, δανικό, ντεβαναγκάρι, ολλανδικό, εσθονικό, φεροϊκό, φινλανδικό, γαλλικό, γερμανικό, ελληνικό, γκουτζαρατικό, γκουρμουκικό, χαβαϊκό, εβραϊκό, ουγγρικό, ισλανδικό, ινούκτιτουτ, ιρλανδικό, ιταλικό, τζάβι, καζακικό, λετονικό, λιθουανικό, σλαβομακεδονικό, μαλτεζικό, μαόρι, νεπαλικό, σάμι, νορβηγικό, περσικό, πολωνικό, πορτογαλικό, ρομανικό, ρωσικό, σερβικό, σλοβακικό, σλοβενικό, ισπανικό, σουηδικό, ελβετικό, ταϊλανδικό, θιβετιανό, τουρκικό, ΗΠΑ, ουιγκουρικό, ουκρανικό, Unicode, Hex, βιετναμικό, ουαλικό</string>
+				<key>title</key>
+				<string>Διατάξεις πληκτρολογίου</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>κύριες, γλώσσες, λειτουργία, πηγές, διεθνή, ξένα, χαρακτήρες, Unicode, Ιαπωνικά, Κοτόερι, Χιραγκάνα, Κατάκανα, Ρομάτζι, Αϊνού, Κινεζικά, Παραδοσιακά, Χανίν, Απλοποιημένα, Γούμπι, Κορεατικά, Χανγκούλ, Βιετναμικά, Τέλεξ, Ταμιλικά, Αντζάλ</string>
+				<key>title</key>
+				<string>Μέθοδοι εισαγωγής γλωσσών</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>παλέτα, σύμβολο, προβολή, σύμβολα, χαρακτήρας, Unicode, Ιαπωνικά, Κάνα, χαρακτήρες, πηγές, κεφαλαία, πλήκτρα κεφαλαίων, σημεία στίξης</string>
+				<key>title</key>
+				<string>Παλέτες</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>εισαγωγή, πηγή, έγγραφο</string>
+				<key>title</key>
+				<string>Χρήση μίας πηγής εισόδου σε όλα τα έγγραφα</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>εισαγωγή, πηγή, έγγραφο</string>
+				<key>title</key>
+				<string>Να επιτρέπονται διαφορετικές πηγές εισόδου για κάθε έγγραφο</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Text</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>κλάσματα, αντικατάσταση, υποκατάσταση, συντομεύσεις</string>
+				<key>title</key>
+				<string>Υποκατάσταση συμβόλων και κειμένου</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>γλώσσα, ορθογραφικός έλεγχος, έλεγχος ορθογραφίας, αυτόματη διόρθωση, διόρθωση ορθογραφίας, πεζά κεφαλαία, απόσταση, διάστιχο</string>
+				<key>title</key>
+				<string>Ορθογραφία</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>προτάσεις πληκτρολόγησης, quicktype, γρήγορη πληκτρολόγηση, προβλεπτική πληκτρολόγηση, προβλεπτικό κείμενο, touch bar, γραμμή, touchbar</string>
+				<key>title</key>
+				<string>Προτάσεις πληκτρολόγησης Touch Bar</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>έξυπνα εισαγωγικά, εισαγωγικά, παύλες</string>
+				<key>title</key>
+				<string>Χρήση έξυπνων εισαγωγικών και παυλών</string>
+			</dict>
+		</array>
+	</dict>
+	<key>keyboardTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>Bluetooth, πληκτρολόγιο, συσκευές</string>
+				<key>title</key>
+				<string>Διαμόρφωση πληκτρολογίου Bluetooth</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>πλήκτρα, καθυστέρηση, επανάληψη πλήκτρων, επανάληψη, τόνος, ανταπόκριση, λειτουργία, Fn, F1, F2, F3, F4, F5, F6, F7, F8, F9, F10, F11, F12, πλήκτρα, ρυθμός, πληκτρολόγηση</string>
+				<key>title</key>
+				<string>Ευαισθησία πληκτρολογίου</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>όραση, σκοτάδι, χαμηλός φωτισμός, αχνό, νύχτα, τύπος, εμφάνιση, φωτεινό, πληκτρολόγηση, φωτεινότητα, προσαρμογή, αυτόματα, οπίσθιος φωτισμός</string>
+				<key>title</key>
+				<string>Φωτισμός πληκτρολογίου</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>touch bar, touchbar, γραμμή, control strip, λωρίδα, Fn, πλήκτρα λειτουργιών, προσαρμογή, εξατομίκευση</string>
+				<key>title</key>
+				<string>Προσαρμογή Touch Bar ή Control Strip</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>γραμμή, μενού, παλέτες, παλέτα χαρακτήρων, σύμβολο, emoji, πρόγραμμα προβολής πληκτρολογίου</string>
+				<key>title</key>
+				<string>Εμφάνιση προγραμμάτων προβολής πληκτρολογίου και emoji στη γραμμή μενού</string>
+			</dict>
+		</array>
+	</dict>
+	<key>keyboardTab_ModifierKeys</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>κλείδωμα κεφαλαίων, Caps Lock, Control, Option, Command</string>
+				<key>title</key>
+				<string>Επαναφορά πλήκτρων τροποποίησης</string>
+			</dict>
+		</array>
+	</dict>
+	<key>shortcutsTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>συντομεύσεις, Launchpad, Dock, Mission Control, στιγμιότυπο οθόνης, στιγμιότυπα οθόνης, Υπηρεσίες, Spotlight, Προσβασιμότητα, Πλήρης πρόσβαση από πληκτρολόγιο, πηγές εισόδου, εφαρμογή, πλήκτρα λειτουργιών, touch bar, γραμμή, touchbar</string>
+				<key>title</key>
+				<string>Συντομεύσεις πληκτρολογίου</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Dictation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>υπαγόρευση, υπαγορεύω, ακρόαση, γλώσσα, μικρόφωνο, αναγνώριση, εκφώνηση, ομιλία, συντομεύσεις</string>
+				<key>title</key>
+				<string>Υπαγόρευση</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

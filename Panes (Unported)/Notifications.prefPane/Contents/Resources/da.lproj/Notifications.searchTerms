@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Notifications</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>centrer, notifikation, notifikationscenter, notifikationer, banner, bannere, advarsel, advarsler, etiket, etiketter, lyde, låst skærm</string>
+				<key>title</key>
+				<string>Indstillinger til Notifikationscenter</string>
+			</dict>
+		</array>
+	</dict>
+    <key>Focus</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Registerindgange, der kan oversættes</string>
+                <key>index</key>
+                <string>forstyr ikke, ikke forstyrre, fokus, tidsfølsom, status som utilgængelig, utilgængelig, autosvar</string>
+                <key>title</key>
+                <string>Fokusindstillinger</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

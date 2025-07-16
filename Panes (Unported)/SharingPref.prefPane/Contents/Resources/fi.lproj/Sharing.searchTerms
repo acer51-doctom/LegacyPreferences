@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>Internet</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Lokalisoitavat hakusanat</string>
+					<key>index</key>
+					<string>jaa, jako, yhteys, yhteyden muodostus, langaton, nat, Wi-Fi, ethernet, FireWire</string>
+					<key>title</key>
+					<string>Internet-jako</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Main</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Lokalisoitavat hakusanat</string>
+					<key>index</key>
+					<string>paikallinen, aliverkko, lähiverkko, bonjour</string>
+					<key>title</key>
+					<string>Tietokoneen nimi</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_ARDService</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Lokalisoitavat hakusanat</string>
+					<key>index</key>
+					<string>etä, hallinta, etähallinta, ard, hallita, VNC</string>
+					<key>title</key>
+					<string>Etähallinta</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_DVDorCDSharing</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>index</key>
+					<string/>
+					<key>title</key>
+					<string>DVD- tai CD-jako</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_PersonalFileSharing</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Lokalisoitavat hakusanat</string>
+					<key>index</key>
+					<string>nat afp exchange, jaa</string>
+					<key>title</key>
+					<string>Tiedostonjako</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_PrinterSharing</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Lokalisoitavat hakusanat</string>
+					<key>index</key>
+					<string>cups, jaa</string>
+					<key>title</key>
+					<string>Tulostinjako</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_RemoteAppleEvent</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Lokalisoitavat hakusanat</string>
+					<key>index</key>
+					<string>ae</string>
+					<key>title</key>
+					<string>Apple Event -etäkomennot</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_RemoteLogin</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Lokalisoitavat hakusanat</string>
+					<key>index</key>
+					<string>ssh, palvelu, kirjautua, kirjaudu, sisään, kirjautuminen, sisäänkirjautuminen</string>
+					<key>title</key>
+					<string>Etäkirjautuminen</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_ScreenSharing</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>index</key>
+					<string>hallinta, VNC</string>
+					<key>title</key>
+					<string>Näytönjako</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_WindowsSharing</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Lokalisoitavat hakusanat</string>
+					<key>index</key>
+					<string>samba, palvelu, SMB/CIFS, tulostimet, kansiot, jako</string>
+					<key>title</key>
+					<string>Windows-tiedostonjako</string>
+				</dict>
+			</array>
+		</dict>
+        <key>Services_ContentCaching</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>comments</key>
+                    <string>Lokalisoitavat hakusanat</string>
+                    <key>index</key>
+                    <string>välimuisti, cache</string>
+                    <key>title</key>
+                    <string>Sisältövälimuisti</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Services_AirPlayReceiver</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>comments</key>
+                    <string>Lokalisoitavat hakusanat</string>
+                    <key>index</key>
+                    <string>airplay, vastaanotin</string>
+                    <key>title</key>
+                    <string>AirPlay-vastaanotin</string>
+                </dict>
+            </array>
+        </dict>
+	</dict>
+</plist>

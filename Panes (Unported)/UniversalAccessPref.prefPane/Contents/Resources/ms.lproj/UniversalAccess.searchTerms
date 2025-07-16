@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Accessibility_Shortcut</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>pintasan kebolehcapaian, kebolehcapaian, pintasan</string>
+				<key>title</key>
+				<string>Pintasan Kebolehcapaian</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Alternate_Pointer_Actions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>klik, tetikus, suis, alternatif, butang, Kekunci Tetikus, riak, muka, wajah</string>
+				<key>title</key>
+				<string>Tindakan Penuding Alternatif</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Captioning</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>CC, SDH, kapsyen tertutup, kapsyen tertutup, sari kata untuk pekak dan kesukaran pendengaran, pekak, pendengaran, filem, sari kata, sari kata, trek teks</string>
+				<key>title</key>
+				<string>Dayakan CC, SDH dan sari kata</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>CC, SDH, kapsyen tertutup, kapsyen tertutup, sari kata untuk pekak dan kesukaran pendengaran, pekak, pendengaran, filem, sari kata, sari kata, trek teks</string>
+				<key>title</key>
+				<string>Sesuaikan CC, SDH dan sari kata</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Dictation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>Universal, akses, kebolehcapaian, dinyahdayakan, orang kurang upaya, penglihatan, buta, penglihatan, dapat dilihat, pendengaran, cacat, sebut, boleh menyebut, item, disebut, perintah, item, mengenali, pengiktirafan, membantu, bantuan, bercakap, suara, menentukur, penentukuran, mendengar, utama, pintasan, menyesuaikan, mikrofon, kelantangan, menyebut, mengenali, bercakap, kalibrasi, mendengar, disesuaikan, menyesuaikan, perencanaan, kawalan suara</string>
+				<key>title</key>
+				<string>Kawalan Suara</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Dwell</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>inap, menginap, papan kekunci atas skrin, papan kekunci atas skrin, papan kekunci maya, papan kekunci kebolehcapaian, layangan tetikus, tetikus, penjejakan kepala, Kawalan Inap, Universal, akses, kebolehcapaian, dinyahdayakan, orang kurang upaya, cacat, kawalan bantuan, mobiliti, kerusi roda</string>
+				<key>title</key>
+				<string>Inap untuk Papan Kekunci Kebolehcapaian</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Full_Keyboard_Access</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>penuh, papan kekunci, akses, navigasi, perintah, tab</string>
+				<key>title</key>
+				<string>Akses Papan Kekunci Penuh</string>
+			</dict>
+		</array>
+	</dict>
+	<key>General</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>Universal, akses, kebolehcapaian, dinyahdayakan, orang kurang upaya, terhad, cacat, bantuan, mudah, laras, penyesuaian, menyesuaikan, menaip</string>
+				<key>title</key>
+				<string>Seting umum kebolehcapaian</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Head_Pointer</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>kepala, wajah, tetikus, penuding, jejak, menjejak</string>
+				<key>title</key>
+				<string>Penuding Kepala</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Hearing</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>Universal, akses, kebolehcapaian, dinyahdayakan, orang kurang upaya, terhad, pekak, mendengar, pendengaran, cacat, bantuan</string>
+				<key>title</key>
+				<string>Kerlipkan skrin untuk isyarat</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>Universal, akses, kebolehcapaian, dinyahdayakan, orang kurang upaya, terhad, pekak, mendengar, pendengaran, cacat, bantuan</string>
+				<key>title</key>
+				<string>Bermain stereo sebagai mono</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Keyboard</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>Universal, akses, kebolehcapaian, dinyahdayakan, orang kurang upaya, terhad, suis, cacat, memperlahankan, bantuan, mudah, Kekunci Lekat, kadar berulang, pengubah suai, kepekaan, melaraskan, pelarasan, jenis, lebih perlahan, perlahan, menyesuaikan, menaip</string>
+				<key>title</key>
+				<string>Jadikan papan kekunci mudah untuk digunakan</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>Universal, akses, kebolehcapaian, dinyahdayakan, orang kurang upaya, terhad, cacat, bantuan, pengubah suai, kadar, taip, maklum balas penaipan, orang kelainan upaya</string>
+				<key>title</key>
+				<string>Dayakan Maklum Balas Penaipan</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Media_Descriptions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>Universal, akses, kebolehcapaian, dinyahdayakan, orang kurang upaya, terhad, buta, penglihatan, penglihatan, kelihatan, cacat, video, media, perihalan, menerangkan, diterangkan</string>
+				<key>title</key>
+				<string>Perihalan Media</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Mouse</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>akses, kebolehcapaian, laras, melaraskan, penyesuaian, bantuan, kursor, tunda, nyahdayakan, dwiklik, klik dua kali, seret, mudah, cepat, orang cacat, haptik, maklum balas haptik, cacat, inersia, papan kekunci, pad kekunci, kekunci, terhad, kunci, alih, mengalih, angka, penunjuk, skrol, mengskrol, perlahankan, lebih perlahan, memperlahankan, laju, muatan spring, muatan spring, tukar, tiga jari, seret tiga jari, Universal</string>
+				<key>title</key>
+				<string>Jadikan tetikus dan trackpad lebih mudah untuk digunakan</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Nyahdayakan penskrolan</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Inersia menskrol</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_ColorFilters</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>warna, penapis, buta warna</string>
+				<key>title</key>
+				<string>Paparkan penapis warna</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_Cursor</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>kursor, penuding, anak panah, membesarkan, lebih besar, pembesaran</string>
+				<key>title</key>
+				<string>Saiz kursor</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>kursor, penuding, tetikus, trackpad, goncang, goyang</string>
+				<key>title</key>
+				<string>Goncangkan penuding tetikus untuk mencari</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_Display</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>Universal, akses, kebolehcapaian, dinyahdayakan, orang kurang upaya, terhad, buta, penglihatan, penglihatan, cacat, baca, papar, meningkatkan, kontras, hitam, putih, skala kelabu, pelarasan, membaca, melihat, melihat, meningkatkan, menyesuaikan, skala kelabu, pergerakan, kurangkan pergerakan, kurangkan lut sinar, lut sinar, lut cahaya, kabur, latar belakang, warna</string>
+				<key>title</key>
+				<string>Jadikan paparan lebih mudah untuk melihat</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_VoiceOver</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>bercakap, antara muka, pendengaran, skrin, pembaca, Universal, akses, kebolehcapaian, dinyahdayakan, orang kurang upaya, terhad, buta, penglihatan, penglihatan, dapat dilihat, cacat, voice over</string>
+				<key>title</key>
+				<string>Aktifkan dan nyahaktifkan VoiceOver</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>bar menu</string>
+				<key>title</key>
+				<string>Tunjukkan Kebolehcapaian dalam bar menu</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_Zoom</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>touchbar, touch bar, mengezum, dibesarkan, membesarkan, memperbesar, pembesaran, zum</string>
+				<key>title</key>
+				<string>Dayakan zum Touch Bar</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>Universal, akses, kebolehcapaian, dinyahdayakan, orang kurang upaya, orang kelainan upaya, terhad, buta, penglihatan, cacat, membesarkan, pembesaran, membaca, lihat, papar, menambah, mengurangkan, yang lebih besar, lebih besar, maksimum, minimum, skrol, tetikus, roda, bola, bola skrol, roda skrol, bola tetikus, roda tetikus, menzum, membesar, diperbesarkan, pembesar, melihat, meningkatkan, mengurangkan, teks terapung</string>
+				<key>title</key>
+				<string>Dayakan Teks Terapung</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>Universal, akses, kebolehcapaian, dinyahdayakan, orang kurang upaya, orang kelainan upaya, terhad, buta, penglihatan, cacat, membesarkan, pembesaran, membaca, lihat, papar, menambah, mengurangkan, yang lebih besar, lebih besar, maksimum, minimum, skrol, tetikus, roda, bola, bola skrol, roda skrol, bola tetikus, roda tetikus, menzum, membesar, diperbesarkan, pembesar, melihat, meningkatkan, mengurangkan, paparan, monitor, kedua, berbilang, skrin</string>
+				<key>title</key>
+				<string>Zum untuk membesarkan skrin</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Siri</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>taip, taip ke siri, taip siri, siri taip</string>
+				<key>title</key>
+				<string>Taip ke Siri</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Switch</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>panel, editor panel, mengimbas, imbasan, suis, suis, inap, menginapkan, tuding tetikus, Kawalan Inap, Universal, akses, kebolehcapaian, dinyahdayakan, orang kurang upaya, cacat, kawalan bantuan, mobiliti, kerusi roda</string>
+				<key>title</key>
+				<string>Editor Panel Kawalan Suis</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>mengimbas, imbasan, suis, suis, inap, menginapkan, tuding tetikus, Kawalan Inap, Universal, akses, kebolehcapaian, dinyahdayakan, orang kurang upaya, cacat, kawalan bantuan, mobiliti, kerusi roda</string>
+				<key>title</key>
+				<string>Dayakan Kawalan Suis</string>
+			</dict>
+		</array>
+	</dict>
+	<key>TextToSpeech</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>pertuturan, sintesis, TTS, dituturkan, umum, pengumuman, sebut, teks, suara, kadar, cakap, isyarat, mengumumkan, menyebut, bercakap</string>
+				<key>title</key>
+				<string>Pertuturan</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Virtual_Keyboard</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>panel, editor panel, papan kekunci, papan kekunci atas skrin, papan kekunci atas skrin, papan kekunci maya, papan kekunci kebolehcapaian, tetikus, penjejakan kepala, Universal, akses, kebolehcapaian, dinyahdayakan, orang kurang upaya, cacat, kawalan bantuan, mobiliti, kerusi roda</string>
+				<key>title</key>
+				<string>Editor Panel Papan Kekunci Kebolehcapaian</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>papan kekunci, papan kekunci atas skrin, papan kekunci atas skrin, papan kekunci maya, papan kekunci kebolehcapaian, tetikus, penjejakan kepala, Universal, akses, kebolehcapaian, dinyahdayakan, orang kurang upaya, cacat, kawalan bantuan, mobiliti, kerusi roda, log masuk</string>
+				<key>title</key>
+				<string>Dayakan Papan Kekunci Kebolehcapaian</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

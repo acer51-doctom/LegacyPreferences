@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Extensions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>機能拡張</string>
+				<key>title</key>
+				<string>機能拡張</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>markup マークアップ, mark up</string>
+				<key>title</key>
+				<string>アクション</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>sharing 共有する シェアする 共用する, reading list リーディングリスト, mail メール Eメール 電子メール, messages メッセージ, airdrop エアドロップ エアードロップ, notes メモ, reminders リマインダー, people 人 ピープル, add 追加する, iphoto, aperture アパチャー</string>
+				<key>title</key>
+				<string>メニュー項目を共有</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>quick クイック, actions アクション, finder ファインダー, quick actions クイックアクション, preview pane プレビューパネル</string>
+				<key>title</key>
+				<string>Finder</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>quick クイック, actions アクション, touch タッチ, bar バー, touch bar タッチバー</string>
+				<key>title</key>
+				<string>Touch Bar</string>
+			</dict>
+            <dict>
+                <key>comments</key>
+                <string>ローカライズ可能な索引の用語</string>
+                <key>index</key>
+                <string>credential provider extensions 資格情報プロバイダ機能拡張, password managers パスワードマネージャ, password manager extensions パスワードマネージャ機能拡張, password autofil パスワードの自動入力 パスワード自動入力, autofill extensions 自動入力機能拡張</string>
+                <key>title</key>
+                <string>パスワードの自動入力機能拡張</string>
+            </dict>
+		</array>
+	</dict>
+</dict>
+</plist>

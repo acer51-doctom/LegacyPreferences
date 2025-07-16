@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>currentSource</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Akkumulátorteljesítmény megőrzése</string>
+                <key>index</key>
+                <string>kijelzők, képernyők, monitorok, világosít, halványít, altat, elaltat, ébreszt, felébreszt, kikapcsol, kikapcsolás, indít, indulás, bekapcsol, bekapcsolás, be, ki, elektromosság, villany, áram, feszültség, zöld, ment, megtakarít, takarékoskodik, megtakarítás, takarékosság, takarékoskodás, konzervál, konzerválás, megőriz, megőrzés, környezet, környezeti, környezetvédelem, környezetvédelmi, tölt, töltés, feltölt, feltöltés, bedug, bedugás, kihúz, kihúzás, kihúzott, optimalizál, teljesítmény, processzor, automatikus, fényerő, fényesség, fekete, üres, sötétít, sötétítés, halvány, halványított, halványítás, alvás, altatás, elalvás, elaltatás, alszik, alvó, felébred, felébredés, ébren, felébredt, leállít, leállítás, kapcsolás, mentés, feltöltött, töltött, kihúzás, optimalizált, optimalizálás, automatizált, automatikusan, videostreamelés optimalizálása, akkumulátortöltés optimalizálása, adapter, kábel, csatlakozó, automatikus grafikaváltás</string>
+                <key>comments</key>
+                <string>Lokalizálható indexszavak</string>
+            </dict>
+            <dict>
+                <key>title</key>
+                <string>Akkumulátor állapotának megjelenítése a menüsoron</string>
+                <key>index</key>
+                <string>menüsor</string>
+                <key>comments</key>
+                <string>Lokalizálható indexszavak</string>
+            </dict>
+            <dict>
+                <key>title</key>
+                <string>Power Nap</string>
+                <key>index</key>
+                <string>power nap, powernap</string>
+                <key>comments</key>
+                <string>Lokalizálható indexszavak</string>
+            </dict>
+        </array>
+    </dict>
+    <key>usage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Akkumulátorhasználat előzményei</string>
+                <key>index</key>
+                <string>akkumulátorszint, bekapcsolt képernyő, energiafelhasználás</string>
+                <key>comments</key>
+                <string>Lokalizálható indexszavak</string>
+            </dict>
+        </array>
+    </dict>
+    <key>battery</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Akkumulátor állapota</string>
+                <key>index</key>
+                <string>akkumulátor szervizelése, maximális kapacitás, akkumulátor élettartama, akkumulátorral kapcsolatos fontos üzenet, akkumulátor állapota</string>
+                <key>comments</key>
+                <string>Lokalizálható indexszavak</string>
+            </dict>
+        </array>
+    </dict>
+    <key>adapter</key>
+    <dict/>
+    <key>ups</key>
+    <dict/>
+    <key>schedule</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Elindítás, altatás vagy kikapcsolás ütemezése</string>
+                <key>index</key>
+                <string>alszik, altat, elalszik, elaltat, alvás, altatás, ébred, felébred, ébreszt, felébreszt, ébresztés, felébresztés, indít, indul, indítás, indulás, elindít, elindul, bekapcsol, bekapcsolás, be, ki, automatikus, automatikus, ütemezett, menetrendszerű, ütemezés, alvó, felébredt, éber, ébren, kikapcsol, kikapcsolás, lekapcsol, lekapcsolás, leállít, leállítás, kapcsol, kapcsolás, automatizált, automatikus, automatizálás, automatikusan, automatikusan</string>
+                <key>comments</key>
+                <string>Lokalizálható indexszavak</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

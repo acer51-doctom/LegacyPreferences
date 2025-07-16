@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displaysArrangementTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>computerskærme, skærme, dublere, dubleret, dublering, opstille, opstilling</string>
+				<key>title</key>
+				<string>Anbring flere skærme</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>menulinje</string>
+				<key>title</key>
+				<string>Find menulinje igen</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysColorTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>skærme, computerskærme, monitorer, kalibrere, justere, gøre lysere, lysne, dæmpe, mørkne, hvidpunkt, gamma, omgivende lys, profiler, kalibrering, justering, justeringer, dæmpning</string>
+				<key>title</key>
+				<string>Skærmfarver og -kalibrering</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysDisplayTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>skærme, computerskærme, monitorer, dybde, millioner, tusinder, 256, ColorSync, justere, gøre lysere, lysne, dæmpe, mørkne, justere, justeringer, dæmpning, true tone</string>
+				<key>title</key>
+				<string>Farver, lysstyrke og opløsning</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>skærme, computerskærme, monitorer</string>
+				<key>title</key>
+				<string>Skærmens opdateringsfrekvens</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>computerskærme, skærme</string>
+				<key>title</key>
+				<string>Find flere skærme</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>menulinje</string>
+				<key>title</key>
+				<string>Vis skærm på menulinje</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>rotere, rotation</string>
+				<key>title</key>
+				<string>Skærmrotation</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>AirPlay</string>
+				<key>title</key>
+				<string>Indstillinger til AirPlay-skærmdublering</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysGeometryTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>placering, højde, bredde, nålepude, roter, trapez, parallelogram, bue, hjørnekurve, skæv, geometri, dimensioner</string>
+				<key>title</key>
+				<string>Skærmbillede</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>rgb, justere, rette ind, justering, justerer, retter ind, flugte</string>
+				<key>title</key>
+				<string>Billedkonvergens</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>statisk, nulstille, flimre, forstyrrelser, flimren</string>
+				<key>title</key>
+				<string>Afmagnetisering</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysNightShiftTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>night, shift, night shift, dæmpe, varm, varm farve, spektrum, vågeblus, temperatur, solnedgang, solopgang, dæmper</string>
+				<key>title</key>
+				<string>Indstillinger til Night Shift</string>
+			</dict>
+		</array>
+	</dict>
+	<key>universalControlTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>universel, betjening</string>
+				<key>title</key>
+				<string>Universel betjening</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

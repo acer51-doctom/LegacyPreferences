@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>çal, tak, başlat, çalıştır, yükle, kompakt, dijital, diskler, sayısal, optik, ortam, medya, boş, iTunes, Müzik, çalar, otomatik çal, Fotoğraflar, resimler, fotoğraflar, foto, iDVD, player, filmler, videolar, çalma, takma, başlatma, çalıştırma, yükleme, play, insert, start, run, load, compact, digital, disks, discs, optical, medium, media, blank, Music, player, autoplay, Photos, pictures, photographs, photos, movies, videos, playing, inserting, starting, running, loading</string>
+				<key>title</key>
+				<string>CD’leri ve DVD’leri kullanma</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

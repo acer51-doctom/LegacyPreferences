@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displaysArrangementTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+				<key>index</key>
+				<string>شاشات، الشاشات، شاشة، الشاشة، أجهزة عرض، أجهزة العرض، جهاز عرض، جهاز العرض، انعكاس، الانعكاس، إنعكاس، الإنعكاس، انعكاسات، الانعكاسات، إنعكاسات، الإنعكاسات، تطابق، متطابق، ترتيب، الترتيب، screens، monitors، mirror، mirrored، mirroring، arranging، arrangement</string>
+				<key>title</key>
+				<string>ترتيب شاشات العرض المتعددة</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+				<key>index</key>
+				<string>شريط القائمة</string>
+				<key>title</key>
+				<string>إعادة تحديد موقع شريط القائمة</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysColorTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+				<key>index</key>
+				<string>شاشات عرض، شاشات العرض، شاشات، الشاشات، شاشة، الشاشة، أجهزة عرض، أجهزة العرض، جهاز عرض، جهاز العرض، معايرة، المعايرة، ضبط، الضبط، تفتيح، التفتيح، زيادة السطوع، تبهيت، التبهيت، تعتيم، التعتيم ، النقطة البيضاء، نقطة بيضاء، جاما، ضوء محيط، الضوء المحيط، ملفات تعريف، ملفات التعريف، ملف تعريف، ملف التعريف، معايرة، المعايرة، ضبط، الضبط، عمليات ضبط، عمليات الضبط، displays، screens، monitors، calibrate، adjust، lighten، brighten، dim، darken، white point، gamma، ambient light، profiles، calibrating، adjusting، adjustments، dimming</string>
+				<key>title</key>
+				<string>معايرة وألوان شاشة العرض</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysDisplayTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+				<key>index</key>
+				<string>شاشات عرض، شاشات العرض، شاشة عرض، شاشة العرض، شاشات، الشاشات، شاشة، الشاشة، أجهزة عرض، أجهزة العرض، جهاز عرض، جهاز العرض، عمق، العمق، أعماق، الأعماق، ملايين، الملايين، مليون، المليون، آلاف، الآلاف، ٢٥٦، 256، ColorSync، ضبط، الضبط، تفتيح، التفتيح، زيادة السطوع، زيادة سطوع، تبهيت، التبهيت، تعتيم، التعتيم، عمليات ضبط، عمليات الضبط، عملية ضبط، عملية الضبط، ترو تون، درجة لون حقيقية، displays، screens، monitors، depth، millions، thousands، 256، ColorSync، adjust، lighten، brighten، dim، darken، adjusting، adjustments، dimming، true tone</string>
+				<key>title</key>
+				<string>الألوان ودرجة الإضاءة والدقة</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+				<key>index</key>
+				<string>شاشات عرض، شاشات العرض، شاشة عرض، شاشة العرض، شاشات، الشاشات، شاشة، الشاشة، أجهزة عرض، أجهزة العرض، جهاز عرض، جهاز العرض، displays، screens، monitors</string>
+				<key>title</key>
+				<string>معدل تحديث الشاشة</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+				<key>index</key>
+				<string>شاشات، الشاشات، شاشة، الشاشة، أجهزة عرض، أجهزة العرض، جهاز عرض، جهاز العرض، screens، monitors</string>
+				<key>title</key>
+				<string>اكتشاف شاشات العرض المتعددة</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+				<key>index</key>
+				<string>شريط القائمة</string>
+				<key>title</key>
+				<string>إظهار شاشات العرض في شريط القائمة</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+				<key>index</key>
+				<string>دور، تدوير، rotate، rotation</string>
+				<key>title</key>
+				<string>تدوير الشاشة</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+				<key>index</key>
+				<string>AirPlay</string>
+				<key>title</key>
+				<string>خيارات انعكاس AirPlay</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysGeometryTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+				<key>index</key>
+				<string>موضع، الموضع، ارتفاع، الارتفاع، ارتفاعات، الارتفاعات، إرتفاعات، الإرتفاعات، عرض، العرض، عروض العروض، شكل مقعر، الشكل المقعر، تدوير، التدوير، نقطة مركز، نقطة المركز، متوازي أضلاع، متوازي الأضلاع، انحناء، الانحناء، إنحناء، الإنحناء، تقوس جانبي، التقويس الجانبي، منحرف، المنحرف، أشكال هندسية، الأشكال الهندسية، أبعاد، الأبعاد، بعد، البعد، position، height، width، pincushion، rotate، keystone، parallelogram، bow، corner curve، skewed، geometry، dimensions</string>
+				<key>title</key>
+				<string>صورة الشاشة، صورة شاشة</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+				<key>index</key>
+				<string>‏rgb، ضبط، الضبط، محاذاة، المحاذاة، rgb، adjust، align، adjusting، adjustment، aligning، alignment</string>
+				<key>title</key>
+				<string>نقطة التقاء الصورة، نقطة التقاء صورة</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+				<key>index</key>
+				<string>ثابت، الثابت، إعادة تعيين، إعادة التعيين، وميض، الوميض، تداخل، التداخل، static، reset، flicker، interference، flickering</string>
+				<key>title</key>
+				<string>مغنطة الشاشة</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysNightShiftTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+				<key>index</key>
+				<string>ليلة، ليلي، دورية، الدورية، دورية ليلية، الدورية الليلية، باهت، معتم، مظلم، دافئ، لون دافئ، طيف، ألوان الطيف، نوم، النوم، درجة الحرارة، الغروب، غروب الشمس، الشروق، شروق الشمس، تعتيم، التعتيم، night, shift, night shift, dim, warm, warm color, spectrum, sleep, temperature, sunset, sunrise, dimming</string>
+				<key>title</key>
+				<string>خيارات Night Shift</string>
+			</dict>
+		</array>
+	</dict>
+	<key>universalControlTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+				<key>index</key>
+				<string>التحكم العام</string>
+				<key>title</key>
+				<string>التحكم العام</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

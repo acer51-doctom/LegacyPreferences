@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>6to4</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Relay-adres</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>IPv6</string>
+				<key>title</key>
+				<string>6to4-adres</string>
+			</dict>
+		</array>
+	</dict>
+	<key>802.1X</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>802.1X-certificaat</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>eap</string>
+				<key>title</key>
+				<string>802.1X-authenticatie</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>externe identiteit, mschapv2, pap interne</string>
+				<key>title</key>
+				<string>TTLS</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>PEAP</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>TLS</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>gegevens voor beveiligde toegang, toewijzing, anoniem</string>
+				<key>title</key>
+				<string>EAP-FAST</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>LEAP</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>MD5</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>802.1X</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Advanced Ethernet</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>MAC-adres</string>
+				<key>title</key>
+				<string>Ethernet-ID</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Ethernet-snelheid</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>flow, control, half, volledig</string>
+				<key>title</key>
+				<string>Duplex</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>pakket</string>
+				<key>title</key>
+				<string>MTU</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Advanced Modem</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>fabrikant, model, kiezen, modus, geluid, fout, puls, toon</string>
+				<key>title</key>
+				<string>Geavanceerde modemopties</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Advanced VPN</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>gedetailleerd, verkeer, logbestanden</string>
+				<key>title</key>
+				<string>Geavanceerde VPN-opties</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Advanced Wi-Fi</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>MAC-adres, ID, AirPort</string>
+				<key>title</key>
+				<string>Wifivoorkeursnetwerken</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Om wachtwoord vragen voor wifi</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Bluetooth</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>gebruikersnaam</string>
+				<key>title</key>
+				<string>Bluetooth-account en -wachtwoord</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Bluetooth-verbinding maken of verbreken</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Bluetooth-netwerkvoorzieningen</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Bond</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>bond, snelheid, duplex, verzenden, ontvangen</string>
+				<key>title</key>
+				<string>Bondstatus</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>samengestelde verbinding, ethernet-bond</string>
+				<key>title</key>
+				<string>Samengestelde verbindingen beheren</string>
+			</dict>
+		</array>
+	</dict>
+	<key>DNS</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>DNS-servers</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>DNS-domeinen</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Ethernet</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Zoekdomeinen</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Ethernet-opties</string>
+			</dict>
+		</array>
+	</dict>
+	<key>FireWire</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>dhcp, handmatige bootP, </string>
+				<key>title</key>
+				<string>FireWire-netwerkvoorzieningen configureren</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>IP over FireWire</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Modem</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>fabrikant, model, kiezen, modus, geluid, fout, puls, toon, inbellen, telefoon</string>
+				<key>title</key>
+				<string>Modemopties</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>gebruikersnaam</string>
+				<key>title</key>
+				<string>Modem-account en -wachtwoord</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>menubalk</string>
+				<key>title</key>
+				<string>Modemstatus in menubalk tonen</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Modemverbinding maken of verbreken</string>
+			</dict>
+		</array>
+	</dict>
+	<key>PPP</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>opnieuw bellen, echopakketten, gedetailleerde logbestanden, snelle gebruikersoverschakeling, loggen, bijhouden, ondertekenen, inloggen, uitloggen, afmelden, aanmelden</string>
+				<key>title</key>
+				<string>PPP</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>PPP-instellingen voor verbreken verbinding</string>
+			</dict>
+		</array>
+	</dict>
+	<key>PPPoE</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>PPPoE-voorziening</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>PPPoE-account en -wachtwoord</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>PPPoE-status</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Proxies</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>FTP, veilig, beveiligd, web, streamen, stream, SOCKS, Gopher, automatisch, passief, pac-bestand, pasv, bypass, negeren, proxy</string>
+				<key>title</key>
+				<string>Proxy's</string>
+			</dict>
+		</array>
+	</dict>
+	<key>TCP/IP</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>ip-adres, adres, subnetmasker, router, IPv6, lengte voorvoegsel, vernieuwen, lease, client-ID</string>
+				<key>title</key>
+				<string>IPv4 </string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>lokale koppeling, lengte voorvoegsel</string>
+				<key>title</key>
+				<string>IPv6</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>adres, subnetmasker, router, DNS-server, DHCP, handmatig, BootP, PPPoE, ipv4 ipv6, lease, vernieuwen</string>
+				<key>title</key>
+				<string>TCP/IP</string>
+			</dict>
+		</array>
+	</dict>
+	<key>VLAN</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>interface, tag, bsd-naam</string>
+				<key>title</key>
+				<string>VLAN</string>
+			</dict>
+		</array>
+	</dict>
+	<key>VPN</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>VPN-opties</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>VPN-verbinding maken of verbreken</string>
+			</dict>
+		</array>
+	</dict>
+	<key>VPN on Demand</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>VPN op aanvraag</string>
+			</dict>
+		</array>
+	</dict>
+	<key>WINS</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>CIFS, SMB</string>
+				<key>title</key>
+				<string>NetBIOS</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Werkgroep</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>WINS-server</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Windows-netwerkvoorzieningen</string>
+			</dict>
+		</array>
+	</dict>
+	<key>WWAN</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>fabrikant, APN, cid</string>
+				<key>title</key>
+				<string>WWAN-account en -wachtwoord</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>WWAN-status</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>WWAN-verbinding maken of verbreken</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Wi-Fi</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Netwerknaam</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>menubalk</string>
+				<key>title</key>
+				<string>Toon wifistatus in menubalk</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>AirPort</string>
+				<key>title</key>
+				<string>Verbinding maken met een wifinetwerk</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>draadloos, 802.11, wifi, wifi, AirPort</string>
+				<key>title</key>
+				<string>Wifi</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

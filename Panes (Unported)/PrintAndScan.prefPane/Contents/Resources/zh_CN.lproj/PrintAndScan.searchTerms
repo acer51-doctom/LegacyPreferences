@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fax</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>传真, faxing, 发传真, facsimile</string>
+				<key>title</key>
+				<string>传真机设置, Fax settings</string>
+			</dict>
+		</array>
+	</dict>
+	<key>print</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>默认, default, 队列, queues, 驱动程序, drivers, 纸张大小, paper size, 页面设置, page setup, cups, add, 添加, 打印, printing</string>
+				<key>title</key>
+				<string>设置打印机, Setting up printers</string>
+			</dict>
+		</array>
+	</dict>
+	<key>scan</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>扫描仪, scanners, 扫描, scanning, 图像, image, 成像, imaging</string>
+				<key>title</key>
+				<string>设置扫描仪, Setting up scanners</string>
+			</dict>
+		</array>
+	</dict>
+	<key>share</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>共享, share</string>
+				<key>title</key>
+				<string>共享打印机, Sharing a printer</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

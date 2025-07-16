@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Accessibility_Shortcut</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>tilgængelighedsgenvej, tilgængelighed, genvej</string>
+				<key>title</key>
+				<string>Tilgængelighedsgenvej</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Alternate_Pointer_Actions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>klik, mus, skift, alternativ, knap, mustaster, udtryk, ansigt</string>
+				<key>title</key>
+				<string>Alternative markørhandlinger</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Captioning</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>CC, TH, closed captions, closed captioning, undertekster for døve og hørehæmmede, hørelse, film, undertekstet, undertekster, tekstspor</string>
+				<key>title</key>
+				<string>Slå CC, TH og undertekster til</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>CC, TH, closed captions, closed captioning, undertekster for døve og hørehæmmede, hørelse, film, undertekstet, undertekster, tekstspor</string>
+				<key>title</key>
+				<string>Tilpas CC, TH og undertekster</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Dictation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>Universel, adgang, tilgængelighed, besværet, handicappet, syn, blind, vision, synlig, hørelse, hæmmet, kan læses op, emner, talt, kommandoer, emner, genkende, genkendelse, assistere, hjælpemiddel, tale, stammer, kalibrere, kalibrering, lytte, nøgle, genveje, tilpasse, mikrofon, lydstyrke, læse op, genkender, taler, lytter, tilpasset, tilpasning, diktering, stemmekontrol</string>
+				<key>title</key>
+				<string>Stemmekontrol</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Dwell</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>pause, på pause, tastatur på skærmen, skærmtastatur, virtuelt tastatur, tilgængelighedstastatur, mus holde over, mus, registrering af hovedbevægelser, Pausebetjening, Universel, adgang, tilgængelighed, invalid, handicappet, forhindret, hjælpemidler, kontrol, mobilitet, kørestol</string>
+				<key>title</key>
+				<string>Pause for Tilgængelighedstastatur</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Full_Keyboard_Access</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>fuld, tastatur, adgang, navigation, kommandoer, tabulator</string>
+				<key>title</key>
+				<string>Fuld tastaturadgang</string>
+			</dict>
+		</array>
+	</dict>
+	<key>General</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>Universel, adgang, hjælpemiddel, invalid, handicappet, begrænset, hjælpe, let, justere, justeringer, juster, skrive</string>
+				<key>title</key>
+				<string>Generelle tilgængelighedsindstillinger</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Head_Pointer</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>hoved, ansigt, mus, markør, registrering</string>
+				<key>title</key>
+				<string>Hovedmarkør</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Hearing</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>Universel, adgang, hjælpemiddel, invalid, handicappet, begrænset, døv, høre, hørelse, forhindret, hjælpe</string>
+				<key>title</key>
+				<string>Lad skærmen blinke ved advarsler</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>Universel, adgang, hjælpemiddel, invalid, handicappet, begrænset, døv, høre, hørelse, forhindret, hjælpe</string>
+				<key>title</key>
+				<string>Afspil stereo som mono</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Keyboard</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>Universel, adgang, hjælpemiddel, invalid, handicappet, begrænset, knap, forhindret, langsom, hjælpe, let, klæbetaster, repetitionshastighed, kombi, følsomhed, justere, justering, skrive, langsommere, blive langsommere, indstille skrive</string>
+				<key>title</key>
+				<string>Gør tastatur lettere at bruge</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>Universel, adgang, tilgængelighed, funktionshæmmet, handicappet, begrænset, hæmmet, hjælp, kombitast, hastighed, indtastning, Oplæs indtastning</string>
+				<key>title</key>
+				<string>Slå Oplæs indtastning til</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Media_Descriptions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>Universel, adgang, hjælpemiddel, invalid, handicappet, begrænset, blind, syn, seende, synlighed, svækket, video, medie, beskrivelse, beskrive, beskrevet</string>
+				<key>title</key>
+				<string>Mediebeskrivelser</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Mouse</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>adgang, tilgængelighed, juster, justere, justering, hjælp, markør, forsinkelse, invalid, dobbelt, klik, dobbeltklik, dobbeltklikke, træk, let, hurtig, handicappet, haptisk, haptisk feedback, nedsættelse, inerti, numerisk blok, taster, begrænset, lås, flyt, flytte, numerisk, cursor, rul, rulle, nedsætte fart, langsommere, langsom, hastighed, dynamisk, dynamiske, knap, tre fingre, træk med tre fingre, Universel</string>
+				<key>title</key>
+				<string>Gør mus og pegefelt lettere at bruge</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Slå rulning fra</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Rullemomentum</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_ColorFilters</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>farve, filter, farveblind</string>
+				<key>title</key>
+				<string>Vis farvefiltre</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_Cursor</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>markør, pil, forstør, forstørret, større, forstørre, forstørrelse</string>
+				<key>title</key>
+				<string>Markørstørrelse</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>markør, pil, mus, pegefelt, ryst, vrik</string>
+				<key>title</key>
+				<string>Ryst musens markør for at finde den</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_Display</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>Universel, adgang, hjælpemiddel, invalid, handicappet, begrænset, blind, syn, vision, synlig, forhindret, læse, vise, forbedre, kontrast, sort, hvid, gråtoner, justeringer, læsning, se, vise, forbedring, justering, gråtone, bevægelse, nedsæt bevægelse, nedsæt gennemsigtighed, gennemsigtighed, gennemsigtigt, gennemskinneligt, gennemskinne, sløret, baggrund, farve</string>
+				<key>title</key>
+				<string>Gør skærm lettere at se</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_VoiceOver</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Localizable index words</string>
+				<key>index</key>
+				<string>talt, grænseflade, hørelse, computerskærm, læser, Universel, adgang, hjælpemiddel, invalid, handicappet, begrænset, syn, vision, synlig, forhindret, voice over</string>
+				<key>title</key>
+				<string>Slå VoiceOver til og fra</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>menulinje</string>
+				<key>title</key>
+				<string>Vis Tilgængelighed på menulinje</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_Zoom</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>touchbar, touch bar, zoome, forstørret, forstørre, forstør, forstørrelse, zoom, større</string>
+				<key>title</key>
+				<string>Slå zoom på Touch Bar til</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>Universel, adgang, hjælpemiddel, invalid, handicappet, begrænset, blind, syn, vision, synlig, forhindret, forstørre, forstør, forstørrelse, læse, se, vise, forbedre, formindske, større, stor, maksimum, minimum, rulle, mus, hjul, kugle, rullekugle, rullehjul, musekugle, musehjul, zoome, forstørret, forstørring, forstørrelsesglas, læsning, visning, øgning, mindskning, zoom, forstørre, fremhævet tekst</string>
+				<key>title</key>
+				<string>Slå fremhævet tekst til</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>Universel, adgang, hjælpemiddel, invalid, handicappet, begrænset, blind, syn, vision, synlig, forhindret, forstørre, forstør, forstørrelse, læse, se, vise, forbedre, formindske, større, stor, maksimum, minimum, rulle, mus, hjul, kugle, rullekugle, rullehjul, musekugle, musehjul, zoome, forstørret, forstørring, forstørrelsesglas, læsning, visning, øgning, mindskning, zoom, forstørre, skærme, monitors, anden, flere, skærme</string>
+				<key>title</key>
+				<string>Zoom for at forstørre skærm</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Siri</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>skriv, skriv til siri, skrive siri, siri skrive</string>
+				<key>title</key>
+				<string>Skriv til Siri</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Switch</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>panel, panelredigeringsværktøj, scan, scanne, skift, skifter, Universel, adgang, tilgængelighed, invalid, handicappet, forhindret, hjælpemidler, kontrol, mobilitet, kørestol</string>
+				<key>title</key>
+				<string>Panelredigeringsværktøj til knapbetjening</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>scan, scanne, skift, skifter, Universel, adgang, tilgængelighed, invalid, handicappet, forhindret, hjælpemidler, kontrol, mobilitet, kørestol</string>
+				<key>title</key>
+				<string>Slå Knapbetjening til</string>
+			</dict>
+		</array>
+	</dict>
+	<key>TextToSpeech</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>talesyntese, TTS, talt, meddele, meddelelser, oplæse, tekst, stemme, hastighed, tale, advarsler, annoncere, taler, læser op </string>
+				<key>title</key>
+				<string>Tale</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Virtual_Keyboard</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>panel, panelredigeringsværktøj, tastatur, tastatur på skærmen, skærmtastatur, virtuelt tastatur, tilgængelighedstastatur, mus, registrering af hovedbevægelser, Universel, adgang, tilgængelighed, invalid, handicappet, forhindret, hjælpemidler, kontrol, mobilitet, kørestol</string>
+				<key>title</key>
+				<string>Panelredigeringsværktøj til Tilgængelighedstastatur</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>tastatur, tastatur på skærmen, skærmtastatur, virtuelt tastatur, tilgængelighedstastatur, mus, registrering af hovedbevægelser, Universel, adgang, tilgængelighed, invalid, handicappet, forhindret, hjælpemidler, kontrol, mobilitet, kørestol, login</string>
+				<key>title</key>
+				<string>Slå Tilgængelighedstastatur til</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

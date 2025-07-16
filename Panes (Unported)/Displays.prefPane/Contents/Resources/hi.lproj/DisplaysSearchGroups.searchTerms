@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displaysArrangementTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>स्क्रीन, मॉनिटर, मिरर करें, मिरर किया गया, मिरर करना, व्यवस्थित करना, व्यवस्थापन</string>
+				<key>title</key>
+				<string>एकाधिक डिस्प्ले व्यवस्थित करें</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>मेनूबार</string>
+				<key>title</key>
+				<string>मेनू बार का स्थान बदलें</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysColorTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>डिस्प्ले, स्क्रीन, मॉनिटर, कैलिब्रेट, ऐडजस्ट करें, हल्का, चमकीला, मद्धम, गहरा, ह्वाइट पॉइंट, गामा, ऐम्बियंट लाइट, प्रोफ़ाइल, कैलिब्रेट करना, ऐडजस्ट करना, ऐडजस्टमेंट, मद्धम करना</string>
+				<key>title</key>
+				<string>डिस्प्ले रंग और कैलिब्रेशन</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysDisplayTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>डिस्प्ले, स्क्रीन, मॉनिटर, डेप्थ, मिलियन, हज़ार, 256, ColorSync, ऐडजस्ट करें, हल्का, चमकीला, मद्धम, गहरा, ऐडजस्ट करना, ऐडजस्टमेंट, मद्धम करना, true tone</string>
+				<key>title</key>
+				<string>रंग, ब्राइटनेस और रिज़ोल्यूशन</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>डिस्प्ले, स्क्रीन, मॉनिटर</string>
+				<key>title</key>
+				<string>स्क्रीन रीफ़्रेश करने की दर</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>स्क्रीन, मॉनिटर</string>
+				<key>title</key>
+				<string>एकाधिक डिस्प्ले पहचानें</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>मेनूबार</string>
+				<key>title</key>
+				<string>मेनू बार में डिस्प्ले दिखाएँ</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>घुमाएँ, घुमाव</string>
+				<key>title</key>
+				<string>स्क्रीन घुमाव</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>AirPlay</string>
+				<key>title</key>
+				<string>AirPlay मिररिंग विकल्प</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysGeometryTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>स्थिति, लंबाई, चौड़ाई, सुई रखने का पैड, घुमाएँ, मुख्य आधार, समांतर चतुर्भुज, कमान, कोने का वक्र, तिरछा, ज्यामिति, आयाम</string>
+				<key>title</key>
+				<string>स्क्रीन इमेज</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>rgb, ऐडजस्ट करें, अलाइन करें, ऐडजस्ट करना, ऐडजस्टमेंट, अलाइन करना, अलाइनमेंट</string>
+				<key>title</key>
+				<string>इमेज अभिसरण</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>स्टेटिक, रीसेट, फ़्लिकर, व्यवधान, फ़्लिक करना</string>
+				<key>title</key>
+				<string>डीगॉस</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysNightShiftTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>रात्रि, शिफ़्ट, night shift, मद्धम, गर्म, वॉर्म कलर, स्पेक्ट्रम, स्लीप, तापमान, सूर्यास्त, सूर्योदय, मद्धम करना</string>
+				<key>title</key>
+				<string>Night Shift विकल्प</string>
+			</dict>
+		</array>
+	</dict>
+	<key>universalControlTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य मुख्य शब्द</string>
+				<key>index</key>
+				<string>यूनिवर्सल, नियंत्रण</string>
+				<key>title</key>
+				<string>यूनिवर्सल नियंत्रण</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

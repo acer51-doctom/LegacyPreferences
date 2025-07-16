@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>AppleAccount</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Các từ chỉ mục có thể bản địa hóa</string>
+                <key>index</key>
+                <string>iCloud, cloud, me.com, tài khoản apple, appleid, apple, id, tài khoản, liên hệ, thanh toán, giao hàng</string>
+                <key>title</key>
+                <string>ID Apple</string>
+            </dict>
+        </array>
+    </dict>
+    <key>iCloud</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Các từ chỉ mục có thể bản địa hóa</string>
+                <key>index</key>
+                <string>iCloud, cloud, me.com, tài khoản apple, tìm máy mac, dung lượng, tài liệu &amp; dữ liệu, iCloud Drive, Dấu trang, Lịch, Danh bạ, Mail, Lời nhắc, Danh sách đọc, Chứng khoán, Nhà riêng, Safari, Ghi chú, </string>
+                <key>title</key>
+                <string>iCloud</string>
+            </dict>
+        </array>
+    </dict>
+    <key>com.apple.AppleMediaServicesUI.SpyglassPurchases</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Các từ chỉ mục có thể bản địa hóa</string>
+                <key>index</key>
+                <string>phương tiện, mục mua, cửa hàng ứng dụng, dịch vụ, đăng ký</string>
+                <key>title</key>
+                <string>Phương tiện và mục mua</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

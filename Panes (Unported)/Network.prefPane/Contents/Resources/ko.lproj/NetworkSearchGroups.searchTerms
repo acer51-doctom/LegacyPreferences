@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>6to4</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>릴레이 주소</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>IPv6</string>
+				<key>title</key>
+				<string>6to4 주소</string>
+			</dict>
+		</array>
+	</dict>
+	<key>802.1X</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>802.1X 인증서</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>EAP</string>
+				<key>title</key>
+				<string>802.1X 인증</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>외부 신원, mschapv2, pap 내부</string>
+				<key>title</key>
+				<string>TTLS</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>PEAP</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>TLS</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>보호된 연결 자격 증명, 조항, 무기명</string>
+				<key>title</key>
+				<string>EAP-FAST</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>LEAP</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>MD5</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>802.1X</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Advanced Ethernet</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>MAC 주소</string>
+				<key>title</key>
+				<string>이더넷 ID</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>이더넷 속도</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>흐름, 제어, 반, 전체</string>
+				<key>title</key>
+				<string>이중</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>패킷</string>
+				<key>title</key>
+				<string>MTU</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Advanced Modem</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>제공업체, 모델, 다이얼, 모드, 사운드, 오류, 펄스, 톤</string>
+				<key>title</key>
+				<string>고급 모뎀 옵션</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Advanced VPN</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>상세, 트래픽, 로그</string>
+				<key>title</key>
+				<string>고급 VPN 옵션</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Advanced Wi-Fi</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>MAC 주소, ID, AirPort, 아이디, 맥 주소, 에어포트</string>
+				<key>title</key>
+				<string>선호하는 Wi‑Fi 네트워크</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Wi‑Fi에 대해 암호 요구</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Bluetooth</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>사용자 이름</string>
+				<key>title</key>
+				<string>Bluetooth 계정 및 암호</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Bluetooth 연결 또는 연결 해제</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Bluetooth 네트워크</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Bond</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>본드, 속도, 이중, 송신, 수신</string>
+				<key>title</key>
+				<string>본드 상태</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>링크 통합, 이더넷 본드</string>
+				<key>title</key>
+				<string>링크 통합 관리</string>
+			</dict>
+		</array>
+	</dict>
+	<key>DNS</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>DNS 서버</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>DNS 도메인</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Ethernet</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>도메인 검색</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>이더넷 옵션</string>
+			</dict>
+		</array>
+	</dict>
+	<key>FireWire</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>dhcp, 수동 bootP, </string>
+				<key>title</key>
+				<string>FireWire 네트워크 구성</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>IP Over FireWire</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Modem</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>제공업체, 모델, 다이얼, 모드, 오류, 펄스, 톤, 다이얼업, 전화기</string>
+				<key>title</key>
+				<string>모뎀 옵션</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>사용자 이름</string>
+				<key>title</key>
+				<string>모뎀 계정 및 암호</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>메뉴 막대</string>
+				<key>title</key>
+				<string>메뉴 막대에서 모뎀 상태 보기</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>모뎀 연결 또는 연결 해제</string>
+			</dict>
+		</array>
+	</dict>
+	<key>PPP</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>재다이얼, 반향, 에코, 패킷, 상세 로그, 빠른 사용자 전환, 로그, 등록, 오프, 아웃, 로그아웃, 로그오프, 로그 아웃, 로그 오프</string>
+				<key>title</key>
+				<string>PPP</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>PPP 연결 해제 설정</string>
+			</dict>
+		</array>
+	</dict>
+	<key>PPPoE</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>PPPoE 서비스</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>PPPoE 계정 및 암호</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>PPPoE 상태</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Proxies</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>FTP, 보안, 웹, 스트리밍, SOCKS, 고퍼, 자동, 수동, pac 파일, pasv, 바이패스, 우회, 프록시</string>
+				<key>title</key>
+				<string>프록시</string>
+			</dict>
+		</array>
+	</dict>
+	<key>TCP/IP</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>IP 주소, 주소, 서브넷 마스크, 라우터, IPv6, 접두어 길이, 갱신, 임대, 클라이언트 ID, 고객 ID</string>
+				<key>title</key>
+				<string>IPv4 </string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>로컬 링크, 접두사 길이</string>
+				<key>title</key>
+				<string>IPv6</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>주소, 서브넷 마스크, 라우터, DNS 서버, DHCP, 수동으로, BootP, PPPoE, ipv4 ipv6, 임대, 갱신</string>
+				<key>title</key>
+				<string>TCP/IP</string>
+			</dict>
+		</array>
+	</dict>
+	<key>VLAN</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>인터페이스, 태그, bsd 이름</string>
+				<key>title</key>
+				<string>VLAN</string>
+			</dict>
+		</array>
+	</dict>
+	<key>VPN</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>VPN 옵션</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>VPN 연결 또는 연결 해제</string>
+			</dict>
+		</array>
+	</dict>
+	<key>VPN on Demand</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>주문형 VPN</string>
+			</dict>
+		</array>
+	</dict>
+	<key>WINS</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>CIFS, SMB</string>
+				<key>title</key>
+				<string>NetBIOS</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>작업 그룹</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>WINS 서버</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Windows 네트워크</string>
+			</dict>
+		</array>
+	</dict>
+	<key>WWAN</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>제공업체, APN, cid</string>
+				<key>title</key>
+				<string>WWAN 계정 및 암호</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>WWAN 상태</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>WWAN 연결 또는 연결 해제</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Wi-Fi</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>네트워크 이름</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>메뉴 막대</string>
+				<key>title</key>
+				<string>메뉴 막대에서 Wi‑Fi 상태 보기</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>AirPort</string>
+				<key>title</key>
+				<string>Wi‑Fi 네트워크에 연결</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>무선, 802.11, wifi, wi‑fi, AirPort, 에어포트, 와이파이</string>
+				<key>title</key>
+				<string>Wi‑Fi</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

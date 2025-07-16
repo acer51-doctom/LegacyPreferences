@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>热, hot</string>
+				<key>title</key>
+				<string>活跃的屏幕角, Active screen corners</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>自定, customize, 桌面, desktop, 键盘, keyboard, 功能键, function keys, Fn, 鼠标键, mouse buttons, 窗口, windows, 应用程序, applications, 程序, programs, 自定义, customized, customizing, customization, 调度中心, mission control</string>
+				<key>title</key>
+				<string>Exposé快捷键, Exposé shortcuts</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Spaces</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>整理, organize, 工作空间, workspaces, 应用程序, applications, 程序, programs, 桌面, desktops, 已整理, organized, 正在整理, organizing</string>
+				<key>title</key>
+				<string>设置空间, Set up Spaces</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

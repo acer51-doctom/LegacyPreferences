@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>currentSource</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Conservar batería</string>
+                <key>index</key>
+                <string>pantallas, monitores, aumentar, reducir, brillo, reposo, activación, apagado, arranque, inicio, activado, desactivado, electricidad, ecología, guardar, ahorrar, conservación, preservar, medioambiental, medio ambiente, cargar, enchufe, enchufar, sin corriente, optimizar, rendimiento, procesador, automático, negro, oscurecer, apagado, en reposo, arrancando, arranque, apagando, apagado, encender, encendiendo, encendido, ahorro, conservar, preservación, cargado, cargando, optimizado, optimización, automatizado, automatizar, automáticamente, optimizar vídeo en tiempo real, carga optimizada de la batería, adaptador, cable, enchufe, cambiar automáticamente de modalidad de gráficos</string>
+                <key>comments</key>
+                <string>Palabras de índice localizables</string>
+            </dict>
+            <dict>
+                <key>title</key>
+                <string>Mostrar estado de la batería en la barra de menús</string>
+                <key>index</key>
+                <string>barra de menús</string>
+                <key>comments</key>
+                <string>Palabras de índice localizables</string>
+            </dict>
+            <dict>
+                <key>title</key>
+                <string>Power Nap</string>
+                <key>index</key>
+                <string>power nap, powernap</string>
+                <key>comments</key>
+                <string>Palabras de índice localizables</string>
+            </dict>
+        </array>
+    </dict>
+    <key>usage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Historial de uso de la batería</string>
+                <key>index</key>
+                <string>nivel de la batería, tiempo en pantalla, uso de energía</string>
+                <key>comments</key>
+                <string>Palabras de índice localizables</string>
+            </dict>
+        </array>
+    </dict>
+    <key>battery</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Salud de la batería</string>
+                <key>index</key>
+                <string>reparación de la batería, capacidad máxima, duración de la batería, mensaje importante de la batería, estado de la batería</string>
+                <key>comments</key>
+                <string>Palabras de índice localizables</string>
+            </dict>
+        </array>
+    </dict>
+    <key>adapter</key>
+    <dict/>
+    <key>ups</key>
+    <dict/>
+    <key>schedule</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Programar arranque, reposo o apagado</string>
+                <key>index</key>
+                <string>reposo, activar, arranque, inicio, encendido, apagado, automático, programado, programar, programación, en reposo, desactivado, activado, apagando, apagado, automatizado, automatizar, automáticamente</string>
+                <key>comments</key>
+                <string>Palabras de índice localizables</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

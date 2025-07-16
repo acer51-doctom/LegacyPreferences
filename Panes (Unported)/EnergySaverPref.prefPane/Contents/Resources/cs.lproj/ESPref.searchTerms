@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>currentSource</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Úspora energie</string>
+                <key>index</key>
+                <string>displeje, obrazovky, monitory, zesvětlit, ztlumit, uspat, probudit, vypnout, zapnout, energie, elektřina, zelená, šetřit, spořit, šetření, úspora, prostředí, ochrana, výkon, procesor, automaticky, jas, černý, prázdný, ztmavit, ztlumený, ztmavený, spánek, probuzení, vypnutí, zapnutí, spoření, optimalizovat, optimalizace, optimalizovaný, automatizovat, automatizace, automatizovaný, automaticky, automatický, ups, nepřerušitelný zdroj napájení</string>
+                <key>comments</key>
+                <string>Slova lokalizovatelného indexu</string>
+            </dict>
+        </array>
+    </dict>
+    <key>schedule</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Rozvrh zapnutí, spánku nebo vypnutí</string>
+                <key>index</key>
+                <string>probuzení, start, zapnutí, vypnutí, automaticky, rozvrh, plánování, uspat, uspání, probudit, vzbudit, vypnout, automaticky, automatizovat, automatizace</string>
+                <key>comments</key>
+                <string>Slova lokalizovatelného indexu</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

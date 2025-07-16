@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>AppleAccount</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>可本地化的索引词</string>
+                <key>index</key>
+                <string>iCloud, cloud, me.com, apple account, appleid, apple, id, account, contact, payment, shipping</string>
+                <key>title</key>
+                <string>Apple ID</string>
+            </dict>
+        </array>
+    </dict>
+    <key>iCloud</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>可本地化的索引词</string>
+                <key>index</key>
+                <string>iCloud, cloud, me.com, apple account, find my mac, storage, documents &amp; data, iCloud Drive, Bookmarks, Calendars, Contacts, Mail, Reminders, Reading Lists, Stocks, Home, Safari, Notes, </string>
+                <key>title</key>
+                <string>iCloud</string>
+            </dict>
+        </array>
+    </dict>
+    <key>com.apple.AppleMediaServicesUI.SpyglassPurchases</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>可本地化的索引词</string>
+                <key>index</key>
+                <string>media, purchases, app store, services, subscriptions</string>
+                <key>title</key>
+                <string>Media and Purchases</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

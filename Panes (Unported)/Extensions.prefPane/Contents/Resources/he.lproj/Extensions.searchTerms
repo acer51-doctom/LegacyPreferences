@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Extensions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>הרחבות</string>
+				<key>title</key>
+				<string>הרחבות</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>סימון, לסמן</string>
+				<key>title</key>
+				<string>פעולות</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>שיתוף, לשתף, רשימת קריאה, דוא״ל, הודעות, airdrop, פתקים, תזכורות, אנשים, להוסיף, iphoto,‏ aperture</string>
+				<key>title</key>
+				<string>פריטים בתפריט השיתוף</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>מהירות, פעולות, finder, פעולות מהירות, חלונית התצוגה המקדימה</string>
+				<key>title</key>
+				<string>Finder</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>מהירות, פעולות, touch,‏ bar,‏ touch bar</string>
+				<key>title</key>
+				<string>‏Touch Bar</string>
+			</dict>
+            <dict>
+                <key>comments</key>
+                <string>מילות אינדקס הניתנות לתרגום</string>
+                <key>index</key>
+                <string>הרחבות מילוי סיסמאות, מנהלי סיסמאות, הרחבות ניהול סיסמאות, מילוי אוטומטי של סיסמאות, הרחבות מילוי אוטומטי</string>
+                <key>title</key>
+                <string>הרחבות למילוי סיסמאות אוטומטי</string>
+            </dict>
+		</array>
+	</dict>
+</dict>
+</plist>

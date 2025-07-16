@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Notifications</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>केंद्र, सूचना, सूचना केंद्र, सूचनाएँ, बैनर, अलर्ट, बैज, ध्वनि, लॉक स्क्रीन, ध्वनियाँ</string>
+				<key>title</key>
+				<string>सूचना केंद्र सेटिंग्ज़</string>
+			</dict>
+		</array>
+	</dict>
+    <key>Focus</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>अनुवाद योग्य सूची शब्द</string>
+                <key>index</key>
+                <string>dnd, डीएनडी, डू नॉट डिस्टर्ब, फ़ोकस, टाइम सेंसटिव, दूर स्टेटस, दूर, ऑटो रिप्लाई</string>
+                <key>title</key>
+                <string>फ़ोकस सेटिंग्ज़</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

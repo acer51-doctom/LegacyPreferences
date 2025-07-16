@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+        <key>Handoff</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>comments</key>
+                    <string>Lokalisierbare Indexwörter</string>
+                    <key>index</key>
+                    <string>kontinuität, weitermachen, fortsetzen, aktivität, fortsetzung, handoff</string>
+                    <key>title</key>
+                    <string>Handoff erlauben</string>
+                </dict>
+            </array>
+        </dict>
+		<key>Main</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Lokalisierbare Indexwörter</string>
+					<key>index</key>
+					<string>ausgewählt, Text, hervorheben, Hervorhebung, hervorgehoben, markiert, markieren, Erscheinung, erscheinen</string>
+					<key>title</key>
+					<string>Auswahlfarbe</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Lokalisierbare Indexwörter</string>
+					<key>index</key>
+					<string>Apple-Menü, Programme, Dokumente, Server</string>
+					<key>title</key>
+					<string>Benutzte Objekte merken:</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Lokalisierbare Indexwörter</string>
+					<key>index</key>
+					<string>Schreibtisch, anpassen, personalisieren, Tab, Tabs, angepasst, Anpassung, personalisiert, Erscheinung, erscheinen</string>
+					<key>title</key>
+					<string>Aussehen von Tasten, Menüs und Fenstern</string>
+				</dict>
+
+				<dict>
+					<key>comments</key>
+					<string>Lokalisierbare Indexwörter</string>
+					<key>index</key>
+					<string>Schreibtisch, anpassen, personalisieren, angepasst, Anpassung, auto, automatisch, personalisiert, Erscheinung, erscheinen, hell, dunkel, Thema, Modus, Modus Dunkel, Dunkelmodus</string>
+					<key>title</key>
+					<string>Erscheinungsbild</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Lokalisierbare Indexwörter</string>
+					<key>index</key>
+					<string>Taste, Auswahl, Menü, Aussehen, Erscheinungsbild, Farbe</string>
+					<key>title</key>
+					<string>Akzentfarbe</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Lokalisierbare Indexwörter</string>
+					<key>index</key>
+					<string>bearbeitet, ändert, sichert, schließen, beenden, Dokument, Datei</string>
+					<key>title</key>
+					<string>Änderungen behalten</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Lokalisierbare Indexwörter</string>
+					<key>index</key>
+					<string>fenster, sprung, rollbalken, springen</string>
+					<key>title</key>
+					<string>Rollbalken-Verhalten</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Lokalisierbare Indexwörter</string>
+					<key>index</key>
+					<string>Symbol, Seite, Leiste, Größe, Seitenleiste</string>
+					<key>title</key>
+					<string>Seitenleistensymbole</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Lokalisierbare Indexwörter</string>
+					<key>index</key>
+					<string>schließen, öffnen, neu öffnen, erneut öffnen, wird geöffnet, wird erneut geöffnet, wiederherstellen, Tabs bevorzugen</string>
+					<key>title</key>
+					<string>Schließen und Fenster wiederherstellen</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Lokalisierbare Indexwörter</string>
+					<key>index</key>
+					<string>Safari, http, https, surfen, www, Website, Web-Site, Webseite, Web-Seite</string>
+					<key>title</key>
+					<string>Standard-Webbrowser festlegen</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+</plist>

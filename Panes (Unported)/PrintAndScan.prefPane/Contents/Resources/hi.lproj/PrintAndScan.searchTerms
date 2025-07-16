@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fax</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>फ़ैक्स किया जा रहा है, फ़ैक्स</string>
+				<key>title</key>
+				<string>फ़ैक्स सेटिंग्ज़</string>
+			</dict>
+		</array>
+	</dict>
+	<key>print</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>डिफ़ॉल्ट, क़तार, ड्राइवर, काग़ज़ आकार, पृष्ठ सेटअप, cups, जोड़ें, प्रिंटिंग</string>
+				<key>title</key>
+				<string>प्रिंटर सेटअप किया जा रहा है</string>
+			</dict>
+		</array>
+	</dict>
+	<key>scan</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>स्कैनर, स्कैन किया जा रहा है, इमेज, इमेजिंग</string>
+				<key>title</key>
+				<string>स्कैनर सेटअप किया जा रहा है</string>
+			</dict>
+		</array>
+	</dict>
+	<key>share</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>शेयर करें</string>
+				<key>title</key>
+				<string>प्रिंटर शेयर किया जा रहा है</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

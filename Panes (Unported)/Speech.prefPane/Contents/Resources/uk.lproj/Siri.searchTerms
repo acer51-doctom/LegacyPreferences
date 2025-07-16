@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Dictation</key>
+	<dict/>
+	<key>Siri</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локалізовувані індексні слова</string>
+				<key>index</key>
+				<string>Siri, помічник, елемент dock, гаряча клавіша, іконка, клавіша, слухати, слухання, мова, смуга меню, мік, мікрофон, розпізнавати, розпізнавання, звук, вимовляти, вимовляння, читання вголос, клавіатурні скорочення, говорити, розмова, голос, хвиля</string>
+				<key>title</key>
+				<string>Siri</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локалізовувані індексні слова</string>
+				<key>index</key>
+				<string>активувати, деактивувати, вимкнути, увімкнути, тиша, зупинити, виключити, включити</string>
+				<key>title</key>
+				<string>Увімкнення та вимкнення Siri</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

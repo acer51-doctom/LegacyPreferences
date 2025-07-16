@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+        <key>Handoff</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>comments</key>
+                    <string>Lokaliserbara indexord</string>
+                    <key>index</key>
+                    <string>kontinuitet, plocka upp, fortsätt, aktivitet, fortsätta, överlämna, hand off</string>
+                    <key>title</key>
+                    <string>Tillåt Handoff</string>
+                </dict>
+            </array>
+        </dict>
+		<key>Main</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Lokaliserbara indexord</string>
+					<key>index</key>
+					<string>markera, markerad, text, makera, marera, utseende</string>
+					<key>title</key>
+					<string>Markeringsfärg</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Lokaliserbara indexord</string>
+					<key>index</key>
+					<string>Apple-meny, appar, dokument, servrar</string>
+					<key>title</key>
+					<string>Antal senaste objekt</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Lokaliserbara indexord</string>
+					<key>index</key>
+					<string>skrivbord, anpassa, person, personlig, flik, flikar, anpassning, personanpassa, utseende</string>
+					<key>title</key>
+					<string>Knapp, meny och fönsterutseende</string>
+				</dict>
+
+				<dict>
+					<key>comments</key>
+					<string>Lokaliserbara indexord</string>
+					<key>index</key>
+					<string>skrivbord, anpassa, person, personlig, automatiskt, utseende, ljust, mörkt, tema, läge, mörkt läge</string>
+					<key>title</key>
+					<string>Utseende</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Lokaliserbara indexord</string>
+					<key>index</key>
+					<string>knapp, markering, meny, look, utseende, färg</string>
+					<key>title</key>
+					<string>Accentfärg</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Lokaliserbara indexord</string>
+					<key>index</key>
+					<string>redigeringar, ändringar, spara, stänga, avsluta, dokument, fil</string>
+					<key>title</key>
+					<string>Behåll ändringar</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Lokaliserbara indexord</string>
+					<key>index</key>
+					<string>fönster, gå till, rullningslist, rullning</string>
+					<key>title</key>
+					<string>Rullningslistbeteende</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Lokaliserbara indexord</string>
+					<key>index</key>
+					<string>symbol, sida, fält, storlek, sidofält</string>
+					<key>title</key>
+					<string>Sidofältssymboler</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Lokaliserbara indexord</string>
+					<key>index</key>
+					<string>avsluta, avslutar, öppna, öppna igen, öppnar, öppnar igen, återställer, återskapa, föredra flikar</string>
+					<key>title</key>
+					<string>Stäng och återskapa fönster</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Lokaliserbara indexord</string>
+					<key>index</key>
+					<string>Safari, http, https, surf, surfa, www, webbplats, webbsajt, webbsida</string>
+					<key>title</key>
+					<string>Ställ in förvald webbläsare</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+</plist>

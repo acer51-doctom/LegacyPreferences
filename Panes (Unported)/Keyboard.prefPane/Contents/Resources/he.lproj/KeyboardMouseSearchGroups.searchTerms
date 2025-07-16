@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>InputSources</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>שיטה, שורת התפריטים</string>
+				<key>title</key>
+				<string>הצג תפריט קלט בשורת התפריטים</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>להקליד, הקלדה, מקלדת, מקורות, Qwerty, Pro, PC, רגיל, ISO‏, ANSI‏, JIS, מורחב, דבוראק, אפגנית, ארמנית, אוסטרית, אזרית, בלגית, ברזילאית, בריטית, בולגרית, בלרוסית, קנדית, צ׳רוקי, קרואטית, צ׳כית, דנית, דבנגרי, הולנדית, אסטונית, פרואזית, פינית, צרפתית, גרמנית, יוונית, גוג׳רטי, גורמוקי, הוואיית, הונגרית, איסלנדית, אינוקטיטוט, אירית, איטלקית, ג׳אווי, קזחית, לטבית, ליטאית, מקדונית, מלטית, מאורי, נפאלית, סאמי, נורווגית, פרסית, פולנית, פורטוגזית, רומנית, רוסית, סרבית, סלובקית, סלובנית, ספרדית, שוודית, שוויצרית, תאית, טיבטית, טורקית, ארה״ב, אויגור, אוקראינית, Unicode‏, Hex, וייטנאמית, ולשית</string>
+				<key>title</key>
+				<string>פריסות מקלדת</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>ראשי, עיקרי, שפות, מצב, מקורות, בינלאומי, לועזי, זר, תווים, Unicode, יפנית, קוטוארי, הירגנה, קטקנה, רומאג׳י, אינו, סינית, מסורתית, הנין, מפושטת, וובי, קוריאנית, הנגול, וייטנאמית, וייטנאמית, טלקס, טמילית, אנג׳ל</string>
+				<key>title</key>
+				<string>שיטות קלט של שפות</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>חלונית, סמל, מציג, סמלים, תו, Unicode, יפנית, קנה, תווים, מקורות, מקשים, פיסוק</string>
+				<key>title</key>
+				<string>לוחות</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>קלט, מקור, מסמך</string>
+				<key>title</key>
+				<string>השתמש באותו מקור קלט בכל המסמכים</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>קלט, מקור, מסמך</string>
+				<key>title</key>
+				<string>אפשר מקור קלט שונה עבור כל מסמך ומסמך</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Text</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>קטעים, מקטעים, חלקים, להחליף, החלפה, חלופי, חלופה, חלופות, קיצורי דרך</string>
+				<key>title</key>
+				<string>החלפת סמלים וקטעי מלל</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>שפה, בדיקת איות, לבדוק איות, תיקון אוטומטי, איות נכון, ריווח אותיות, גודל אותיות</string>
+				<key>title</key>
+				<string>איות</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>הצעות הקלדה, הקלדה מהירה, quick type, חיזוי הקלדה, חיזוי מלל, סרגל מגע, סרגל, touch bar, טאץ׳ באר, bar, ‏touchbar</string>
+				<key>title</key>
+				<string>הצעות הקלדה של Touch Bar</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>מרכאות חכמות, מרכאות, מקפים</string>
+				<key>title</key>
+				<string>שימוש במרכאות חכמות ובמקפים ארוכים</string>
+			</dict>
+		</array>
+	</dict>
+	<key>keyboardTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>Bluetooth, מקלדת, מכשירים</string>
+				<key>title</key>
+				<string>הגדר/י את מקלדת Bluetooth</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>מקשים, השהה, חזרה על מקש, חזור, הדגשה, מענה, פונקציה, Fn, F1, F2, F3, F4, F5, F6, F7, F8, F9, F10, F11, F12, מקשים, קצב, הקלד, השהיה, חזרה, הקלדה</string>
+				<key>title</key>
+				<string>רגישות המקלדת</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>ראה, ראיה, חשוך, אור נמוך, עמעם, לילה, הקלד, ראייה, מאיר, מואר, מקליד, בהירות, התאם, אוטומטית, תאורה אחורית, תאורת רקע</string>
+				<key>title</key>
+				<string>האר את המקלדת</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>‏touch bar, טאץ׳ באר, סרגל, touchbar, רצועת בקרה, רצועה, פונקציה, מקשי פונקציה, התאמה אישית, להתאים אישית, touch bar, control strip</string>
+				<key>title</key>
+				<string>התאמה אישית של Touch Bar או Control Strip</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>שורת התפריטים, לוחות, סמל, אמוג׳י, מציג המקלדת</string>
+				<key>title</key>
+				<string>הצג את מציגי המקלדת והאמוג׳י בשורת התפריטים</string>
+			</dict>
+		</array>
+	</dict>
+	<key>keyboardTab_ModifierKeys</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>‏Caps Lock, ‏Control, ‏Option, ‏Command, קאפס לוק, קונטרול, אופשן, קומנד</string>
+				<key>title</key>
+				<string>אפס את מקשי השינוי</string>
+			</dict>
+		</array>
+	</dict>
+	<key>shortcutsTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>קיצורי דרך, Launchpad, ‏Dock, ‏Mission Control, צילום מסך, צילומי מסך, תמונת מסך, תמונות מסך, שירותים, Spotlight, נגישות, גישה מלאה מהמקלדת, מקורות קלט, יישום, מקשי פונקציה, טאץ׳ באר, touch bar, סרגל</string>
+				<key>title</key>
+				<string>קיצורי מקלדת</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Dictation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>להכתיב, הכתבה, הקשבה, להקשיב, האזנה, להאזין, שפה, מיקרופון, לזהות, זיהוי, לדבר, דיבור, להקריא, הקראה, קיצורי דרך</string>
+				<key>title</key>
+				<string>הכתבה</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

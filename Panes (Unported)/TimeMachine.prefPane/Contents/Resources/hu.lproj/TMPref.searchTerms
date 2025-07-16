@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizálható indexszavak</string>
+				<key>index</key>
+				<string>biztonsági, mentés, archívum, titkosít, titkosítás, titkosított, titkos, merev, lemez, lemezek, meghajtók, kötetek, adatok, információ, mappák, vesztés, veszteség, hiány, véletlen, katasztrófa, töröl, törlés, visszaállítás, helyreállítás, archiválás, elvesztés, elveszett, töröl, törölt, törlés, visszaállítás, helyreállít</string>
+				<key>title</key>
+				<string>Fájlok biztonsági mentése és visszaállítása</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

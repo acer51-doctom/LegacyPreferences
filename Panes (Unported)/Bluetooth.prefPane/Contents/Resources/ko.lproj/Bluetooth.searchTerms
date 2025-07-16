@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>로컬라이즈가 가능한 인덱스 단어</string>
+				<key>index</key>
+				<string>무선, 발견, 발견, 찾기, 페어링, 연결, 추가, 제거, 설정, 지원, 키보드, 마우스, 셀, 휴대 전화, 전화, 헤드셋, 헤드폰, 켬, 끔, 연결 해제, 연결해제, blue, tooth, 추가 중, 제거 중, 연결 해제하는 중, 연결 해제하는 중, 탐색 중, 탐색 가능, 찾는 중</string>
+				<key>title</key>
+				<string>Bluetooth 기기</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>로컬라이즈가 가능한 인덱스 단어</string>
+				<key>index</key>
+				<string>blue, tooth, 메뉴 막대</string>
+				<key>title</key>
+				<string>메뉴 막대에서 Bluetooth 상태 보기</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>로컬라이즈가 가능한 인덱스 단어</string>
+				<key>index</key>
+				<string>blue, tooth</string>
+				<key>title</key>
+				<string>Bluetooth 직렬 포트</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>로컬라이즈가 가능한 인덱스 단어</string>
+				<key>index</key>
+				<string>blue, tooth, 사운드</string>
+				<key>title</key>
+				<string>Bluetooth 오디오</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>로컬라이즈가 가능한 인덱스 단어</string>
+				<key>index</key>
+				<string>blue, tooth</string>
+				<key>title</key>
+				<string>Bluetooth 설정 지원</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

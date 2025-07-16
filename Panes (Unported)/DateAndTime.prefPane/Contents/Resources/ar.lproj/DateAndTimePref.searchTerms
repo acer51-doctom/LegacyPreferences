@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+	<key>DateTimePref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+				<key>index</key>
+				<string>تلقائي، التلقائي، تلقائية، التلقائية، ينفذ تلقائيًا، تلقائيًا، تنفيذ تلقائي، التنفيذ التلقائي، automatic, automate, automatically, automating</string>
+				<key>title</key>
+				<string>تعيين التاريخ والوقت، تعيين تاريخ ووقت</string>
+			</dict>
+		</array>
+	</dict>
+
+	<key>TimeZonePref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>تحديد نطاق زمني، تحديد النطاق الزمني</string>
+			</dict>
+		</array>
+	</dict>
+
+	
+</dict>
+</plist>

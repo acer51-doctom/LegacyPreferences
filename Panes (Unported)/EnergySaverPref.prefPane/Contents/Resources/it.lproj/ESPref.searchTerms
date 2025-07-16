@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>currentSource</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Risparmia energia</string>
+                <key>index</key>
+                <string>video, display, monitor, schermo, schermi, luminoso, illuminare, schiarire, scuro, attenuare, stop, riattiva, spegni, avvia, alimentazione, attivo, disattivato, elettricità, verde, risparmiare, risparmio, risparmia, conserva, conservazione, preserva, ambientale, ottimizza, ottimizzare, ottimizzazione, prestazioni, processore, automatico, luminosità, nero, vuoto, oscurare, oscurato, oscurando, stato di stop, stop, riattivare, riattivato, riattivazione, spegnimento, spegnere, alimentare, attiva, attivare, conservare, preservare, ottimizzato, automatico, automazione, automaticamente, ups, gruppo di continuità</string>
+                <key>comments</key>
+                <string>Parole dell'indice localizzabili</string>
+            </dict>
+        </array>
+    </dict>
+    <key>schedule</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Pianifica l'avvio, lo stato di stop o lo spegnimento</string>
+                <key>index</key>
+                <string>riattiva, avvia, alimentazione, accendi, spegni, automatico, programma, programmare, programmazione, pianificare, mettere in stato di stop, stop, riattivare, riattivazione, riattivando, spegni, spegnere, spegnimento, accendere, accensione, attiva, attivare, attivazione, automatico, automaticamente, automatizzare, automazione</string>
+                <key>comments</key>
+                <string>Parole dell'indice localizzabili</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

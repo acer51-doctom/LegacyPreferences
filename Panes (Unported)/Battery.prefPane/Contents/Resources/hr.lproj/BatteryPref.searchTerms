@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>currentSource</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Štednja baterije</string>
+                <key>index</key>
+                <string>prikazi, zasloni, monitori, posvijetli, zatamni, pripravno stanje, uključi, isključi, uključi, napajanje, uključeno, isključeno, elektricitet, zeleno, spremiti, očuvanje, očuvanje, okoliš, punjenje, utikač, odspojeno, optimiziraj, učinkovitost, procesor, automatski, svjetlina, crno, prazno, zatamnjenje, zatamnjeno, zatamnjenje, pripravno stanje, pripravno stanje, uključenje, uključeno, uključeno, uključenje, isključenje, isključenje, napajanje, okret, okretanje, čuvanje, očuvanje, očuvanje, puno, punjenje, spojeno, spajanje, odspojeno, odspajanje, odspajanje, optimizirano, optimiziranje, optimizacija, automatizirano, automatiziranje, automatski, optimiziranje video streamanja, optimizirano punjenje baterije, adapter, kabel, utičnica, automatsko prebacivanje grafike</string>
+                <key>comments</key>
+                <string>Riječi indeksa koje se mogu lokalizirati</string>
+            </dict>
+            <dict>
+                <key>title</key>
+                <string>Prikaži status baterije u traci s izbornicima</string>
+                <key>index</key>
+                <string>traka s izbornicima</string>
+                <key>comments</key>
+                <string>Riječi indeksa koje se mogu lokalizirati</string>
+            </dict>
+            <dict>
+                <key>title</key>
+                <string>Power Nap</string>
+                <key>index</key>
+                <string>power nap, powernap</string>
+                <key>comments</key>
+                <string>Riječi indeksa koje se mogu lokalizirati</string>
+            </dict>
+        </array>
+    </dict>
+    <key>usage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Povijest uporabe baterije</string>
+                <key>index</key>
+                <string>razina baterije, vrijeme uključenosti zaslona, potrošnja energije</string>
+                <key>comments</key>
+                <string>Riječi indeksa koje se mogu lokalizirati</string>
+            </dict>
+        </array>
+    </dict>
+    <key>battery</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Zdravlje baterije</string>
+                <key>index</key>
+                <string>servisiranje baterije, maksimalni kapacitet, trajanje baterije, važna poruka o bateriji, stanje baterije</string>
+                <key>comments</key>
+                <string>Riječi indeksa koje se mogu lokalizirati</string>
+            </dict>
+        </array>
+    </dict>
+    <key>adapter</key>
+    <dict/>
+    <key>ups</key>
+    <dict/>
+    <key>schedule</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Planiraj uključenje, prijelaz u pripravno stanje ili isključenje</string>
+                <key>index</key>
+                <string>pripravno stanje, uključi, uključi, napajanje, uključeno, isključeno, automatski, planirano, planiranje, pripravno stanje, uključenje, uključeno, uključeno, uključenje, isključenje, isključenje, napajanje, okreni, okretanje, automatizirano, automatiziranje, automatski</string>
+                <key>comments</key>
+                <string>Riječi indeksa koje se mogu lokalizirati</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

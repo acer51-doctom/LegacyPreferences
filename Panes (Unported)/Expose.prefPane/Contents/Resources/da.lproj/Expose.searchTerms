@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>genvej</string>
+				<key>title</key>
+				<string>Aktive skærmhjørner</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>tilpas, skrivebord, tastatur, funktionstaster, Fn, museknapper, vinduer, applikationer, apps, speciel, tilpasse, tilpasning, mission control</string>
+				<key>title</key>
+				<string>Genveje til Exposé</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Spaces</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>organiser, arbejdsområder, applikationer, apps, skriveborde, organiseret, organisere</string>
+				<key>title</key>
+				<string>Indstil Spaces</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

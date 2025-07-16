@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>currentSource</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Économiser l’énergie</string>
+                <key>index</key>
+                <string>affichages, écrans, moniteurs, éclaircir, assombrir, veille, réactiver, éteindre, démarrer, allumer, sous tension, éteint, hors tension, électricité, énergie verte, enregistrer, économies, conserver, écologique, optimiser, performances, processeur, automatique, luminosité, noir, vide, assombrissement, estompé, obscurcissement, suspension, en veille, réactivation, réactivé, allumé, activé, actif, activation, extinction, mise hors tension, mettre hors tension, mise sous tension, mettre sous tension, allumage, démarrage, conservation, préservation, optimisé, optimisation, automatisé, automatisation, automatiquement, ups, système d’alimentation sans coupure, asc, alimentation sans coupure</string>
+                <key>comments</key>
+                <string>Termes d’indexation localisables</string>
+            </dict>
+        </array>
+    </dict>
+    <key>schedule</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Programmer le démarrage, la suspension d’activité ou l’extinction</string>
+                <key>index</key>
+                <string>réactiver, démarrer, allumer, sous tension, éteint, hors tension, automatique, programmé, programmation, suspension, en veille, réactivation, réactivé, allumé, allumage, activé, actif, activation, éteindre, extinction, mise hors tension, mettre hors tension, mise sous tension, mettre sous tension, démarrage, automatisé, automatisation, automatiquement</string>
+                <key>comments</key>
+                <string>Termes d’indexation localisables</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Extensions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>扩展, extensions</string>
+				<key>title</key>
+				<string>扩展, Extensions</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>标记, markup, mark up</string>
+				<key>title</key>
+				<string>操作, Actions</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>正在共享, sharing, 共享, share, 阅读列表, reading list, 邮件, mail, 信息, messages, 隔空投送, airdrop, 备忘录, notes, 提醒事项, reminders, 联系人, people, 添加, add, iphoto, aperture</string>
+				<key>title</key>
+				<string>共享菜单项, Share menu items</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>快速, quick, 操作, actions, 访达, finder, 快速操作, quick actions, 预览面板, preview pane</string>
+				<key>title</key>
+				<string>访达, Finder</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>快速, quick, 操作, actions, 触控, touch, 栏, bar, 触控栏, touch bar</string>
+				<key>title</key>
+				<string>触控栏, Multi-Touch Bar</string>
+			</dict>
+            <dict>
+                <key>comments</key>
+                <string>可本地化的索引词, Localizable index words</string>
+                <key>index</key>
+                <string>凭证提供程序扩展, credential provider extensions, 密码管理器, password managers, 密码管理器扩展, password manager extensions, 密码自动填充, password autofill, 自动填充扩展, autofill extensions</string>
+                <key>title</key>
+                <string>密码自动填充扩展, Password AutoFill Extensions</string>
+            </dict>
+		</array>
+	</dict>
+</dict>
+</plist>

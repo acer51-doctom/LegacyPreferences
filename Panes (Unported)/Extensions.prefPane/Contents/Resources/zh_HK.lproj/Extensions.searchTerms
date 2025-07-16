@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Extensions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>本地化索引詞</string>
+				<key>index</key>
+				<string>延伸功能</string>
+				<key>title</key>
+				<string>延伸功能</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>本地化索引詞</string>
+				<key>index</key>
+				<string>標示, 標記</string>
+				<key>title</key>
+				<string>動作</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>本地化索引詞</string>
+				<key>index</key>
+				<string>分享, 共享, 閱讀列表, 郵件, 訊息, airdrop, 備忘錄, 提醒事項, 成員, 加入, iphoto, 光圈</string>
+				<key>title</key>
+				<string>共享選單項目</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>本地化索引詞</string>
+				<key>index</key>
+				<string>快速, 動作, finder, 快速動作, 預覽面板</string>
+				<key>title</key>
+				<string>Finder</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>本地化索引詞</string>
+				<key>index</key>
+				<string>快速, 動作, 觸控, 欄, 觸控欄</string>
+				<key>title</key>
+				<string>觸控欄</string>
+			</dict>
+            <dict>
+                <key>comments</key>
+                <string>本地化索引詞</string>
+                <key>index</key>
+                <string>憑證提供者延伸功能, 密碼管理員, 密碼管理員延伸功能, 自動填寫密碼, 自動填寫延伸功能</string>
+                <key>title</key>
+                <string>自動填寫密碼延伸功能</string>
+            </dict>
+		</array>
+	</dict>
+</dict>
+</plist>

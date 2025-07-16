@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>AppleAccount</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+                <key>index</key>
+                <string>iCloud, σύννεφο, me.com, λογαριασμός apple, appleid, apple, id, λογαριασμός, επαφή, πληρωμή, αποστολή</string>
+                <key>title</key>
+                <string>Apple ID</string>
+            </dict>
+        </array>
+    </dict>
+    <key>iCloud</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+                <key>index</key>
+                <string>iCloud, σύννεφο, me.com, λογαριασμός apple, εύρεση mac, χώρος αποθήκευσης, έγγραφα και δεδομένα, iCloud Drive, Σελιδοδείκτες, Ημερολόγια, Επαφές, Mail, Υπομνήσεις, Λίστες ανάγνωσης, Μετοχές, Οικία, Safari, Σημειώσεις, </string>
+                <key>title</key>
+                <string>iCloud</string>
+            </dict>
+        </array>
+    </dict>
+    <key>com.apple.AppleMediaServicesUI.SpyglassPurchases</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+                <key>index</key>
+                <string>πολυμέσα, αγορές, app store, υπηρεσίες, συνδρομές</string>
+                <key>title</key>
+                <string>Πολυμέσα και αγορές</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

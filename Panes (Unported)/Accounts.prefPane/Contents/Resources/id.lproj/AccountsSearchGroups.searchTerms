@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loginOptionsPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Kata indeks yang dapat dilokalkan</string>
+				<key>index</key>
+				<string>pengguna, masuk, masuk, masuk, masuk, masuk, masuk, sembunyikan, tampilkan, mulai, matikan, mulai ulang, tidur, tombol, VoiceOver, ucapan, ucapkan, input, metode, mode, menu, kata sandi, petunjuk, start, up, mati, kan, suara, melalui, pass, kata, masuk, masuk, masuk, masuk, masuk, menyembunyikan, menampilkan, mengucapkan</string>
+				<key>title</key>
+				<string>Pengaturan jendela masuk</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Kata indeks yang dapat dilokalkan</string>
+				<key>index</key>
+				<string>pengguna, cepat, masuk, masuk, masuk, masuk, masuk, masuk, keluar, keluar, keluar, keluar, beralih, masuk, masuk, masuk, keluar, keluar, masuk, masuk, masuk, keluar, keluar</string>
+				<key>title</key>
+				<string>Beralih antar akun</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Kata indeks yang dapat dilokalkan</string>
+				<key>index</key>
+				<string>masuk, mengautomasi, mengautomasikan, automasi</string>
+				<key>title</key>
+				<string>Masuk secara otomatis</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>aktif, ldap, buka, server, active directory, open directory</string>
+				<key>title</key>
+				<string>Layanan direktori</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>pengguna, masuk, masuk, masuk, masuk, masuk, masuk, masuk, masuk, masuk, masuk, masuk</string>
+				<key>title</key>
+				<string>Pilihan masuk</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Server akun jaringan</string>
+			</dict>
+		</array>
+	</dict>
+	<key>mobilityPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array/>
+	</dict>
+	<key>passwordPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Kata indeks yang dapat dilokalkan</string>
+				<key>index</key>
+				<string>tamu, bagikan, panjang, pendek, nama, sahkan, kata sandi, filevault, membagikan, sandi, kata, mengesahkan, pengesahan, file, vault</string>
+				<key>title</key>
+				<string>Akun pengguna atau grup</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Kata indeks yang dapat dilokalkan</string>
+				<key>index</key>
+				<string>fotograf, gambar, foto</string>
+				<key>title</key>
+				<string>Gambar pengguna</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Kata indeks yang dapat dilokalkan</string>
+				<key>index</key>
+				<string>pengguna, akun, panjang, pendek, nama, sahkan, masuk, masuk, masuk, masuk, masuk, masuk, ubah, atur, sandi, kata, mengesahkan, pengesahan, masuk, masuk, masuk, masuk, masuk, mengubah</string>
+				<key>title</key>
+				<string>Nama dan kata sandi masuk</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Kata indeks yang dapat dilokalkan</string>
+				<key>index</key>
+				<string>vcard, kartu</string>
+				<key>title</key>
+				<string>Kontak</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Kata indeks yang dapat dilokalkan</string>
+				<key>index</key>
+				<string>kelola, atur, mengelola, mengatur</string>
+				<key>title</key>
+				<string>Akun Administrator</string>
+			</dict>
+		</array>
+	</dict>
+	<key>startupItemsPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Kata indeks yang dapat dilokalkan</string>
+				<key>index</key>
+				<string>otomatis, mengautomasi, log, masuk, mulai, memulai, secara otomatis, diautomasi, mengautomasikan, automasi, memulai</string>
+				<key>title</key>
+				<string>Buka aplikasi di info masuk</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Kata indeks yang dapat dilokalkan</string>
+				<key>index</key>
+				<string>masuk, masuk, masuk, masuk, masuk, masuk, start, up, memulai, masuk, masuk, masuk, masuk, masuk</string>
+				<key>title</key>
+				<string>Item info masuk</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

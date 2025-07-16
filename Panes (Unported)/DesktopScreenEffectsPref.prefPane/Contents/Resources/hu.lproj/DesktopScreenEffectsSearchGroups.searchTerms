@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DesktopPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizálható indexszavak</string>
+				<key>index</key>
+				<string>fénykép, fényképek, fotó, fotók, háttér, asztal, íróasztal, háttérkép, tapéta, minta, mintázat, egyénre szab, egyénre szabás, testre szab, testre szabás, kép, képek, asztal, asztallap, fal, fali, egyénre szabott, testre szabott</string>
+				<key>title</key>
+				<string>Íróasztali kép</string>
+			</dict>
+		</array>
+	</dict>
+	<key>ScreenSaverPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizálható indexszavak</string>
+				<key>index</key>
+				<string>letilt, indít, album, iTunes, borító, véletlenszerű, fényképek, képek, testreszabás, képrenyővédők, fotók, letiltás, indítás, testre szabott, testreszabás, testre szabás</string>
+				<key>title</key>
+				<string>Képernyővédő</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Óra megjelenítése a képernyővédővel</string>
+			</dict>
+		</array>
+	</dict>
+	<key>ScreenSaverPref_HotCorners</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizálható indexszavak</string>
+				<key>index</key>
+				<string>aktív képernyősarkok</string>
+				<key>title</key>
+				<string>Aktív sarkok</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>Internet</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Lokalizowane słowa kluczowe</string>
+					<key>index</key>
+					<string>udostępniać, połączenie, bezprzewodowe, nat, Wi-Fi, ethernet, FireWire</string>
+					<key>title</key>
+					<string>Udostępnianie Internetu</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Main</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Lokalizowane słowa kluczowe</string>
+					<key>index</key>
+					<string>lokalna, podsieć, bonjour</string>
+					<key>title</key>
+					<string>Nazwa komputera</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_ARDService</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Lokalizowane słowa kluczowe</string>
+					<key>index</key>
+					<string>zdalne, zarządzanie, zarządzanie zdalne, ard, kontrola, VNC</string>
+					<key>title</key>
+					<string>Zarządzanie zdalne</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_DVDorCDSharing</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>index</key>
+					<string/>
+					<key>title</key>
+					<string>Udostępnianie DVD lub CD</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_PersonalFileSharing</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Lokalizowane słowa kluczowe</string>
+					<key>index</key>
+					<string>nat afp exchange, udostępnianie</string>
+					<key>title</key>
+					<string>Udostępnianie plików</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_PrinterSharing</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Lokalizowane słowa kluczowe</string>
+					<key>index</key>
+					<string>cpu, udostępnianie</string>
+					<key>title</key>
+					<string>Udostępnianie drukarek</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_RemoteAppleEvent</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Lokalizowane słowa kluczowe</string>
+					<key>index</key>
+					<string>ae</string>
+					<key>title</key>
+					<string>Zdalne Apple Events</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_RemoteLogin</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Lokalizowane słowa kluczowe</string>
+					<key>index</key>
+					<string>ssh, usługa, logowanie, wylogowanie, zalogować, wylogować</string>
+					<key>title</key>
+					<string>Zdalne logowanie</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_ScreenSharing</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>index</key>
+					<string>kontrola, VNC</string>
+					<key>title</key>
+					<string>Udostępnianie ekranu</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_WindowsSharing</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Lokalizowane słowa kluczowe</string>
+					<key>index</key>
+					<string>samba, usługa, SMB/CIFS, drukarki, foldery, udział</string>
+					<key>title</key>
+					<string>Udostępnianie plików Windows</string>
+				</dict>
+			</array>
+		</dict>
+        <key>Services_ContentCaching</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>comments</key>
+                    <string>Lokalizowane słowa kluczowe</string>
+                    <key>index</key>
+                    <string>magazyn, magazynowanie</string>
+                    <key>title</key>
+                    <string>Magazyn zawartości</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Services_AirPlayReceiver</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>comments</key>
+                    <string>Lokalizowane słowa kluczowe</string>
+                    <key>index</key>
+                    <string>airplay, odbiornik</string>
+                    <key>title</key>
+                    <string>Odbiornik AirPlay</string>
+                </dict>
+            </array>
+        </dict>
+	</dict>
+</plist>

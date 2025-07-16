@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>reservekopie, archief, versleutelen, encryptie, versleuteld, harde schijf, schijven, schijfeenheden, volumes, gegevens, informatie, mappen, verliezen, kwijtraken, verlies, ongeluk, ramp, wissen, verwijderen, herstellen, terugzetten, archiveren, gewist, verwijderd</string>
+				<key>title</key>
+				<string>Reservekopie maken van bestanden en bestanden terugzetten</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

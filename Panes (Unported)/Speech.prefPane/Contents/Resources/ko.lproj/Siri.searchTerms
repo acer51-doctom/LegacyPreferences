@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Dictation</key>
+	<dict/>
+	<key>Siri</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>로컬라이즈가 가능한 인덱스 단어</string>
+				<key>index</key>
+				<string>Siri, 비서, Dock, 단축키, 아이콘, 키, 받아쓰기, 받아쓰는 중, 받아 쓰기, 듣기, 듣는 중, 언어, 메뉴 막대, 마이크, 인식, 음성 인식, 인식 가능, 인식 중, 사운드, 말하기, 말하는 중, 스피킹, 단축 메뉴, 대화, 대화하기, 말하기, 음성, 파형</string>
+				<key>title</key>
+				<string>Siri</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>로컬라이즈가 가능한 인덱스 단어</string>
+				<key>index</key>
+				<string>활성화, 비활성화, 비활성, 활성, 무음, 소리 끄기, 소리끄기, 중단, 끄기, 켜기</string>
+				<key>title</key>
+				<string>Siri 켜기 및 끄기</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

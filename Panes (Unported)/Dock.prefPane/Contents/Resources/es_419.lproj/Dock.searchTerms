@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>Dock</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>personalizar, tira de controles, barra de herramientas, cambiar tamaño, redimensionar, más grande, más pequeño, posición, escritorio, izquierda, derecha, abajo, bordes, resorte, rebote, animación, escala, animar, aladino, ocultar, mostrar, ampliar, minimizar, maximizar, agrandar, mayor, personalizado, personalización, controles, herramientas, cambio de tamaño, redimensionamiento, colocar, saltar, rebotar, escalado, ocultación, visualización, oculto, visible, ampliación, minimización, maximización, minimizado, maximizado, agrandamiento, documentos, abrir, apertura, abriendo, automáticamente, barra de menús</string>
+                    <key>title</key>
+                    <string>Configuración del Dock</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>automáticamente, ocultar, mostrar, dock</string>
+                    <key>title</key>
+                    <string>Ocultar y mostrar el Dock automáticamente</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>automáticamente, ocultar, mostrar, barra de menús</string>
+                    <key>title</key>
+                    <string>Ocultar y mostrar automáticamente la barra de menús en el escritorio</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>automáticamente, ocultar, mostrar, barra de menús</string>
+                    <key>title</key>
+                    <string>Ocultar y mostrar automáticamente la barra de menús en la pantalla completa</string>
+                </dict>
+            </array>
+        </dict>
+        <key>AccessibilityShortcuts</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>funciones rápidas de accesibilidad, mostrar, ocultar, barra de menús</string>
+                    <key>title</key>
+                    <string>Mostrar “Funciones de accesibilidad” en la barra de menús</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>funciones rápidas de accesibilidad, mostrar, centro de control</string>
+                    <key>title</key>
+                    <string>Mostrar “Funciones de accesibilidad” en el centro de control</string>
+                </dict>
+            </array>
+        </dict>
+        <key>AirDrop</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>bluetooth, mostrar, ocultar, barra de menús</string>
+                    <key>title</key>
+                    <string>Mostrar estado de AirDrop en la barra de menús</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Battery</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>batería, recarga, carga, cargando, recargando, mostrar, ocultar, barra de menús</string>
+                    <key>portableOnly</key><true/>
+                    <key>title</key>
+                    <string>Mostrar estado de la batería en la barra de menús</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>batería, carga, recarga, cargando, recargando, mostrar, ocultar, centro de control</string>
+                    <key>portableOnly</key><true/>
+                    <key>title</key>
+                    <string>Mostrar estado de la batería en el centro de control</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>batería, porcentaje, porciento, mostrar, ocultar, barra de menús</string>
+                    <key>portableOnly</key><true/>
+                    <key>title</key>
+                    <string>Mostrar porcentaje de la batería en la barra de menús</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Bluetooth</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>bluetooth, mostrar, ocultar, barra de menús</string>
+                    <key>title</key>
+                    <string>Mostrar estado de Bluetooth en la barra de menús</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Clock</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>reloj, fecha, hora, mostrar, ocultar, barra de menús</string>
+                    <key>title</key>
+                    <string>Mostrar el día de la semana en la barra de menús</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>reloj, fecha, hora, mostrar, ocultar, barra de menús</string>
+                    <key>title</key>
+                    <string>Mostrar la fecha en la barra de menús</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>24, hora, reloj, fecha, hora, mostrar, ocultar, barra de menús</string>
+                    <key>title</key>
+                    <string>Usar un reloj de 24 horas en la barra de menús</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>AM, am, PM, pm, reloj, fecha, hora, mostrar, ocultar, barra de menús</string>
+                    <key>title</key>
+                    <string>Mostrar “a.m.” o “p.m.” en la barra de menús</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>parpadear, intermitente, separadores, segundo, segundos, reloj, hora, mostrar, ocultar, barra de menús</string>
+                    <key>title</key>
+                    <string>Mostrar efecto de parpadeo en los separadores de hora en la barra de menús</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>segundo, segundos, reloj, hora, mostrar, ocultar, barra de menús</string>
+                    <key>title</key>
+                    <string>Mostrar la hora con los segundos en la barra de menús</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>voz, decir, leer en voz alta, anunciar, hora, media hora, cuarto de hora, reloj, hora</string>
+                    <key>title</key>
+                    <string>Pronunciar la hora</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Display</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>pantalla, brillo, Sidecar, mostrar, ocultar, barra de menús</string>
+                    <key>title</key>
+                    <string>Mostrar pantallas en la barra de menús</string>
+                </dict>
+            </array>
+        </dict>
+        <key>DoNotDisturb</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>no molestar, mostrar, ocultar, barra de menús</string>
+                    <key>title</key>
+                    <string>Mostrar estado de “No molestar” en la barra de menús</string>
+                </dict>
+            </array>
+        </dict>
+        <key>FocusModes</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>enfoque, modos de enfoque, no molestar, mostrar, ocultar, barra de menús</string>
+                    <key>title</key>
+                    <string>Mostrar estado de enfoque en la barra de menús</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Hearing</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>audición, mostrar, ocultar, barra de menús</string>
+                    <key>title</key>
+                    <string>Mostrar Audición en la barra de menús</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>audición, mostrar, centro de control</string>
+                    <key>title</key>
+                    <string>Mostrar Audición en el centro de control</string>
+                </dict>
+            </array>
+        </dict>
+        <key>KeyboardBrightness</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>teclado, brillo, iluminación de fondo, mostrar, ocultar, barra de menús</string>
+                    <key>portableOnly</key><true/>
+                    <key>title</key>
+                    <string>Mostrar estado del brillo del teclado en la barra de menús</string>
+                </dict>
+            </array>
+        </dict>
+        <key>NowPlaying</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>ahora suena, música, contenido multimedia, controles, control remoto, reproducir, reproducción, mostrar, ocultar, barra de menús</string>
+                    <key>title</key>
+                    <string>Mostrar estado de “Ahora suena” en la barra de menús</string>
+                </dict>
+            </array>
+        </dict>
+        <key>ScreenMirroring</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>duplicar pantalla, AirPlay, mostrar, ocultar, barra de menús</string>
+                    <key>title</key>
+                    <string>Mostrar estado de “Duplicar pantalla” en la barra de menús</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Sound</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>sonido, volumen, mostrar, ocultar, barra de menús</string>
+                    <key>title</key>
+                    <string>Mostrar el volumen en la barra de menús</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Siri</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>siri, mostrar, ocultar, barra de menús</string>
+                    <key>title</key>
+                    <string>Mostrar Siri en la barra de menús</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Spotlight</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>spotlight, mostrar, ocultar, barra de menús</string>
+                    <key>title</key>
+                    <string>Mostrar Spotlight en la barra de menús</string>
+                </dict>
+            </array>
+        </dict>
+        <key>TimeMachine</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>time machine, respaldos, mostrar, ocultar, barra de menús</string>
+                    <key>title</key>
+                    <string>Mostrar estado de Time Machine en la barra de menús</string>
+                </dict>
+            </array>
+        </dict>
+        <key>WiFi</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>wifi, wi-fi, mostrar, ocultar, barra de menús</string>
+                    <key>title</key>
+                    <string>Mostrar estado de Wi-Fi en la barra de menús</string><!-- NON-BREAKING HYPHEN (U+2011) -->
+                </dict>
+            </array>
+        </dict>
+        <key>UserSwitcher</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>cambio rápido de usuario, selector de usuario, mostrar, ocultar, barra de menús</string>
+                    <key>title</key>
+                    <string>Mostrar “Cambio rápido de usuario” en la barra de menús</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>cambio rápido de usuario, selector de usuario, mostrar, ocultar, centro de control</string>
+                    <key>title</key>
+                    <string>Mostrar “Cambio rápido de usuario” en el centro de control</string>
+                </dict>
+            </array>
+        </dict>
+    </dict>
+</plist>

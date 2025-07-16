@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Extensions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>एक्सटेंशन</string>
+				<key>title</key>
+				<string>एक्सटेंशन</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>मार्कअप, मार्क अप</string>
+				<key>title</key>
+				<string>क्रियाएँ</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>शेयरिंग, शेयर करें, पठन सूची, मेल, संदेश, airdrop, नोट्स, रिमाइंडर, लोग, जोड़ें, iphoto, aperture</string>
+				<key>title</key>
+				<string>मेनू आइटम शेयर करें</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>त्वरित, क्रियाएँ, finder, त्वरित क्रियाएँ, प्रीव्यू पेन</string>
+				<key>title</key>
+				<string>Finder</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>त्वरित, क्रियाएँ, touch, bar, touch bar</string>
+				<key>title</key>
+				<string>Touch Bar</string>
+			</dict>
+            <dict>
+                <key>comments</key>
+                <string>अनुवाद योग्य सूची शब्द</string>
+                <key>index</key>
+                <string>क्रेडेंशियल प्रोवाइडर एक्सटेंशन, पासवर्ड प्रबंधक, पासवर्ड प्रबंधक एक्सटेंशन, पासवर्ड ऑटोफ़िल, ऑटोफ़िल एक्सटेंशन</string>
+                <key>title</key>
+                <string>पासवर्ड ऑटोफ़िल एक्सटेंशन</string>
+            </dict>
+		</array>
+	</dict>
+</dict>
+</plist>

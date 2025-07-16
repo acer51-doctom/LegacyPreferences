@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effects</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>lyder, støy, lyd, høre, lytte, nivå, volum, lydnivå, høyere, lavere, stillere, øke, redusere, skru opp, minke, høyttaler, høytaler, pip, advarsel, klokke, bjelle, ding, pling, ring, hørsel, piping, dinging, ringing, oppstartslyd</string>
+				<key>title</key>
+				<string>Varsling og lydeffekter</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>lyd, høre, nivå, volum, lydnivå, høyere, lavere, stillere, øke, redusere, mer, mindre, musikk, høyttalere, høytalere, hørsel</string>
+				<key>title</key>
+				<string>Lydvolum</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>lyd, høre, nivå, volum, lydnivå, høyere, lavere, stillere, øke, redusere, mer, mindre, stille, stillhet, slå av, hørsel, slå av lyd</string>
+				<key>title</key>
+				<string>Slå av lyden</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>menylinje</string>
+				<key>title</key>
+				<string>Vise volumkontroll i menylinjen</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>menylinje</string>
+				<key>title</key>
+				<string>Vis lyd i menylinjen</string>
+			</dict>
+		</array>
+	</dict>
+	<key>input</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>lyd, høre, nivå, volum, lydnivå, høyere, lavere, stillere, øke, redusere, minske, enheter, kilder, mikrofoner, instrumenter, MIDI, ta opp, spille inn, line in, linjeinngang, hørsel, spille inn, opptak, ta opp</string>
+				<key>title</key>
+				<string>Lyd inn</string>
+			</dict>
+		</array>
+	</dict>
+	<key>output</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>enheter, hodetelefoner, hode telefoner, hodesett, hode sett, headset, høyttalere, høytalere, høyttaler, høytaler, høre, lytte, balanse</string>
+				<key>title</key>
+				<string>Lyd ut</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>airplay, høyttalere</string>
+				<key>title</key>
+				<string>Lydstrømming med AirPlay</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>backup, arhivă, criptare, criptare, criptat, criptare, hard, discuri, discuri, unități, volume, date, informații, dosare, pierde, pierdere, lipsă, accident, dezastru, șterge, suprimă, recuperează, arhivare, pierdere, pierdut, ștergere, șters, suprimare, suprimat, restaurare, recuperare</string>
+				<key>title</key>
+				<string>Backup și restaurare pentru fișiere</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Region</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>ภูมิภาค, สากล, มาตรวัด, หน่วย, รูปแบบ, เมตริก, ปฏิทิน, คริสต์ศักราช, พุทธศักราช, ฮีบรู, อิสลาม, ญี่ปุ่น, จีน, คอปติก, เอธิโอเปีย, อินเดีย, เปอร์เซีย, สาธารณรัฐจีน, กำหนด, แบบกำหนดเอง, การกำหนด, การกำหนดเอง, ภาษาและภูมิภาค, อุณหภูมิ</string>
+				<key>title</key>
+				<string>รูปแบบตัวเลข วันที่ และเวลา</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>เงิน</string>
+				<key>title</key>
+				<string>การออกแบบสกุลเงิน</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>บริการอินเทอร์เน็ต เมล รายชื่อ</string>
+				<key>title</key>
+				<string>ภูมิภาคสำหรับบริการอินเทอร์เน็ต</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Language</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>ภาษา, กำหนดเอง, สากล, ที่กำหนดเอง, กำลังกำหนดเอง, การกำหนดเอง, การเรียง, คำเรียกแทน, เพศหญิง, เพศชาย, เพศกลาง, ข้อความในภาพ, เลือกข้อความในภาพ</string>
+				<key>title</key>
+				<string>การตั้งค่าและลำดับความสำคัญของภาษา</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Translation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>แปลภาษา, การแปล</string>
+				<key>title</key>
+				<string>การแปลภาษา</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

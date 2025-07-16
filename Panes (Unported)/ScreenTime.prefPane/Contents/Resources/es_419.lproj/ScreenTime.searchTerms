@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>AlwaysAllowed</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Palabras de índice localizables</string>
+                <key>index</key>
+                <string>pantalla, tiempo, siempre, permitir, limitar, familia, padres, parentales, controles, seguridad, privacidad, protección, niños, restringir, administrar, temporizador, toque de queda, restricción, restringido, limitar, administración, permisos, monitorear, rastrear, monitoreo, seguimiento, seguir</string>
+                <key>title</key>
+                <string>Elige las apps que se permiten siempre en “Tiempo en pantalla”</string>
+            </dict>
+        </array>
+    </dict>
+    <key>CommunicationLimit</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Palabras de índice localizables</string>
+                <key>index</key>
+                <string>pantalla, tiempo, comunicación, contacto, teléfono, mensaje de texto, mensaje, texto, FaceTime, SMS, limitar, agregar, crear, aplicar, familia, padres, parentales, controles, seguridad, privacidad, protección, niños, restringir, administrar, temporizador, toque de queda, restricción, restringido, limitar, administración, permisos</string>
+                <key>title</key>
+                <string>Establecer límites de comunicación en “Tiempo en pantalla”</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>pantalla, tiempo, comunicación, contacto, teléfono, mensaje de texto, mensaje, texto, FaceTime, SMS, limitar, agregar, crear, aplicar, familia, padres, parentales, controles, seguridad, privacidad, protección, niños, restringir, administrar, temporizador, toque de queda, restricción, restringido, limitar, administración, permisos</string>
+                <key>title</key>
+                <string>Cambiar límites de comunicación en “Tiempo en pantalla”</string>
+            </dict>
+        </array>
+    </dict>
+    <key>ContentAndPrivacy</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Palabras de índice localizables</string>
+                <key>index</key>
+                <string>pantalla, tiempo, siempre, permitir, limitar, familia, padres, parentales, controles, seguridad, privacidad, protección, niños, restringir, administrar, temporizador, toque de queda, restricción, restringido, limitar, administración, permisos, diccionario, inapropiado, maldición, maldecir, perjurar, inadecuado, explícito, malo, lenguaje, obsceno, obscenidad, palabrotas, pornografía, vulgar, filtrado, filtrar, sin filtro, sin filtrar</string>
+                <key>title</key>
+                <string>Elige la configuración de privacidad y contenido de “Tiempo en pantalla”</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>pantalla, tiempo, parental, controles, límites, explícito, contenido, sitios web, menor, niño, niña, restricción, restringir</string>
+                <key>title</key>
+                <string>Restringir contenido explícito</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyNotifications</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Palabras de índice localizables</string>
+                <key>index</key>
+                <string>pantalla, tiempo, día, diario, al día, uso, notificaciones</string>
+                <key>title</key>
+                <string>Mostrar el reporte diario de notificaciones en “Tiempo en pantalla”</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyPickups</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Palabras de índice localizables</string>
+                <key>index</key>
+                <string>pantalla, tiempo, día, diario, al día, consultas</string>
+                <key>title</key>
+                <string>Mostrar el reporte diario de consultas del dispositivo en “Tiempo en pantalla”</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyUsage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Palabras de índice localizables</string>
+                <key>index</key>
+                <string>pantalla, tiempo, semana, semanal, uso, reporte, reportar, monitorear, monitorización, rastrear, niño, niña, menor, apps</string>
+                <key>title</key>
+                <string>Mostrar el reporte diario de uso de apps en “Tiempo en pantalla”</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Downtime</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Palabras de índice localizables</string>
+                <key>index</key>
+                <string>pantalla, tiempo, uso, limitar, tiempo desactivado, familia, padres, parentales, controles, seguridad, privacidad, protección, niños, restringir, administrar, temporizador, hora de dormir, escuela, noches, toque de queda, restricción, restringido, limitar, administración, permisos</string>
+                <key>title</key>
+                <string>Programa el tiempo desactivado desde “Tiempo en pantalla”</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Options</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Palabras de índice localizables</string>
+                <key>index</key>
+                <string>pantalla, tiempo, configuración, opción, limitar, familia, padres, parentales, controles, seguridad, protección, niños, restringir, administrar, temporizador, toque de queda, restricción, restringido, limitar, administración, permisos</string>
+                <key>title</key>
+                <string>Activar o desactivar “Tiempo en pantalla”</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>pantalla, parental, controles, opciones, límite, límites, contraseña, código</string>
+                <key>title</key>
+                <string>Definir código del tiempo en pantalla</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Requests</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Palabras de índice localizables</string>
+                <key>index</key>
+                <string>pantalla, tiempo, solicitud, solicitar, aprobar, permitir, negar, rechazar, limitar, familia, padres, parentales, controles, seguridad, privacidad, protección, niños, restringir, administrar, temporizador, toque de queda, restricción, restringido, limitar, administración, permisos</string>
+                <key>title</key>
+                <string>Mostrar solicitudes de “Tiempo en pantalla”</string>
+            </dict>
+        </array>
+    </dict>
+    <key>ViewUsageLimit</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Palabras de índice localizables</string>
+                <key>index</key>
+                <string>pantalla, tiempo, uso, app, limitar, agregar, crear, aplicar, familia, padres, parentales, controles, seguridad, privacidad, protección, niños, restringir, administrar, temporizador, toque de queda, restricción, restringido, limitar, administración, permisos</string>
+                <key>title</key>
+                <string>Elige límites de apps en “Tiempo en pantalla”</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyNotifications</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Palabras de índice localizables</string>
+                <key>index</key>
+                <string>pantalla, tiempo, semana, semanal, uso, notificaciones, parental, controles</string>
+                <key>title</key>
+                <string>Mostrar el reporte semanal de notificaciones en “Tiempo en pantalla”</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyPickups</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Palabras de índice localizables</string>
+                <key>index</key>
+                <string>pantalla, tiempo, semana, semanal, consultas, parental, controles</string>
+                <key>title</key>
+                <string>Mostrar el reporte semanal de consultas del dispositivo en “Tiempo en pantalla”</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyUsage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Palabras de índice localizables</string>
+                <key>index</key>
+                <string>pantalla, tiempo, semana, semanal, uso, reporte, reportar, monitorear, monitorización, rastrear, niño, niña, menor, apps, parental, controles</string>
+                <key>title</key>
+                <string>Mostrar el reporte semanal de uso de apps en “Tiempo en pantalla”</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

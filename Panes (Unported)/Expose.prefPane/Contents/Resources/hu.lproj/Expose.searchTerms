@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizálható indexszavak</string>
+				<key>index</key>
+				<string>aktív</string>
+				<key>title</key>
+				<string>Aktív képernyő sarkok</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizálható indexszavak</string>
+				<key>index</key>
+				<string>testreszabás, íróasztal, billentyűzet, funkcióbillentyűk, Fn, egérgombok, ablakok, alkalmazások, programok, testreszabott, testreszab, mission control</string>
+				<key>title</key>
+				<string>Exposé billentyűparancsok</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Spaces</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizálható indexszavak</string>
+				<key>index</key>
+				<string>szervezés, rendez, munkaterület, munkafelület, alkalmazások, alkalmazások, íróasztalok, szervezett, rendezett, szervezés, rendezés</string>
+				<key>title</key>
+				<string>A Spaces funkció beállítása</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>Dock</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>anpassa, control strip, kontrollremsa, reglage, verktygsfält, byt storlek, större, mindre, position, skrivbord, vänster, höger, nederkant, kanter, fjäder, studsa, skala, animera, anden i flaskan, göm, visa, förstora, minimera, maximera, förstora, större, anpassad, anpassa, anpassning, storleken har ändrats, ändra storlek, placering, studsning, skalning, animation, gömma, gömd, visning, visad, förstoring, förstora, minimerad, minimera, maximerad, maximering, förstoring, dokument, öppet, öppen, öppna, automatiskt, menyrad</string>
+                    <key>title</key>
+                    <string>Dock-inställningar</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>automatiskt, göm, visa, dock</string>
+                    <key>title</key>
+                    <string>Göm och visa Dock automatiskt</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>automatiskt, visa, göm, menyrad</string>
+                    <key>title</key>
+                    <string>Göm och visa menyraden på skrivbordet automatiskt</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>automatiskt, visa, göm, menyrad</string>
+                    <key>title</key>
+                    <string>Göm och visa menyraden automatiskt i helskärmsläge</string>
+                </dict>
+            </array>
+        </dict>
+        <key>AccessibilityShortcuts</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>hjälpmedelsgenvägar, visa, göm, menyrad</string>
+                    <key>title</key>
+                    <string>Visa hjälpmedelsgenvägar i menyraden</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>hjälpmedelsgenvägar, visa, kontrollcenter</string>
+                    <key>title</key>
+                    <string>Visa hjälpmedelsgenvägar i Kontrollcenter</string>
+                </dict>
+            </array>
+        </dict>
+        <key>AirDrop</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>bluetooth, visa, göm, menyrad</string>
+                    <key>title</key>
+                    <string>Visa AirDrop-status i menyraden</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Battery</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>batteri, laddning, ladda, visa, göm, menyrad</string>
+                    <key>portableOnly</key><true/>
+                    <key>title</key>
+                    <string>Visa batteristatus i menyraden</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>batteri, laddning, ladda, visa, göm, kontrollcenter</string>
+                    <key>portableOnly</key><true/>
+                    <key>title</key>
+                    <string>Visa batteristatus i Kontrollcenter</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>batteri, procent, procentandel, visa, göm, menyrad</string>
+                    <key>portableOnly</key><true/>
+                    <key>title</key>
+                    <string>Visa batteriprocent i menyraden</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Bluetooth</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>bluetooth, visa, göm, menyrad</string>
+                    <key>title</key>
+                    <string>Visa Bluetooth-status i menyraden</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Clock</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>klocka, datum, tid, visa, göm, menyrad</string>
+                    <key>title</key>
+                    <string>Visa veckodag i menyraden</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>klocka, datum, tid, visa, göm, menyrad</string>
+                    <key>title</key>
+                    <string>Visa datum i menyraden</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>24, timmar, klocka, datum, tid, visa, göm, menyrad</string>
+                    <key>title</key>
+                    <string>Använd 24-timmarsklocka i menyraden</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>FM, fm, EM, em, klocka, datum, tid, visa, göm, menyrad</string>
+                    <key>title</key>
+                    <string>Visa fm/em i menyraden</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>blinka, blinkande, skiljetecken, sekund, sekunder, klocka, tid, visa, göm, menyrad</string>
+                    <key>title</key>
+                    <string>Blinkande skiljetecken i menyraden</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>sekund, sekunder, klocka, tid, visa, göm, menyrad</string>
+                    <key>title</key>
+                    <string>Visa tiden med sekunder i menyraden</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>röst, säga, läs upp, timme, halvtimme, kvart, klocka, tid</string>
+                    <key>title</key>
+                    <string>Meddela tiden</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Display</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>skärm, ljusstyrka, Sidecar, visa, göm, menyrad</string>
+                    <key>title</key>
+                    <string>Visa bildskärmar i menyraden</string>
+                </dict>
+            </array>
+        </dict>
+        <key>DoNotDisturb</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>stör ej, visa, göm, menyrad</string>
+                    <key>title</key>
+                    <string>Visa Stör ej-status i menyraden</string>
+                </dict>
+            </array>
+        </dict>
+        <key>FocusModes</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>fokus, stör ej, visa, göm, menyrad</string>
+                    <key>title</key>
+                    <string>Visa fokusstatus i menyraden</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Hearing</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>hörsel, visa, göm, menyrad</string>
+                    <key>title</key>
+                    <string>Visa hörsel i menyraden</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>hörsel, visa, kontrollcenter</string>
+                    <key>title</key>
+                    <string>Visa hörsel i Kontrollcenter</string>
+                </dict>
+            </array>
+        </dict>
+        <key>KeyboardBrightness</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>tangentbord, ljusstyrka, bakbelysning, visa, göm, menyrad</string>
+                    <key>portableOnly</key><true/>
+                    <key>title</key>
+                    <string>Visa tangentbordsljusstyrka i menyraden</string>
+                </dict>
+            </array>
+        </dict>
+        <key>NowPlaying</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>nu spelas, musik, media, medier, reglage, fjärrkontroll, spela, uppspelning, visa, göm, menyrad</string>
+                    <key>title</key>
+                    <string>Visa Nu spelas-status i menyraden</string>
+                </dict>
+            </array>
+        </dict>
+        <key>ScreenMirroring</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>skärmdubblering, AirPlay, visa, göm, menyrad</string>
+                    <key>title</key>
+                    <string>Visa skärmdubbleringsstatus i menyraden</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Sound</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>ljud, volym, visa, göm, menyrad</string>
+                    <key>title</key>
+                    <string>Visa volym i menyraden</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Siri</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>siri, visa, göm, menyrad</string>
+                    <key>title</key>
+                    <string>Visa Siri i menyraden</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Spotlight</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>spotlight, visa, göm, menyrad</string>
+                    <key>title</key>
+                    <string>Visa Spotlight i menyraden</string>
+                </dict>
+            </array>
+        </dict>
+        <key>TimeMachine</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>time machine, säkerhetskopior, visa, göm, menyrad</string>
+                    <key>title</key>
+                    <string>Visa Time Machine-status i menyraden</string>
+                </dict>
+            </array>
+        </dict>
+        <key>WiFi</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>wifi, wi-fi, visa, göm, menyrad</string>
+                    <key>title</key>
+                    <string>Visa Wi-Fi-status i menyraden</string><!-- NON-BREAKING HYPHEN (U+2011) -->
+                </dict>
+            </array>
+        </dict>
+        <key>UserSwitcher</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>snabbt användarbyte, användarbyte, visa, göm, menyrad</string>
+                    <key>title</key>
+                    <string>Visa snabbt användarbyte i menyraden</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>snabbt användarbyte, användarbyte, visa, kontrollcenter</string>
+                    <key>title</key>
+                    <string>Visa snabbt användarbyte i Kontrollcenter</string>
+                </dict>
+            </array>
+        </dict>
+    </dict>
+</plist>

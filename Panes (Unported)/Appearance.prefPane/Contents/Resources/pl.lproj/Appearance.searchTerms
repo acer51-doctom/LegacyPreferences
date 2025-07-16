@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+        <key>Handoff</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>comments</key>
+                    <string>Lokalizowane słowa kluczowe</string>
+                    <key>index</key>
+                    <string>continuity, przekazywanie, kontynuowanie, czynność, handoff</string>
+                    <key>title</key>
+                    <string>Pozwalaj na Handoff</string>
+                </dict>
+            </array>
+        </dict>
+		<key>Main</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Lokalizowane słowa kluczowe</string>
+					<key>index</key>
+					<string>zaznaczony, tekst, podświetlanie, podświetlać, podświetlenie, zaznaczenie, zaznaczanie, zaznaczonego, wyróżnionego, wyróżnianie, wygląd</string>
+					<key>title</key>
+					<string>Kolor podświetlenia</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Lokalizowane słowa kluczowe</string>
+					<key>index</key>
+					<string>menu Apple, menu jabłko, aplikacje, aplikacje, dokumenty, serwery</string>
+					<key>title</key>
+					<string>Liczba ostatnich rzeczy</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Lokalizowane słowa kluczowe</string>
+					<key>index</key>
+					<string>biurko, dostosowanie, personalizacja, karta, karty, dostosować, dostosowywanie, spersonalizowanie, personalizowanie, spersonalizować, biurka, wygląd</string>
+					<key>title</key>
+					<string>Wygląd przycisków, menu i okien</string>
+				</dict>
+
+				<dict>
+					<key>comments</key>
+					<string>Lokalizowane słowa kluczowe</string>
+					<key>index</key>
+					<string>biurko, dostosowanie, personalizacja, dostosować, dostosowywanie, automatyczne, auto, spersonalizowanie, personalizowanie, spersonalizować, biurka, wygląd, jasny, jasne, ciemny, ciemne, motyw, tryb, Tryb ciemny</string>
+					<key>title</key>
+					<string>Wygląd</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Lokalizowane słowa kluczowe</string>
+					<key>index</key>
+					<string>przycisk, zaznaczone, zaznaczenie, menu, wygląd, kolor</string>
+					<key>title</key>
+					<string>Kolor akcentu</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Lokalizowane słowa kluczowe</string>
+					<key>index</key>
+					<string>edycje, zmiany, zachowaj, zachowywanie, zamknij, zamykanie, zakończ, kończenie, dokument, plik</string>
+					<key>title</key>
+					<string>Zachowanie zmian</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Lokalizowane słowa kluczowe</string>
+					<key>index</key>
+					<string>okno, przeskocz, przeskok, przeskakiwanie, pasek przewijania</string>
+					<key>title</key>
+					<string>Zachowanie paska przewijania</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Lokalizowane słowa kluczowe</string>
+					<key>index</key>
+					<string>ikona, boczny, pasek, wielkość, pasek boczny</string>
+					<key>title</key>
+					<string>Ikony na pasku bocznym</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Lokalizowane słowa kluczowe</string>
+					<key>index</key>
+					<string>zakończ, kończenie, otwórz, otwieranie, ponowne otwieranie, otwórz ponownie, odtwarzanie, preferuj karty</string>
+					<key>title</key>
+					<string>Zamykanie i przywracanie okien</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Lokalizowane słowa kluczowe</string>
+					<key>index</key>
+					<string>Safari, http, https, surfowanie, www, witryna, strona, strona www</string>
+					<key>title</key>
+					<string>Ustaw domyślną przeglądarkę Internetu</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+</plist>

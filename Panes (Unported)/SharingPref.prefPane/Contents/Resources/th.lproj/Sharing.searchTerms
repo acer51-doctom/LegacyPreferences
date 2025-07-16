@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>Internet</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>คำดัชนีที่แปลได้</string>
+					<key>index</key>
+					<string>แชร์, การเชื่อมต่อ, ไร้สาย, nat, Wi-Fi, อีเธอร์เน็ต, FireWire</string>
+					<key>title</key>
+					<string>การแชร์อินเทอร์เน็ต</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Main</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>คำดัชนีที่แปลได้</string>
+					<key>index</key>
+					<string>โลคัล, ซับเน็ต, ค่ากำหนดเครือข่ายย่อย, bonjour</string>
+					<key>title</key>
+					<string>ชื่อคอมพิวเตอร์</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_ARDService</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>คำดัชนีที่แปลได้</string>
+					<key>index</key>
+					<string>ระยะไกล, การจัดการ, การจัดการระยะไกล, ard, ควบคุม, VNC</string>
+					<key>title</key>
+					<string>การจัดการระยะไกล</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_DVDorCDSharing</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>index</key>
+					<string/>
+					<key>title</key>
+					<string>การแชร์แผ่น DVD หรือ CD</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_PersonalFileSharing</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>คำดัชนีที่แปลได้</string>
+					<key>index</key>
+					<string>nat afp exchange, แชร์</string>
+					<key>title</key>
+					<string>การแชร์ไฟล์</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_PrinterSharing</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>คำดัชนีที่แปลได้</string>
+					<key>index</key>
+					<string>cups, แชร์</string>
+					<key>title</key>
+					<string>การแชร์เครื่องพิมพ์</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_RemoteAppleEvent</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>คำดัชนีที่แปลได้</string>
+					<key>index</key>
+					<string>ae</string>
+					<key>title</key>
+					<string>เหตุการณ์ Apple ระยะไกล</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_RemoteLogin</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>คำดัชนีที่แปลได้</string>
+					<key>index</key>
+					<string>ssh, บริการ, เก็บบันทึกการใช้งาน, ลงชื่อ, ใน, เข้า, การเก็บบันทึกการใช้งาน, ล็อกออน, กำลังลงชื่อ, ลงชื่อเข้า, ลงชื่อเข้าใช้</string>
+					<key>title</key>
+					<string>การเข้าสู่ระบบระยะไกล</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_ScreenSharing</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>index</key>
+					<string>ควบคุม, VNC</string>
+					<key>title</key>
+					<string>การแชร์หน้าจอ</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_WindowsSharing</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>คำดัชนีที่แปลได้</string>
+					<key>index</key>
+					<string>samba, บริการ, SMB/CIFS, เครื่องพิมพ์, โฟลเดอร์, แชร์</string>
+					<key>title</key>
+					<string>การแชร์ไฟล์ Windows</string>
+				</dict>
+			</array>
+		</dict>
+        <key>Services_ContentCaching</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>comments</key>
+                    <string>คำดัชนีที่แปลได้</string>
+                    <key>index</key>
+                    <string>แคช, การแคช</string>
+                    <key>title</key>
+                    <string>การแคชเนื้อหา</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Services_AirPlayReceiver</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>comments</key>
+                    <string>คำดัชนีที่แปลได้</string>
+                    <key>index</key>
+                    <string>airplay, ตัวรับสัญญาณ</string>
+                    <key>title</key>
+                    <string>ตัวรับสัญญาณ AirPlay</string>
+                </dict>
+            </array>
+        </dict>
+	</dict>
+</plist>

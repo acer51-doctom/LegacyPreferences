@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>InputSources</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Methode, Menüleiste</string>
+				<key>title</key>
+				<string>Eingabequellen in der Menüleiste anzeigen</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>eingeben, Eingabe, Quellen, Qwerty, Pro, PC, Standard, ISO, ANSI, JIS, Erweitert, Dvorak, Afghanisch, Arabisch, Armenisch, Österreichisch, Azeri, Belgisch, Brasilianisch, Englisch, Bulgarisch, Weißrussisch, Kanadisch, Cherokee, Kroatisch, Tschechisch, Dänisch, Devanagari, Niederländisch, Estnisch, Färöisch, Finnisch, Französisch, Deutsch, Griechisch, Gujarati, Gurmukhi, Hawaiianisch, Hebräisch, Ungarisch, Isländisch, Inuktitut, Irisch, Italienisch, Jawi, Kasachisch, Lettisch, Litauisch, Mazedonisch, Maltesisch, Maorisch, Nepalesisch, Sami, Norwegisch, Persisch, Polnisch, Portugiesisch, Rumänisch, Russisch, Serbisch, Slowakisch, Slowenisch, Spanisch, Schwedisch, Schweiz, Thailändisch, Tibetisch, Türkisch, US, Uigurisch, Ukrainisch, Unicode, Hex, Vietnamesisch, Walisisch</string>
+				<key>title</key>
+				<string>Tastaturbelegungen</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Haupt, Sprachen, Modus, Quellen, international, Fremdsprache, Zeichen, Unicode, Japanisch, Kotoeri, Hiragana, Katakana, Romaji, Ainu, Chinesisch, Traditionell, Hanin, Vereinfacht, Wubi, Koreanisch, Hangul, Vietnamesisch, Telex, Tamilisch, Anjal</string>
+				<key>title</key>
+				<string>Eingabemethoden</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Palette, Symbol, Übersicht, Symbole, Zeichen, Unicode, Japanisch, Kana, Quellen, Tastatur, Tasten, Satzzeichen</string>
+				<key>title</key>
+				<string>Paletten</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>Eingabe, Quelle, Dokument</string>
+				<key>title</key>
+				<string>In allen Dokumenten dieselbe Eingabequelle verwenden</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>Eingabe, Quelle, Dokument</string>
+				<key>title</key>
+				<string>Für jedes Dokument eine andere Eingabequelle zulassen</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Text</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Brüche, ersetzen, Ersetzung, Ersetzen, Kurzbefehle</string>
+				<key>title</key>
+				<string>Symbol- und Textersetzung</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Sprache, Rechtschreibprüfung, Rechtschreibung prüfen, Rechtschreibung automatisch korrigieren, Schreibfehler korrigieren, Groß- und Kleinschreibung, Zeichenabstand</string>
+				<key>title</key>
+				<string>Rechtschreibung</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Schreibvorschläge, Quicktype, Quick Type, Textschläge, Vorschläge, Texteingabe, Touch Bar, Touchbar, Bar, Leiste</string>
+				<key>title</key>
+				<string>Touch Bar-Schreibvorschläge</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>intelligente Anführungszeichen, Anführungszeichen, Bindestriche</string>
+				<key>title</key>
+				<string>Typografische Interpunktion</string>
+			</dict>
+		</array>
+	</dict>
+	<key>keyboardTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Bluetooth, Tastatur, Geräte</string>
+				<key>title</key>
+				<string>Bluetooth-Tastatur konfigurieren</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Tasten, Verzögerung, Wiederholung, Akzent, Antwort, Funktion, Fn, F1, F2, F3, F4, F5, F6, F7, F8, F9, F10, F11, F12, Rate, Geschwindigkeit, Tempo, eingeben, verzögern, wiederholen, Eingabe</string>
+				<key>title</key>
+				<string>Tastaturempfindlichkeit, Empfindlichkeit</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>sehen, Sicht, dunkel, wenig Licht, abdunkeln, Nacht, eingeben, Sehen, beleuchten, beleuchtet, Eingabe, Helligkeit, anpassen, automatisch, Hintergrundbeleuchtung, hintergrundbeleuchtet</string>
+				<key>title</key>
+				<string>Tastatur beleuchten</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Touch Bar, Touchbar, Bar, Leiste, Control Strip, Strip, Fn, Funktionstasten, anpassen, personalisieren</string>
+				<key>title</key>
+				<string>Touch Bar oder Control Strip anpassen</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>Menüleiste, Paletten, Symbole, Emoji-Symbole, Tastaturübersicht</string>
+				<key>title</key>
+				<string>Tastatur- und Emoji-Übersichten in der Menüleiste anzeigen</string>
+			</dict>
+		</array>
+	</dict>
+	<key>keyboardTab_ModifierKeys</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Feststelltaste, ctrl-Taste, Wahltaste, Befehlstaste</string>
+				<key>title</key>
+				<string>Sondertasten zurücksetzen</string>
+			</dict>
+		</array>
+	</dict>
+	<key>shortcutsTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Kurzbefehle, Launchpad, Dock, Mission Control, Bildschirmfoto, Bildschirmfotos, Bildschirm-Foto, Bildschirm-Fotos, Dienste, Spotlight, Bedienungshilfe, Tastatursteuerung, Eingabequellen, App, Funktionstasten, Touch Bar, Touchbar, Leiste, Bar</string>
+				<key>title</key>
+				<string>Tastaturkurzbefehle, Kurzbefehle</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Dictation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>diktieren, Diktat, hören, anhören, Sprache, Mikrofon, erkennen, Erkennung, Kennen, Sprache, sprechen, Kurzbefehle, erzählen</string>
+				<key>title</key>
+				<string>Diktat</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

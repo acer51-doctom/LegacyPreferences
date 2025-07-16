@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fax</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Palavras de índice localizáveis</string>
+				<key>index</key>
+				<string>enviar faxes, fax, facsimile</string>
+				<key>title</key>
+				<string>Definições de fax</string>
+			</dict>
+		</array>
+	</dict>
+	<key>print</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Palavras de índice localizáveis</string>
+				<key>index</key>
+				<string>predefinição, filas de espera, controladores, tamanho do papel, configuração da página, cups, adicionar, imprimir</string>
+				<key>title</key>
+				<string>Configurar impressoras</string>
+			</dict>
+		</array>
+	</dict>
+	<key>scan</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Palavras de índice localizáveis</string>
+				<key>index</key>
+				<string>digitalizadores, digitalizar, imagem, imagens</string>
+				<key>title</key>
+				<string>Configurar digitalizadores</string>
+			</dict>
+		</array>
+	</dict>
+	<key>share</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Palavras de índice localizáveis</string>
+				<key>index</key>
+				<string>partilha</string>
+				<key>title</key>
+				<string>Partilhar uma impressora</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

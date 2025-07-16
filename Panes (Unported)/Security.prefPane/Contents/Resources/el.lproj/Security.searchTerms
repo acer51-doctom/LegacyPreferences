@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Advanced</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>υπέρυθρες, υπέρυθρος, δέκτης, IR</string>
+				<key>title</key>
+				<string>Απενεργοποίηση τηλεχειριστηρίου</string>
+			</dict>
+		</array>
+	</dict>
+	<key>FDE</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>δίσκος, κρυπτογραφώ, κρυπτογραφημένο, κρυπτογράφηση, FileVault</string>
+				<key>title</key>
+				<string>FileVault</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Firewall</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>αποτροπή, αποκλεισμός, εμπόδιο, δίκτυο, θύρες, udp, κοινή χρήση αρχείων, απομακρυσμένα, εξ αποστάσεως, SSH, αποκλεισμένα, τείχος προστασίας</string>
+				<key>title</key>
+				<string>Ενεργοποίηση ή απενεργοποίηση τείχους προστασίας</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>τείχος προστασίας</string>
+				<key>title</key>
+				<string>Προηγμένες ρυθμίσεις τείχους προστασίας</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>stealthmode</string>
+				<key>title</key>
+				<string>Αόρατη λειτουργία</string>
+			</dict>
+		</array>
+	</dict>
+	<key>General</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+            <dict>
+                <key>comments</key>
+                <string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+                <key>index</key>
+                <string>apple watch, ρολόι, ξεκλείδωμα, έγκριση</string>
+                <key>title</key>
+                <string>Να επιτρέπεται στο Apple Watch να ξεκλειδώνει το Mac σας</string>
+            </dict>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>οθόνη, προφύλαξη, συνθηματικό, έλεγχος, ταυτότητας, κλείδωμα, ξεκλείδωμα, ύπνος, αφύπνιση, προφύλαξη οθόνης</string>
+				<key>title</key>
+				<string>Απαίτηση συνθηματικού για αφύπνιση του υπολογιστή</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>είσοδος, σύνδεση, αυτόματα, αυτόματη</string>
+				<key>title</key>
+				<string>Απενεργοποίηση αυτόματης εισόδου</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>κλείδωμα, ξεκλείδωμα</string>
+				<key>title</key>
+				<string>Κλείδωμα Προτιμήσεων συστήματος</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>αποσύνδεση, έξοδος</string>
+				<key>title</key>
+				<string>Έξοδος όταν είναι σε αδράνεια</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>ασφαλής, ασφάλεια, προστασία, ασφαλισμένο, προστατευμένο</string>
+				<key>title</key>
+				<string>Ρυθμίσεις ασφάλειας</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Κλείδωμα οθόνης</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>Gatekeeper, gate, keeper, αναγνωρίστηκε, προγραμματιστές, εφαρμογές, λήψεις</string>
+				<key>title</key>
+				<string>Gatekeeper</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>ιδιωτικό, απόρρητο</string>
+				<key>title</key>
+				<string>Ρυθμίσεις απορρήτου</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Accessibility</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>προσβασιμότητα</string>
+				<key>title</key>
+				<string>Να επιτρέπεται στις εφαρμογές η χρήση της Προσβασιμότητας</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_AllFiles</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Αρχεία</string>
+				<key>title</key>
+				<string>Να επιτρέπεται στις εφαρμογές η πρόσβαση σε όλα τα αρχεία χρήστη</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Assistive</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>καθολική, πρόσβαση, προσβασιμότητα, ανάπηροι, με ειδικές ανάγκες, με προβλήματα, βοηθητικό, assistive control, κινητικότητα, αναπηρικό καρότσι, αναπηρικό αμαξίδιο</string>
+				<key>title</key>
+				<string>Να επιτρέπεται σε βοηθητικές εφαρμογές να ελέγχουν τον υπολογιστή</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Calendars</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Ημερολόγια, ημερομηνίες</string>
+				<key>title</key>
+				<string>Να επιτρέπεται στις εφαρμογές η πρόσβαση στο Ημερολόγιο</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Camera</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>κάμερα, εφαρμογή, πρόσβαση, ιδιωτικό, απόρρητο</string>
+				<key>title</key>
+				<string>Να επιτρέπεται στις εφαρμογές η πρόσβαση στην κάμερα</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Contacts</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>επαφή, διεύθυνση, εφαρμογή, πρόσβαση, ιδιωτικό, απόρρητο</string>
+				<key>title</key>
+				<string>Να επιτρέπεται στις εφαρμογές η πρόσβαση στις Επαφές</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_SystemServices</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>τοποθεσία, υπηρεσία, ώρα, ζώνη, πρόσβαση, διαφημίσεις, εύρεση mac, οικία, homekit, spotlight, απόρρητο</string>
+				<key>title</key>
+				<string>Να επιτρέπεται στις υπηρεσίες συστήματος να προσδιορίζουν την τοποθεσία σας</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_LocationServices</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>τοποθεσία, υπηρεσία, εφαρμογή, πρόσβαση, ιδιωτικό, απόρρητο</string>
+				<key>title</key>
+				<string>Να επιτρέπεται στις εφαρμογές η πρόσβαση στην Τοποθεσία</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Microphone</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>μικρόφωνο, εφαρμογή, πρόσβαση, ιδιωτικό, απόρρητο</string>
+				<key>title</key>
+				<string>Να επιτρέπεται στις εφαρμογές η πρόσβαση στο μικρόφωνο</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Reminders</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Υπομνήσεις, υποχρέωση</string>
+				<key>title</key>
+				<string>Να επιτρέπεται στις εφαρμογές η πρόσβαση στις Υπομνήσεις</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

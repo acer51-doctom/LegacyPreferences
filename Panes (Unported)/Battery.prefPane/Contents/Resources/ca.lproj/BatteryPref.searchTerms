@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>currentSource</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Estalviar bateria</string>
+                <key>index</key>
+                <string>pantalles, monitors, aclarir, enfosquir, augmentar, reduir, brillantor, repòs, activar, apagar, arrencar, engegar, encendre, electricitat, corrent, ecologia, desar, estalviar, conservar, preservar, conservació, preservació, mediambiental, medi ambient, ecològic, carregar, endoll, endollar, connectar, desendollar, optimitzar, rendiment, processador, automàtic, fosc, negre, enfosquint, atenuar, atenuat, en repòs, activació, activant, apagant, engegant, encès, estalvi, carregat, carregant, optimitzat, optimització, automatitzat, automatitzar, automàticament, optimitzar la transmissió de vídeo, càrrega optimitzada de la bateria, adaptador, cable, canvi de gràfics automàtic</string>
+                <key>comments</key>
+                <string>Paraules d’índex localitzables</string>
+            </dict>
+            <dict>
+                <key>title</key>
+                <string>Mostrar l’estat de la bateria a la barra de menús</string>
+                <key>index</key>
+                <string>barra de menús</string>
+                <key>comments</key>
+                <string>Paraules d’índex localitzables</string>
+            </dict>
+            <dict>
+                <key>title</key>
+                <string>Power Nap</string>
+                <key>index</key>
+                <string>power nap, powernap</string>
+                <key>comments</key>
+                <string>Paraules d’índex localitzables</string>
+            </dict>
+        </array>
+    </dict>
+    <key>usage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Historial d’ús de la bateria</string>
+                <key>index</key>
+                <string>nivell de la bateria, temps en pantalla, consum d’energia</string>
+                <key>comments</key>
+                <string>Paraules d’índex localitzables</string>
+            </dict>
+        </array>
+    </dict>
+    <key>battery</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Salut de la bateria</string>
+                <key>index</key>
+                <string>servei de la bateria, capacitat màxima, longevitat de la bateria, missatge important sobre la bateria, estat de la bateria</string>
+                <key>comments</key>
+                <string>Paraules d’índex localitzables</string>
+            </dict>
+        </array>
+    </dict>
+    <key>adapter</key>
+    <dict/>
+    <key>ups</key>
+    <dict/>
+    <key>schedule</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Programar l’arrencada, el repòs o l’apagada</string>
+                <key>index</key>
+                <string>repòs, activar, arrencada, inici, engegar, arrencar, apagat, apagar, automàtic, programat, programar, programació, en repòs, repòs, activat, activació, apagant, apagat, automatitzat, automatitzar, automàticament</string>
+                <key>comments</key>
+                <string>Paraules d’índex localitzables</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

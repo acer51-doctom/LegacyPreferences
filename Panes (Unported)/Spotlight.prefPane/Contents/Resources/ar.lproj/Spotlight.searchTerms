@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>privacy</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة</string>
+				<key>index</key>
+				<string>خصوصية، الخصوصية، حماية، الحماية، منع، المنع، سري، السري، مخفي، المخفي، محمي، المحمي، حماية، الحماية، المحظور، الخطر، محظور، حظر، privacy، protect، prevent، secret، hidden، protected، protecting، protection، preventing، prevention، blocked، blocking</string>
+				<key>title</key>
+				<string>حظر البحث في الملفات الخاصة</string>
+			</dict>
+		</array>
+	</dict>
+	<key>searchResults</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة</string>
+				<key>index</key>
+				<string>بحث، البحث، نتائج، النتائج، عدد عمليات البحث، عمليات البحث، عثور، العثور، find، results، hits، searches، searching، finding</string>
+				<key>title</key>
+				<string>فئات بحث Spotlight</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة</string>
+				<key>index</key>
+				<string>مفتاح، المفتاح، ضغط المفاتيح، مجموعة، المجموعة، مجمع، المجمع، key، keystroke، combination، combo</string>
+				<key>title</key>
+				<string>اختصارات Spotlight</string>
+			</dict>
+            <dict>
+                <key>comments</key>
+                <string>كلمات الفهرس القابلة للترجمة</string>
+                <key>index</key>
+                <string>البحث، بحث، البحث العام، بحث عام</string>
+                <key>title</key>
+                <string>اقتراحات Spotlight في البحث العام</string>
+            </dict>
+		</array>
+	</dict>
+</dict>
+</plist>

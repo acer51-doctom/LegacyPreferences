@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Accessibility_Shortcut</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>sneltoets toegankelijkheid, toegankelijkheid, sneltoets</string>
+				<key>title</key>
+				<string>Activeringsknop</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Alternate_Pointer_Actions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>klik, klikken, muis, schakel, schakelen, alternatief, knop, Muistoetsen, uitdrukking, gezicht, gelaat</string>
+				<key>title</key>
+				<string>Alternatieve aanwijzeracties</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Captioning</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>ondertiteling voor doven en slechthorenden, bijschriften voor spraak en geluiden, doof, horen, films, ondertiteling, ondertitels, tekstspoor</string>
+				<key>title</key>
+				<string>Ondertiteling (voor doven en slechthorenden) activeren</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>ondertiteling voor doven en slechthorenden, bijschriften voor spraak en geluiden, doof, horen, films, ondertiteling, ondertitels, tekstspoor</string>
+				<key>title</key>
+				<string>Ondertiteling (voor doven en slechthorenden) aanpassen</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Dictation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>Universeel, Universele, toegang, toegankelijkheid, invalide, gehandicapt, handicap, zicht, blind, zien, zichtbaar, horen, doof, spreken, uitspreken, gesproken, onderdelen, commando's, onderdelen, herkennen, herkenning, assisteren, assistentie, helpen, hulp, praten, stem, stemmen, kalibreren, kalibratie, luisteren, horen, toets, toetscombinatie, sneltoets, aanpassen, aanpassing, microfoon, volume, oplezen, hardop, aangepast, dicteren, stembediening</string>
+				<key>title</key>
+				<string>Stembediening</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Dwell</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>houd stil, stilhouden, paneel, paneeleditor, toetsenbord, schermtoetsenbord, virtueel toetsenbord, toegankelijkheidstoetsenbord, muis stilhouden, muis, hoofdtracking, Stilhoudbediening, universeel, universele, toegang, toegankelijkheid, invalide, gehandicapt, handicap, beperkt, belemmerd, assistive control, hulpmiddelen, mobiliteit, rolstoel</string>
+				<key>title</key>
+				<string>Stilhouden voor toegankelijkheidstoetsenbord</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Full_Keyboard_Access</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>uitgebreid, toetsenbord, toegang, navigatie, commando's, tab</string>
+				<key>title</key>
+				<string>Uitgebreide toetsenbordfuncties</string>
+			</dict>
+		</array>
+	</dict>
+	<key>General</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>Universeel, universele, toegang, toegankelijkheid, invalide, gehandicapt, handicap, beperkt, beperking, hulp, assistentie, gemakkelijker, eenvoudiger, aanpassen, aanpassingen, typen</string>
+				<key>title</key>
+				<string>Algemene toegankelijkheidsinstellingen</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Head_Pointer</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>hoofd, gezicht, muis, aanwijzer, volgen</string>
+				<key>title</key>
+				<string>Hoofdaanwijzer</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Hearing</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>Universeel, universele, toegang, toegankelijkheid, invalide, gehandicapt, handicap, beperkt, beperking, horen, luisteren, doof, hulp, assistentie</string>
+				<key>title</key>
+				<string>Knipperen met het scherm bij waarschuwingssignalen</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>Universeel, universele, toegang, toegankelijkheid, invalide, gehandicapt, handicap, beperkt, beperking, horen, luisteren, doof, hulp, assistentie</string>
+				<key>title</key>
+				<string>Stereo mono afspelen</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Keyboard</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>Universeel, universele, toegang, toegankelijkheid, invalide, gehandicapt, handicap, schakelaar, beperkt, beperking, vertragen, trager, traag, langzaam, langzamer, gemakkelijk, eenvoudig, plaktoetsen, herhalingstempo, herhaling, speciaal, speciale toets, aanpassen, aanpassing, typen, trager, langzamer, aangepast, invoeren</string>
+				<key>title</key>
+				<string>Toetsenbord gemakkelijker gebruiken</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>Universeel, universele, toegang, toegankelijkheid, invalide, gehandicapt, handicap, beperkt, beperking, hulp, assistentie, speciale toets, snelheid, typen, feedback bij typen</string>
+				<key>title</key>
+				<string>Schakel feedback bij typen in</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Media_Descriptions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>Universeel, universele, toegang, toegankelijkheid, invalide, gehandicapt, handicap, beperkt, blind, zicht, zichtbaar, beperking, video, media, beschrijvingen, beschrijven, beschreven</string>
+				<key>title</key>
+				<string>Mediabeschrijvingen</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Mouse</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>toegang, toegankelijkheid, aanpassen, aanpassing, aanpassingen, assistive control, cursor, vertraging, invalide, dubbel klikken, dubbelklikken, slepen, eenvoudig, gehandicapt, beperkt, beperking, haptisch, haptische feedback, vertraging, toetsenbord, toetsenblok, toetsen, vergrendelen, verplaatsen, verplaats, verplaatsing, numeriek, aanwijzer, scrollen, scrol, vertraging, vertragen, langzaam, langzamer, vertragen, vertraging, snelheid, openspringen, open springen, schakelen, schakelaar, drie vingers, slepen met drie vingers, Universeel, Universele</string>
+				<key>title</key>
+				<string>Muis en trackpad gemakkelijker gebruiken</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Deactiveer scrollen</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Traagheid scrollen</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_ColorFilters</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>kleur, filter, kleurenblind</string>
+				<key>title</key>
+				<string>Kleurfilters beeldscherm</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_Cursor</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>cursor, aanwijzer, pijl, vergroten, groter, groter maken, vergroting, vergroot</string>
+				<key>title</key>
+				<string>Cursorgrootte</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>cursor, aanwijzer, muis, trackpad, schudden, wiebelen</string>
+				<key>title</key>
+				<string>Schud muisaanwijzer om deze te vinden</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_Display</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>Universeel, universele, toegang, toegankelijkheid, invalide, gehandicapt, handicap, beperkt, beperking, blind, zicht, zien, zichtbaar, belemmerd, lezen, zien, bekijken, verbeteren, contrast, zwart, wit, grijs, grijsschaal, aanpassingen, aanpassen, weergave, beter, gemakkelijker, eenvoudiger, beweging, verminder beweging, verminder doorzichtigheid, transparantie, transparant, doorzichtigheid, doorzichtig, vervaging, achtergrond, kleur</string>
+				<key>title</key>
+				<string>Scherm gemakkelijker bekijken</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_VoiceOver</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>gesproken, spreken, interface, horen, luisteren, scherm, oplezen, universeel, universele, toegang, toegankelijkheid, invalide, gehandicapt, handicap, beperkt, blind, zicht, zien, zichtbaar, belemmerd, voiceover</string>
+				<key>title</key>
+				<string>VoiceOver in- en uitschakelen</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>menubalk</string>
+				<key>title</key>
+				<string>'Toegankelijkheid' in menubalk tonen</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_Zoom</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>touchbar, touch bar, zoomen, vergroot, vergroten, zoom, vergroting</string>
+				<key>title</key>
+				<string>Activeer Touch Bar-zoomen</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>Universeel, universele, toegang, toegankelijkheid, invalide, gehandicapt, handicap, beperkt, beperking, blind, zicht, zien, zichtbaar, belemmerd, groter, vergroten, vergroot, vergroting, groot, zoomen, zoom, lezen, zien, bekijken, toenemen, afnemen, toename, afname, maximum, minimum, maximaal, minimaal, scrollen, muis, wiel, bal, scrolbal, scrolwiel, muisbal, muiswiel, weergave, meer, minder, tekst onder aanwijzer</string>
+				<key>title</key>
+				<string>Geef tekst onder aanwijzer groter weer</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>Universeel, universele, toegang, toegankelijkheid, invalide, gehandicapt, handicap, beperkt, beperking, blind, zicht, zien, zichtbaar, belemmerd, groter, vergroten, vergroot, vergroting, groot, zoomen, zoom, lezen, zien, bekijken, toenemen, afnemen, toename, afname, maximum, minimum, maximaal, minimaal, scrollen, muis, wiel, bal, scrolbal, scrolwiel, muisbal, muiswiel, weergave, meer, minder, groter maken, beeldschermen, monitors, tweede, meerdere, schermen</string>
+				<key>title</key>
+				<string>Weergave vergroten door zoomen</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Siri</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>typen, typ vragen aan siri, typen siri, siri typen</string>
+				<key>title</key>
+				<string>Typ vragen aan Siri</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Switch</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>paneel, paneeleditor, scan, scannen, schakelaar, schakelaars, overschakelen, universeel, universele, toegang, toegankelijkheid, invalide, gehandicapt, handicap, beperkt, belemmerd, assistive control, hulpmiddelen, mobiliteit, rolstoel</string>
+				<key>title</key>
+				<string>Schakelbedieningeditor</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>scan, scannen, schakelaar, schakelaars, overschakelen, universeel, universele, toegang, toegankelijkheid, invalide, gehandicapt, handicap, beperkt, belemmerd, assistive control, hulpmiddelen, mobiliteit, rolstoel</string>
+				<key>title</key>
+				<string>Activeer schakelbediening</string>
+			</dict>
+		</array>
+	</dict>
+	<key>TextToSpeech</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>spraak, synthese, tekst-naar-spraak, gesproken, aankondigen aankondigingen, tekst, uitspreken, spreken, stem, spraak, snelheid, waarschuwingen, oplezen, praten, hardop</string>
+				<key>title</key>
+				<string>Spraak</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Virtual_Keyboard</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>paneel, paneeleditor, toetsenbord, schermtoetsenbord, virtueel toetsenbord, toegankelijkheidstoetsenbord, muis, hoofdtracking, universeel, universele, toegang, toegankelijkheid, invalide, gehandicapt, handicap, beperkt, belemmerd, assistive control, hulpmiddelen, mobiliteit, rolstoel</string>
+				<key>title</key>
+				<string>Paneeleditor toegankelijkheidstoetsenbord</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>toetsenbord, schermtoetsenbord, virtueel toetsenbord, toegankelijkheidstoetsenbord, muis, hoofdtracking, universeel, universele, toegang, toegankelijkheid, invalide, gehandicapt, handicap, beperkt, belemmerd, assistive control, hulpmiddelen, mobiliteit, rolstoel, inloggen, log in</string>
+				<key>title</key>
+				<string>Activeer toegankelijkheidstoetsenbord</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

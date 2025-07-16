@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>Dock</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>personalizza, control strip, barra strumenti, ridimensiona, più grande, più piccolo, posizione, scrivania, sinistra, destra, in basso, bordi, scala, anima, genio, nascondi, mostra, ingrandisci, contrai, aumenta, amplia, maggiore, personalizzato, personalizzare, personalizzazione, controlstrip, barra degli strumenti, ridimensionato, ridimensionare, posizionare, animare, animazione, nascondere, nascosto, mostrare, mostrato, ingrandire, ingrandimento, contratto, contrarre, ampliato, ampliare, aumentare, documenti, apri, aprire, aperto, automaticamente, barra dei menu</string>
+                    <key>title</key>
+                    <string>Impostazioni Dock</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>automaticamente, nascondi, mostra, dock</string>
+                    <key>title</key>
+                    <string>Mostra e nascondi automaticamente il Dock</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>automaticamente, mostra, nascondi, barra dei menu</string>
+                    <key>title</key>
+                    <string>Mostra e nascondi automaticamente la barra dei menu sulla scrivania</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>automaticamente, mostra, nascondi, barra dei menu</string>
+                    <key>title</key>
+                    <string>Mostra e nascondi automaticamente la barra dei menu in modalità a tutto schermo</string>
+                </dict>
+            </array>
+        </dict>
+        <key>AccessibilityShortcuts</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>abbreviazioni accessibilità, mostra, nascondi, barra dei menu</string>
+                    <key>title</key>
+                    <string>Mostra le abbreviazioni di accessibilità nella barra dei menu</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>abbreviazioni accessibilità, mostra, centro di controllo</string>
+                    <key>title</key>
+                    <string>Mostra le abbreviazioni di accessibilità in Centro di Controllo</string>
+                </dict>
+            </array>
+        </dict>
+        <key>AirDrop</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>bluetooth, mostra, nascondi, barra dei menu</string>
+                    <key>title</key>
+                    <string>Mostra lo stato di AirDrop nella barra dei menu</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Battery</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>batteria, carica, ricarica, mostra, nascondi, barra dei menu</string>
+                    <key>portableOnly</key><true/>
+                    <key>title</key>
+                    <string>Mostra lo stato della batteria nella barra dei menu</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>batteria, carica, ricarica, mostra, nascondi, centro di controllo</string>
+                    <key>portableOnly</key><true/>
+                    <key>title</key>
+                    <string>Mostra lo stato della batteria in Centro di Controllo</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>batteria, per cento, percentuale, mostra, nascondi, barra dei menu</string>
+                    <key>portableOnly</key><true/>
+                    <key>title</key>
+                    <string>Mostra la percentuale della batteria nella barra dei menu</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Bluetooth</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>bluetooth, mostra, nascondi, barra dei menu</string>
+                    <key>title</key>
+                    <string>Mostra lo stato del Bluetooth nella barra dei menu</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Clock</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>orologio, data, orario, mostra, nascondi, barra dei menu</string>
+                    <key>title</key>
+                    <string>Mostra il giorno della settimana nella barra dei menu</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>orologio, data, orario, mostra, nascondi, barra dei menu</string>
+                    <key>title</key>
+                    <string>Mostra la data nella barra dei menu</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>24, ora, orologio, data, orario, mostra, nascondi, barra dei menu</string>
+                    <key>title</key>
+                    <string>Utilizza il formato 24 ore nella barra dei menu</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>AM, am, PM, pm, orologio, data, orario, mostra, nascondi, barra dei menu</string>
+                    <key>title</key>
+                    <string>Mostra il formato AM/PM nella barra dei menu</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>lampeggiare, lampeggia, separatori, secondo, secondi, orologio, orario, mostra, nascondi, barra dei menu</string>
+                    <key>title</key>
+                    <string>Fai lampeggiare i separatori dell'ora nella barra dei menu</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>secondo, secondi, orologio, orario, mostra, nascondi, barra dei menu</string>
+                    <key>title</key>
+                    <string>Mostra l'ora con i secondi nella barra dei menu</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>voce, dire, annunciare, ora, mezz'ora, quarto d'ora, orologio, orario</string>
+                    <key>title</key>
+                    <string>Pronuncia l'ora</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Display</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>schermo, monitor, luminosità, Sidecar, mostra, nascondi, barra dei menu</string>
+                    <key>title</key>
+                    <string>Mostra gli schermi nella barra dei menu</string>
+                </dict>
+            </array>
+        </dict>
+        <key>DoNotDisturb</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>non disturbare, mostra, nascondi, barra dei menu</string>
+                    <key>title</key>
+                    <string>Mostra lo stato di “Non disturbare” nella barra dei menu</string>
+                </dict>
+            </array>
+        </dict>
+        <key>FocusModes</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>full immersion, non disturbare, mostra, nascondi, barra dei menu</string>
+                    <key>title</key>
+                    <string>Mostra lo stato di “Full immersion” nella barra dei menu</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Hearing</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>udito, mostra, nascondi, barra dei menu</string>
+                    <key>title</key>
+                    <string>Mostra Udito nella barra dei menu</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>udito, mostra, centro di controllo</string>
+                    <key>title</key>
+                    <string>Mostra Udito in Centro di Controllo</string>
+                </dict>
+            </array>
+        </dict>
+        <key>KeyboardBrightness</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>tastiera, luminosità, retroilluminazione, mostra, nascondi, barra dei menu</string>
+                    <key>portableOnly</key><true/>
+                    <key>title</key>
+                    <string>Mostra lo stato della luminosità della tastiera nella barra dei menu</string>
+                </dict>
+            </array>
+        </dict>
+        <key>NowPlaying</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>in riproduzione, musica, file multimediali, controlli, telecomando, riproduci, riproduzione, mostra, nascondi, barra dei menu</string>
+                    <key>title</key>
+                    <string>Mostra lo stato di “In riproduzione” nella barra dei menu</string>
+                </dict>
+            </array>
+        </dict>
+        <key>ScreenMirroring</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>duplicazione schermo, AirPlay, mostra, nascondi, barra dei menu</string>
+                    <key>title</key>
+                    <string>Mostra lo stato della duplicazione schermo nella barra dei menu</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Sound</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>suono, volume, mostra, nascondi, barra dei menu</string>
+                    <key>title</key>
+                    <string>Mostra il volume nella barra dei menu</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Siri</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>siri, mostra, nascondi, barra dei menu</string>
+                    <key>title</key>
+                    <string>Mostra Siri nella barra dei menu</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Spotlight</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>spotlight, mostra, nascondi, barra dei menu</string>
+                    <key>title</key>
+                    <string>Mostra Spotlight nella barra dei menu</string>
+                </dict>
+            </array>
+        </dict>
+        <key>TimeMachine</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>time machine, backup, mostra, nascondi, barra dei menu</string>
+                    <key>title</key>
+                    <string>Mostra lo stato di Time Machine nella barra dei menu</string>
+                </dict>
+            </array>
+        </dict>
+        <key>WiFi</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>wifi, wi-fi, mostra, nascondi, barra dei menu</string>
+                    <key>title</key>
+                    <string>Mostra lo stato del Wi-Fi nella barra dei menu</string><!-- NON-BREAKING HYPHEN (U+2011) -->
+                </dict>
+            </array>
+        </dict>
+        <key>UserSwitcher</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>cambio utente rapido, cambio utente, mostra, nascondi, barra dei menu</string>
+                    <key>title</key>
+                    <string>Mostra il cambio utente rapido nella barra dei menu</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>cambio utente rapido, cambio utente, mostra, nascondi, centro di controllo</string>
+                    <key>title</key>
+                    <string>Mostra il cambio utente rapido in Centro di Controllo</string>
+                </dict>
+            </array>
+        </dict>
+    </dict>
+</plist>

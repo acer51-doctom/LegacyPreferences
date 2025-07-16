@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>privacy</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>частно, приватность, защитить, предотвратить, секрет, тайно, скрыто, защищено, защищаю, защита, предотвращение, заблокировано, блокировка, блокирование</string>
+				<key>title</key>
+				<string>Блокировать поиск частных файлов</string>
+			</dict>
+		</array>
+	</dict>
+	<key>searchResults</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>найти, результаты, вхождения, совпадения, поиски, поиск, нахождение</string>
+				<key>title</key>
+				<string>Категории поиска Spotlight</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>клавиша, нажатие клавиши, комбинация, комбинированный, combo</string>
+				<key>title</key>
+				<string>Сочетания клавиш Spotlight</string>
+			</dict>
+            <dict>
+                <key>comments</key>
+                <string>Локализуемые ключевые слова</string>
+                <key>index</key>
+                <string>поиск, найти</string>
+                <key>title</key>
+                <string>Предложения Spotlight в функции «Найти»</string>
+            </dict>
+		</array>
+	</dict>
+</dict>
+</plist>

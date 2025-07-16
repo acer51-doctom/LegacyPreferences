@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+        <key>Handoff</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>comments</key>
+                    <string>अनुवाद योग्य सूची शब्द</string>
+                    <key>index</key>
+                    <string>निरंतरता, उपयोग जारी रखना, जारी रखें, ऐक्टिविटी, निरंतरता, hand off</string>
+                    <key>title</key>
+                    <string>Handoff की अनुमति दें</string>
+                </dict>
+            </array>
+        </dict>
+		<key>Main</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>अनुवाद योग्य सूची शब्द</string>
+					<key>index</key>
+					<string>चयनित, टेक्स्ट, चिह्नांकित किया जा रहा है, चिह्नांकित करें, चिह्नांकित किया जा रहा है, चिह्नांकित करें, चिह्नांकित किया जा रहा है, प्रकटन</string>
+					<key>title</key>
+					<string>चिह्नांकन रंग</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>अनुवाद योग्य सूची शब्द</string>
+					<key>index</key>
+					<string>Apple मेनू, ऐप्लिकेशन, दस्तावेज़, सर्वर</string>
+					<key>title</key>
+					<string>हालिया आइटम की संख्या</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>अनुवाद योग्य सूची शब्द</string>
+					<key>index</key>
+					<string>डेस्कटॉप, कस्टमाइज़ करें, वैयक्तिकृत, टैब, कस्टमाइज़ किया जा रहा है, कस्टमाइज़ेशन, वैयक्तिकृत किया जा रहा है, प्रकटन</string>
+					<key>title</key>
+					<string>बटन, मेनू और विंडो अवलोकन</string>
+				</dict>
+
+				<dict>
+					<key>comments</key>
+					<string>अनुवाद योग्य सूची शब्द</string>
+					<key>index</key>
+					<string>डेस्कटॉप, कस्टमाइज़ करें, वैयक्तिकृत, कस्टमाइज़ किया जा रहा है, कस्टमाइज़ेशन, ऑटोमैटिकली वैयक्तिकृत किया जा रहा है, प्रकटन, हल्का, गहरा, थीम, मोड, डार्क मोड</string>
+					<key>title</key>
+					<string>प्रकटन</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>अनुवाद योग्य सूची शब्द</string>
+					<key>index</key>
+					<string>बटन, चयन, मेनू, स्वरूप, प्रकटन, रंग</string>
+					<key>title</key>
+					<string>ऐक्सेंट कलर</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>अनुवाद योग्य सूची शब्द</string>
+					<key>index</key>
+					<string>संपादन, परिवर्तन, सहेजें, बंद करें, दस्तावेज़, फ़ाइल</string>
+					<key>title</key>
+					<string>परिवर्तन रखें</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>अनुवाद योग्य सूची शब्द</string>
+					<key>index</key>
+					<string>विंडो, जाएँ, स्क्रोलबार, जा रहा है</string>
+					<key>title</key>
+					<string>स्क्रोल बार व्यवहार</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>अनुवाद योग्य सूची शब्द</string>
+					<key>index</key>
+					<string>आइकॉन, साइड, बार, आकार, साइडबार</string>
+					<key>title</key>
+					<string>साइडबार आइकॉन</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>अनुवाद योग्य सूची शब्द</string>
+					<key>index</key>
+					<string>बंद करें, बंद किया जा रहा है, खोलें, फिर खोलें, खोला जा रहा है, फिर खोला जा रहा है, रीस्टोर किया जा रहा है, पसंदीदा टैब</string>
+					<key>title</key>
+					<string>बंद करें और विंडो रीस्टोर करें</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>अनुवाद योग्य सूची शब्द</string>
+					<key>index</key>
+					<string>Safari, http, https, surf, www, वेबसाइट, वेब साइट, वेबपृष्ठ, वेब पृष्ठ</string>
+					<key>title</key>
+					<string>डिफ़ॉल्ट वेब ब्राउज़र सेट करें</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+</plist>

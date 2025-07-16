@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>klawisz</string>
+				<key>title</key>
+				<string>Aktywne narożniki ekranu</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>dostosuj, biurko, klawiatura, klawisze funkcyjne, Fn, przyciski myszy, okna, programy, dostosowane, dostosowywanie, dostosowanie, dostosować, mission control</string>
+				<key>title</key>
+				<string>Skróty Exposé</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Spaces</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>uporządkować, przestrzenie robocze, aplikacje, biurka, uporządkowanie, porządkowanie, porządkować, porządek, przestrzeni roboczych, aplikacji, biurek</string>
+				<key>title</key>
+				<string>Skonfiguruj Spaces</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

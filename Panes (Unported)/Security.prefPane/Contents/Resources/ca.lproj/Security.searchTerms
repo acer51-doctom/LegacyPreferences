@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Advanced</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>infrarojos, receptor, IR, infraroig</string>
+				<key>title</key>
+				<string>Desactivar el comandament remot</string>
+			</dict>
+		</array>
+	</dict>
+	<key>FDE</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>disc, encriptar, encriptat, encriptant, encriptació, file vault, filevault</string>
+				<key>title</key>
+				<string>FileVault</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Firewall</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>prevenir, evitar, bloquejar, xarxa, ports, udp, compartir arxius, AFP, remot, SSH, bloquejat, bloqueig, tallafoc</string>
+				<key>title</key>
+				<string>Activar o desactivar el tallafoc</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>tallafoc</string>
+				<key>title</key>
+				<string>Configuració avançada del tallafoc</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>stealthmode</string>
+				<key>title</key>
+				<string>Mode encobert</string>
+			</dict>
+		</array>
+	</dict>
+	<key>General</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+            <dict>
+                <key>comments</key>
+                <string>Paraules d’índex localitzables</string>
+                <key>index</key>
+                <string>apple watch, watch, rellotge, desbloquejar, aprovar</string>
+                <key>title</key>
+                <string>Permet que l’Apple Watch desbloquegi el Mac</string>
+            </dict>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>pantalla, estalvi de pantalla, contrasenya, autenticar, bloquejar, desbloquejar, repòs, autenticar, autenticant, autenticació, bloquejat, desbloquejat, bloqueig, desbloqueig, en repòs, sortir del repòs</string>
+				<key>title</key>
+				<string>Sol·licitar una contrasenya per sortir del repòs</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>iniciar, sessió, automàtic, iniciar sessió, inici de sessió</string>
+				<key>title</key>
+				<string>Desactivar l’inici de sessió automàtic</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>bloquejar, desbloquejar, bloqueig, desbloqueig</string>
+				<key>title</key>
+				<string>Bloquejar les preferències del sistema</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>tancar, sessió, tancar sessió, tancar la sessió, sortir</string>
+				<key>title</key>
+				<string>Tancar la sessió quan l’ordinador estigui inactiu</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>segur, seguretat, protegir, protecció, protegit, protecció</string>
+				<key>title</key>
+				<string>Configuració de seguretat</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Bloquejar la pantalla</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>Gatekeeper, gate, keeper, identificat, desenvolupadors, aplicacions, descàrregues</string>
+				<key>title</key>
+				<string>Gatekeeper</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>privat, privacitat</string>
+				<key>title</key>
+				<string>Configuració de la privacitat</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Accessibility</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>accessibilitat</string>
+				<key>title</key>
+				<string>Permetre que les apps utilitzin Accessibilitat</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_AllFiles</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Arxius</string>
+				<key>title</key>
+				<string>Permetre que les apps accedeixin a tots els arxius de l’usuari</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Assistive</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Universal, accés, accessibilitat, desactivat, discapacitat, minusvàlid, assistencial, control assistencial, mobilitat, cadira de rodes</string>
+				<key>title</key>
+				<string>Permetre que les apps assistencials controlin l’ordinador</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Calendars</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Calendaris, dates</string>
+				<key>title</key>
+				<string>Permetre que les apps accedeixin al Calendari</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Camera</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>càmera, app, accés, privat, privacitat</string>
+				<key>title</key>
+				<string>Permetre que les apps accedeixin a la càmera</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Contacts</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>contacte, adreça, app, accés, privat, privacitat</string>
+				<key>title</key>
+				<string>Permetre que les apps accedeixin a Contactes</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_SystemServices</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>ubicació, servei, hora, zona, accés, anuncis, buscar el mac, inici, homekit, spotlight, privacitat</string>
+				<key>title</key>
+				<string>Permetre que els serveis del sistema determinin la teva ubicació</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_LocationServices</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>ubicació, servei, app, accés, privat, privacitat</string>
+				<key>title</key>
+				<string>Permetre que les apps accedeixin a la ubicació</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Microphone</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>micròfon, app, accés, privat, privacitat</string>
+				<key>title</key>
+				<string>Permetre que les apps accedeixin al micròfon</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Reminders</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Recordatoris, tasques</string>
+				<key>title</key>
+				<string>Permetre que les apps accedeixin a Recordatoris</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

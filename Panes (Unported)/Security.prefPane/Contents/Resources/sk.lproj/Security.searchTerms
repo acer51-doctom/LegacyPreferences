@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Advanced</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>infračervený, prijímač, IR, infračervený</string>
+				<key>title</key>
+				<string>Vypnúť diaľkový ovládač</string>
+			</dict>
+		</array>
+	</dict>
+	<key>FDE</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>disk, šifrovať, šifrovaný, šifrujem, šifrovanie, file vault, filevault</string>
+				<key>title</key>
+				<string>FileVault</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Firewall</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>zabrániť, blokovať, sieť, porty, udp, zdieľanie súborov, diaľkový ovládač, SSH, zabránenie, zabraňuj sa, blokovaný, blokujem, fire wall</string>
+				<key>title</key>
+				<string>Zapnúť alebo vypnúť firewall</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>fire wall</string>
+				<key>title</key>
+				<string>Rozšírené nastavenia Firewallu</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>stealthmode</string>
+				<key>title</key>
+				<string>Neviditeľný režim</string>
+			</dict>
+		</array>
+	</dict>
+	<key>General</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalizovateľné indexové slová</string>
+                <key>index</key>
+                <string>apple watch, hodinky, odomknúť, schváliť</string>
+                <key>title</key>
+                <string>Povoliť odomykanie Macu pomocou Apple Watch</string>
+            </dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>šetrič, obrazovky, heslo, autentifikovať, zamknúť, odomknúť, spať, zobudiť, šetrič obrazovky, heslo, autentifikované, autentifikuje, autentifikácia, zamknutý, zamyká sa, odomknutý, odomyká sa, spiaci, zobúdzajúci sa</string>
+				<key>title</key>
+				<string>Vyžadovať heslo pri zobudení počítača</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>prihlásiť, odhlásiť, automatický, prihlasujem, prihlásenie, prihlasovanie</string>
+				<key>title</key>
+				<string>Vypnúť automatické prihlasovanie</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>zamknúť, odomknúť, zamykanie, odomykanie</string>
+				<key>title</key>
+				<string>Zamknúť Systémové nastavenia</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>odhlásiť, odhlasovanie, odhlásenie, odhlasovanie, odhlasovanie, odhlás, odhlásenie</string>
+				<key>title</key>
+				<string>Odhlásiť pri nečinnosti</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>zabezpečené, bezpečné, bezpečnosť, ochrániť, ochrana, zabezpečené, zabezpečenie, chránené, ochrana</string>
+				<key>title</key>
+				<string>Bezpečnostné nastavenia</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Zamknúť obrazovku</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>Gatekeeper, brána, vrátnik, identifikované, vývojári, aplikácie, stiahnutia</string>
+				<key>title</key>
+				<string>Gatekeeper</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>súkromné, súkromie</string>
+				<key>title</key>
+				<string>Nastavenia súkromia</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Accessibility</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>prístupnosť</string>
+				<key>title</key>
+				<string>Povoliť apkám používať Prístupnosť</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_AllFiles</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Súbory</string>
+				<key>title</key>
+				<string>Povoliť apkám prístup k súborom všetkých užívateľov</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Assistive</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Univerzálny, prístup, prístupnosť, postihnutý, hendikepovaný, obmedzený, asistenčné ovládanie, mobilita, invalidný vozík</string>
+				<key>title</key>
+				<string>Povoliť asistenčným apkám ovládanie počítača</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Calendars</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Kalendáre, dátumy</string>
+				<key>title</key>
+				<string>Povoliť apkám prístup ku Kalendáru</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Camera</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>kamera, aplikácia, prístup, súkromné, súkromie</string>
+				<key>title</key>
+				<string>Povoliť apkám prístup ku kamere</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Contacts</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>kontakt, adresa, aplikácia, prístup, súkromné, súkromie</string>
+				<key>title</key>
+				<string>Povoliť apkám prístup ku Kontaktom</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_SystemServices</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>poloha, služba, čas, zóna, prístup, reklamy,  nájsť môj mac, domov, homekit, spotlight, súkromie</string>
+				<key>title</key>
+				<string>Povoliť systémovým službám určovať vašu polohu</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_LocationServices</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>umiestnenie, služba, aplikácia, súkromné, súkromie</string>
+				<key>title</key>
+				<string>Povoliť apkám prístup k Umiestneniu</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Microphone</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>mikrofón, aplikácia, prístup, súkromné, súkromie</string>
+				<key>title</key>
+				<string>Povoliť apkám prístup k mikrofónu</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Reminders</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Pripomienky, úloha</string>
+				<key>title</key>
+				<string>Povoliť apkám prístup k Pripomienkam</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

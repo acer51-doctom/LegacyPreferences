@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loginOptionsPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>пользователи, вход, регистрация, войти, вход в систему, зарегистрироваться, регистрироваться, скрыть, показать, запуск, выключение, перезапуск, сон, кнопки, VoiceOver, речь, говорить, ввод, метод, режим, меню, пароли, подсказки, запустить, запускать, выключить, выключать, voice, over, пароли, слова, войти в систему, входить в систему, регистрация в системе, зарегистрироваться в системе, зарегистрирован, скрытие, отображение, произнесение</string>
+				<key>title</key>
+				<string>Настройки окна входа в систему</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>пользователь, быстрый, вход, регистрация, войти, войти в систему, зарегистрироваться, регистрироваться, выход, выход из системы, выйти из системы, выйти, переключение, вход в систему, выполнение входа, процесс входа, процесс выхода, процедура выхода, процесс регистрации, процедура регистрации, выполнение регистрации, выполнение выхода, отключение</string>
+				<key>title</key>
+				<string>Переключение между учетными записями</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>регистрироваться, регистрация, входить в систему, автоматизировать, автоматизация, автоматический, вход в систему, входить, процедура входа, процесс регистрации</string>
+				<key>title</key>
+				<string>Входить автоматически</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>active, ldap, open, сервер, active directory, open directory</string>
+				<key>title</key>
+				<string>Службы каталогов</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>пользователи, вход, регистрация, войти, войти в систему, зарегистрироваться, регистрироваться, вход в систему, процедура входа, регистрация в системе, процесс регистрации, процедура регистрации</string>
+				<key>title</key>
+				<string>Параметры входа</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Сервер сетевых учетных записей</string>
+			</dict>
+		</array>
+	</dict>
+	<key>mobilityPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array/>
+	</dict>
+	<key>passwordPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>гость, общий, длинное, короткое, имя, аутентифицировать, пароли, filevault, общий доступ, пароль, слова, аутентифицировать, процесс аутентификации, file, vault</string>
+				<key>title</key>
+				<string>Учетная запись пользователя или группы</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>фотографии, снимки, фото</string>
+				<key>title</key>
+				<string>Картинка пользователя</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>пользователи, учетные записи, длинное, короткое, имя, аутентифицировать, вход, регистрация, войти, войти в систему, зарегистрироваться, регистрироваться, изменить, администрировать, пароль, слова, выполнение аутентификации, аутентификация, вход в систему, входить, процесс регистрации, процедура регистрации, выполнение регистрации, изменение</string>
+				<key>title</key>
+				<string>Имя и пароль для входа в систему</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>vcard, карточки</string>
+				<key>title</key>
+				<string>Контакты</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>управлять, администрировать, управление, администрирование</string>
+				<key>title</key>
+				<string>Учетная запись администратора</string>
+			</dict>
+		</array>
+	</dict>
+	<key>startupItemsPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>автоматический, автоматизировать, вход, регистрация, войти, войти в систему, зарегистрироваться, регистрироваться, запускать, включать, автоматически, автоматизированный, автоматизация, автоматическое, запуск, вход в систему, процедура входа, регистрация в системе, процесс регистрации, процедура регистрации</string>
+				<key>title</key>
+				<string>Открывать программы при входе в систему</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>вход, регистрация, войти, войти в систему, зарегистрироваться, регистрироваться, запускать, включать, запуск, вход в систему, процедура входа, регистрация в системе, процесс регистрации, процедура регистрации</string>
+				<key>title</key>
+				<string>Объекты входа</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

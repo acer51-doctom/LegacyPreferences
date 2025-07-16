@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>로컬라이즈가 가능한 인덱스 단어</string>
+				<key>index</key>
+				<string>hot</string>
+				<key>title</key>
+				<string>활성 화면 코너</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>로컬라이즈가 가능한 인덱스 단어</string>
+				<key>index</key>
+				<string>사용자화, 데스크탑, 키보드, 기능 키, Fn, 마우스 버튼, 윈도우, 응용 프로그램, 프로그램, 사용자화됨, 사용자화 중, 사용자화, mission control</string>
+				<key>title</key>
+				<string>Exposé 단축키</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Spaces</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>로컬라이즈가 가능한 인덱스 단어</string>
+				<key>index</key>
+				<string>구성, 작업공간, 응용 프로그램, 프로그램, 데스크탑, 구성됨, 구성 중</string>
+				<key>title</key>
+				<string>Spaces 설정</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

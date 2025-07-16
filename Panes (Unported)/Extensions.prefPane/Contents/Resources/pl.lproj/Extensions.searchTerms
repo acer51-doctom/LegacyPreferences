@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Extensions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>rozszerzenia</string>
+				<key>title</key>
+				<string>Rozszerzenia</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>oznaczenie, oznaczenia</string>
+				<key>title</key>
+				<string>Czynności</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>udostępnianie, udostępniać, udostępniaj, lista czytelnia, mail, poczta, wiadomości, airdrop, notatki, przypomnienia, osoby, dodawanie, dodaj, iphoto, aperture</string>
+				<key>title</key>
+				<string>Pozycje menu udostępniania</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>szybkie, czynności, finder, szybkie czynności, panel podglądu</string>
+				<key>title</key>
+				<string>Finder</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>szybkie, czynności, touch, bar, touch bar, pasek</string>
+				<key>title</key>
+				<string>Touch Bar</string>
+			</dict>
+            <dict>
+                <key>comments</key>
+                <string>Lokalizowane słowa kluczowe</string>
+                <key>index</key>
+                <string>rozszerzenia dostawcy poświadczeń, menedżery haseł, rozszerzenia menedżerów haseł, autowypełnianie haseł, rozszerzenia autowypełniania</string>
+                <key>title</key>
+                <string>Rozszerzenia autowypełniania haseł</string>
+            </dict>
+		</array>
+	</dict>
+</dict>
+</plist>

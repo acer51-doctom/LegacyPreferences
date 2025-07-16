@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Region</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>serantau, antarabangsa, pengukuran, unit, gaya, metrik, kalendar, Gregorian, Buddha, Ibrani, Islam, Jepun, Cina, Qibti, Etiopia, India, Parsi, Republik China, sesuaikan, disesuaikan, sedang menyesuaikan, penyesuaian, tempatan, suhu</string>
+				<key>title</key>
+				<string>Format nombor, tarikh dan masa</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>wang</string>
+				<key>title</key>
+				<string>Gelaran mata wang</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>Perkhidmatan Internet, mel, kenalan</string>
+				<key>title</key>
+				<string>Rantau untuk Perkhidmatan Internet</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Language</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>bahasa, sesuaikan, antarabangsa, disesuaikan, menyesuaikan, penyesuaian, mengisih, kata panggilan, feminin, maskulin, neuter, Teks Langsung, pilih teks dalam imej</string>
+				<key>title</key>
+				<string>Keutamaan dan prioriti bahasa</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Translation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>terjemah, terjemahan</string>
+				<key>title</key>
+				<string>Bahasa Terjemahan</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

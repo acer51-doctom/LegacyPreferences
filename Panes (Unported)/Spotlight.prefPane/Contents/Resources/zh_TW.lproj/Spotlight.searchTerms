@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>privacy</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>本地化索引詞</string>
+				<key>index</key>
+				<string>隱私權, 隱私, 保護, 避免, 秘密, 隱藏, 保護, 防護, 保護, 防止, 避免, 阻擋, 擋住</string>
+				<key>title</key>
+				<string>阻擋搜尋私人檔案</string>
+			</dict>
+		</array>
+	</dict>
+	<key>searchResults</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>本地化索引詞</string>
+				<key>index</key>
+				<string>尋找, 結果, 找到, 搜尋, 找, 尋</string>
+				<key>title</key>
+				<string>Spotlight搜尋類別</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>本地化索引詞</string>
+				<key>index</key>
+				<string>按鍵, 敲擊按鍵, 組合, 複合</string>
+				<key>title</key>
+				<string>Spotlight快速鍵</string>
+			</dict>
+            <dict>
+                <key>comments</key>
+                <string>本地化索引詞</string>
+                <key>index</key>
+                <string>查詢, 查詢</string>
+                <key>title</key>
+                <string>查詢字詞時提供Spotlight建議</string>
+            </dict>
+		</array>
+	</dict>
+</dict>
+</plist>

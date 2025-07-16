@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>InputSources</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>วิธีการ, แถบเมนู</string>
+				<key>title</key>
+				<string>แสดงเมนูป้อนเข้าในแถบเมนู</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>พิมพ์, การพิมพ์, แหล่งที่มา, Qwerty, Pro, PC, มาตรฐาน, ISO, ANSI, JIS, แบบขยาย, Dvorak, อัฟกัน, อาหรับ, อาร์เมเนีย, ออสเตรีย, อาเซรี, เบลเยียม, บราซิล, บริติช, บัลแกเรีย, ไบรโรรัสเซีย, แคนาดา, เชโรกี, โครเอเชีย, เชก, เดนนิช, เทวนาครี, ดัตช์, เอสโทเนีย, ฟาโร, ฟินแลนด์, ฝรั่งเศส, เยอรมัน, กรีก, คุชราต, เกอร์มูฮี, ฮาวาย, ฮีบรู, ฮังการี, ไอซ์แลนด์, อินูคติตุด, ไอริช, อิตาลี, จาวี, กาซาห์, ลัตเวีย, ลิธัวเนีย, มาซีโดเนีย, มัลเทส, เมารี, เนปาล, ซามี, นอร์เวย์, เปอร์เซีย, โปแลนด์, โปรตุเกส, โรมาเนีย, รัสเซีย, เซอร์เบีย, สโลวัค, สโลเวเนีย, สเปน, สวีเดน, สวิส, ไทย, ทิเบต, ตุรกี, สหรัฐฯ, อุยกรู, ยูเครน, Unicode, เฮ็กซ์, เวียดนาม, เวลช์</string>
+				<key>title</key>
+				<string>โครงแบบแป้นพิมพ์</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>หลัก, ภาษา, โหมด, แหล่งที่มา, ระหว่างประเทศ, ต่างชาติ, อักขระ, Unicode, ญี่ปุ่น, โกโตเอริ, ฮิระงะนะ, กะตะกะนะ, ตัวอักษรโรมะจิ, ไอนุ, จีน, ตัวเต็ม, ฮานิน, ตัวย่อ, วูบิ, เกาหลี, ฮันกูล, เวียดนาม, เทเล็กซ์, ทมิฬ, อันจัล</string>
+				<key>title</key>
+				<string>วิธีการป้อนภาษา</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>แผง, สัญลักษณ์, โปรแกรมดูภาพ, สัญลักษณ์, อักขระ, Unicode, ญี่ปุ่น, กานา, อักขระ, แหล่งที่มา, ตัวพิมพ์บนแป้นพิมพ์, ปุ่ม, ตัวพิมพ์บนแป้นพิมพ์, วรรคตอน</string>
+				<key>title</key>
+				<string>แผง</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>ป้อน, แหล่งที่มา, เอกสาร</string>
+				<key>title</key>
+				<string>ใช้แหล่งป้อนหนึ่งแหล่งกับเอกสารทั้งหมด</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>ป้อน, แหล่งที่มา, เอกสาร</string>
+				<key>title</key>
+				<string>อนุญาตแหล่งป้อนเข้าอื่นสำหรับแต่ละเอกสาร</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Text</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>เศษส่วน, แทนที่, การแทนที่, เปลี่ยนแทน, การเปลี่ยนแทน, ปุ่มลัด</string>
+				<key>title</key>
+				<string>การเปลี่ยนแทนที่สัญลักษณ์และข้อความ</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>ภาษา, ตรวจสอบการสะกด, การตรวจสอบการสะกด, แก้ไขการสะกด, การแก้ไขการสะกด, ขนาดตัวพิมพ์, ช่องว่าง</string>
+				<key>title</key>
+				<string>การสะกด</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>คำแนะนำขณะป้อน, QuickType, การป้อนอย่างรวดเร็ว, การคาดเดาการป้อน, การคาดเดาข้อความ, Touch Bar, แถบ</string>
+				<key>title</key>
+				<string>คำแนะนำการป้อน Touch Bar</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>อัญประกาศอัจฉริยะ, อัญประกาศ, ขีดกลาง</string>
+				<key>title</key>
+				<string>ใช้อัญประกาศและขีดกลางอัจฉริยะ</string>
+			</dict>
+		</array>
+	</dict>
+	<key>keyboardTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>บลูทูธ, แป้นพิมพ์, อุปกรณ์</string>
+				<key>title</key>
+				<string>ตั้งค่าแป้นพิมพ์บลูทูธ</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>ปุ่ม, หน่วง, การกดปุ่มซ้ำ, ซ้ำ, เน้นเสียง, ตอบสนอง, ฟังก์ชั่น, Fn, F1, F2, F3, F4, F5, F6, F7, F8, F9, F10, F11, F12, ปุ่ม, อัตรา, ป้อน, การหน่วง, การทำซ้ำ, การป้อน</string>
+				<key>title</key>
+				<string>ความไวของแป้นพิมพ์</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>ดู, วิสัยทัศน์, มืด, แสงน้อย, สลัว, กลางคืน, ป้อน, การมอง, การเรืองแสง, เรืองแสง, การป้อน, ความสว่าง, ปรับ, โดยอัตโนมัติ, แบ็คไลท์</string>
+				<key>title</key>
+				<string>แป้นพิมพ์เรืองแสง</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>Touch Bar, แถบ, Control Strip, แถว, Fn, ปุ่มฟังก์ชั่น, กำหนดเอง, ทำให้เข้ากับตัวคุณ</string>
+				<key>title</key>
+				<string>ปรับแต่ง Touch Bar หรือ Control Strip ด้วยตัวเอง</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>แถบเมนู, แผง, สัญลักษณ์, อิโมจิ, หน้าต่างแสดงแป้นพิมพ์</string>
+				<key>title</key>
+				<string>แสดงหน้าต่างแสดงแป้นพิมพ์และอิโมจิในแถบเมนู</string>
+			</dict>
+		</array>
+	</dict>
+	<key>keyboardTab_ModifierKeys</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>ปุ่ม Caps Lock, ปุ่ม Control, ปุ่ม Option, ปุ่ม Command</string>
+				<key>title</key>
+				<string>รีเซ็ตปุ่มปรับค่า</string>
+			</dict>
+		</array>
+	</dict>
+	<key>shortcutsTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>ปุ่มลัด, Launchpad, Dock, Mission Control, ภาพถ่ายหน้าจอ, บริการ, Spotlight, การช่วยการเข้าถึง, การควบคุมทั้งหมดโดยใช้แป้นพิมพ์, แหล่งป้อนเข้า, แอป, ปุ่มฟังก์ชั่น, Touch Bar, แถบ</string>
+				<key>title</key>
+				<string>ปุ่มลัดแป้นพิมพ์</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Dictation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>สั่งการ, การสั่งการ, ป้อนตามคำบอก, ฟัง, การฟัง, ภาษา, ไมโครโฟน, ระบุ, การรับรู้, ที่รับรู้, พูด, การพูด, คำพูด, ปุ่มลัด, การพูดคุย</string>
+				<key>title</key>
+				<string>การป้อนตามคำบอก</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

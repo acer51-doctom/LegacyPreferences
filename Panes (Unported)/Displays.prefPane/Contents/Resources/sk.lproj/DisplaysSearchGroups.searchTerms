@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displaysArrangementTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>obrazovky, monitory, zrkadlo, zrkadlový, zrkadlenie, upravovanie, úprava</string>
+				<key>title</key>
+				<string>Upraviť polohu displejov</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>lišta</string>
+				<key>title</key>
+				<string>Premiestniť lištu</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysColorTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>displeje, obrazovky, monitory, kalibrovať, prispôsobiť, osvetliť, zvýšiť jas, stlmiť, stmaviť, biely bod, gama, rozptýlené osvetlenie, profily, kalibrovanie, prispôsobovanie, prispôsobenia, stlmenie</string>
+				<key>title</key>
+				<string>Zobraziť farby a kalibráciu</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysDisplayTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>displeje, obrazovky, monitory, hĺbka, milióny, tisíce, 256, ColorSync, prispôsobiť, osvetliť, zvýšiť jas, stlmiť, stmaviť, prispôsobenie, prispôsobenia, stlmenie, true tone</string>
+				<key>title</key>
+				<string>Farby, jas a rozlíšenie</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>displeje, obrazovky, monitory</string>
+				<key>title</key>
+				<string>Obnovovacia frekvencia obrazovky</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>obrazovky, monitory</string>
+				<key>title</key>
+				<string>Rozpoznať pripojené displeje</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>lišta</string>
+				<key>title</key>
+				<string>Zobraziť displeje v lište</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>otočiť, otáčanie</string>
+				<key>title</key>
+				<string>Otáčanie obrazovky</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>AirPlay</string>
+				<key>title</key>
+				<string>Možnosti zrkadlenia AirPlay</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysGeometryTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>pozícia, výška, šírka, poduška, otočiť, základný princíp, rovnobežník, oblúk, zakrivenie rohu, skosený, geometria, dimenzie</string>
+				<key>title</key>
+				<string>Obrázok obrazovky</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>rgb, prispôsobiť, zoradiť, prispôsobovanie, prispôsobenie, zoraďovanie, zoradenie</string>
+				<key>title</key>
+				<string>Konvergencia obrázka</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>statický, resetovať, blikať, interferencia, blikanie</string>
+				<key>title</key>
+				<string>Demagnetizovať</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysNightShiftTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>noc, prevádzka, night shift, stlmiť, teplé, teplé farby, spektrum, spať, spánok, teplota, západ slnka, východ slnka, stlmenie</string>
+				<key>title</key>
+				<string>Možnosti funkcie Night Shift</string>
+			</dict>
+		</array>
+	</dict>
+	<key>universalControlTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>univerzálne, ovládanie</string>
+				<key>title</key>
+				<string>Univerzálne ovládanie</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>InputSources</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>metodă, bară de meniu</string>
+				<key>title</key>
+				<string>Afișează meniul de introducere în bara de meniu</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>scrie, scriere, surse, Qwerty, Pro, PC, Standard, ISO, ANSI, JIS, Extended, Dvorak, afgană, arabă, armeană, austriacă, azeră, belgiană, braziliană, britanică, bulgară, bielorusă, canadiană, cherokee, croată, cehă, daneză, devanagari, neerlandeză, estonă, faroeză, finlandeză, franceză, germană, greacă, gujarati, gurmukhi, hawaiiană, ebraică, maghiară, islandeză, inuktitut, irlandeză, italiană, jawi, kazahă, letonă, lituaniană, macedoneană, malteză, maori, nepaleză, sami, norvegiană, persă, poloneză, portugheză, română, rusă, sârbă, slovacă, slovenă, spaniolă, suedeză, elvețiană, thailandeză, tibetană, turcă, americană, uigură, ucraineană, Unicode, Hex, vietnameză, velșă</string>
+				<key>title</key>
+				<string>Aranjamente tastatură</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>principal, limbi, mod, surse, internațional, străin, caractere, Unicode, japoneză, kotoeri, hiragana, katakana, romaji, ainu, chineză, tradițională, hanin, simplificată, wubi, coreeană, hangul, vietnameză, telex, tamil, anjal</string>
+				<key>title</key>
+				<string>Metode introducere limbă</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>paletă, simbol, vizualizor, simboluri, caracter, Unicode, japoneză, kana, caractere, surse, Keycaps, taste, taste majuscule, punctuație</string>
+				<key>title</key>
+				<string>Palete</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>introducere, sursă, document</string>
+				<key>title</key>
+				<string>Utilizează o singură sursă de introducere în toate documentele</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>introducere, sursă, document</string>
+				<key>title</key>
+				<string>Permite o sursă diferită de introducere pentru fiecare document</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Text</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>fracțiuni, înlocuiește, înlocuire, substitut, substituire, scurtături</string>
+				<key>title</key>
+				<string>Înlocuire simboluri și text</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>limbă, verifică ortografia, verificare ortografică, corectează automat, corectează ortografia, spațiere</string>
+				<key>title</key>
+				<string>Ortografie</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>sugestii de scriere, quicktype, quick type, scriere predictivă, anticipare scriere, text predictiv, anticipare text, touch bar, bară, touchbar</string>
+				<key>title</key>
+				<string>Sugestii de scriere în Touch Bar</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>ghilimele inteligente, ghilimele, cratime</string>
+				<key>title</key>
+				<string>Utilizează ghilimele și cratime inteligente</string>
+			</dict>
+		</array>
+	</dict>
+	<key>keyboardTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>Bluetooth, tastatură, dispozitive</string>
+				<key>title</key>
+				<string>Configurare tastatură Bluetooth</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>taste, întârziere, repetare tastă, repetare, accent, răspuns, funcție, Fn, F1, F2, F3, F4, F5, F6, F7, F8, F9, F10, F11, F12, taste, rată, tastare, întârziere, repetare, tastare</string>
+				<key>title</key>
+				<string>Sensibilitate tastatură</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>vedea, viziune, întuneric, lumină slabă, estompa, noapte, tasta, vedere, iluminare, iluminată, tastare, luminozitate, ajustare, automat, retroiluminare</string>
+				<key>title</key>
+				<string>Iluminează tastatura</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>touch bar, touchbar, bară, control strip, bandă, Fn, taste funcționale, personaliza, personalizare</string>
+				<key>title</key>
+				<string>Personalizează Touch Bar sau Control Strip</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>bară de meniu, palete, simbol, emoji, observator tastatură</string>
+				<key>title</key>
+				<string>Afișează Observator tastatură și emoji în bara de meniu</string>
+			</dict>
+		</array>
+	</dict>
+	<key>keyboardTab_ModifierKeys</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>Blocare majuscule, Control, Opțiune, Comandă</string>
+				<key>title</key>
+				<string>Resetare taste modificator</string>
+			</dict>
+		</array>
+	</dict>
+	<key>shortcutsTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>scurtături, Launchpad, Dock, Mission Control, captură de ecran, capturi de ecran, captură ecran, capturi ecran, Servicii, Spotlight, Accesibilitate, acces complet din tastatură, surse de introducere, aplicații, taste funcționale, touch bar, bară, touchbar</string>
+				<key>title</key>
+				<string>Scurtături din tastatură</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Dictation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>dicta, dictare, ascultă, ascultare, limbă, microfon, recunoaște, recunoaștere, recunoscând, vorbește, vorbire, enunță, enunțare, rosti, rostire, scurtături</string>
+				<key>title</key>
+				<string>Dictare</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

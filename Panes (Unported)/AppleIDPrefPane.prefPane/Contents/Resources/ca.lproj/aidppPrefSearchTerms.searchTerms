@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>AppleAccount</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Paraules d’índex localitzables</string>
+                <key>index</key>
+                <string>iCloud, cloud, me.com, compte apple, appleid, apple, id, compte, contacte, pagament, enviament</string>
+                <key>title</key>
+                <string>ID d’Apple</string>
+            </dict>
+        </array>
+    </dict>
+    <key>iCloud</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Paraules d’índex localitzables</string>
+                <key>index</key>
+                <string>iCloud, cloud, me.com, compte apple, buscar el meu mac, emmagatzematge, documents i dades, iCloud Drive, Marcadors, Calendaris, Contactes, Mail, Recordatoris, Llistes de lectura, Borsa, Casa, Safari, Notes, </string>
+                <key>title</key>
+                <string>iCloud</string>
+            </dict>
+        </array>
+    </dict>
+    <key>com.apple.AppleMediaServicesUI.SpyglassPurchases</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Paraules d’índex localitzables</string>
+                <key>index</key>
+                <string>multimèdia, compres, app store, serveis, subscripcions</string>
+                <key>title</key>
+                <string>Contingut i compres</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

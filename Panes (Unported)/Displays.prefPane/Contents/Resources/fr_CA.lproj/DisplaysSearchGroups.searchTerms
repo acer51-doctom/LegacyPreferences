@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displaysArrangementTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>écrans, moniteurs, miroir, en miroir, recopie, recopié, disposition</string>
+				<key>title</key>
+				<string>Organiser plusieurs moniteurs</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>barre des menus</string>
+				<key>title</key>
+				<string>Déplacer la barre des menus</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysColorTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>affichages, écrans, moniteurs, calibrer, étalonner, ajuster, éclaircir, illuminer, éclairer, obscurcir, assombrir, point blanc, gamma, lumière ambiante, luminosité ambiante, profils, calibrage, étalonnage, ajustement, réglage, réduire la luminosité</string>
+				<key>title</key>
+				<string>Étalonnage et couleurs du moniteur</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysDisplayTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>moniteurs, écrans, affichages, profondeur, millions, milliers, 256, ColorSync, ajuster, éclaircir, illuminer, éclairer, obscurcir, assombrir, ajustement, réglage, réduire la luminosité, true tone</string>
+				<key>title</key>
+				<string>Couleurs, luminosité et résolution</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>écrans, affichages, moniteurs</string>
+				<key>title</key>
+				<string>Taux de rafraîchissement de l’écran</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>écrans, moniteurs</string>
+				<key>title</key>
+				<string>Détecter la présence de plusieurs moniteurs</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>barre des menus</string>
+				<key>title</key>
+				<string>Afficher les moniteurs dans la barre des menus</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>pivoter, rotation</string>
+				<key>title</key>
+				<string>Rotation de l’écran</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>AirPlay</string>
+				<key>title</key>
+				<string>Options de recopie vidéo AirPlay</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysGeometryTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>position, hauteur, largeur, coussin, pivoter, trapèze, parallélogramme, arc, courbe d’angle, incliné, penché, géométrie, dimensions</string>
+				<key>title</key>
+				<string>Image d’écran</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>rvb, ajuster, ajustement, régler, réglage, aligner, alignement</string>
+				<key>title</key>
+				<string>Convergence d’image</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>statique, réinitialiser, clignotement, interférence, clignoter</string>
+				<key>title</key>
+				<string>Démagnétiser</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysNightShiftTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>night, shift, night shift, assombrir, chaud, couleurs chaudes, spectre, sommeil, température, coucher du soleil, lever du soleil, assombrir</string>
+				<key>title</key>
+				<string>Options Night Shift</string>
+			</dict>
+		</array>
+	</dict>
+	<key>universalControlTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>universel, contrôle</string>
+				<key>title</key>
+				<string>Contrôle universel</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

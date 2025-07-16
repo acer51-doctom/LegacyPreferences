@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>actiu</string>
+				<key>title</key>
+				<string>Angles de pantalla actius</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>personalitzar, escriptori, teclat, tecles de funció, Fn, botons del ratolí, finestres, aplicacions, programes, personalitzat, personalització, mission control</string>
+				<key>title</key>
+				<string>Dreceres de teclat d’Exposé</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Spaces</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>organitzar, espais de treball, aplicacions, programes, escriptoris, organitzat, organització</string>
+				<key>title</key>
+				<string>Configurar Spaces</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

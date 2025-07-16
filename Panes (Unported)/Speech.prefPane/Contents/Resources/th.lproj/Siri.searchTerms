@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Dictation</key>
+	<dict/>
+	<key>Siri</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>Siri, ผู้ช่วย, dock, ปุ่มลัด, ไอคอน, ปุ่ม, ฟัง, กำลังฟัง, ภาษา, แถบเมนู, ไมค์, ไมค์, ไมโครโฟน, รู้จัก, การรู้จัก, กำลังทำความรู้จัก, เสียง, พูด, การพูด, คำพูด, ทางลัด, พูด, การพูด, เสียง, คลื่น</string>
+				<key>title</key>
+				<string>Siri</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>เปิดใช้งาน, ปิดใช้งาน, ปิดใช้งาน, เปิดใช้งาน, เงียบเสียง, หยุด, ปิด, เปิด</string>
+				<key>title</key>
+				<string>เปิดหรือปิด Siri</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

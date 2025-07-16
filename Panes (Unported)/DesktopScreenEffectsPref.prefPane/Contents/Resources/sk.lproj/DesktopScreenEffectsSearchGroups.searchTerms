@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DesktopPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>fotografie, pozadie, plocha, tapeta, vzor, prispôsobiť, fotografie, obrázky, panel, horný, stena, papier, prispôsobený, prispôsobenie, prispôsobenie  </string>
+				<key>title</key>
+				<string>Obrázok na ploche</string>
+			</dict>
+		</array>
+	</dict>
+	<key>ScreenSaverPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>vypnúť, spustiť, album, iTunes, obal, náhodné, fotografie, obrázky, prispôsobiť, šetriče obrazovky, fotky, vypnutie, spustenie, prispôsobené, prispôsobovanie, prispôsobenie</string>
+				<key>title</key>
+				<string>Šetrič obrazovky</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Zobraziť hodiny so šetričom obrazovky</string>
+			</dict>
+		</array>
+	</dict>
+	<key>ScreenSaverPref_HotCorners</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>aktívne rohy obrazovky</string>
+				<key>title</key>
+				<string>Aktívne rohy</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Dictation</key>
+	<dict/>
+	<key>Siri</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Kata indeks yang dapat dilokalkan</string>
+				<key>index</key>
+				<string>Siri, asisten, dock, tombol cepat, ikon, tombol, dengarkan, mendengarkan, bahasa, bar menu, mik, mike, mikrofon, kenali, pengenalan, mengenali, bunyi, ucapkan, mengucapkan, ucapan, pintasan, bicara, berbicara, suara, gelombang</string>
+				<key>title</key>
+				<string>Siri</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Kata indeks yang dapat dilokalkan</string>
+				<key>index</key>
+				<string>aktifkan, nonaktifkan, nonaktifkan, aktifkan, bisukan, hentikan, matikan, nyalakan</string>
+				<key>title</key>
+				<string>Nyalakan dan matikan Siri</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

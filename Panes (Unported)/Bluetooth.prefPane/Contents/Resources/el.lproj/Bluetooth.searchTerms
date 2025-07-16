@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>ασύρματα, ανίχνευση, ανακάλυψη, εύρεση, ζευγοποίηση, προσθήκη, αφαίρεση, διαμόρφωση, βοηθός, πληκτρολόγιο, ποντίκι, κινητό, τηλέφωνο, κυψελοειδές, σετ, ακουστικών, ακουστικά, ενεργό, ανενεργό, αποσύνδεση, blue, tooth</string>
+				<key>title</key>
+				<string>Συσκευές Bluetooth</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>blue, tooth, γραμμή, μενού</string>
+				<key>title</key>
+				<string>Εμφάνιση κατάστασης Bluetooth στη γραμμή μενού</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>blue, tooth</string>
+				<key>title</key>
+				<string>Σειριακές θύρες Bluetooth</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>blue, tooth, ήχος</string>
+				<key>title</key>
+				<string>Ήχος Bluetooth</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>blue, tooth</string>
+				<key>title</key>
+				<string>Βοηθός διαμόρφωσης Bluetooth</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

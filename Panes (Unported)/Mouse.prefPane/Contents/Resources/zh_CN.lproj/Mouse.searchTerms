@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mouseTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>连按, double-click, 点按, click, clicking, 跟踪, track, tracking, 拖移, drag, dragging, 较快, faster, 速度, speed, 慢, slow, slowing, 光标, cursor, 箭头, arrow, 指针, pointer, 较慢, slower</string>
+				<key>title</key>
+				<string>鼠标灵敏度, Mouse sensitivity</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>首选, 主要, primary, 备选, 次要, secondary, 快捷键, shortcut, 滚动, scroll, scrolling, 球, ball, 轮, wheel, 滚球, scrollball, 滚轮, scrollwheel, 鼠标球, mouseball, 鼠标轮, mousewheel, Mighty Mouse鼠标, Mighty Mouse, 妙控鼠标, Magic Mouse</string>
+				<key>title</key>
+				<string>鼠标按钮, Mouse buttons</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>两, 二, two, 三, three, 四, four, 手指, fingers, 触碰, 触摸, touch, touching, 滚动, scroll, scrolling, 拖移, drag, dragging, 轻点, tap, tapping, 缩放, zoom, zooming, 旋转, rotate, rotating, 张开, spread, 扫动, 轻扫, swipe, swiping</string>
+				<key>title</key>
+				<string>妙控鼠标手势, Magic Mouse gestures</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>鼠标缩放, Mouse zooming</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Region</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>regional 地域 地方, international 言語環境 国際環境 海外 外国 外国語, measurement 測定 計測 採寸 長さ 寸法, units 単位, styles スタイル 様式, metric メートル法, calendars 暦法 暦 カレンダー カレンダ, Gregorian 西暦 グレゴリオ暦, Buddhist タイ仏暦 仏暦 仏教暦, Hebrew ヘブライ暦, Islamic イスラム暦, Japanese 和暦, Chinese 中国暦, Coptic コプト暦, Ethiopic エチオピア暦, Indian インド暦, Persian ペルシャ暦 ペルシヤ暦 ペルシア暦, Republic of China 中華民国, customize カスタマイズ ユーザー設定 ユーザ設定 変更, customized カスタマイズ ユーザー設定 ユーザ設定 変更, customizing カスタマイズ ユーザー設定 ユーザ設定 変更, customization カスタマイズ ユーザー設定 ユーザ設定 変更, locale ロケール 地域 国 言語, temperature 温度 気温</string>
+				<key>title</key>
+				<string>数値、日付、時刻の書式</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>money 通貨 貨幣 金額 金 お金 金銭</string>
+				<key>title</key>
+				<string>通貨の指定</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>Internet Services インターネットサービス, mail メール 電子メール E メール e メール, contacts 連絡先 コンタクト</string>
+				<key>title</key>
+				<string>インターネットサービスの地域</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Language</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>languages 言語 言葉, customize カスタマイズ ユーザー設定 ユーザ設定 変更, international 言語環境 国際環境 海外 外国 外国語 国際的 インターナショナル, customized カスタマイズド カスタマイズ済み, customizing カスタマイジング, customization カスタマイゼーション カスタマイズ化, sorting 並べ替え 並び替え 順序変更 順番の変更 ソート ソーティング, term of address 呼びかけ語, feminine 女性形, masculine 男性形, neuter 中性形, Live Text テキスト認識表示 テキスト認識 ライブテキスト, select text in images 画像内のテキストを選択 画像内テキスト選択</string>
+				<key>title</key>
+				<string>言語の環境設定と優先順位</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Translation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>translate 翻訳する, translation 翻訳</string>
+				<key>title</key>
+				<string>翻訳言語</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

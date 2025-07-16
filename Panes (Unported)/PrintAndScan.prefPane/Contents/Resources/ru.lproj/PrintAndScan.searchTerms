@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fax</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>отправка факса, факс</string>
+				<key>title</key>
+				<string>Настройки факса</string>
+			</dict>
+		</array>
+	</dict>
+	<key>print</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>по умолчанию, стандартный, стандартная, стандартное, очереди, приводы, диски, размер бумаги, настройка страницы, cups, число переключений межузловых соединений в секунду, добавить, печать</string>
+				<key>title</key>
+				<string>Настройка принтеров</string>
+			</dict>
+		</array>
+	</dict>
+	<key>scan</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>сканеры, сканирование, изображение, обработка изображений</string>
+				<key>title</key>
+				<string>Настройка сканеров</string>
+			</dict>
+		</array>
+	</dict>
+	<key>share</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>совместно использовать</string>
+				<key>title</key>
+				<string>Общий доступ к принтеру</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

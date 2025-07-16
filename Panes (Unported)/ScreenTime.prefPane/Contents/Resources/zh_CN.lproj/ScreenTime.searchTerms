@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>AlwaysAllowed</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>可本地化的索引词, Localizable index words</string>
+                <key>index</key>
+                <string>屏幕, screen, 时间, 使用时间, time, 始终, always, 允许, allow, 限额, limit, 家庭, family, 父母, parents, 家长的, parental, 控制, controls, 安全, safety, 隐私权, privacy, 安全性, security, 子女, children, 儿童, kids, 限制, restrict, restricting, 管理, manage, managing, 计时器, 定时, timer, 宵禁时间, curfew, 监视, monitor, 跟踪, track</string>
+                <key>title</key>
+                <string>在屏幕使用时间中选取始终允许的App, Choose always allowed apps in Screen Time</string>
+            </dict>
+        </array>
+    </dict>
+    <key>CommunicationLimit</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>可本地化的索引词, Localizable index words</string>
+                <key>index</key>
+                <string>屏幕, screen, 时间, 使用时间, time, 通信, communication, 联系人, contact, 电话, phone, 文本, text, 信息, message, FaceTime通话, FaceTime, 短信, SMS, 限额, limit, 添加, add, 创建, create, 应用, apply, 家庭, family, 父母, parents, 家长的, parental, 控制, controls, 安全, safety, 隐私权, privacy, 安全性, security, 子女, children, 儿童, kids, 限制, restrict, restricting, 管理, manage, managing, 计时器, timer, 宵禁时间, curfew</string>
+                <key>title</key>
+                <string>在屏幕使用时间中设定限定通信, Set communication limits in Screen Time</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>屏幕, screen, 时间, 使用时间, time, 通信, communication, 联系人, contact, 电话, phone, 文本, text, 信息, message, FaceTime通话, FaceTime, 短信, SMS, 限额, limit, 添加, add, 创建, create, 应用, apply, 家庭, family, 父母, parents, 家长的, parental, 控制, controls, 安全, safety, 隐私权, privacy, 安全性, security, 子女, children, 儿童, kids, 限制, restrict, restricting, 管理, manage, managing, 计时器, timer, 宵禁时间, curfew</string>
+                <key>title</key>
+                <string>在屏幕使用时间中更改限定通信, Change communication limits in Screen Time</string>
+            </dict>
+        </array>
+    </dict>
+    <key>ContentAndPrivacy</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>可本地化的索引词, Localizable index words</string>
+                <key>index</key>
+                <string>屏幕, screen, 时间, 使用时间, time, 内容, content, 隐私权, privacy, 限额, limit, 家庭, 家人, family, 父母, parents, 家长的, parental, 控制, controls, 安全, safety, 安全性, security, 子女, children, 儿童, kids, 限制, restrict, restricting, 管理, manage, managing, 计时器, 定时, timer, 宵禁时间, curfew, 词典, dictionary, 不合适, inappropriate, 诅咒, curse, 发誓, swear, 咒骂语, expletives, 无隐讳的, explicit, 坏的, bad, 语言, language, 猥亵的, obscene, 下流, obscenity, 话语, words, 色情, pornography, 坏话, cuss, 低俗的, vulgar, 下流的, four-letter, 庸俗的, four letter, 已过滤, filtered, 过滤, filtering, 未过滤, unfiltered, 未筛选, un-filtered</string>
+                <key>title</key>
+                <string>选取屏幕使用时间内容与隐私设置, Choose Screen Time content and privacy settings</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>屏幕, screen, 时间, 使用时间, time, 家长的, parental, 控制, controls, 限额, limits, 儿童不宜, explicit, 内容, content, 网站, websites, 子女, child, 儿童, children, 限制, restrict</string>
+                <key>title</key>
+                <string>限制儿童不宜内容, Restrict explicit content</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyNotifications</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>可本地化的索引词, Localizable index words</string>
+                <key>index</key>
+                <string>屏幕, screen, 时间, 使用时间, time, 天, day, 每天, daily, 使用情况, usage, 通知, notifications</string>
+                <key>title</key>
+                <string>在屏幕使用时间中显示每日通知次数报告, Show daily notifications report in Screen Time</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyPickups</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>可本地化的索引词, Localizable index words</string>
+                <key>index</key>
+                <string>屏幕, screen, 时间, 使用时间, time, 天, day, 每天, daily, 使用次数, pickups</string>
+                <key>title</key>
+                <string>在屏幕使用时间中显示每日设备使用次数报告, Show daily device pickups report in Screen Time</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyUsage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>可本地化的索引词, Localizable index words</string>
+                <key>index</key>
+                <string>屏幕, screen, 时间, 使用时间, time, 周, week, 每周, weekly, 使用情况, usage, 报告, report, 监视, monitor, 跟踪, track, 子女, child, 儿童, children, 应用, App, apps</string>
+                <key>title</key>
+                <string>在屏幕使用时间中显示每日App使用时间报告, Show daily app usage report in Screen Time</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Downtime</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>可本地化的索引词, Localizable index words</string>
+                <key>index</key>
+                <string>屏幕, screen, 时间, 使用时间, time, 使用情况, usage, 限额, limit, 停用时间, downtime, 家庭, family, 父母, parents, 家长的, parental, 控制, controls, 安全, safety, 隐私权, privacy, 安全性, security, 子女, children, 儿童, kids, 限制, restrict, restricting, 管理, manage, managing, 计时器, 定时, timer, 就寝时间, bedtime, 学校, school, 夜晚, nights, 宵禁时间, curfew</string>
+                <key>title</key>
+                <string>在屏幕使用时间中计划停用时间, Schedule downtime in Screen Time</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Options</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>可本地化的索引词, Localizable index words</string>
+                <key>index</key>
+                <string>屏幕, screen, 时间, 使用时间, time, 设置, setting, 选项, option, 限额, limit, 家庭, family, 父母, parents, 家长的, parental, 控制, controls, 安全, safety, 安全性, security, 子女, children, 儿童, kids, 限制, restrict, restricting, 管理, manage, managing, 计时器, 定时, timer, 宵禁时间, curfew</string>
+                <key>title</key>
+                <string>打开或关闭屏幕使用时间, Turn Screen Time on or off</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>屏幕, screen, 家长的, parental, 控制, controls, 选项, options, 限制, limit, 限额, limits, 密码, password, 口令, passcode</string>
+                <key>title</key>
+                <string>设置屏幕使用时间密码, Set Screen Time passcode</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Requests</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>可本地化的索引词, Localizable index words</string>
+                <key>index</key>
+                <string>屏幕, screen, 时间, 使用时间, time, 请求, request, 允许, allow, 批准, approve, 不批准, disapprove, 限额, limit, 家庭, family, 父母, parents, 家长的, parental, 控制, controls, 安全, safety, 隐私权, privacy, 安全性, security, 子女, children, 儿童, kids, 限制, restrict, restricting, 管理, manage, managing, 计时器, 定时, timer, 宵禁时间, curfew</string>
+                <key>title</key>
+                <string>显示屏幕使用时间请求, Show Screen Time requests</string>
+            </dict>
+        </array>
+    </dict>
+    <key>ViewUsageLimit</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>可本地化的索引词, Localizable index words</string>
+                <key>index</key>
+                <string>屏幕, screen, 时间, 使用时间, time, 使用情况, usage, app, 限额, limit, 添加, add, 创建, create, 应用, apply, 家庭, family, 父母, parents, 家长的, parental, 控制, controls, 安全, safety, 隐私权, privacy, 安全性, security, 子女, children, 儿童, kids, 限制, restrict, restricting, 管理, manage, managing, 计时器, timer, 宵禁时间, curfew</string>
+                <key>title</key>
+                <string>在屏幕使用时间中选取App限额, Choose app limits in Screen Time</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyNotifications</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>可本地化的索引词, Localizable index words</string>
+                <key>index</key>
+                <string>屏幕, screen, 时间, 使用时间, time, 周, week, 每周, weekly, 使用情况, usage, 通知, notifications, 家长的, parental, 控制, controls</string>
+                <key>title</key>
+                <string>在屏幕使用时间中显示每周通知次数报告, Show weekly notifications report in Screen Time</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyPickups</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>可本地化的索引词, Localizable index words</string>
+                <key>index</key>
+                <string>屏幕, screen, 时间, 使用时间, time, 周, week, 每周, weekly, 使用次数, pickups, 家长的, parental, 控制, controls</string>
+                <key>title</key>
+                <string>在屏幕使用时间中显示每周设备使用次数报告, Show weekly device pickups report in Screen Time</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyUsage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>可本地化的索引词, Localizable index words</string>
+                <key>index</key>
+                <string>屏幕, screen, 时间, 使用时间, time, 周, week, 每周, weekly, 使用情况, usage, 报告, report, 监视, monitor, 跟踪, track, 子女, child, 儿童, children, 应用, App, apps, 家长的, parental, 控制, controls</string>
+                <key>title</key>
+                <string>在屏幕使用时间中显示每周App使用时间报告, Show weekly app usage report in Screen Time</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>AlwaysAllowed</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Palavras localizáveis do índice</string>
+                <key>index</key>
+                <string>uso, tela, tempo, sempre, permitir, limitar, família, pais, parental, controles, segurança, privacidade, confiança, crianças, meninos, restrito, gerenciar, timer, hora de recolher, restringindo, gerenciando, monitorar, rastrear</string>
+                <key>title</key>
+                <string>Escolha apps sempre permitidos no Tempo de Uso</string>
+            </dict>
+        </array>
+    </dict>
+    <key>CommunicationLimit</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Palavras localizáveis do índice</string>
+                <key>index</key>
+                <string>uso, tela, tempo, comunicação, contato, telefone, texto, mensagem, FaceTime, SMS, limitar, adicionar, criar, aplicar, família, pais, parental, controles, segurança, privacidade, confiança, crianças, restringir, gerenciar, timer, hora de dormir, restringindo, gerenciando</string>
+                <key>title</key>
+                <string>Defina limites de comunicação no Tempo de Uso</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>uso, tela, tempo, comunicação, contato, telefone, texto, mensagem, FaceTime, SMS, limitar, adicionar, criar, aplicar, família, pais, parental, controles, segurança, privacidade, confiança, crianças, restringir, gerenciar, timer, hora de dormir, restringindo, gerenciando</string>
+                <key>title</key>
+                <string>Altere limites de comunicação no Tempo de Uso</string>
+            </dict>
+        </array>
+    </dict>
+    <key>ContentAndPrivacy</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Palavras localizáveis do índice</string>
+                <key>index</key>
+                <string>uso, tela, tempo, conteúdo, privacidade, limitar, família, pais, parental, controles, segurança, crianças, filhos, restringir, gerenciar, timer, hora de recolher, restrição, gerenciamento, dicionário, inadequado, ofensa, xingar, xingamento, explícito, ruim, idioma, obsceno, obscenidade, palavras, pornografia, amaldiçoar, baixo, calão, vulgar, vulgaridade, palavrão, palavrada, filtrado, filtrando, não filtrado, sem filtro</string>
+                <key>title</key>
+                <string>Escolha ajustes de conteúdo e privacidade no Tempo de Uso</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>tela, tempo, parental, controles, limites, explícito, conteúdo, sites, criança, crianças, restringir</string>
+                <key>title</key>
+                <string>Restrinja conteúdo explícito</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyNotifications</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Palavras localizáveis do índice</string>
+                <key>index</key>
+                <string>uso, tela, tempo, dia, diário, utilização, notificações</string>
+                <key>title</key>
+                <string>Mostre relatórios diários de notificações no Tempo de Uso</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyPickups</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Palavras localizáveis do índice</string>
+                <key>index</key>
+                <string>uso, tela, tempo, dia, diário, ativações</string>
+                <key>title</key>
+                <string>Mostre relatórios diários de ativações do dispositivo no Tempo de Uso</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyUsage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Palavras localizáveis do índice</string>
+                <key>index</key>
+                <string>uso, tela, tempo, semana, semanal, uso, relatório, monitorar, rastrear, criança, crianças, apps</string>
+                <key>title</key>
+                <string>Mostre relatórios diários de uso de apps no Tempo de Uso</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Downtime</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Palavras localizáveis do índice</string>
+                <key>index</key>
+                <string>uso, tela, tempo, utilização, limitar, tempo de espera, família, pais, parental, controles, segurança, privacidade, confiança, crianças, meninos, restrito, gerenciar, timer, hora de dormir, escola, noites, hora de recolher, restringindo, gerenciando</string>
+                <key>title</key>
+                <string>Agende o repouso no Tempo de Uso</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Options</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Palavras localizáveis do índice</string>
+                <key>index</key>
+                <string>uso, tela, tempo, ajuste, opção, limitar, família, pais, parental, controles, segurança, confiança, crianças, meninos, restrito, gerenciar, timer, hora de recolher, restringindo, gerenciando</string>
+                <key>title</key>
+                <string>Ative ou desative o Tempo de Uso</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>tela, parental, controles, opções, limite, limites, senha, código</string>
+                <key>title</key>
+                <string>Defina um código do Tempo de Uso</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Requests</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Palavras localizáveis do índice</string>
+                <key>index</key>
+                <string>uso, tela, tempo, pedir, permitir, aprovar, reprovar, limitar, família, pais, parental, controles, segurança, privacidade, confiança, crianças, meninos, restrito, gerenciar, timer, hora de recolher, restringindo, gerenciando</string>
+                <key>title</key>
+                <string>Mostre pedidos de Tempo de Uso</string>
+            </dict>
+        </array>
+    </dict>
+    <key>ViewUsageLimit</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Palavras localizáveis do índice</string>
+                <key>index</key>
+                <string>uso, tela, tempo, utilização, app, limitar, adicionar, criar, aplicar, família, pais, parental, controles, segurança, privacidade, confiança, crianças, meninos, restrito, gerenciar, timer, hora de recolher, restringindo, gerenciando</string>
+                <key>title</key>
+                <string>Escolha limites de apps no Tempo de Uso</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyNotifications</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Palavras localizáveis do índice</string>
+                <key>index</key>
+                <string>uso, tela, tempo, semana, semanal, uso, notificações, parental, controles</string>
+                <key>title</key>
+                <string>Mostre relatórios semanais de notificações no Tempo de Uso</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyPickups</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Palavras localizáveis do índice</string>
+                <key>index</key>
+                <string>uso, tela, tempo, semana, semanal, ativações, parental, controles</string>
+                <key>title</key>
+                <string>Mostre relatórios semanais de ativações do dispositivo no Tempo de Uso</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyUsage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Palavras localizáveis do índice</string>
+                <key>index</key>
+                <string>uso, tela, tempo, semana, semanal, uso, relatório, monitorar, rastrear, criança, crianças, apps, parental, controles</string>
+                <key>title</key>
+                <string>Mostre relatórios semanais de uso de apps no Tempo de Uso</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

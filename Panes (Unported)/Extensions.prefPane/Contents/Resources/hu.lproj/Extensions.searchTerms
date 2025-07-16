@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Extensions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizálható indexszavak</string>
+				<key>index</key>
+				<string>bővítmények</string>
+				<key>title</key>
+				<string>Bővítmények</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizálható indexszavak</string>
+				<key>index</key>
+				<string>jelölés, megjelölés</string>
+				<key>title</key>
+				<string>Műveletek</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizálható indexszavak</string>
+				<key>index</key>
+				<string>megosztás, megoszt, olvasási lista, mail, üzenetek, airdrop, jegyzetek, emlékeztetők, emberek, hozzáadás, iphoto, aperture</string>
+				<key>title</key>
+				<string>Menüelemek megosztása</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizálható indexszavak</string>
+				<key>index</key>
+				<string>gyors, műveletek, finder, gyorsműveletek, előnézeti panel</string>
+				<key>title</key>
+				<string>Finder</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizálható indexszavak</string>
+				<key>index</key>
+				<string>gyors, műveletek, touch, bar, touch bar</string>
+				<key>title</key>
+				<string>Touch Bar</string>
+			</dict>
+            <dict>
+                <key>comments</key>
+                <string>Lokalizálható indexszavak</string>
+                <key>index</key>
+                <string>bejelentkezési azonosítókat kezelő bővítmények, jelszókezelők, jelszókezelő bővítmények, jelszó automatikus kitöltése, automatikus kitöltési bővítmények</string>
+                <key>title</key>
+                <string>Automatikus jelszókitöltő bővítmények</string>
+            </dict>
+		</array>
+	</dict>
+</dict>
+</plist>

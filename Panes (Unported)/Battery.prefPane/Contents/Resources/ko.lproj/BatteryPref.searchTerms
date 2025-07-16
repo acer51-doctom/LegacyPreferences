@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>currentSource</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>배터리 절약</string>
+                <key>index</key>
+                <string>디스플레이, 화면, 모니터, 밝게, 흐리게, 잠자기, 깨우기, 시스템 종료, 시동, 전원, 켬, 끔, 전원, 녹색, 저장, 절약, 보호, 보존, 환경, 충전, 연결, 연결 해제됨, 최적화, 성능, 프로세서, 자동, 밝기, 검은색, 빈칸, 어둡게, 흐려짐, 흐리게, 잠자기 중, 잠자기, 깨우기 중, 깨우기, 깨워짐, 깨움, 시스템 종료, 시스템 종료 중, 전원 켜기, 켜기, 켜는 중, 저장 중, 절약하기, 보존하기, 충전됨, 충전하기, 연결됨, 연결하기, 연결 해제 중, 연결 해제하기, 최적화됨, 최적화 중, 최적화하기, 자동, 오토매틱, 자동으로, 비디오 스트리밍 최적화, 최적화된 배터리 충전, 어댑터, 케이블, 플러그, 자동 그래픽 전환</string>
+                <key>comments</key>
+                <string>로컬라이즈가 가능한 인덱스 단어</string>
+            </dict>
+            <dict>
+                <key>title</key>
+                <string>메뉴 막대에서 배터리 상태 보기</string>
+                <key>index</key>
+                <string>메뉴 막대</string>
+                <key>comments</key>
+                <string>로컬라이즈가 가능한 인덱스 단어</string>
+            </dict>
+            <dict>
+                <key>title</key>
+                <string>Power Nap</string>
+                <key>index</key>
+                <string>power nap, powernap</string>
+                <key>comments</key>
+                <string>로컬라이즈가 가능한 인덱스 단어</string>
+            </dict>
+        </array>
+    </dict>
+    <key>usage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>배터리 사용 기록</string>
+                <key>index</key>
+                <string>배터리 잔량, 화면 사용 시간, 에너지 사용량</string>
+                <key>comments</key>
+                <string>로컬라이즈가 가능한 인덱스 단어</string>
+            </dict>
+        </array>
+    </dict>
+    <key>battery</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>배터리 성능 상태</string>
+                <key>index</key>
+                <string>배터리 서비스, 성능 최대치, 배터리 수명, 중요한 배터리 관련 메시지, 배터리 상태</string>
+                <key>comments</key>
+                <string>로컬라이즈가 가능한 인덱스 단어</string>
+            </dict>
+        </array>
+    </dict>
+    <key>adapter</key>
+    <dict/>
+    <key>ups</key>
+    <dict/>
+    <key>schedule</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>시동, 잠자기 또는 시스템 종료 예약</string>
+                <key>index</key>
+                <string>잠자기, 깨우기, 시동, 전원, 켬, 끔, 자동, 예정된, 예정, 잠자기, 잠자기 상태, 깨우는 중, 깨우기 상태, 깨워짐, 깨움, 시스템 종료, 시스템 종료 중, 전원 켜기, 켜기, 켜는 중, 자동, 오토매틱, 자동으로</string>
+                <key>comments</key>
+                <string>로컬라이즈가 가능한 인덱스 단어</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

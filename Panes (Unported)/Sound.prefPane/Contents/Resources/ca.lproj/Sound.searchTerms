@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effects</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>sorolls, soroll, àudio, escoltar, nivell, volum, més alt, més baix, més silenciós, silenciós, augmentar, reduir, apujar, abaixar, altaveu, altaveus, avís, campana, dring, ring, sentir, so, so d’avís, to, sonant, sonar, so d’arrencada, so d’inici, to d’inici, to d’arrencada</string>
+				<key>title</key>
+				<string>Avisos i efectes de so</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>àudio, sentir, nivell, volum, més alt, més baix, més silenciós, silenciós, apujar, abaixar, augmentar, reduir, alt, baix, música, altaveu, altaveus, escoltar</string>
+				<key>title</key>
+				<string>Volum del so</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>àudio, sentir, nivell, volum, més alt, més baix, més silenciós, silenciós, apujar, abaixar, augmentar, reduir, alt, baix, silenci, apagar, silenciar, escoltar</string>
+				<key>title</key>
+				<string>Silenciar el so</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>barra de menús</string>
+				<key>title</key>
+				<string>Mostrar el volum a la barra de menús</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>barra de menús</string>
+				<key>title</key>
+				<string>Mostrar el so a la barra de menús</string>
+			</dict>
+		</array>
+	</dict>
+	<key>input</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>àudio, sentir, nivell, volum, més alt, més baix, més silenciós, silenciós, augmentar, disminuir, apujar, abaixar, dispositius, fonts, micròfons, instruments, MIDI, enregistrar, gravar, entrada de línia, escoltar, gravació</string>
+				<key>title</key>
+				<string>Entrada de so</string>
+			</dict>
+		</array>
+	</dict>
+	<key>output</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>dispositius, auriculars, auriculars amb micròfon, altaveus, altaveu, sentir, balanç, escoltar</string>
+				<key>title</key>
+				<string>Sortida de so</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>airplay, speakers</string>
+				<key>title</key>
+				<string>Transmissió d’àudio d’AirPlay</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>privacy</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>פרטיות, להגן, למנוע, סודי, מוסתר, מוגן, מניעה, חסום, לחסום, חסימה</string>
+				<key>title</key>
+				<string>חסום חיפושים בתוך קבצים פרטיים</string>
+			</dict>
+		</array>
+	</dict>
+	<key>searchResults</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>חיפוש, לחפש, תוצאות, חיפושים</string>
+				<key>title</key>
+				<string>קטגוריות חיפוש של Spotlight</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>מילות אינדקס הניתנות לתרגום</string>
+				<key>index</key>
+				<string>מקש, מקשים, צירוף</string>
+				<key>title</key>
+				<string>קיצורי Spotlight</string>
+			</dict>
+            <dict>
+                <key>comments</key>
+                <string>מילות אינדקס הניתנות לתרגום</string>
+                <key>index</key>
+                <string>חיפוש, חפש</string>
+                <key>title</key>
+                <string>הצעות Spotlight ב״חיפוש נרחב״</string>
+            </dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Region</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbara indexord</string>
+				<key>index</key>
+				<string>regionalt, internationellt, mått, enheter, stilar, metriska, kalendrar, gregoriansk, buddhistisk, hebreisk, islamsk, japansk, kinesisk, koptisk, etiopisk, indisk, persisk, Republic of China, republiken kina, minguo, anpassa, anpassat, anpassning, lokal, temperatur</string>
+				<key>title</key>
+				<string>Numeriska, datum- och tidformat</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbara indexord</string>
+				<key>index</key>
+				<string>pengar</string>
+				<key>title</key>
+				<string>Valuta</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbara indexord</string>
+				<key>index</key>
+				<string>Internettjänster, e-post, kontakter</string>
+				<key>title</key>
+				<string>Region för internettjänster</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Language</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbara indexord</string>
+				<key>index</key>
+				<string>språk, anpassa, internationellt, anpassat, anpassning, sortering, tilltal, feminint, maskulint, neuter, könlöst, Livetext, markera text i bilder</string>
+				<key>title</key>
+				<string>Språkinställning och prioritet</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Translation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbara indexord</string>
+				<key>index</key>
+				<string>översätt, översättning</string>
+				<key>title</key>
+				<string>Översättningsspråk</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

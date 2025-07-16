@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TouchID</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+				<key>index</key>
+				<string>‏Touch ID، touchid، ID، لمس، تاتش، بصمة الإصبع، بصمات الأصابع، بصمة اصبع، إصبع، اصبع، فتح القفل، إلغاء القفل، دفع، شراء</string>
+				<key>title</key>
+				<string>Touch ID</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

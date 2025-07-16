@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>AlwaysAllowed</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Localizable index words</string>
+                <key>index</key>
+                <string>screen, time, always, allow, limit, family, parents, parental, controls, safety, privacy, security, children, kids, restrict, manage, timer, curfew, restricting, managing, monitor, track</string>
+                <key>title</key>
+                <string>Choose always allowed apps in Screen Time</string>
+            </dict>
+        </array>
+    </dict>
+    <key>CommunicationLimit</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Localizable index words</string>
+                <key>index</key>
+                <string>screen, time, communication, contact, phone, text, message, FaceTime, SMS, limit, add, create, apply, family, parents, parental, controls, safety, privacy, security, children, kids, restrict, manage, timer, curfew, restricting, managing</string>
+                <key>title</key>
+                <string>Set communication limits in Screen Time</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>screen, time, communication, contact, phone, text, message, FaceTime, SMS, limit, add, create, apply, family, parents, parental, controls, safety, privacy, security, children, kids, restrict, manage, timer, curfew, restricting, managing</string>
+                <key>title</key>
+                <string>Change communication limits in Screen Time</string>
+            </dict>
+        </array>
+    </dict>
+    <key>ContentAndPrivacy</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Localizable index words</string>
+                <key>index</key>
+                <string>screen, time, content, privacy, limit, family, parents, parental, controls, safety, security, children, kids, restrict, manage, timer, curfew, restricting, managing, dictionary, inappropriate, curse, swear, expletives, explicit, bad, language, obscene, obscenity, words, pornography, cuss, vulgar, four-letter, four letter, filtered, filtering, unfiltered, un-filtered</string>
+                <key>title</key>
+                <string>Choose Screen Time content and privacy settings</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>screen, time, parental, controls, limits, explicit, content, websites, child, children, restrict</string>
+                <key>title</key>
+                <string>Restrict explicit content</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyNotifications</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Localizable index words</string>
+                <key>index</key>
+                <string>screen, time, day, daily, usage, notifications</string>
+                <key>title</key>
+                <string>Show daily notifications report in Screen Time</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyPickups</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Localizable index words</string>
+                <key>index</key>
+                <string>screen, time, day, daily, pickups</string>
+                <key>title</key>
+                <string>Show daily device pickups report in Screen Time</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyUsage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Localizable index words</string>
+                <key>index</key>
+                <string>screen, time, week, weekly, usage, report, monitor, track, child, children, apps</string>
+                <key>title</key>
+                <string>Show daily app usage report in Screen Time</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Downtime</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Localizable index words</string>
+                <key>index</key>
+                <string>screen, time, usage, limit, downtime, family, parents, parental, controls, safety, privacy, security, children, kids, restrict, manage, timer, bedtime, school, nights, curfew, restricting, managing</string>
+                <key>title</key>
+                <string>Schedule downtime in Screen Time</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Options</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Localizable index words</string>
+                <key>index</key>
+                <string>screen, time, setting, option, limit, family, parents, parental, controls, safety, security, children, kids, restrict, manage, timer, curfew, restricting, managing</string>
+                <key>title</key>
+                <string>Turn Screen Time on or off</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>screen, parental, controls, options, limit, limits, password, passcode</string>
+                <key>title</key>
+                <string>Set Screen Time passcode</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Requests</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Localizable index words</string>
+                <key>index</key>
+                <string>screen, time, request, allow, approve, disapprove, limit, family, parents, parental, controls, safety, privacy, security, children, kids, restrict, manage, timer, curfew, restricting, managing</string>
+                <key>title</key>
+                <string>Show Screen Time requests</string>
+            </dict>
+        </array>
+    </dict>
+    <key>ViewUsageLimit</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Localizable index words</string>
+                <key>index</key>
+                <string>screen, time, usage, app, limit, add, create, apply, family, parents, parental, controls, safety, privacy, security, children, kids, restrict, manage, timer, curfew, restricting, managing</string>
+                <key>title</key>
+                <string>Choose app limits in Screen Time</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyNotifications</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Localizable index words</string>
+                <key>index</key>
+                <string>screen, time, week, weekly, usage, notifications, parental, controls</string>
+                <key>title</key>
+                <string>Show weekly notifications report in Screen Time</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyPickups</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Localizable index words</string>
+                <key>index</key>
+                <string>screen, time, week, weekly, pickups, parental, controls</string>
+                <key>title</key>
+                <string>Show weekly device pickups report in Screen Time</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyUsage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Localizable index words</string>
+                <key>index</key>
+                <string>screen, time, week, weekly, usage, report, monitor, track, child, children, apps, parental, controls</string>
+                <key>title</key>
+                <string>Show weekly app usage report in Screen Time</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

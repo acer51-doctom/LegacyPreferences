@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>AppleAccount</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>可本地化的索引词, Localizable index words</string>
+                <key>index</key>
+                <string>云服务, iCloud, cloud, me.com, apple帐户, apple account, appleid, 苹果, apple, id, 帐户, account, 联系人, contact, 支付, 付款, payment, 配送, 送货地址, shipping</string>
+                <key>title</key>
+                <string>Apple ID</string>
+            </dict>
+        </array>
+    </dict>
+    <key>iCloud</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>可本地化的索引词, Localizable index words</string>
+                <key>index</key>
+                <string>iCloud, 云端, 云服务, cloud, me.com, apple帐户, apple account, 查找我的mac, find my mac, 储存空间, storage, 文稿与数据, documents &amp; data, iCloud云盘, iCloud Drive, 书签, Bookmarks, 日历, Calendars, 通讯录, Contacts, 邮件, Mail, 提醒事项, Reminders, 阅读列表, Reading Lists, 股市, Stocks, 家庭, Home, Safari浏览器, Safari, 备忘录, Notes</string>
+                <key>title</key>
+                <string>iCloud</string>
+            </dict>
+        </array>
+    </dict>
+    <key>com.apple.AppleMediaServicesUI.SpyglassPurchases</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>可本地化的索引词, Localizable index words</string>
+                <key>index</key>
+                <string>媒体, media, 购买项目, 购买项, purchases, app store, 服务, services, 订阅, subscriptions</string>
+                <key>title</key>
+                <string>媒体和购买项目, Media and Purchases</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

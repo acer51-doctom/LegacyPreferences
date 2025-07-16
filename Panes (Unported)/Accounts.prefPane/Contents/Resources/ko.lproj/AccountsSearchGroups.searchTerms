@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loginOptionsPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>로컬라이즈가 가능한 인덱스 단어</string>
+				<key>index</key>
+				<string>사용자, 로그, 서명, 로그인, 로그온, 로그 인, 로긴, 가리기, 보기, 시동, 시스템 종료, 재시동, 잠자기, 버튼, VoiceOver, 말하기, 말하기, 입력, 방법, 모드, 메뉴, 암호, 힌트, 시작, 시스템 시동,시스템, 종료, 음성, 인식, 통과, 단어, 로그인중, 로그인, 로그인 중, 로그인, 로그인, 가리기, 보기, 말하기</string>
+				<key>title</key>
+				<string>로그인 윈도우 설정</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>로컬라이즈가 가능한 인덱스 단어</string>
+				<key>index</key>
+				<string>사용자, 빠른, 로그, 등록, 로그인, 로그인, 등록, 등록, 로그아웃, 로그오프, 로그아웃, 로그아웃, 변환 중, 로그인 중, 로그인, 로그인, 로그아웃, 로그오프, 등록 중, 등록, 등록, 로그아웃, 로그아웃</string>
+				<key>title</key>
+				<string>계정 사이 전환</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>로컬라이즈가 가능한 인덱스 단어</string>
+				<key>index</key>
+				<string>등록, 로그인, 로그인, 자동, 자동화 중, 자동화, 로그인 중, 로그인, 로그인, 로그인 중, 등록, 등록</string>
+				<key>title</key>
+				<string>자동으로 로그인</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>활성, LDAP, 열기, 서버, active directory, open directory</string>
+				<key>title</key>
+				<string>디렉토리 서비스</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>사용자, 로그, 등록, 로그인, 로그 인, 로그인 중, 로그 인 중, 등록 중, 로그인하기, 로그 인하기, 등록하기, 등록 하기</string>
+				<key>title</key>
+				<string>로그인 옵션</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>네트워크 계정 서버</string>
+			</dict>
+		</array>
+	</dict>
+	<key>mobilityPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array/>
+	</dict>
+	<key>passwordPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>로컬라이즈가 가능한 인덱스 단어</string>
+				<key>index</key>
+				<string>방문자, 방문, 공유, 긴, 짧은, 이름, 인증, 암호, filevault, 파일볼트, 파일 볼트, 공유 중,공유하기, 통과, 패스, 단어, 워드, 인증 중, 인증하기, 파일, file, 볼트, vault</string>
+				<key>title</key>
+				<string>사용자 또는 그룹 계정</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>로컬라이즈가 가능한 인덱스 단어</string>
+				<key>index</key>
+				<string>사진, 그림, 사진</string>
+				<key>title</key>
+				<string>사용자 그림</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>로컬라이즈가 가능한 인덱스 단어</string>
+				<key>index</key>
+				<string>사용자, 계정, 긴, 짧은, 이름, 인증, 로그, 등록, 로그인, 로그인, 등록, 변경, 관리자, 통과, 단어, 인증 중, 인증, 로그인 중, 로그인, 등록 중, 등록, 등록, 변경 중</string>
+				<key>title</key>
+				<string>로그인 이름 및 암호</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>로컬라이즈가 가능한 인덱스 단어</string>
+				<key>index</key>
+				<string>vcard, 카드</string>
+				<key>title</key>
+				<string>연락처</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>로컬라이즈가 가능한 인덱스 단어</string>
+				<key>index</key>
+				<string>관리, 관리, 관리하기, 관리하기</string>
+				<key>title</key>
+				<string>관리자 계정</string>
+			</dict>
+		</array>
+	</dict>
+	<key>startupItemsPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>로컬라이즈가 가능한 인덱스 단어</string>
+				<key>index</key>
+				<string>자동, 자동화, 로그, 등록, 로그인, 로그 인, 등록, 등록, 시작, 위로, 자동으로, 자동화됨, 자동 중, 자동화, 시작 중, 로그인 중, 로그인, 등록 중, 등록, 등록</string>
+				<key>title</key>
+				<string>로그인 시 응용 프로그램 열기</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>로컬라이즈가 가능한 인덱스 단어</string>
+				<key>index</key>
+				<string>로그, 등록, 로그인, 로그 인, 실행, 시동, 시작, 시작 중, 로그인 중, 로그 인 중, 등록 중, 로그인하기, 로그 인하기, 등록하기</string>
+				<key>title</key>
+				<string>로그인 항목</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

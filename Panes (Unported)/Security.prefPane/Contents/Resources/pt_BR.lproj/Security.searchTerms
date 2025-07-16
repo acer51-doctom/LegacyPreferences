@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Advanced</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>infravermelho, receptor, IV, infra-vermelho, infrared, receiver, IR, infra-red</string>
+				<key>title</key>
+				<string>Desativar o controle remoto</string>
+			</dict>
+		</array>
+	</dict>
+	<key>FDE</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Palavras localizáveis do índice</string>
+				<key>index</key>
+				<string>disco, criptografar, criptografado, criptografando, criptografia, file vault, filevault, disk, encrypt, encrypted, encrypting, encryption</string>
+				<key>title</key>
+				<string>FileVault</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Firewall</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Palavras localizáveis do índice</string>
+				<key>index</key>
+				<string>impedir, bloquear, rede, portas, udp, compartilhamento de arquivos, controle remoto, SSH, prevenção, evitando, bloqueado, bloqueando, fire wall, firewall, prevent, block, network, ports, file sharing, remote, prevention, preventing, blocked, blocking</string>
+				<key>title</key>
+				<string>Ativar ou desativar o firewall</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palavras localizáveis do índice</string>
+				<key>index</key>
+				<string>firewall, fire wall</string>
+				<key>title</key>
+				<string>Ajustes avançados de firewall</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palavras localizáveis do índice</string>
+				<key>index</key>
+				<string>modo discreto</string>
+				<key>title</key>
+				<string>Modo Discreto</string>
+			</dict>
+		</array>
+	</dict>
+	<key>General</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+            <dict>
+                <key>comments</key>
+                <string>Palavras localizáveis do índice</string>
+                <key>index</key>
+                <string>apple watch, relógio, desbloquear, aprovar, watch, unlock, approve</string>
+                <key>title</key>
+                <string>Permitir que o Apple Watch desbloqueie o Mac</string>
+            </dict>
+			<dict>
+				<key>comments</key>
+				<string>Palavras localizáveis do índice</string>
+				<key>index</key>
+				<string>tela, protetor, senha, autenticar, bloquear, desbloquear, repouso, sair do repouso, protetor de tela, password, autenticado, autenticando, autenticação, bloqueado, bloqueando, desbloqueado, desbloqueando, em repouso, saindo do repouso</string>
+				<key>title</key>
+				<string>Solicitar senha para despertar o computador</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palavras localizáveis do índice</string>
+				<key>index</key>
+				<string>registro, iniciar, sessão, entrar, automático, iniciando, iniciar sessão, início de sessão, acessar, acesso, log, sign, on, in, automatic, logging, logon, signing, signin, signon</string>
+				<key>title</key>
+				<string>Desativar o início de sessão automático</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palavras localizáveis do índice</string>
+				<key>index</key>
+				<string>bloquear, desbloquear, bloqueando, desbloqueando, lock, unlock, locking, unlocking</string>
+				<key>title</key>
+				<string>Bloquear as Preferências do Sistema</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palavras localizáveis do índice</string>
+				<key>index</key>
+				<string>iniciar, finalizar, início, finalização, finalizar sessão, iniciar sessão, sair, sign, off, logging, logoff, logout, signing, signoff, signout</string>
+				<key>title</key>
+				<string>Finalizar a sessão quando ociosa</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palavras localizáveis do índice</string>
+				<key>index</key>
+				<string>segurar, seguro, segurança, proteger, proteção, assegurado, assegurando, protegido, protegendo, secure, safe, safety, protect, protection, secured, securing, protected, protecting</string>
+				<key>title</key>
+				<string>Ajustes de segurança</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Bloquear tela</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>Gatekeeper, gate, keeper, identificado, desenvolvedores, aplicativos, downloads, identified, developers, applications</string>
+				<key>title</key>
+				<string>Gatekeeper</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Palavras localizáveis do índice</string>
+				<key>index</key>
+				<string>privado, pessoal, privacidade, private, privacy</string>
+				<key>title</key>
+				<string>Ajustes de Privacidade</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Accessibility</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>acessibilidade</string>
+				<key>title</key>
+				<string>Permitir que apps usem Acessibilidade</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_AllFiles</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Arquivos</string>
+				<key>title</key>
+				<string>Permitir que apps acessem todos os arquivos do usuário</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Assistive</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Universal, acesso, acessibilidade, deficiente, deficiente físico, assistivo, controle assistivo, mobilidade, cadeira de rodas, cadeirante, Universal, access, accessibility, disabled, handicapped, impaired, assistive, assistive control, mobility, wheelchair</string>
+				<key>title</key>
+				<string>Permitir que apps assistivos controlem o computador</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Calendars</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Calendários, datas</string>
+				<key>title</key>
+				<string>Permitir que apps acessem o Calendário</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Camera</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>câmera, app, acesso, privado, pessoal, privacidade, camera, access, private, privacy</string>
+				<key>title</key>
+				<string>Permitir que apps acessem a câmera</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Contacts</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>contato, endereço, app, acesso, privado, pessoal, privacidade, contact, address, access, private, privacy</string>
+				<key>title</key>
+				<string>Permitir que apps acessem os Contatos</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_SystemServices</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>localização, serviço, tempo, zona, acesso, anúncios, buscar mac, casa, homekit, spotlight, privacidade</string>
+				<key>title</key>
+				<string>Permitir que os serviços do sistema determinem sua Localização</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_LocationServices</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>localização, serviço, app, acesso, privado, pessoal, privacidade, location, service, access, private, privacy</string>
+				<key>title</key>
+				<string>Permitir que apps acessem a Localização</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Microphone</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>microfone, app, acesso, privado, pessoal, privacidade, microphone, access, private, privacy</string>
+				<key>title</key>
+				<string>Permitir que apps acessem o microfone</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Reminders</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Lembretes, tarefa</string>
+				<key>title</key>
+				<string>Permitir que apps acessem o Lembretes</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

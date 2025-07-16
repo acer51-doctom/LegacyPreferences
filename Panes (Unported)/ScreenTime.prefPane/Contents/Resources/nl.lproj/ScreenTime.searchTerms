@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>AlwaysAllowed</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokaliseerbare indextermen</string>
+                <key>index</key>
+                <string>scherm, tijd, altijd, toestaan, limiet, gezin, ouders, ouderlijk, toezicht, veiligheid, privacy, beveiliging, kinderen, beperken, beheren, timer, tijdslimiet, beperking, beheer, volgen</string>
+                <key>title</key>
+                <string>Kies altijd toegestane apps in Schermtijd</string>
+            </dict>
+        </array>
+    </dict>
+    <key>CommunicationLimit</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokaliseerbare indextermen</string>
+                <key>index</key>
+                <string>scherm, tijd, communicatie, contact, telefoon, tekstbericht, bericht, FaceTime, sms, limiet, toevoegen, aanmaken, toepassen, gezin, ouders, ouderlijke, controle, toezicht, veiligheid, privacy, beveiliging, kinderen, kids, beperken, beheren, timer, tijdslimiet, beperking, beheer</string>
+                <key>title</key>
+                <string>Stel communicatielimieten in Schermtijd in</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>scherm, tijd, communicatie, contact, telefoon, tekstbericht, bericht, FaceTime, sms, limiet, toevoegen, aanmaken, toepassen, gezin, ouders, ouderlijke, controle, toezicht, veiligheid, privacy, beveiliging, kinderen, kids, beperken, beheren, timer, tijdslimiet, beperking, beheer</string>
+                <key>title</key>
+                <string>Wijzig communicatielimieten in Schermtijd</string>
+            </dict>
+        </array>
+    </dict>
+    <key>ContentAndPrivacy</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokaliseerbare indextermen</string>
+                <key>index</key>
+                <string>scherm, tijd, materiaal, privacy, limiet, gezin, ouders, ouderlijke, controle, veiligheid, beveiliging, kinderen, kids, beperken, beheren, timer, tijdslimiet, beperking, beheer, woordenlijst, ongepast, vloeken, schelden, krachttermen, expliciet, grof, taalgebruik, obsceen, obsceniteit, woorden, pornografie, vloek, vulgair, schuttingtaal, schuine taal, gefilterd, filteren, ongefilterd, niet-gefilterd</string>
+                <key>title</key>
+                <string>Kies materiaal- en privacy-instellingen voor Schermtijd</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>scherm, tijd, ouderlijk, toezicht, limieten, expliciet, materiaal, websites, kind, kinderen, beperken</string>
+                <key>title</key>
+                <string>Beperk toegang tot expliciet materiaal</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyNotifications</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokaliseerbare indextermen</string>
+                <key>index</key>
+                <string>scherm, tijd, dag, dagelijks, gebruik, meldingen</string>
+                <key>title</key>
+                <string>Toon dagelijks rapport over meldingen in Schermtijd</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyPickups</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokaliseerbare indextermen</string>
+                <key>index</key>
+                <string>scherm, tijd, dag, dagelijks, activeringen</string>
+                <key>title</key>
+                <string>Toon dagelijks rapport over activeringen van apparaten in Schermtijd</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyUsage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokaliseerbare indextermen</string>
+                <key>index</key>
+                <string>scherm, tijd, week, wekelijks, gebruik, rapport, toezicht, volgen, kind, kinderen, apps</string>
+                <key>title</key>
+                <string>Toon dagelijks rapport over appgebruik in Schermtijd</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Downtime</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokaliseerbare indextermen</string>
+                <key>index</key>
+                <string>scherm, tijd, gebruik, limiet, apparaatvrije tijd, gezin, ouders, ouderlijk, toezicht, veiligheid, privacy, beveiliging, kinderen, beperken, beheren, timer, tijdslimiet, beperking, beheer, bedtijd, school, nachten</string>
+                <key>title</key>
+                <string>Plan apparaatvrije tijd in Schermtijd</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Options</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokaliseerbare indextermen</string>
+                <key>index</key>
+                <string>scherm, tijd, instelling, optie, limiet, gezin, ouders, ouderlijke, controle, veiligheid, beveiliging, kinderen, kids, beperken, beheren, timer, tijdslimiet, beperking, beheer</string>
+                <key>title</key>
+                <string>Schakel Schermtijd in of uit</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>scherm, ouderlijk, toezicht, opties, limiet, limieten, wachtwoord, toegangscode</string>
+                <key>title</key>
+                <string>Stel toegangscode voor schermtijd in</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Requests</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokaliseerbare indextermen</string>
+                <key>index</key>
+                <string>scherm, tijd, verzoek, toestaan, goedkeuren, weigeren, limiet, gezin, ouders, ouderlijke, controle, toezicht, veiligheid, privacy, beveiliging, kinderen, kids, beperken, beheren, timer, tijdslimiet, beperking, beheer</string>
+                <key>title</key>
+                <string>Toon Schermtijd-verzoeken</string>
+            </dict>
+        </array>
+    </dict>
+    <key>ViewUsageLimit</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokaliseerbare indextermen</string>
+                <key>index</key>
+                <string>scherm, tijd, gebruik, app, limiet, toevoegen, aanmaken, toepassen, gezin, ouders, ouderlijke, controle, toezicht, veiligheid, privacy, beveiliging, kinderen, kids, beperken, beheren, timer, tijdslimiet, beperking, beheer</string>
+                <key>title</key>
+                <string>Kies applimieten in Schermtijd</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyNotifications</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokaliseerbare indextermen</string>
+                <key>index</key>
+                <string>scherm, tijd, week, wekelijks, gebruik, meldingen, ouderlijk, toezicht</string>
+                <key>title</key>
+                <string>Toon wekelijks rapport over meldingen in Schermtijd</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyPickups</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokaliseerbare indextermen</string>
+                <key>index</key>
+                <string>scherm, tijd, week, wekelijks, activeringen, ouderlijk, toezicht</string>
+                <key>title</key>
+                <string>Toon wekelijks rapport over activeringen van apparaten in Schermtijd</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyUsage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokaliseerbare indextermen</string>
+                <key>index</key>
+                <string>scherm, tijd, week, wekelijks, gebruik, rapport, toezicht, volgen, kind, kinderen, apps, ouderlijk</string>
+                <key>title</key>
+                <string>Toon wekelijks rapport over appgebruik in Schermtijd</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Accessibility_Shortcut</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>辅助功能快捷键, accessibility shortcut, 辅助功能, accessibility, 快捷键, shortcut</string>
+				<key>title</key>
+				<string>辅助功能快捷键, Accessibility Shortcut</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Alternate_Pointer_Actions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>点按, click, 鼠标, mouse, 切换, switch, 备选, alternate, 按钮, button, 鼠标键, Mouse Keys, 表情, expression, 面部, face, facial</string>
+				<key>title</key>
+				<string>备选指针操作, Alternate Pointer Actions</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Captioning</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>隐藏式字幕, CC, SDH, closed captions, closed captioning, 听障人士字幕, subtitles for deaf and hard of hearing, 失聪, deaf, 听力, hearing, 影片, movies, 字幕, subtitle, subtitles, 文本轨道, text track</string>
+				<key>title</key>
+				<string>启用隐藏式字幕, Enable CC, 听障人士字幕, SDH, 字幕, subtitles</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>隐藏式字幕, CC, SDH, closed captions, closed captioning, 听障人士字幕, subtitles for deaf and hard of hearing, 失聪, deaf, 听力, hearing, 影片, movies, 字幕, subtitle, subtitles, 文本轨道, text track</string>
+				<key>title</key>
+				<string>自定隐藏式字幕, Customize CC, 听障人士字幕, SDH, 字幕, subtitles</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Dictation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>万能, Universal, 辅助, access, 辅助功能, accessibility, 停用, disabled, 残疾, handicapped, 视力, sight, 盲人, blind, 视觉, vision, 可视, visible, 听力, hearing, 受损, impaired, 朗读, speak, 可口述, speakable, 项目, items, 口述, spoken, 命令, commands, 认识, recognize, 识别, recognition, 协助, assist, 辅助的, assistive, 谈话, talk, 语音, voices, 校准, calibrate, 校正, calibration, 听到, listen, 键, key, 快捷, shortcuts, 自定, customize, 耳机, microphone, 音量, volume, 口述, speaking, 正在识别, recognizing, 交谈, talking, 核准, calibrating, 聆听, listening, 自定, customized, customizing, 听写, dictation, 语音控制, voice control</string>
+				<key>title</key>
+				<string>语音控制, Voice Control</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Dwell</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>停留, dwell, dwelling, 屏幕键盘, on screen keyboard, on-screen keyboard, 虚拟键盘, virtual keyboard, 辅助功能键盘, 辅助键盘, accessibility keyboard, 鼠标悬停, mouse hover, 鼠标, mouse, 头部跟踪, head tracking, 停留控制, Dwell Control, 万能, Universal, 辅助, access, 辅助功能, accessibility, 伤残, disabled, 残疾, handicapped, 受损, impaired, 辅助控制, assistive control, 移动性, mobility, 轮椅, wheelchair</string>
+				<key>title</key>
+				<string>辅助功能键盘的停留操作, Dwell for Accessibility Keyboard</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Full_Keyboard_Access</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>完全, full, 键盘, keyboard, 访问, 控制, access, 导航, navigation, 命令, commands, Tab键, tab</string>
+				<key>title</key>
+				<string>全键盘控制, Full Keyboard Access</string>
+			</dict>
+		</array>
+	</dict>
+	<key>General</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>万能, Universal, 访问, access, 辅助功能, accessibility, 伤残, disabled, 残疾, handicapped, 受限, limited, 受损, impaired, 辅助, assistive, 简单, easy, 调整, adjust, adjustments, 正在调整, adjusting, 正在键入, typing</string>
+				<key>title</key>
+				<string>通用辅助功能设置, General accessibility settings</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Head_Pointer</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>头部, head, 面部, face, 鼠标, mouse, 指针, pointer, 跟踪, track, tracking</string>
+				<key>title</key>
+				<string>头控指针, Head Pointer</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Hearing</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>万能, Universal, 辅助, access, 辅助功能, accessibility, 伤残, disabled, 残疾, handicapped, 受限制, limited, 聋, deaf, 听, hear, 听力, hearing, 受损, impaired, 辅助的, assistive</string>
+				<key>title</key>
+				<string>闪动屏幕以警告, Flash screen for alerts</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>万能, Universal, 辅助, access, 辅助功能, accessibility, 伤残, disabled, 残疾, handicapped, 受限制, limited, 聋, deaf, 听, hear, 听力, hearing, 受损, impaired, 辅助的, assistive</string>
+				<key>title</key>
+				<string>将立体声作为单声道播放, Play stereo as mono</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Keyboard</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>万能, Universal, 辅助, access, 辅助功能, accessibility, 伤残, disabled, 残疾, handicapped, 受限制, limited, 切换, switch, 受损伤, impaired, 慢速, slow down, 辅助的, assistive, 容易, easy, 粘滞键, Sticky Keys, 重复速率, repeat rate, 修饰键, modifier, 灵敏度, sensitivity, 调整, adjust, adjustments, type, 键入, slower, 较慢, slowing, 慢, 正在调整, adjusting, 正在键入, typing</string>
+				<key>title</key>
+				<string>让键盘更易于使用, Make keyboard easier to use</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>万能, Universal, 访问, access, 辅助功能, accessibility, 伤残, disabled, 残疾, handicapped, 受限, limited, 受损, impaired, 辅助, assistive, 修饰键, modifier, 速率, rate, 键入, type, 键入反馈, typing feedback</string>
+				<key>title</key>
+				<string>启用键入反馈, Enable Typing Feedback</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Media_Descriptions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>万能, Universal, 辅助, access, 辅助功能, accessibility, 伤残, disabled, 残疾, handicapped, 受限制, limited, 盲人, blind, 视力, sight, 视觉, vision, 可见的, visible, 受损伤, impaired, 视频, video, 媒体, media, 描述文本, descriptions, 描述, describe, 已描述, described</string>
+				<key>title</key>
+				<string>媒体描述, Media Descriptions</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Mouse</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>访问, access, 辅助, 辅助功能, accessibility, 调整, adjust, 正在调整, adjusting, 辅助的, assistive, 光标, cursor, 延迟, delay, 伤残, disabled, 连按, double click, double-click, 拖移, drag, 容易, easy, 快, fast, 残疾, handicapped, 触感, haptic, 触感反馈, haptic feedback, 受损伤, impaired, 惯性, inertia, 键盘, keyboard, 小键盘, keypad, 按键, keys, 受限制, limited, 锁定, lock, 移动, move, 正在移动, moving, 数字, numeric, 鼠标指针, pointer, 滚动, scroll, 正在滚动, scrolling, 慢速, slow down, 较慢, slower, 慢, slowing, 速度, speed, 弹开载入, spring load, 切换, switch, 三指, three finger, 三指拖移, three finger drag, 万能, Universal</string>
+				<key>title</key>
+				<string>让鼠标和触控板更易于使用, Make mouse and trackpad easier to use</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>停用滚动, Disable scrolling</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>滚动惯性, Scrolling inertia</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_ColorFilters</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>颜色, color, 滤镜, filter, 色盲, colorblind</string>
+				<key>title</key>
+				<string>显示器色彩滤镜, Display color filters</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_Cursor</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>光标, cursor, 指针, pointer, 箭头, arrow, 扩大, enlarge, 更大, larger, 较大, bigger, 放大, magnify, magnifying, magnification</string>
+				<key>title</key>
+				<string>光标大小, Cursor size</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>光标, cursor, 指针, pointer, 鼠标, mouse, 触控板, trackpad, 摇动, shake, 摆动, wiggle</string>
+				<key>title</key>
+				<string>摇动鼠标指针以定位, Shake mouse pointer to locate</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_Display</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>万能, Universal, 访问, access, 辅助功能, accessibility, 伤残, disabled, 残疾, handicapped, 受限, limited, 盲人, blind, 视力, sight, 视觉, vision, 可见的, visible, 受损伤, impaired, 阅读, read, 观看, view, 增强, enhance, 对比度, contrast, 黑, black, 白, white, 灰度, grayscale, 调整, adjustments, 阅读, reading, 看到, seeing, 观看, viewing, 增强, enhancing, 调整, adjusting, 灰度, gray scale, 动态效果, motion, 减弱动态效果, reduce motion, 降低透明度, reduce transparency, 透明度, transparency, 透明的, transparent, 半透明度, translucency, 半透明的, translucent, 模糊, blur, 背景, background, 颜色, color</string>
+				<key>title</key>
+				<string>让显示器更易于浏览, Make display easier to see</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_VoiceOver</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>语音, spoken, 界面, interface, 听力, hearing, 屏幕, screen, 阅读, reader, 万能, Universal, 通用, access, 辅助, 辅助功能, accessibility, 停用, disabled, 残疾, 障碍, handicapped, limited, 有限, 盲人, blind, 视力, 视觉, vision, visible, 可视, 受损, impaired, voice over</string>
+				<key>title</key>
+				<string>打开和关闭旁白, Turn VoiceOver on and off</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>菜单栏, menubar</string>
+				<key>title</key>
+				<string>在菜单栏中显示辅助功能, Show Accessibility in menu bar</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_Zoom</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>触控栏, touchbar, multi-touch bar, 正在缩放, zooming, 已放大, enlarged, 正在放大, enlarging, magnified, magnifying, 缩放, zoom, enlarge</string>
+				<key>title</key>
+				<string>启用触控栏缩放, Enable Touch Bar zoom</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>万能, Universal, 辅助, access, 辅助功能, accessibility, 伤残, disabled, 残疾, handicapped, 受限制, limited, 盲人, blind, 视力, sight, 视觉, vision, 可见的, visible, 受损伤, impaired, 扩大, enlarge, 放大, magnify, magnification, 阅读, read, 看到, see, 观看, view, 增大, increase, 减小, decrease, 较大, larger, bigger, 最大, maximum, 最小, minimum, 滚动, scroll, 鼠标, mouse, 滚轮, wheel, 珠, ball, 滚珠, scrollball, 滚轮, scrollwheel, 鼠标滚珠, mouseball, 鼠标滚轮, mousewheel, 已缩放, zooming, 已增大, enlarged, 增大, enlarging, 已放大, magnified, 放大, magnifying, 阅读, reading, 看到, seeing, 观看, viewing, 增大, increasing, 减小, decreasing, 缩放, zoom, enlarge, 悬停文本, hover text</string>
+				<key>title</key>
+				<string>启用悬停文本, Enable Hover Text</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>万能, Universal, 辅助, access, 辅助功能, accessibility, 伤残, disabled, 残疾, handicapped, 受限制, limited, 盲人, blind, 视力, sight, 视觉, vision, 可见的, visible, 受损伤, impaired, 扩大, enlarge, 放大, magnify, magnification, 阅读, read, 看到, see, 观看, view, 增大, increase, 减小, decrease, 较大, larger, bigger, 最大, maximum, 最小, minimum, 滚动, scroll, 鼠标, mouse, 滚轮, wheel, 珠, ball, 滚珠, scrollball, 滚轮, scrollwheel, 鼠标滚珠, mouseball, 鼠标滚轮, mousewheel, 已缩放, zooming, 已增大, enlarged, 增大, enlarging, 已放大, magnified, 放大, magnifying, 阅读, reading, 看到, seeing, 观看, viewing, 增大, increasing, 减小, decreasing, 缩放, enlarge, 显示器, displays, 监视器, monitors, 备用, second, 多台, multiple, 屏幕, screens</string>
+				<key>title</key>
+				<string>缩放以扩大屏幕, Zoom to enlarge screen</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Siri</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>键入, type, 键入以使用Siri, type to siri, 键入siri, type siri, siri键入, siri type</string>
+				<key>title</key>
+				<string>键入以使用Siri, Type to Siri</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Switch</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>面板, panel, 面板编辑器, panel editor, 扫描, scan, 扫描中, scanning, 切换, switch, switches, 万能, Universal, 辅助, access, 辅助功能, accessibility, 伤残, disabled, 残疾, handicapped, 受损, impaired, 辅助控制, assistive control, 移动性, mobility, 轮椅, wheelchair</string>
+				<key>title</key>
+				<string>切换控制面板编辑器, Switch Control Panel Editor</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>扫描, scan, 扫描中, scanning, 切换, switch, switches, 万能, Universal, 辅助, access, 辅助功能, accessibility, 伤残, disabled, 残疾, handicapped, 受损, impaired, 辅助控制, assistive control, 移动性, mobility, 轮椅, wheelchair</string>
+				<key>title</key>
+				<string>启用切换控制, Enable Switch Control</string>
+			</dict>
+		</array>
+	</dict>
+	<key>TextToSpeech</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>语音, speech, 合成, synthesis, TTS, 口述, spoken, 语音通知, announce, 通知, announcements, 朗读, speak, 文本, text, 声音, voice, 速度, rate, 谈话, talk, 警告, alerts, 正在通知, announcing, 正在朗读, speaking, 正在谈话, talking</string>
+				<key>title</key>
+				<string>语音, Speech</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Virtual_Keyboard</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>面板, panel, 面板编辑器, panel editor, 键盘, keyboard, 屏幕键盘, on screen keyboard, on-screen keyboard, 虚拟键盘, virtual keyboard, 辅助功能键盘, 辅助键盘, accessibility keyboard, 鼠标, mouse, 头部跟踪, head tracking, 万能, Universal, 辅助, access, 辅助功能, accessibility, 伤残, disabled, 残疾, handicapped, 受损, impaired, 辅助控制, assistive control, 移动性, mobility, 轮椅, wheelchair</string>
+				<key>title</key>
+				<string>辅助功能键盘面板编辑器, Accessibility Keyboard Panel Editor</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>键盘, keyboard, 屏幕键盘, on screen keyboard, on-screen keyboard, 虚拟键盘, virtual keyboard, 辅助功能键盘, 辅助键盘, accessibility keyboard, 鼠标, mouse, 头部跟踪, head tracking, 万能, Universal, 辅助, access, 辅助功能, accessibility, 伤残, disabled, 残疾, handicapped, 受损, impaired, 辅助控制, assistive control, 移动性, mobility, 轮椅, wheelchair, 登录, login</string>
+				<key>title</key>
+				<string>启用辅助功能键盘, Enable Accessibility Keyboard</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

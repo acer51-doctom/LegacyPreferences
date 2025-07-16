@@ -1,0 +1,34 @@
+{
+    Name = "Accounts";
+    AppleEventCode = "acco";
+
+    Classes = {
+        User = {
+            AppleEventCode = "uacc";
+            Superclass = "NSCoreSuite.AbstractObject";
+            Attributes = {
+                name = {
+                    AppleEventCode = "pnam";
+                    ReadOnly = "YES";
+                    Type = "NSString";
+                };
+                fullName = {
+                    AppleEventCode = "fnam";
+                    ReadOnly = "YES";
+                    Type = "NSString";
+                };
+				homeDirectory = {
+                    AppleEventCode = "home";
+                    ReadOnly = "YES";
+                    Type = "NSString<FilePath>";
+                };
+				AEPicturePath = {
+                    AppleEventCode = "picp";
+                    ReadOnly = "NO";
+                    Type = "NSString<FilePath>";
+                };
+            };
+        };
+    };
+}
+

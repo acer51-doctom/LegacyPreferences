@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Notifications</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>центр, уведомление, центр уведомлений, уведомления, баннер, баннеры, наклейки, наклейка, предупреждение, предупреждения, оповещение, оповещения, пиктограмма, пиктограммы, звуки, блокировка экрана, блокировать, заблокировать, блокировать экран, заблокировать экран</string>
+				<key>title</key>
+				<string>Настройки Центра уведомлений</string>
+			</dict>
+		</array>
+	</dict>
+    <key>Focus</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Локализуемые ключевые слова</string>
+                <key>index</key>
+                <string>не беспокоить, выключить, отключить, не звонить, не звенеть, без звука, беззвучно, тихо, фокусирование, неотложные, срочные, отсутствие, автоответ, автоматический ответ, недоступен, недоступна, отсутствую, нет на месте</string>
+                <key>title</key>
+                <string>Настройки фокусирования</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

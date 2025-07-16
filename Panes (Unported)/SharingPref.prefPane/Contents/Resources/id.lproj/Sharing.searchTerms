@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>Internet</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Kata indeks yang dapat dilokalkan</string>
+					<key>index</key>
+					<string>berbagi, koneksi, nirkabel, nat, Wi-Fi, ethernet, FireWire</string>
+					<key>title</key>
+					<string>Berbagi internet</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Main</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Kata indeks yang dapat dilokalkan</string>
+					<key>index</key>
+					<string>lokal, subnet, bonjour</string>
+					<key>title</key>
+					<string>Nama komputer</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_ARDService</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Kata indeks yang dapat dilokalkan</string>
+					<key>index</key>
+					<string>jarak jauh, manajemen, manajemen jarak jauh, ard, kontrol, VNC</string>
+					<key>title</key>
+					<string>Manajemen Jarak Jauh</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_DVDorCDSharing</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>index</key>
+					<string/>
+					<key>title</key>
+					<string>Berbagi DVD atau CD</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_PersonalFileSharing</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Kata indeks yang dapat dilokalkan</string>
+					<key>index</key>
+					<string>nat afp exchange, berbagi</string>
+					<key>title</key>
+					<string>Berbagi file</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_PrinterSharing</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Kata indeks yang dapat dilokalkan</string>
+					<key>index</key>
+					<string>cups, berbagi</string>
+					<key>title</key>
+					<string>Berbagi pencetak</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_RemoteAppleEvent</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Kata indeks yang dapat dilokalkan</string>
+					<key>index</key>
+					<string>ae</string>
+					<key>title</key>
+					<string>Acara Apple Jarak Jauh</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_RemoteLogin</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Kata indeks yang dapat dilokalkan</string>
+					<key>index</key>
+					<string>ssh, layanan, log, tanda tangan, dalam, pada, pencatatan, masuk, menandatangani, masuk, masuk</string>
+					<key>title</key>
+					<string>Masuk Jarak Jauh</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_ScreenSharing</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>index</key>
+					<string>kontrol, VNC</string>
+					<key>title</key>
+					<string>Berbagi Layar</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_WindowsSharing</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Kata indeks yang dapat dilokalkan</string>
+					<key>index</key>
+					<string>samba, layanan, SMB/CIFS, pencetak, folder, berbagi</string>
+					<key>title</key>
+					<string>Berbagi file Windows</string>
+				</dict>
+			</array>
+		</dict>
+        <key>Services_ContentCaching</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>comments</key>
+                    <string>Kata indeks yang dapat dilokalkan</string>
+                    <key>index</key>
+                    <string>cache, membuat cache</string>
+                    <key>title</key>
+                    <string>Cache Konten</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Services_AirPlayReceiver</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>comments</key>
+                    <string>Kata indeks yang dapat dilokalkan</string>
+                    <key>index</key>
+                    <string>airplay, penerima</string>
+                    <key>title</key>
+                    <string>Penerima AirPlay</string>
+                </dict>
+            </array>
+        </dict>
+	</dict>
+</plist>

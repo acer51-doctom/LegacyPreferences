@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbara indexord</string>
+				<key>index</key>
+				<string>backup, säkerhetskopiera, kryptera, kryptering, krypterat, krypterad, krypterar, arkivera, hårddisk, hårddiskar, skivor, skiva, volymer, data, information, mappar, förlora, förlust, saknad, olycka, katastrof, radera, återskapa, arkivering, förlorat, radering, raderat, borttaget, ta bort, återställa</string>
+				<key>title</key>
+				<string>Säkerhetskopiera och återskapa filer</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

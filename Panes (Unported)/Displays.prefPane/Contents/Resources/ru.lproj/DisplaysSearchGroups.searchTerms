@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displaysArrangementTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>экраны, мониторы, зеркало, зеркально, зеркальное отображение видео, видеоповтор, синхронизация, расположение</string>
+				<key>title</key>
+				<string>Упорядочить несколько мониторов</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>строка меню</string>
+				<key>title</key>
+				<string>Переместить строку меню</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysColorTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>дисплеи, экраны, мониторы, калибровать, настроить, отрегулировать, осветлить, сделать ярче, больше яркости, затемнить, приглушить, сделать темнее, белая точка, гамма, рассеянный свет, общий свет, профили, калибровка, изменение, настройки, затемнение</string>
+				<key>title</key>
+				<string>Цвета и калибровка монитора</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysDisplayTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>дисплеи, экраны, мониторы, глубина, миллионы, тысячи, 256, ColorSync, настроить, отрегулировать, осветлить, сделать ярче, больше яркости, затемнить, приглушить, изменение, настройки, затемнение, true tone</string>
+				<key>title</key>
+				<string>Цвета, яркость и разрешение</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>дисплеи, экраны, мониторы</string>
+				<key>title</key>
+				<string>Частота обновления экрана</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>экраны, мониторы</string>
+				<key>title</key>
+				<string>Обнаруживать несколько мониторов</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>строка меню</string>
+				<key>title</key>
+				<string>Показывать мониторы в строке меню</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>повернуть, поворот</string>
+				<key>title</key>
+				<string>Поворот экрана</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>AirPlay</string>
+				<key>title</key>
+				<string>Параметры видеоповтора AirPlay</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysGeometryTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>положение, вес, ширина, подушкообразное искажение, повернуть, трапецеидальное искажение, параллелограмм, изгиб, угловая кривая, скошено, геометрия, измерения</string>
+				<key>title</key>
+				<string>Видимая область</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>rgb, настроить, выровнять, настройка, коррекция, изменение, выравнивание</string>
+				<key>title</key>
+				<string>Сведение</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>статически, сброс, сбросить, мерцать, помехи, мерцание</string>
+				<key>title</key>
+				<string>Размагнитить</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysNightShiftTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>night, shift, night shift, темнота, сумерки, теплый, теплый цвет, спектр, сон, температура, закат, рассвет, затемнение</string>
+				<key>title</key>
+				<string>Параметры Night Shift</string>
+			</dict>
+		</array>
+	</dict>
+	<key>universalControlTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>универсальное, управление</string>
+				<key>title</key>
+				<string>Универсальное управление</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

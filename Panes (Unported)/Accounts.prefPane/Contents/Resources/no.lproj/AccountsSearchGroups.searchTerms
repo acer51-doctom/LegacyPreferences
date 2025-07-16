@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loginOptionsPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>brukere, logge, logge på, pålogging, logge seg på, innlogging, logge inn, skjule, vise, oppstart, slå av, avslåing, omstart, starte på nytt, dvale, knapper, VoiceOver, tale, snakke, inndata, metode, tastemetode, modus, meny, passord, hint, starte, oppstart, starte opp, slå, av, voice, over, stemme, pass, ord, passord, skjuling, visning, snakking</string>
+				<key>title</key>
+				<string>Innstillinger for påloggingsvindu</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>bruker, rask, logge, logg på, logg inn, logg av, logg ut, bytte, logging, logge på, logge inn, logge av, logge ut, pålogging, innlogging, avlogging, utlogging</string>
+				<key>title</key>
+				<string>Skifte mellom kontoer</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>logg, logg på, automatiser, automatisere, automatisering, logge, logge inn, logge på, pålogging, innlogging</string>
+				<key>title</key>
+				<string>Automatisk pålogging</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>active, ldap, open, server, active directory, open directory</string>
+				<key>title</key>
+				<string>Katalogtjenester</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>brukere, logge, logge inn, logge på, logg inn, logg på, logging, pålogging, innlogging</string>
+				<key>title</key>
+				<string>Påloggingsvalg</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Nettverkskontotjener</string>
+			</dict>
+		</array>
+	</dict>
+	<key>mobilityPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array/>
+	</dict>
+	<key>passwordPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>gjest, del, lang, kort, navn, godkjenn, autentiser, passord, filevault, deling, pass, ord, godkjenne, godkjenning, autentisere, autentisering, file, vault</string>
+				<key>title</key>
+				<string>Bruker- eller gruppekonto</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>fotografier, bilder, foto</string>
+				<key>title</key>
+				<string>Brukerbilde</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>brukere, kontoer, lang, kort, navn, godkjenne, logge, logge på, logge inn, endre, administrere, pass, ord, godkjenning, autentisere, autentisering, logging, pålogging, innlogging, endre, endring</string>
+				<key>title</key>
+				<string>Påloggingsnavn og -passord</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>vcard, kort</string>
+				<key>title</key>
+				<string>Kontakter</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>håndtere, administrere, håndtering, administrering</string>
+				<key>title</key>
+				<string>Administratorkonto</string>
+			</dict>
+		</array>
+	</dict>
+	<key>startupItemsPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>automatisk, automatiser, logge, logge inn, logge på, starte, opp, automatisk, automatisert, automatisere, automatisering, innlogging, pålogging</string>
+				<key>title</key>
+				<string>Åpne apper ved pålogging</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>logge, logge inn, logge på, logg inn, logg på, starte, opp, oppstart, logging, pålogging, innlogging</string>
+				<key>title</key>
+				<string>Påloggingsobjekter</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

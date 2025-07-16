@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>StartupSearchGroup</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>启用, start, starting, 引导, 启动, boot, 上, up, 初始, initial, 硬, hard, 盘, 光盘, disc, 驱动, drive, 宗卷, volume, 系统, system, netboot, 网络启动</string>
+				<key>title</key>
+				<string>启动磁盘, Startup disk</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>光盘, disc, FireWire, 火线, fire wire</string>
+				<key>title</key>
+				<string>目标磁盘模式, Target Disk Mode</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

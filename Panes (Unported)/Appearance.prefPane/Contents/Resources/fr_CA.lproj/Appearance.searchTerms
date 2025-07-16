@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+        <key>Handoff</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>comments</key>
+                    <string>Termes d’indexation localisables</string>
+                    <key>index</key>
+                    <string>continuité, rapidité, continuer, activité, continuation, handoff, transférer</string>
+                    <key>title</key>
+                    <string>Autoriser Handoff</string>
+                </dict>
+            </array>
+        </dict>
+		<key>Main</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Termes d’indexation localisables</string>
+					<key>index</key>
+					<string>sélection, sélectionné, texte, surbrillance, ton clair, mise en surbrillance, apparence</string>
+					<key>title</key>
+					<string>Couleur de surbrillance</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Termes d’indexation localisables</string>
+					<key>index</key>
+					<string>menu pomme, menu Pomme, applications, documents, serveurs</string>
+					<key>title</key>
+					<string>Nombre d’éléments récents</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Termes d’indexation localisables</string>
+					<key>index</key>
+					<string>bureau, personnaliser, personnalisé, onglet, onglets, personnalisation, apparence</string>
+					<key>title</key>
+					<string>Aspect des boutons, des menus et des fenêtres</string>
+				</dict>
+
+				<dict>
+					<key>comments</key>
+					<string>Termes d’indexation localisables</string>
+					<key>index</key>
+					<string>bureau, personnaliser, personnalisé, personnalisation, automatique, apparence, clair, sombre, thème, mode, mode sombre</string>
+					<key>title</key>
+					<string>Apparence</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Termes d’indexation localisables</string>
+					<key>index</key>
+					<string>bouton, sélection, menu, apparence, couleur</string>
+					<key>title</key>
+					<string>Couleur d’accent</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Termes d’indexation localisables</string>
+					<key>index</key>
+					<string>modifications, enregistrer, fermer, quitter, document, fichier</string>
+					<key>title</key>
+					<string>Conserver les modifications</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Termes d’indexation localisables</string>
+					<key>index</key>
+					<string>fenêtre, sauter, barre de défilement, saut</string>
+					<key>title</key>
+					<string>Comportement de la barre de défilement</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Termes d’indexation localisables</string>
+					<key>index</key>
+					<string>icône, barre, latérale, taille</string>
+					<key>title</key>
+					<string>Icônes de la barre latérale</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Termes d’indexation localisables</string>
+					<key>index</key>
+					<string>quitter, fermer, fermeture, ouvrir, rouvrir, ouverture, réouverture, restaurer, restauration, préférer les onglets</string>
+					<key>title</key>
+					<string>Fermer et restaurer les fenêtres</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Termes d’indexation localisables</string>
+					<key>index</key>
+					<string>Safari, http, https, navigation, www, site Web, page Web</string>
+					<key>title</key>
+					<string>Définir le navigateur Web par défaut</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+</plist>

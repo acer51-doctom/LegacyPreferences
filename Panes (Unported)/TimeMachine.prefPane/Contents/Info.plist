@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>20A241133</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>TimeMachine</string>
+	<key>CFBundleIconFile</key>
+	<string>TimeMachine.icns</string>
+	<key>CFBundleIcons</key>
+	<dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconName</key>
+			<string>Icon</string>
+		</dict>
+	</dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.apple.prefs.backup</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>10.9</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>140</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>21H1120</string>
+	<key>DTPlatformName</key>
+	<string>macosx</string>
+	<key>DTPlatformVersion</key>
+	<string>12.7</string>
+	<key>DTSDKBuild</key>
+	<string>21H1120</string>
+	<key>DTSDKName</key>
+	<string>macosx12.7.internal</string>
+	<key>DTXcode</key>
+	<string>1330</string>
+	<key>DTXcodeBuild</key>
+	<string>13E6049a</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>12.7</string>
+	<key>NSMainNibFile</key>
+	<string>TMPreferencePane</string>
+	<key>NSPrefPaneIconFile</key>
+	<string>SystemPrefs_Backup.png</string>
+	<key>NSPrefPaneIconLabel</key>
+	<string>Time Machine</string>
+	<key>NSPrefPaneIconName</key>
+	<string>TMSystemPreferencesIcon</string>
+	<key>NSPrefPaneRemoteViewClass</key>
+	<string>TMPrefRemoteViewService</string>
+	<key>NSPrefPaneSearchParameters</key>
+	<string>TMPref</string>
+	<key>NSPrefPaneSupportsAutoLayout</key>
+	<true/>
+	<key>NSPrincipalClass</key>
+	<string>TMPreferencePane</string>
+</dict>
+</plist>

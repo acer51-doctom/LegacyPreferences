@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DesktopPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>fotografies, fons, escriptori, fons d’escriptori, patró, personalitzar, fotos, imatges, personalitzat, personalització</string>
+				<key>title</key>
+				<string>Imatge d’escriptori</string>
+			</dict>
+		</array>
+	</dict>
+	<key>ScreenSaverPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>desactivar, iniciar, àlbum, iTunes, il·lustracions, aleatori, fotografies, imatges, personalitzar, estalvis de pantalla, fotos, desactivació, inici, personalitzat, personalització</string>
+				<key>title</key>
+				<string>Estalvi de pantalla</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Mostrar el rellotge amb l’estalvi de pantalla</string>
+			</dict>
+		</array>
+	</dict>
+	<key>ScreenSaverPref_HotCorners</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>angles de pantalla actius</string>
+				<key>title</key>
+				<string>Angles actius</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Extensions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Kata indeks yang dapat dilokalkan</string>
+				<key>index</key>
+				<string>ekstensi</string>
+				<key>title</key>
+				<string>Ekstensi</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Kata indeks yang dapat dilokalkan</string>
+				<key>index</key>
+				<string>markah, markah</string>
+				<key>title</key>
+				<string>Tindakan</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Kata indeks yang dapat dilokalkan</string>
+				<key>index</key>
+				<string>berbagi, bagikan, daftar bacaan, mail, pesan, airdrop, catatan, pengingat, orang, tambahkan, iphoto, aperture</string>
+				<key>title</key>
+				<string>Bagikan item menu</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Kata indeks yang dapat dilokalkan</string>
+				<key>index</key>
+				<string>cepat, tindakan, finder, tindakan cepat, panel pratinjau</string>
+				<key>title</key>
+				<string>Finder</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Kata indeks yang dapat dilokalkan</string>
+				<key>index</key>
+				<string>cepat, tindakan, sentuh, bar, touch bar</string>
+				<key>title</key>
+				<string>Touch Bar</string>
+			</dict>
+            <dict>
+                <key>comments</key>
+                <string>Kata indeks yang dapat dilokalkan</string>
+                <key>index</key>
+                <string>ekstensi penyedia informasi pengesahan, pengelola kata sandi, ekstensi pengelola kata sandi, isi-auto kata sandi, ekstensi isi-auto</string>
+                <key>title</key>
+                <string>Ekstensi Isi-Auto Kata Sandi</string>
+            </dict>
+		</array>
+	</dict>
+</dict>
+</plist>

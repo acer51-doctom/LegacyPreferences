@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>InternetAccounts</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>учетная запись, учетные записи, пользователь, пользователи, имя, имена, имя пользователя, журнал, вход, вход в систему, входить, подпись, подписать, войти, выполнить вход, зарегистрироваться, выход, выйти, выход из системы, пароль, пароли, код-пароль, слово, слова, аутентификация, аутентифицирую, аутентифицировать, iCloud, Apple ID, подписка, подписчик, участник, Почта, iCal, календарь, Адресная книга, контакты, iChat, сообщения, email, e-mail, имэйл, имейл, адрес электронной почты, адрес e-mail, адрес email, адрес имейл, адрес имэйл, CalDAV, CardDAV, LDAP, IMAP, заметки, напоминания</string>
+				<key>title</key>
+				<string>Учетные записи интернета</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>фотопоток</string>
+				<key>title</key>
+				<string>Фотопоток</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>найти mac</string>
+				<key>title</key>
+				<string>Найти Mac</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.126</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>126</string>
+				<key>title</key>
+				<string>Настроить учетную запись 126.com</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.163</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>163</string>
+				<key>title</key>
+				<string>Настроить учетную запись 163.com</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.Exchange</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>обмен</string>
+				<key>title</key>
+				<string>Настроить учетную запись Exchange</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.Google</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>google, gmail, googlemail</string>
+				<key>title</key>
+				<string>Настроить учетную запись Google</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.Yahoo</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>yahoo, ymail</string>
+				<key>title</key>
+				<string>Настроить учетную запись Yahoo!</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.aol</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>aol, aim</string>
+				<key>title</key>
+				<string>Настроить учетную запись AOL</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.qq</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>qq</string>
+				<key>title</key>
+				<string>Настроить учетную запись QQ.com</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displaysArrangementTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>screens スクリーン 画面 スクリン ディスプレー ディスプレイ 表示装置 テレビ, monitors モニタ モニター 表示装置 画面 ディスプレイ ディスプレー, mirror ミラーリング, arranging アレンジ 配置 並べ替え 並び替え 整頓, arrangement アレンジ 配置 並べ替え 並び替え 整頓</string>
+				<key>title</key>
+				<string>複数のディスプレイを配置</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>menubar メニューバー メニュウバー メニュウバア メニューバア</string>
+				<key>title</key>
+				<string>メニューバーの位置を変更</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysColorTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>displays ディスプレイ ディスプレー 表示装置 画面 表示 モニタ モニター, screens スクリーン 画面 スクリン ディスプレー ディスプレイ 表示装置 テレビ, monitors モニタ モニター 表示装置 画面 ディスプレイ ディスプレー 監視画面, calibrate 補正 調整 キャリブレート キャリブレーション カリブレート カリブレーション, adjust 調整 調節 アジャスト, lighten 明るくする 輝度を上げる 明度を上げる, brighten ブライトネスを上げる, dim ディム 反転表示, darken 暗くする 輝度を下げる 明度を下げる , white point ホワイトポイント 白点, gamma ガンマ, ambient light アンビエントライト 環境光, profiles プロファイル プロフィール, calibrating 補正 調整 キャリブレート キャリブレーション カリブレート カリブレーション, adjusting 調整 調節 アジャスト, adjustments 調整 調節 アジャスト, dimming ディム 反転表示</string>
+				<key>title</key>
+				<string>ディスプレイのカラーと補正</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysDisplayTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>displays ディスプレイ ディスプレー 表示装置 画面 表示 モニタ モニター, depth デプス 深度 色数, millions 約 1670 万 色 カラー, thousands 約 32000 色 カラー, 256, ColorSync カラーシンク, adjust アジャスト 調整 調節, lighten 明るく, brighten 明るくする, dim ディム 淡色表示, darken 暗く, adjusting アジャスト 調整 調節, adjustments 調整 調節, dimming ディム 淡色表示, true tone トゥルートーン</string>
+				<key>title</key>
+				<string>カラー、輝度 、および解像度</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>displays ディスプレイ ディスプレー 表示装置 画面 表示 モニタ モニター, screens スクリーン 画面 スクリン ディスプレー ディスプレイ 表示装置 テレビ, monitors モニタ モニター 表示装置 画面 ディスプレイ ディスプレー 監視画面</string>
+				<key>title</key>
+				<string>画面のリフレッシュレート</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>screens スクリーン 画面 スクリン ディスプレー ディスプレイ 表示装置 テレビ, monitors モニタ モニター 表示装置 画面 ディスプレイ ディスプレー</string>
+				<key>title</key>
+				<string>複数のディスプレイを検出</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>menubar メニューバー メニュウバー メニュウバア メニューバア</string>
+				<key>title</key>
+				<string>メニューバーにディスプレイを表示</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>回転, 回転する</string>
+				<key>title</key>
+				<string>画面の回転</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>AirPlay</string>
+				<key>title</key>
+				<string>AirPlayミラーリングオプション</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysGeometryTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>position 位置 場所 ポジション, 高さ, 幅, pincushion ピンクッション ピンバランス, rotate 回転 回す, keystone キーストーン キイストーン キーストン キイストン, parallelogram 平行四辺形, bow 湾曲 曲げる 曲がる, corner curve コーナーのカーブ コーナーをカーブ コーナーを曲げる 隅のカーブ 隅をカーブ 隅を曲げる 端のカーブ 端をカーブ 端を曲げる, 傾き, 幾何学 ジオメトリ ジオメトリー, dimention 寸法 大きさ サイズ</string>
+				<key>title</key>
+				<string>画面イメージ</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>rgb 三原色, adjust 調整 調節, align 配置 整列 揃える</string>
+				<key>title</key>
+				<string>イメージのコンバージェンス</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>static 静電気, reset リセット 再設定 初期化, flicker フリッカー フリッカ ちらつき, interference 電波干渉, flickering フリッカー フリッカ ちらつき</string>
+				<key>title</key>
+				<string>デガウス 減磁 脱磁 消磁</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysNightShiftTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>night ナイト 夜, shift シフト, night shift ナイトシフト, dim 暗くする, warm 暖かい, warm color 暖色 暖かい色 暖かいカラー, spectrum スペクトル スペクトラム, sleep 眠り 睡眠, temperature 温度, sunset 日の入 日暮れ, sunrise 日の出 夜明け, dimming 暗く</string>
+				<key>title</key>
+				<string>Night Shiftのオプション</string>
+			</dict>
+		</array>
+	</dict>
+	<key>universalControlTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>universal, ユニバーサル, control, コントロール</string>
+				<key>title</key>
+				<string>ユニバーサルコントロール</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Notifications</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>center センター, notification 通知 お知らせ, notification center 通知センター, notifications 通知 お知らせ, banner バナー, banners バナー, alert 警告, alerts 警告, badge バッジ, badges バッジ, sounds サウンド 音, lock screen ロック画面</string>
+				<key>title</key>
+				<string>通知センター設定</string>
+			</dict>
+		</array>
+	</dict>
+    <key>Focus</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>ローカライズ可能な索引の用語</string>
+                <key>index</key>
+                <string>dnd おやすみ, do not disturb おやすみモード, focus 集中モード, time sensitive 即時通知 即時配信, away status 応答可能状況 応対不能状況 集中モード状況, away 応答可能 応対不能, auto reply 自動返信</string>
+                <key>title</key>
+                <string>集中モード設定</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

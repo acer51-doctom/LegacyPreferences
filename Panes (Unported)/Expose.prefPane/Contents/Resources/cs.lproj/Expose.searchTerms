@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovatelná indexová slova</string>
+				<key>index</key>
+				<string>zkratky</string>
+				<key>title</key>
+				<string>Aktivní rohy obrazovky</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovatelná indexová slova</string>
+				<key>index</key>
+				<string>přizpůsobit, upravit, vlastní nastavení, plocha, klávesnice, funkční klávesy, fn, klávesy myši, okna, aplikace, programy, přizpůsobené, přizpůsobení, mission control</string>
+				<key>title</key>
+				<string>Klávesové zkratky pro Exposé</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Spaces</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovatelná indexová slova</string>
+				<key>index</key>
+				<string>uspořádat, organizovat, pracovní prostor, aplikace, programy, plochy, organizované, uspořádané, organizace, uspořádání</string>
+				<key>title</key>
+				<string>Nastavit Spaces</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>InternetAccounts</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>tili, tilit, käyttäjä, käyttäjät, nimi, nimet, käyttäjätunnus, käyttäjätunnukset, kirjautuminen, sisäänkirjautuminen, sisäänkirjaus, uloskirjautuminen, uloskirjaus, salasana, salasanat, autentikointi, autentikoituminen, todentaminen, todentautuminen, iCloud, Apple ID, tilaaja, tilaus, jäsen, Mail, iCal, kalenteri, Osoitekirja, yhteystiedot, iChat, viestit, sähköposti, posti, CalDAV, CardDav, LDAP, IMAP, muistiinpanot, muistutukset,</string>
+				<key>title</key>
+				<string>Internet-tilit</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>kuvavirta</string>
+				<key>title</key>
+				<string>Kuvavirta</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>etsi macini</string>
+				<key>title</key>
+				<string>Etsi Macini</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.126</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>126</string>
+				<key>title</key>
+				<string>126.com-tilin käyttöönotto</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.163</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>163</string>
+				<key>title</key>
+				<string>163.com-tilin käyttöönotto</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.Exchange</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>exchange</string>
+				<key>title</key>
+				<string>Exchange-tilin käyttöönotto</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.Google</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>google, gmail, googlemail</string>
+				<key>title</key>
+				<string>Google-tilin käyttöönotto</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.Yahoo</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>yahoo, ymail</string>
+				<key>title</key>
+				<string>Yahoo!-tilin käyttöönotto</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.aol</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>aol, aim</string>
+				<key>title</key>
+				<string>AOL-tilin käyttöönotto</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.qq</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>qq</string>
+				<key>title</key>
+				<string>QQ.com-tilin käyttöönotto</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

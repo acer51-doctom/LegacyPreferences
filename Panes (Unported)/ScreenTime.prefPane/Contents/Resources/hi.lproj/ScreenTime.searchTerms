@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>AlwaysAllowed</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>अनुवाद योग्य सूची शब्द</string>
+                <key>index</key>
+                <string>स्क्रीन, टाइम, समय, हमेशा, अनुमति दें, सीमा, फ़ैमिली, पैरेंट, अभिभावकीय, नियंत्रण, सुरक्षा, गोपनीयता, बच्चे, किड्स, प्रतिबंधित करें, प्रबंधन करें, टाइमर, कर्फ़्यू, प्रतिबंधित करना, प्रबंधित करना, मॉनिटर करें, ट्रैक करें</string>
+                <key>title</key>
+                <string>स्क्रीन टाइम में हमेशा अनुमति प्राप्त ऐप्स चुनें</string>
+            </dict>
+        </array>
+    </dict>
+    <key>CommunicationLimit</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>अनुवाद योग्य सूची शब्द</string>
+                <key>index</key>
+                <string>स्क्रीन, टाइम, समय, संचार, संपर्क, फ़ोन, टेक्स्ट, संदेश, FaceTime, SMS, सीमा, जोड़ें, बनाएँ, लागू करें, फ़ैमिली, पैरेंट, अभिभावकीय, नियंत्रण, सुरक्षा, गोपनीयता, बच्चे, किड्स, प्रतिबंधित करें, प्रबंधन करें, टाइमर, कर्फ़्यू, प्रतिबंधित करना, प्रबंधित करना</string>
+                <key>title</key>
+                <string>स्क्रीन टाइम में संचार सीमाएँ सेट करें</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>स्क्रीन, टाइम, समय, संचार, संपर्क, फ़ोन, टेक्स्ट, संदेश, FaceTime, SMS, सीमा, जोड़ें, बनाएँ, लागू करें, फ़ैमिली, पैरेंट, अभिभावकीय, नियंत्रण, सुरक्षा, गोपनीयता, बच्चे, किड्स, प्रतिबंधित करें, प्रबंधन करें, टाइमर, कर्फ़्यू, प्रतिबंधित करना, प्रबंधित करना</string>
+                <key>title</key>
+                <string>स्क्रीन टाइम में संचार सीमाएँ बदलें</string>
+            </dict>
+        </array>
+    </dict>
+    <key>ContentAndPrivacy</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>अनुवाद योग्य सूची शब्द</string>
+                <key>index</key>
+                <string>स्क्रीन, टाइम, समय, कॉन्टेंट, गोपनीयता, सीमा, फ़ैमिली, पैरेंट, अभिभावकीय, नियंत्रण, सुरक्षा, बच्चे, किड्स, प्रतिबंधित करें, प्रबंधन करें, टाइमर, कर्फ़्यू, प्रतिबंधित करना, प्रबंधित करना, शब्दकोश, अनुचित, कर्स, स्वेर, अपशब्द, अश्लील, बेकार, भाषा, अश्लील, अश्लीलता, शब्द, पोर्नोग्राफ़ी, गाली देना, वल्गर, चार-अक्षर, चार अक्षर, फ़िल्टर, फ़िल्टर करना, फ़िल्टर नहीं</string>
+                <key>title</key>
+                <string>स्क्रीन टाइम कॉन्टेंट और गोपनीयता सेटिंग्ज़ चुनें</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>स्क्रीन, टाइम, अभिभावकीय, नियंत्रण, सीमाएँ, अश्लील, कॉन्टेंट, वेबसाइट, चाइल्ड, चिल्ड्रन, प्रतिबंध</string>
+                <key>title</key>
+                <string>अश्लील कॉन्टेंट प्रतिबंधित करें</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyNotifications</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>अनुवाद योग्य सूची शब्द</string>
+                <key>index</key>
+                <string>स्क्रीन, टाइम, समय, दिन, हर दिन, रोज़ाना, रोज़, दैनिक, उपयोग, सूचनाएँ</string>
+                <key>title</key>
+                <string>स्क्रीन टाइम में दैनिक सूचनाएँ रिपोर्ट दिखाएँ</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyPickups</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>अनुवाद योग्य सूची शब्द</string>
+                <key>index</key>
+                <string>स्क्रीन, टाइम, समय, दिन, हर दिन, रोज़ाना, रोज़, दैनिक, पिकअप</string>
+                <key>title</key>
+                <string>स्क्रीन टाइम में दैनिक डिवाइस पिकअप रिपोर्ट दिखाएँ</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyUsage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>अनुवाद योग्य सूची शब्द</string>
+                <key>index</key>
+                <string>स्क्रीन, टाइम, सप्ताह, साप्ताहिक, उपयोग, रिपोर्ट, मॉनिटर, ट्रैक, चाइल्ड, चिल्ड्रन, ऐप्स</string>
+                <key>title</key>
+                <string>स्क्रीन टाइम में दैनिक ऐप उपयोग रिपोर्ट दिखाएँ</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Downtime</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>अनुवाद योग्य सूची शब्द</string>
+                <key>index</key>
+                <string>स्क्रीन, टाइम, समय, उपयोग, सीमा, डाउनटाइम, फ़ैमिली, पैरेंट, अभिभावकीय, नियंत्रण, सुरक्षा, गोपनीयता, बच्चे, किड्स, प्रतिबंधित करें, प्रबंधन करें, टाइमर, सोने का समय, स्कूल, रात, कर्फ़्यू, प्रतिबंधित करना, प्रबंधित करना</string>
+                <key>title</key>
+                <string>स्क्रीन टाइम में डाउनटाइम शेड्यूल करें</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Options</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>अनुवाद योग्य सूची शब्द</string>
+                <key>index</key>
+                <string>स्क्रीन, टाइम, समय, सेटिंग, विकल्प, सीमा, फ़ैमिली, पैरेंट, अभिभावकीय, नियंत्रण, सुरक्षा, बच्चे, किड्स, प्रतिबंधित करें, प्रबंधन करें, टाइमर, कर्फ़्यू, प्रतिबंधित करना, प्रबंधित करना</string>
+                <key>title</key>
+                <string>स्क्रीन टाइम चालू या बंद करें</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>स्क्रीन, अभिभावकीय, नियंत्रण, विकल्प, सीमा, सीमाएँ, पासवर्ड, पासकोड</string>
+                <key>title</key>
+                <string>स्क्रीन टाइम पासकोड सेट करें</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Requests</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>अनुवाद योग्य सूची शब्द</string>
+                <key>index</key>
+                <string>स्क्रीन, टाइम, समय, अनुरोध, अनुमति दें, अनुमोदित करें, अनुमोदित न करें, सीमा, फ़ैमिली, पैरेंट, अभिभावकीय, नियंत्रण, सुरक्षा, गोपनीयता, बच्चे, किड्स, प्रतिबंधित करें, प्रबंधन करें, टाइमर, कर्फ़्यू, प्रतिबंधित करना, प्रबंधित करना</string>
+                <key>title</key>
+                <string>स्क्रीन टाइम अनुरोध दिखाएँ</string>
+            </dict>
+        </array>
+    </dict>
+    <key>ViewUsageLimit</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>अनुवाद योग्य सूची शब्द</string>
+                <key>index</key>
+                <string>स्क्रीन, टाइम, समय, उपयोग, ऐप, सीमा, जोड़ें, बनाएँ, लागू करें, फ़ैमिली, पैरेंट, अभिभावकीय, नियंत्रण, सुरक्षा, गोपनीयता, बच्चे, किड्स, प्रतिबंधित करें, प्रबंधन करें, टाइमर, कर्फ़्यू, प्रतिबंधित करना, प्रबंधित करना</string>
+                <key>title</key>
+                <string>स्क्रीन टाइम में ऐप सीमाएँ चुनें</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyNotifications</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>अनुवाद योग्य सूची शब्द</string>
+                <key>index</key>
+                <string>स्क्रीन, टाइम, सप्ताह, साप्ताहिक, उपयोग, सूचनाएँ, अभिभावकीय, नियंत्रण</string>
+                <key>title</key>
+                <string>स्क्रीन टाइम में साप्ताहिक सूचनाएँ रिपोर्ट दिखाएँ</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyPickups</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>अनुवाद योग्य सूची शब्द</string>
+                <key>index</key>
+                <string>स्क्रीन, टाइम, सप्ताह, साप्ताहिक, पिकअप, अभिभावकीय, नियंत्रण</string>
+                <key>title</key>
+                <string>स्क्रीन टाइम में साप्ताहिक डिवाइस पिकअप रिपोर्ट दिखाएँ</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyUsage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>अनुवाद योग्य सूची शब्द</string>
+                <key>index</key>
+                <string>स्क्रीन, टाइम, सप्ताह, साप्ताहिक, उपयोग, रिपोर्ट, मॉनिटर, ट्रैक, चाइल्ड, चिल्ड्रन, ऐप्स, अभिभावकीय, नियंत्रण</string>
+                <key>title</key>
+                <string>स्क्रीन टाइम में साप्ताहिक ऐप उपयोग रिपोर्ट दिखाएँ</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

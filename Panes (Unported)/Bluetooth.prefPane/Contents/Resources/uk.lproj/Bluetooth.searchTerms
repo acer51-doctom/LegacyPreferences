@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локалізовувані індексні слова</string>
+				<key>index</key>
+				<string>бездротовий, бездротова, бездротові, безпровідний, безпровідна, безпровідні, безпроводовий, безпроводові, виявляти, знаходити, знайти, створювати пару, створити пару, спарити, додавати, додати, видаляти, видалити, налаштування, помічник, клавіатура, мишка, стільниковий, мобільний, телефон, гарнітура, навушники, ввімкнено, ввімкнуто, вимкнено, вимкнуто, роз’єднати, відключити, від’єднати, blue, tooth, додавання, видалення, роз’єднання, відключення, знайдення, пошук, видимий, видима, виявлення</string>
+				<key>title</key>
+				<string>Bluetooth-пристрої</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локалізовувані індексні слова</string>
+				<key>index</key>
+				<string>blue, tooth, смуга, меню</string>
+				<key>title</key>
+				<string>Показувати стан Bluetooth на смузі меню</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локалізовувані індексні слова</string>
+				<key>index</key>
+				<string>blue, tooth</string>
+				<key>title</key>
+				<string>Послідовні порти Bluetooth</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локалізовувані індексні слова</string>
+				<key>index</key>
+				<string>blue, tooth, звук, аудіо</string>
+				<key>title</key>
+				<string>Звук через Bluetooth</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локалізовувані індексні слова</string>
+				<key>index</key>
+				<string>blue, tooth</string>
+				<key>title</key>
+				<string>Асистент Bluetooth</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

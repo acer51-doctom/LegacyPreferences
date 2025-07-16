@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Notifications</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>로컬라이즈가 가능한 인덱스 단어</string>
+				<key>index</key>
+				<string>센터, 알림, 알림 센터, 배너, 알림 표시, 배지, 사운드, 잠금 화면</string>
+				<key>title</key>
+				<string>알림 센터 설정</string>
+			</dict>
+		</array>
+	</dict>
+    <key>Focus</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>로컬라이즈가 가능한 인덱스 단어</string>
+                <key>index</key>
+                <string>dnd, 방해금지 모드, 집중 모드, 긴급한 알림, 부재중 상태, 부재중, 자동 응답</string>
+                <key>title</key>
+                <string>집중 모드 설정</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

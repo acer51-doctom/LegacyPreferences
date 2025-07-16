@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loginOptionsPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>utilizatori, autentificare, semnare, conectare, identificare, login, signin, ascunde, afișează, pornire, oprire, repornire, adormire, butoane, VoiceOver, enunță, vorbește, introducere, metodă, mod, meniu, parole, indicii, pornire, oprire, voice, over, logare, ascundere, afișare, enunțare</string>
+				<key>title</key>
+				<string>Configurări fereastră login</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>utilizator, rapid, login, log in, logon, log on, semnare, conectare, autentificare, identificare, logout, log out, logoff, log off, deconectare, comutare</string>
+				<key>title</key>
+				<string>Comutare între conturi</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>semnare, conectare, log on, automat, automatizare, automatizat, conectare, login, logon, autentificare, sign in, signin</string>
+				<key>title</key>
+				<string>Login automat</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>activ, ldap, deschis, server, active directory, open directory</string>
+				<key>title</key>
+				<string>Servicii de directoare</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>utilizatori, autentificare, semnare, login, identificare, log in, conectare, logare, logon, sign in, signin, signon</string>
+				<key>title</key>
+				<string>Opțiuni login</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Server cont de rețea</string>
+			</dict>
+		</array>
+	</dict>
+	<key>mobilityPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array/>
+	</dict>
+	<key>passwordPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>vizitator, partajare, lung, scurt, nume, autentificare, parole, filevault, partajare, autentifică, autentificare, file, vault</string>
+				<key>title</key>
+				<string>Cont de utilizator sau de grup</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>fotografii, imagini, poze</string>
+				<key>title</key>
+				<string>Imagine utilizator</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>utilizatori, conturi, lung, scurt, nume, autentificare, login, signin, semnare, conectare, logare, modifică, administrează, parole, logon, signon, modificare</string>
+				<key>title</key>
+				<string>Nume și parolă de login</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>vcard, cărți de vizită</string>
+				<key>title</key>
+				<string>Contacte</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>gestiune, administrare, gestionare, administrare</string>
+				<key>title</key>
+				<string>Cont de administrator</string>
+			</dict>
+		</array>
+	</dict>
+	<key>startupItemsPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>automatic, automat, login, signin, logare, conectare, semnare, autentificare, pornire, automatizat, automatizare, logon, signon</string>
+				<key>title</key>
+				<string>Deschide aplicații la login</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>autentificare, semnare, login, identificare, log in, conectare, pornire, pornește, logare, logon, sign in, signin, signon</string>
+				<key>title</key>
+				<string>Lansare la login</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

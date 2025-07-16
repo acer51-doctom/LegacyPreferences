@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Dictation</key>
+	<dict/>
+	<key>Siri</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>Siri シリ, assistant アシスタント, dock Dock ドック, hot key ホットキー, icon アイコン, key キー 鍵, listen 再生 聴く 聞く, listening 再生する, language 言語 言葉, menubar メニューバー, mic マイク, mike, microphone マイクロフォン, recognize 認識する, recognition 認識 認証, recognizing, sound サウンド 音, speak 読み上げ, speaking 読み上げる, speech スピーチ 発話, shortcuts ショートカット, talk 話す しゃべる, talking おしゃべり, voice ボイス 声, wave 波 音波</string>
+				<key>title</key>
+				<string>Siri</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>activate アクティベート 有効にする, deactivate ディアクティベート 無効にする, disable 無効 使用停止, enable 有効 使用可能, silence 無音 サイレンス, stop 停止 中止, turn off 切にする オフにする, turn on 入にする オンにする</string>
+				<key>title</key>
+				<string>Siriをオン/オフ</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

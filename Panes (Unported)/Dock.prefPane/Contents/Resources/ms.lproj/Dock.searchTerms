@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>Dock</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>sesuaikan, control strip, saiz semula, lebih besar, lebih kecil, kedudukan, desktop, kiri, kanan, bawah, bucu, lompat, lantun, skala, animasi, jin, sembunyi, tunjuk, besarkan, minimumkan, maksimumkan, tersuai, menyesuaikan, penyesuaian, controlstrip, bar alat, disaiz semula, mensaiz semula, menduduki, melompatkan, melantunkan, menskala, menganimasikan, menyembunyikan, tersembunyi, menunjukkan, ditunjukkan, membesarkan, pembesaran, diminimumkan, meminimumkan, dimaksimumkan, memaksimumkan, memperbesarkan, dokumen, buka, membuka, secara automatik, bar menu</string>
+                    <key>title</key>
+                    <string>Seting Dock</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>secara automatik, sembunyikan, tunjukkan, dock</string>
+                    <key>title</key>
+                    <string>Sembunyikan dan tunjukkan Dock secara automatik</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>secara automatik, sembunyikan, tunjukkan, bar menu</string>
+                    <key>title</key>
+                    <string>Sembunyikan dan tunjukkan bar menu pada desktop secara automatik</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>secara automatik, sembunyikan, tunjukkan, bar menu</string>
+                    <key>title</key>
+                    <string>Sembunyikan dan tunjukkan bar menu dalam skrin penuh secara automatik</string>
+                </dict>
+            </array>
+        </dict>
+        <key>AccessibilityShortcuts</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>pintasan kebolehcapaian, tunjukkan, sembunyikan, bar menu</string>
+                    <key>title</key>
+                    <string>Tunjukkan Pintasan Kebolehcapaian dalam bar menu</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>pintasan kebolehcapaian, tunjukkan, pusat kawalan</string>
+                    <key>title</key>
+                    <string>Tunjukkan Pintasan Kebolehcapaian dalam Pusat Kawalan</string>
+                </dict>
+            </array>
+        </dict>
+        <key>AirDrop</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>bluetooth, tunjukkan, sembunyikan, bar menu</string>
+                    <key>title</key>
+                    <string>Tunjukkan status AirDrop dalam bar menu</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Battery</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>bateri, pengecasan, cas, tunjukkan, sembunyikan, bar menu</string>
+                    <key>portableOnly</key><true/>
+                    <key>title</key>
+                    <string>Tunjukkan status bateri dalam bar menu</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>bateri, pengecasan, cas, tunjukkan, sembunyikan, pusat kawalan</string>
+                    <key>portableOnly</key><true/>
+                    <key>title</key>
+                    <string>Tunjukkan status bateri dalam Pusat Kawalan</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>bateri, peratus, peratusan, tunjukkan, sembunyikan, bar menu</string>
+                    <key>portableOnly</key><true/>
+                    <key>title</key>
+                    <string>Tunjukkan peratusan bateri dalam bar menu</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Bluetooth</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>bluetooth, tunjukkan, sembunyikan, bar menu</string>
+                    <key>title</key>
+                    <string>Tunjukkan status Bluetooth dalam bar menu</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Clock</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>jam, tarikh, masa, tunjukkan, sembunyikan, bar menu</string>
+                    <key>title</key>
+                    <string>Tunjukkan hari dalam minggu dalam bar menu</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>jam, tarikh, masa, tunjukkan, sembunyikan, bar menu</string>
+                    <key>title</key>
+                    <string>Tunjukkan tarikh dalam bar menu</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>24, jam, tarikh, masa, tunjukkan, sembunyikan, bar menu</string>
+                    <key>title</key>
+                    <string>Gunakan masa 24 jam dalam bar menu</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>PG, pg, PTG, ptg, jam, tarikh, masa, tunjukkan, sembunyikan, bar menu</string>
+                    <key>title</key>
+                    <string>Tunjukkan PG/PTG dalam bar menu</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>kelip, denyar, pemisah, saat, jam, masa, tunjukkan, sembunyikan, bar menu</string>
+                    <key>title</key>
+                    <string>Kerlipkan pemisah masa dalam bar menu</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>saat, jam, masa, tunjukkan, sembunyikan, bar menu</string>
+                    <key>title</key>
+                    <string>Paparkan masa dengan saat dalam bar menu</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>suara, sebut, umumkan, jam, setengah jam, suku jam, jam, masa</string>
+                    <key>title</key>
+                    <string>Umum masa</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Display</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>paparan, kecerahan, Sidecar, tunjukkan, sembunyikan, bar menu</string>
+                    <key>title</key>
+                    <string>Tunjukkan paparan dalam bar menu</string>
+                </dict>
+            </array>
+        </dict>
+        <key>DoNotDisturb</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>jangan ganggu, tunjukkan, sembunyikan, bar menu</string>
+                    <key>title</key>
+                    <string>Tunjukkan status Jangan Ganggu dalam bar menu</string>
+                </dict>
+            </array>
+        </dict>
+        <key>FocusModes</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>fokus, jangan ganggu, tunjukkan, sembunyikan, bar menu</string>
+                    <key>title</key>
+                    <string>Tunjukkan status Fokus dalam bar menu</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Hearing</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>pendengaran, tunjukkan, sembunyikan, bar menu</string>
+                    <key>title</key>
+                    <string>Tunjukkan Pendengaran dalam bar menu</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>pendengaran, tunjukkan, pusat kawalan</string>
+                    <key>title</key>
+                    <string>Tunjukkan Pendengaran dalam Pusat Kawalan</string>
+                </dict>
+            </array>
+        </dict>
+        <key>KeyboardBrightness</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>papan kekunci, kecerahan, lampu belakang, tunjukkan, sembunyikan, bar menu</string>
+                    <key>portableOnly</key><true/>
+                    <key>title</key>
+                    <string>Tunjukkan status kecerahan papan kekunci dalam bar menu</string>
+                </dict>
+            </array>
+        </dict>
+        <key>NowPlaying</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>kini dimainkan, muzik, media, kawalan, kawalan jauh, main, main balik, tunjukkan, sembunyikan, bar menu</string>
+                    <key>title</key>
+                    <string>Tunjukkan status Kini Dimainkan dalam bar menu</string>
+                </dict>
+            </array>
+        </dict>
+        <key>ScreenMirroring</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>pencerminan skrin, AirPlay, tunjukkan, sembunyikan, bar menu</string>
+                    <key>title</key>
+                    <string>Tunjukkan status pencerminan skrin dalam bar menu</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Sound</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>bunyi, kelantangan, tunjukkan, sembunyikan, bar menu</string>
+                    <key>title</key>
+                    <string>Tunjukkan kelantangan dalam bar menu</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Siri</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>siri, tunjukkan, sembunyikan, bar menu</string>
+                    <key>title</key>
+                    <string>Tunjukkan Siri dalam bar menu</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Spotlight</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>spotlight, tunjukkan, sembunyikan, bar menu</string>
+                    <key>title</key>
+                    <string>Tunjukkan Spotlight dalam bar menu</string>
+                </dict>
+            </array>
+        </dict>
+        <key>TimeMachine</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>time machine, sandaran, tunjukkan, sembunyikan, bar menu</string>
+                    <key>title</key>
+                    <string>Tunjukkan status Time Machine dalam bar menu</string>
+                </dict>
+            </array>
+        </dict>
+        <key>WiFi</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>wifi, wi-fi, tunjukkan, sembunyikan, bar menu</string>
+                    <key>title</key>
+                    <string>Tunjukkan status Wi-Fi dalam bar menu</string><!-- NON-BREAKING HYPHEN (U+2011) -->
+                </dict>
+            </array>
+        </dict>
+        <key>UserSwitcher</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>penukaran pengguna cepat, penukaran pengguna, tunjukkan, sembunyikan, bar menu</string>
+                    <key>title</key>
+                    <string>Tunjukkan Penukaran Pengguna Cepat dalam bar menu</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>penukaran pengguna cepat, penukaran pengguna, tunjukkan, pusat kawalan</string>
+                    <key>title</key>
+                    <string>Tunjukkan Penukaran Pengguna Cepat dalam Pusat Kawalan</string>
+                </dict>
+            </array>
+        </dict>
+    </dict>
+</plist>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loginOptionsPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Localisable index words</string>
+				<key>index</key>
+				<string>users, log, sign, log in, log on, sign in, sign on, hide, show, startup, shutdown, restart, sleep, buttons, VoiceOver, speech, speak, input, method, mode, menu, passwords, hints, start, up, shut, down, voice, over, pass, words, logging, logon, signing, signin, signon, hiding, showing, speaking</string>
+				<key>title</key>
+				<string>Login Window settings</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Localisable index words</string>
+				<key>index</key>
+				<string>user, fast, log, sign, log in, log on, sign in, sign on, log out, log off, sign out, sign off, switching, logging, login, logon, logout, logoff, signing, signin, signon, signout, signoff</string>
+				<key>title</key>
+				<string>Switch between accounts</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Localisable index words</string>
+				<key>index</key>
+				<string>sign, sign on, log on, automate, automating, automation, logging, login, logon, signing, signin, signon</string>
+				<key>title</key>
+				<string>Log in automatically</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>active, ldap, open, server, active directory, open directory</string>
+				<key>title</key>
+				<string>Directory services</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>users, log, sign, log in, log on, sign in, sign on, logging, logon, signing, signin, signon</string>
+				<key>title</key>
+				<string>Login options</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Network account server</string>
+			</dict>
+		</array>
+	</dict>
+	<key>mobilityPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array/>
+	</dict>
+	<key>passwordPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Localisable index words</string>
+				<key>index</key>
+				<string>guest, share, long, short, name, authenticate, passwords, filevault, sharing, pass, words, authenticating, authentication, file, vault</string>
+				<key>title</key>
+				<string>User or group account</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Localisable index words</string>
+				<key>index</key>
+				<string>photographs, pictures, photos</string>
+				<key>title</key>
+				<string>User picture</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Localisable index words</string>
+				<key>index</key>
+				<string>users, accounts, long, short, name, authenticate, log, sign, log in, log on, sign in, sign on, change, administer, pass, words, authenticating, authentication, logging, logon, signing, signin, signon, changing</string>
+				<key>title</key>
+				<string>Login name and password</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Localisable index words</string>
+				<key>index</key>
+				<string>vcard, cards</string>
+				<key>title</key>
+				<string>Contacts</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Localisable index words</string>
+				<key>index</key>
+				<string>manage, administer, managing, administering</string>
+				<key>title</key>
+				<string>Administrator account</string>
+			</dict>
+		</array>
+	</dict>
+	<key>startupItemsPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Localisable index words</string>
+				<key>index</key>
+				<string>automatic, automate, log, sign, log in, log on, sign in, sign on, start, up, automatically, automated, automating, automation, starting, logging, logon, signing, signin, signon</string>
+				<key>title</key>
+				<string>Open applications at login</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Localisable index words</string>
+				<key>index</key>
+				<string>log, sign, log in, log on, sign in, sign on, start, up, starting, logging, logon, signing, signin, signon</string>
+				<key>title</key>
+				<string>Login items</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>privacy</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>privacy, beschermen, bescherming, voorkomen, geheim, verborgen, beschermd, beveiligen, beveiliging, beveiligd, geblokkeerd, blokkeren, blokkade, afschermen, afgeschermd, afscherming</string>
+				<key>title</key>
+				<string>Zoeken van privébestanden blokkeren</string>
+			</dict>
+		</array>
+	</dict>
+	<key>searchResults</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>zoeken, resultaten, hits, zoekopdrachten, zoek, vinden</string>
+				<key>title</key>
+				<string>Spotlight-zoekcategorieën</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>toets, toetscombinatie, sneltoets, combinatie</string>
+				<key>title</key>
+				<string>Spotlight-toetscombinaties</string>
+			</dict>
+            <dict>
+                <key>comments</key>
+                <string>Lokaliseerbare indextermen</string>
+                <key>index</key>
+                <string>opzoeken, zoek op, opzoekfunctie</string>
+                <key>title</key>
+                <string>Spotlight-suggesties in de opzoekfunctie</string>
+            </dict>
+		</array>
+	</dict>
+</dict>
+</plist>

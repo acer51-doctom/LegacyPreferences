@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>Dock</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>προσαρμογή, λωρίδα ελέγχου, control strip, γραμμή εργαλείων, νέο μέγεθος, μεγαλύτερο, μικρότερο, θέση, γραφείο εργασίας, αριστερά, δεξιά, κάτω, πλευρές, άκρα, αναδυόμενο, αναπήδηση, κλίμακα, κλιμάκωση, κίνηση, κινούμενη, σχεδίαση, genie, είδος, απόκρυψη, εμφάνιση, μεγέθυνση, ελαχιστοποίηση, μεγιστοποίηση, πιο μεγάλο, προσαρμοσμένο, τοποθέτηση, κρυμμένο, απόκρυψη, έγγραφα, άνοιγμα, ανοιχτά, ανοιχτό, αυτόματα, γραμμή μενού</string>
+                    <key>title</key>
+                    <string>Ρυθμίσεις Dock</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>αυτόματα, απόκρυψη, εμφάνιση, dock</string>
+                    <key>title</key>
+                    <string>Αυτόματη απόκρυψη και εμφάνιση του Dock</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>αυτόματα, απόκρυψη, εμφάνιση, γραμμή μενού</string>
+                    <key>title</key>
+                    <string>Αυτόματη απόκρυψη και εμφάνιση της γραμμής μενού στο γραφείο εργασίας</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>αυτόματα, απόκρυψη, εμφάνιση, γραμμή μενού</string>
+                    <key>title</key>
+                    <string>Αυτόματη απόκρυψη και εμφάνιση της γραμμής μενού σε πλήρη οθόνη</string>
+                </dict>
+            </array>
+        </dict>
+        <key>AccessibilityShortcuts</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>συντομεύσεις προσβασιμότητας, εμφάνιση, απόκρυψη, γραμμή μενού</string>
+                    <key>title</key>
+                    <string>Εμφάνιση των Συντομεύσεων Προσβασιμότητας στη γραμμή μενού</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>συντομεύσεις προσβασιμότητας, εμφάνιση, κέντρο ελέγχου</string>
+                    <key>title</key>
+                    <string>Εμφάνιση των Συντομεύσεων Προσβασιμότητας στο Κέντρο ελέγχου</string>
+                </dict>
+            </array>
+        </dict>
+        <key>AirDrop</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>bluetooth, εμφάνιση, απόκρυψη, γραμμή μενού</string>
+                    <key>title</key>
+                    <string>Εμφάνιση κατάστασης AirDrop στη γραμμή μενού</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Battery</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>μπαταρία, φόρτιση, εμφάνιση, απόκρυψη, γραμμή μενού</string>
+                    <key>portableOnly</key><true/>
+                    <key>title</key>
+                    <string>Εμφάνιση κατάστασης μπαταρίας στη γραμμή μενού</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>μπαταρία, φόρτιση, εμφάνιση, απόκρυψη, κέντρο ελέγχου</string>
+                    <key>portableOnly</key><true/>
+                    <key>title</key>
+                    <string>Εμφάνιση κατάστασης μπαταρίας στο Κέντρο ελέγχου</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>μπαταρία, ποσοστό, τοις εκατό, εμφάνιση, απόκρυψη, γραμμή μενού</string>
+                    <key>portableOnly</key><true/>
+                    <key>title</key>
+                    <string>Εμφάνιση ποσοστού μπαταρίας στη γραμμή μενού</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Bluetooth</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>bluetooth, εμφάνιση, απόκρυψη, γραμμή μενού</string>
+                    <key>title</key>
+                    <string>Εμφάνιση κατάστασης Bluetooth στη γραμμή μενού</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Clock</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>ρολόι, ημερομηνία, ώρα, εμφάνιση, απόκρυψη, γραμμή μενού</string>
+                    <key>title</key>
+                    <string>Εμφάνιση της ημέρας της εβδομάδας στη γραμμή μενού</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>ρολόι, ημερομηνία, ώρα, εμφάνιση, απόκρυψη, γραμμή μενού</string>
+                    <key>title</key>
+                    <string>Εμφάνιση της ημερομηνίας στη γραμμή μενού</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>24ωρη μορφή, ρολόι, ημερομηνία, ώρα, εμφάνιση, απόκρυψη, γραμμή μενού</string>
+                    <key>title</key>
+                    <string>Χρήση ρολογιού 24ωρης μορφής στη γραμμή μενού</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>ΠΜ, πμ, ΜΜ, μμ, ρολόι, ημερομηνία, ώρα, εμφάνιση, απόκρυψη, γραμμή μενού</string>
+                    <key>title</key>
+                    <string>Εμφάνιση πμ/μμ στη γραμμή μενού</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>αναβόσβημα, αναβοσβήσιμο, αναλαμπή, διαχωριστικά, δευτερόλεπτo, δευτερόλεπτα, ρολόι, ώρα, εμφάνιση, απόκρυψη, γραμμή μενού</string>
+                    <key>title</key>
+                    <string>Αναβόσβημα των διαχωριστικών ώρας στη γραμμή μενού</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>δευτερόλεπτo, δευτερόλεπτα, ρολόι, ώρα, εμφάνιση, απόκρυψη, γραμμή μενού</string>
+                    <key>title</key>
+                    <string>Εμφάνιση ώρας με δευτερόλεπτα στη γραμμή μενού</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>φωνή, εκφώνηση, ανακοίνωση, ώρα, μισή ώρα, τέταρτο της ώρας, ρολόι, ώρα</string>
+                    <key>title</key>
+                    <string>Ανακοίνωση της ώρας</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Display</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>οθόνη, φωτεινότητα, Sidecar, εμφάνιση, απόκρυψη, γραμμή μενού</string>
+                    <key>title</key>
+                    <string>Εμφάνιση οθονών στη γραμμή μενού</string>
+                </dict>
+            </array>
+        </dict>
+        <key>DoNotDisturb</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>μην ενοχλείτε, εμφάνιση, απόκρυψη, γραμμή μενού</string>
+                    <key>title</key>
+                    <string>Εμφάνιση κατάστασης «Μην ενοχλείτε» στη γραμμή μενού</string>
+                </dict>
+            </array>
+        </dict>
+        <key>FocusModes</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>συγκέντρωση, μην ενοχλείτε, εμφάνιση, απόκρυψη, γραμμή μενού</string>
+                    <key>title</key>
+                    <string>Εμφάνιση κατάστασης Συγκέντρωσης στη γραμμή μενού</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Hearing</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>ακοή, εμφάνιση, απόκρυψη, γραμμή μενού</string>
+                    <key>title</key>
+                    <string>Εμφάνιση της Ακοής στη γραμμή μενού</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>ακοή, εμφάνιση, κέντρο ελέγχου</string>
+                    <key>title</key>
+                    <string>Εμφάνιση της Ακοής στο Κέντρο ελέγχου</string>
+                </dict>
+            </array>
+        </dict>
+        <key>KeyboardBrightness</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>πληκτρολόγιο, φωτεινότητα, οπίσθιος φωτισμός, εμφάνιση, απόκρυψη, γραμμή μενού</string>
+                    <key>portableOnly</key><true/>
+                    <key>title</key>
+                    <string>Εμφάνιση κατάστασης φωτεινότητας πληκτρολογίου στη γραμμή μενού</string>
+                </dict>
+            </array>
+        </dict>
+        <key>NowPlaying</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>παίζει τώρα, μουσική, πολυμέσα, χειριστήρια, τηλεχειριστήριο, remote, αναπαραγωγή, εμφάνιση, απόκρυψη, γραμμή μενού</string>
+                    <key>title</key>
+                    <string>Εμφάνιση κατάστασης «Παίζει τώρα» στη γραμμή μενού</string>
+                </dict>
+            </array>
+        </dict>
+        <key>ScreenMirroring</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>κατοπτρισμός οθόνης, AirPlay, εμφάνιση, απόκρυψη, γραμμή μενού</string>
+                    <key>title</key>
+                    <string>Εμφάνιση κατάστασης κατοπτρισμού οθόνης στη γραμμή μενού</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Sound</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>ήχος, ένταση ήχου, εμφάνιση, απόκρυψη, γραμμή μενού</string>
+                    <key>title</key>
+                    <string>Εμφάνιση έντασης ήχου στη γραμμή μενού</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Siri</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>siri, εμφάνιση, απόκρυψη, γραμμή μενού</string>
+                    <key>title</key>
+                    <string>Εμφάνιση Siri στη γραμμή μενού</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Spotlight</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>spotlight, εμφάνιση, απόκρυψη, γραμμή μενού</string>
+                    <key>title</key>
+                    <string>Εμφάνιση Spotlight στη γραμμή μενού</string>
+                </dict>
+            </array>
+        </dict>
+        <key>TimeMachine</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>time machine, εφεδρικά αντίγραφα, εμφάνιση, απόκρυψη, γραμμή μενού</string>
+                    <key>title</key>
+                    <string>Εμφάνιση κατάστασης Time Machine στη γραμμή μενού</string>
+                </dict>
+            </array>
+        </dict>
+        <key>WiFi</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>wifi, wi-fi, εμφάνιση, απόκρυψη, γραμμή μενού</string>
+                    <key>title</key>
+                    <string>Εμφάνιση κατάστασης Wi-Fi στη γραμμή μενού</string><!-- NON-BREAKING HYPHEN (U+2011) -->
+                </dict>
+            </array>
+        </dict>
+        <key>UserSwitcher</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>γρήγορη εναλλαγή χρήστη, εναλλαγή χρήστη, εμφάνιση, απόκρυψη, γραμμή μενού</string>
+                    <key>title</key>
+                    <string>Εμφάνιση της Γρήγορης εναλλαγής χρήστη στη γραμμή μενού</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>γρήγορη εναλλαγή χρήστη, εναλλαγή χρήστη, εμφάνιση, κέντρο ελέγχου</string>
+                    <key>title</key>
+                    <string>Εμφάνιση της Γρήγορης εναλλαγής χρήστη στο Κέντρο ελέγχου</string>
+                </dict>
+            </array>
+        </dict>
+    </dict>
+</plist>

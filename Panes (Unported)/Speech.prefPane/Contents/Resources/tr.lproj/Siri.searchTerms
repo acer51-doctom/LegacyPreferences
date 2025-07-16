@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Dictation</key>
+	<dict/>
+	<key>Siri</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>Siri, asistan, klavye kestirmesi, kısayol tuşu, kestirme tuşu, kestirme, kısayol, simge, tuş, dinle, dinleniyor, dil, menü çubuğu, mikrofon, tanı, tanıma, tanınıyor, ses, seslendir, seslendiriliyor, konuşma, kestirmeler, konuş, konuşuluyor, ses, dalga</string>
+				<key>title</key>
+				<string>Siri</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>aktifleştir, devre dışı bırak, etkisizleştir, etkinleştir, sustur, durdur, kapat, aç</string>
+				<key>title</key>
+				<string>Siri’yi aç ve kapat</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

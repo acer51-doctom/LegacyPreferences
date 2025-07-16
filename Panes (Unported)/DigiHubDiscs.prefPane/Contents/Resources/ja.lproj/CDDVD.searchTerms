@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>play 再生 プレイ, insert インサート セット 挿入 差し込む 差す, start スタート 開始, run ラン 実行 起動, load ロード 読み込み, compact コンパクト, digital デジタル, disks ディスク, discs, optical オプティカル 光学 光学式, medium 媒体, media メディア, blank ブランク 空, iTunes アイチューンズ アイチューン, Music ミュージック 音楽, player プレイヤ プレイヤー 再生装置, autoplay オート オートプレイ 自動 自動再生, Photos 写真, pictures ピクチャ 画像, photographs フォトグラフ, photos フォト 写真, iDVD アイディーブイディー, player プレイヤ プレイヤー 再生装置, movies ムービー, videos ビデオ, playing プレイング, inserting インサーティング, starting スターティング, running ランニング, loading ローディング</string>
+				<key>title</key>
+				<string>CDおよびDVDを扱う</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

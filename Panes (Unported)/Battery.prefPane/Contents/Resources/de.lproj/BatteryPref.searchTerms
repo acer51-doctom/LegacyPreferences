@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>currentSource</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Batteriestrom sparen</string>
+                <key>index</key>
+                <string>Displays, Bildschirme, Monitore, heller, dimmen, Ruhezustand, aufwecken, ausschalten, starten, Strom, ein, aus, Elektrizität, grün, einsparen, sparen, Einsparung, erhalten, Umwelt, Ladung, Stecker, abgesteckt, optimieren, Performance, Leistung, Prozessor, automatisch, Helligkeit, schwarz, leer, dunkler, gedimmt, abdunkeln, schlafen, Ruhemodus, aktivieren, Aktivierung, Ruhezustand beenden, runterfahren, ausmachen, einschalten, Erhaltung, geladen, laden, angesteckt, anschließen, nicht angeschlossen, netzunabhängig, optimiert, optimal, Optimierung, automatisiert, automatisieren, Automatik, Videostreaming optimieren, optimierte Batterieladung, Adapter, Kabel, automatische Grafikumschaltung</string>
+                <key>comments</key>
+                <string>Lokalisierbare Indexwörter</string>
+            </dict>
+            <dict>
+                <key>title</key>
+                <string>Batteriestatus in der Menüleiste anzeigen</string>
+                <key>index</key>
+                <string>Menüleiste</string>
+                <key>comments</key>
+                <string>Lokalisierbare Indexwörter</string>
+            </dict>
+            <dict>
+                <key>title</key>
+                <string>Power Nap</string>
+                <key>index</key>
+                <string>power nap, powernap</string>
+                <key>comments</key>
+                <string>Lokalisierbare Indexwörter</string>
+            </dict>
+        </array>
+    </dict>
+    <key>usage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Verlauf der Batterienutzung</string>
+                <key>index</key>
+                <string>Batteriestatus, rechtzeitig prüfen, Energieverbrauch</string>
+                <key>comments</key>
+                <string>Lokalisierbare Indexwörter</string>
+            </dict>
+        </array>
+    </dict>
+    <key>battery</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Batteriezustand</string>
+                <key>index</key>
+                <string>Batterieservice, Batteriewartung, maximale Kapazität, Batterielanglebigkeit, Batterielebensdauer, wichtige Batterienachricht, Batteriezustand</string>
+                <key>comments</key>
+                <string>Lokalisierbare Indexwörter</string>
+            </dict>
+        </array>
+    </dict>
+    <key>adapter</key>
+    <dict/>
+    <key>ups</key>
+    <dict/>
+    <key>schedule</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Zeitplan für Einschalten/Starten, Ruhezustand oder Ausschalten</string>
+                <key>index</key>
+                <string>Ruhezustand, wecken, starten, Strom, ein, aus, automatisch, geplant, planen, Ruhemodus, schlafend, aufwecken, aktivieren, Ruhezustand beenden, ausschalten, ausmachen, Stromversorgung, automatisiert, automatisieren, Automatik</string>
+                <key>comments</key>
+                <string>Lokalisierbare Indexwörter</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

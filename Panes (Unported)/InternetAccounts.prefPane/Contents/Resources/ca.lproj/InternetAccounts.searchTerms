@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>InternetAccounts</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>compte, comptes, usuari, usuaris, nom, noms, nom d’usuari, accés, accedir, iniciar sessió, iniciar la sessió, inici de sessió, iniciar, inici, sessió, obrir sessió, obrir la sessió, obrir, tancar sessió, tancar la sessió, connectar-se, desconnectar-se, sortir, tancar, contrasenya, contrasenyes, paraula de pas, pas, paraula, paraules, autenticar, autenticació, iCloud, ID d’Apple, subscriptor, subscripció, membre, Mail, iCal, calendari, Agenda, agenda, contactes, iChat, missatges, correu electrònic, CalDAV, CardDAV, LDAP, IMAP, notes, recordatoris</string>
+				<key>title</key>
+				<string>Comptes d’internet</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>fotos en streaming</string>
+				<key>title</key>
+				<string>Fotos en streaming</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>buscar el Mac</string>
+				<key>title</key>
+				<string>Buscar el Mac</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.126</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>126</string>
+				<key>title</key>
+				<string>Configurar un compte 126.com</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.163</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>163</string>
+				<key>title</key>
+				<string>Configurar un compte 163.com</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.Exchange</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>exchange</string>
+				<key>title</key>
+				<string>Configurar un compte d’Exchange</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.Google</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>google, gmail, correu electrònic de google</string>
+				<key>title</key>
+				<string>Configurar un compte Google</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.Yahoo</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>yahoo, ymail</string>
+				<key>title</key>
+				<string>Configurar un compte Yahoo!</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.aol</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>aol, aim</string>
+				<key>title</key>
+				<string>Configurar un compte d’AOL</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.qq</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Paraules d’índex localitzables</string>
+				<key>index</key>
+				<string>qq</string>
+				<key>title</key>
+				<string>Configurar un compte QQ.com</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

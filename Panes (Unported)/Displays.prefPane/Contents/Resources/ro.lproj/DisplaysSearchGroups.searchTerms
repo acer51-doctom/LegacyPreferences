@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displaysArrangementTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>ecrane, monitoare, oglindă, oglindit, oglindire, aranjare, aranjament</string>
+				<key>title</key>
+				<string>Aranjează mai multe ecrane</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>bară de meniu</string>
+				<key>title</key>
+				<string>Reamplasează bara de meniu</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysColorTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>afișaje, ecrane, monitoare, calibra, ajusta, lumina, întuneca, punct de alb, gamă, lumină ambientală, profile, calibrare, ajustare, ajustări, întunecare</string>
+				<key>title</key>
+				<string>Culori și calibrare ecran</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysDisplayTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>afișaje, ecrane, monitoare, adâncime, milioane, mii, 256, ColorSync, ajusta, lumina, întuneca, ajustare, ajustări, întunecare, true tone</string>
+				<key>title</key>
+				<string>Culori, luminozitate și rezoluție</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>afișaje, ecrane, monitoare</string>
+				<key>title</key>
+				<string>Rată reîmprospătare ecran</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>ecrane, monitoare</string>
+				<key>title</key>
+				<string>Detectează mai multe ecrane</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>bară de meniu</string>
+				<key>title</key>
+				<string>Arată afișajele în bara de meniu</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>roti, rotire</string>
+				<key>title</key>
+				<string>Rotire ecran</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>AirPlay</string>
+				<key>title</key>
+				<string>Opțiuni oglindire AirPlay</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysGeometryTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>poziție, înălțime, lățime, pernă, rotire, trapez, paralelogram, curbură, curbură colț, oblic, geometrie, dimensiuni</string>
+				<key>title</key>
+				<string>Imagine ecran</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>rgb, ajusta, alinia, ajustare, aliniere</string>
+				<key>title</key>
+				<string>Convergență imagine</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>static, reseta, pâlpâi, interferență, pâlpâire</string>
+				<key>title</key>
+				<string>Demagnetizare</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysNightShiftTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>noapte, night, shift, tură, night shift, estompat, cald, culoare caldă, spectru, somn, temperatură, apus, răsărit, estompare</string>
+				<key>title</key>
+				<string>Opțiuni Night Shift</string>
+			</dict>
+		</array>
+	</dict>
+	<key>universalControlTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>control, universal</string>
+				<key>title</key>
+				<string>Control universal</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

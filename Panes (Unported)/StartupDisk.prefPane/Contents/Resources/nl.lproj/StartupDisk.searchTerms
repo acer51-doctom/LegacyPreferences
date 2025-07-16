@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>StartupSearchGroup</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>opstarten, starten, booten, harde, schijf, volume, systeem, netboot, aanzetten</string>
+				<key>title</key>
+				<string>Opstartschijf</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>schijf, disc, FireWire, fire wire</string>
+				<key>title</key>
+				<string>Doelschijfmodus</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Extensions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>phần mở rộng</string>
+				<key>title</key>
+				<string>Phần mở rộng</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>đánh dấu</string>
+				<key>title</key>
+				<string>Tác vụ</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>đang chia sẻ, chia sẻ, danh sách đọc, mail, tin nhắn, airdrop, ghi chú, lời nhắc, mọi người, thêm, iphoto, aperture</string>
+				<key>title</key>
+				<string>Chia sẻ mục menu</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>nhanh, tác vụ, finder, tác vụ nhanh, khung xem trước</string>
+				<key>title</key>
+				<string>Finder</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>nhanh, tác vụ, cảm ứng, thanh, touch bar</string>
+				<key>title</key>
+				<string>Touch Bar</string>
+			</dict>
+            <dict>
+                <key>comments</key>
+                <string>Từ chỉ mục có thể bản địa hóa</string>
+                <key>index</key>
+                <string>phần mở rộng nhà cung cấp thông tin đăng nhập, trình quản lý mật khẩu, phần mở rộng trình quản lý mật khẩu, tự động điền mật khẩu, phần mở rộng tự động điền</string>
+                <key>title</key>
+                <string>Phần mở rộng tự động điền mật khẩu</string>
+            </dict>
+		</array>
+	</dict>
+</dict>
+</plist>

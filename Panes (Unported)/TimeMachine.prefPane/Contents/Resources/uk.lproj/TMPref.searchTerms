@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локалізовувані індексні слова</string>
+				<key>index</key>
+				<string>резервна копія, архів, архівувати, зашифрувати, шифрування, зашифрований, зашифрування, жорсткий, диски, диск, дисководи, томи, дані, інформація, папки, втратити, втрата, немає, бракує, випадковий, аварія, стирати, видаляти, відновити, архівування, втрачено, втрачений, стирання, стерто, стертий, видалення, видалений, видалено, відновлення, відновлений, відновити</string>
+				<key>title</key>
+				<string>Резервне копіювання та відновлення файлів</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

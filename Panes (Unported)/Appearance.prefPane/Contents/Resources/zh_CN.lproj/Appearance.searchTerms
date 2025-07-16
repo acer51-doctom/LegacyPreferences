@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+        <key>Handoff</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>comments</key>
+                    <string>可本地化的索引词, Localizable index words</string>
+                    <key>index</key>
+                    <string>连续互通, continuity, 选择, pick it up, 继续, continue, 活动, activity, 继续, continuation, 接力, hand off</string>
+                    <key>title</key>
+                    <string>允许使用接力, Allow Handoff</string>
+                </dict>
+            </array>
+        </dict>
+		<key>Main</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>可本地化的索引词, Localizable index words</string>
+					<key>index</key>
+					<string>选择, selected, 文本, text, 高亮显示, highlighting, 高亮, highlite, 正高亮显示, highliting, 醒目, hilite, 醒目显示, hiliting, 外观, appearance</string>
+					<key>title</key>
+					<string>高亮显示颜色, Highlight color</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>可本地化的索引词, Localizable index words</string>
+					<key>index</key>
+					<string>“苹果”菜单, 苹果菜单, Apple menu, 应用程序, applications, 文稿, documents, 服务器, servers</string>
+					<key>title</key>
+					<string>最近使用的项目数, Number of Recent Items</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>可本地化的索引词, Localizable index words</string>
+					<key>index</key>
+					<string>桌面, desktop, 自定, customize, 个性化, personalize, 标签, 标签页, tab, tabs, 正在自定, customizing, 自定义, customization, 个性化, personalizing, 外观, appearance</string>
+					<key>title</key>
+					<string>按钮, Button, 菜单, menu, 窗口外观, window look</string>
+				</dict>
+
+				<dict>
+					<key>comments</key>
+					<string>可本地化的索引词, Localizable index words</string>
+					<key>index</key>
+					<string>桌面, desktop, 自定, customize, 个性化, personalize, 正在自定, customizing, 自定义, customization, 自动, auto, 个性化, personalizing, 外观, appearance, 浅色, light, 深色, dark, 主题, theme, 模式, mode, 深色模式, Dark Mode</string>
+					<key>title</key>
+					<string>外观, Appearance</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>可本地化的索引词, Localizable index words</string>
+					<key>index</key>
+					<string>按钮, button, 所选内容, selection, 菜单, menu, 外观, look, appearance, 颜色, color</string>
+					<key>title</key>
+					<string>强调色, Accent color</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>可本地化的索引词, Localizable index words</string>
+					<key>index</key>
+					<string>编辑, edits, 更改, changes, 存储, save, 关闭, close, 退出, quit, 文稿, document, 文件, file</string>
+					<key>title</key>
+					<string>保留更改, Keep changes</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>可本地化的索引词, Localizable index words</string>
+					<key>index</key>
+					<string>窗口, window, 跳到, jump, 滚动条, scrollbar, 正跳到, jumping</string>
+					<key>title</key>
+					<string>滚动条表现, Scroll bar behavior</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>可本地化的索引词, Localizable index words</string>
+					<key>index</key>
+					<string>图标, icon, 边, side, 栏, bar, 边栏, sidebar, 大小, size</string>
+					<key>title</key>
+					<string>边栏图标, Sidebar icons</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>可本地化的索引词, Localizable index words</string>
+					<key>index</key>
+					<string>退出, quit, 正在退出, quitting, 打开, open, 重新打开, reopen, 再次打开, re-open, 正在打开, opening, 正在重新打开, reopening, 正在再次打开, re-opening, 恢复, 复原, restoring, 首选标签页, prefer tabs</string>
+					<key>title</key>
+					<string>关闭和恢复窗口, Close and restore windows</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>可本地化的索引词, Localizable index words</string>
+					<key>index</key>
+					<string>Safari浏览器, Safari, http, https, 冲浪, surf, www, 网站, 网址, website, web site, 网页, webpage, web page</string>
+					<key>title</key>
+					<string>设为默认网页浏览器, Set default web browser</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+</plist>

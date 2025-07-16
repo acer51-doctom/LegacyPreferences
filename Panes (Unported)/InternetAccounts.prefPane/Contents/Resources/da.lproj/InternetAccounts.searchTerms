@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>InternetAccounts</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>konto, konti, bruger, brugere, navn, navne, brugernavn, bruger navn, log, logge, logning, signer, signere, signatur, logge ind, logge på, login, log på, logind, logpå, log ud, log af, logud, logaf, adgangskode, adgangskoder, adgang, ord, godkend, godkende, godkendelse, iCloud, Apple-id, abonnent, abonnement, medlem, Mail, iCal, kalender, Adressebog, adressebog, kontakter, iChat, beskeder, e-mail, CalDAV, CardDAV, LDAP, IMAP, noter, påmindelser</string>
+				<key>title</key>
+				<string>Internetkonti</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>fotostream</string>
+				<key>title</key>
+				<string>Fotostream</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>find min mac</string>
+				<key>title</key>
+				<string>Find min Mac</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.126</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>126</string>
+				<key>title</key>
+				<string>Indstil en 126.com-konto</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.163</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>163</string>
+				<key>title</key>
+				<string>Indstil en 163.com-konto</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.Exchange</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>exchange</string>
+				<key>title</key>
+				<string>Indstil en Exchange-konti</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.Google</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>google, gmail, googlemail</string>
+				<key>title</key>
+				<string>Indstil en Google-konto</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.Yahoo</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>yahoo, ymail</string>
+				<key>title</key>
+				<string>Indstil en Yahoo!-konto</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.aol</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>aol, aim</string>
+				<key>title</key>
+				<string>Indstil en AOL-konto</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.qq</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>qq</string>
+				<key>title</key>
+				<string>Indstil en QQ.com-konto</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

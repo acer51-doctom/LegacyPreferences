@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Kata indeks yang dapat dilokalkan</string>
+				<key>index</key>
+				<string>aktif</string>
+				<key>title</key>
+				<string>Pojok layar aktif</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Kata indeks yang dapat dilokalkan</string>
+				<key>index</key>
+				<string>sesuaikan, desktop, papan ketik, tombol function, Fn, tombol tetikus, jendela, aplikasi, program, disesuaikan, menyesuaikan, penyesuaian, mission control</string>
+				<key>title</key>
+				<string>Pintasan Exposé</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Spaces</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Kata indeks yang dapat dilokalkan</string>
+				<key>index</key>
+				<string>atur, ruang kerja, aplikasi, program, desktop, teratur, mengatur</string>
+				<key>title</key>
+				<string>Atur Spaces</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effects</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Palabras de índice localizables</string>
+				<key>index</key>
+				<string>ruido, audio, oír, nivel, volumen, alto, bajo, fuerte, aumentar, subir, disminuir, bajar, altavoz, alerta, aviso, pitido, tono, advertencia, audición, timbre, campanilla, sonido, sonido de arranque, timbre de arranque, sonido de inicio</string>
+				<key>title</key>
+				<string>Alertas y efectos de sonido</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palabras de índice localizables</string>
+				<key>index</key>
+				<string>audio, oír, nivel, volumen, alto, bajo, fuerte, aumentar, subir, disminuir, bajar, música, bocinas, audición</string>
+				<key>title</key>
+				<string>Volumen del sonido</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palabras de índice localizables</string>
+				<key>index</key>
+				<string>audio, oír, nivel, volumen, alto, bajo, fuerte, aumentar, subir, disminuir, bajar, silencio, apagar, desactivar, audición, silenciar</string>
+				<key>title</key>
+				<string>Silenciar el sonido</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palabras de índice localizables</string>
+				<key>index</key>
+				<string>barra de menú</string>
+				<key>title</key>
+				<string>Mostrar el volumen en la barra de menús</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palabras de índice localizables</string>
+				<key>index</key>
+				<string>barra de menú</string>
+				<key>title</key>
+				<string>Mostrar opciones de sonido en barra de menús</string>
+			</dict>
+		</array>
+	</dict>
+	<key>input</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Palabras de índice localizables</string>
+				<key>index</key>
+				<string>audio, oír, nivel, volumen, alto, bajo, fuerte, aumentar, subir, disminuir, bajar, dispositivos, fuentes, micrófonos, instrumentos, MIDI, grabar, entrada de línea, audición, grabación</string>
+				<key>title</key>
+				<string>Entrada de sonido</string>
+			</dict>
+		</array>
+	</dict>
+	<key>output</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Palabras de índice localizables</string>
+				<key>index</key>
+				<string>dispositivos, audífonos, audífonos, micrófono, bocinas, oír, balance, audición</string>
+				<key>title</key>
+				<string>Salida de sonido</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palabras de índice localizables</string>
+				<key>index</key>
+				<string>airplay, bocinas</string>
+				<key>title</key>
+				<string>Transmisión de audio AirPlay</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

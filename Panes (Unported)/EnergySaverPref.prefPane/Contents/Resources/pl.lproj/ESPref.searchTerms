@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>currentSource</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Oszczędzanie energii</string>
+                <key>index</key>
+                <string>wyświetlacze, ekrany, monitory, rozjaśnić, ściemnić, uśpić, obudzić, wyłączyć, uruchomić, włączyć, włączone, wyłączone, elektryczność, zielony, zachowaj, oszczędzać, oszczędzanie, utrzymywać, środowiskowy, optymalizować, wydajność, procesor, automatycznie, jasność, czarny, pusty, zaciemniać, wyszarzony, wyciemnianie, usypianie, uśpiony, budzenie, obudzony, budzenie, wyłącz, wyłączanie, włączanie, włącz, włączanie, oszczędzanie, utrzymanie, naładowany, ładowanie, podłączony, podłączanie, odłączony, odłączanie, zoptymalizowany, optymalizowanie, optymalizacja, zautomatyzowany, automatyzowanie, automatycznie, zasilacz awaryjny, zasilacz bezprzerwowy, zasilacz UPS, UPS</string>
+                <key>comments</key>
+                <string>Lokalizowane słowa kluczowe</string>
+            </dict>
+        </array>
+    </dict>
+    <key>schedule</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Planuj uruchamianie, usypianie, wyłączanie</string>
+                <key>index</key>
+                <string>budzenie, uruchamianie, włączanie, wł., wył., automatycznie, planowany, planowanie, usypianie, uśpiony, budzenie, obudzony, budzenie, wyłączanie, włączanie, włącz, wyłączanie, automatyczny, automatyzowanie, automatycznie</string>
+                <key>comments</key>
+                <string>Lokalizowane słowa kluczowe</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loginOptionsPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>gebruikers, inloggen, log in, aanmelden, meld aan, aanmelding, verbergen, tonen, weergeven, opstarten, uitzetten, uitschakelen, herstarten, sluimerstand, sluimeren, knoppen, VoiceOver, spraak, invoermethode, modus, menu, wachtwoorden, hints, wachtwoord, spreken</string>
+				<key>title</key>
+				<string>Instellingen inlogvenster</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>gebruiker, snel, inloggen, log in, aanmelden, aanmelding, uitloggen, log uit, overschakelen, overschakeling, afmelden, afmelding</string>
+				<key>title</key>
+				<string>Overschakelen tussen accounts</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>inloggen, automatiseren, automatisch, aanmelden, meld aan, log in, aanmelding</string>
+				<key>title</key>
+				<string>Automatisch inloggen</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>active, ldap, open, server, active directory, open directory</string>
+				<key>title</key>
+				<string>Adreslijstvoorzieningen</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>gebruikers, inloggen, aanmelden, meld aan, log in, aanmelding</string>
+				<key>title</key>
+				<string>Inlogopties</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Netwerkaccountserver</string>
+			</dict>
+		</array>
+	</dict>
+	<key>mobilityPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array/>
+	</dict>
+	<key>passwordPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>gast, delen, lange, korte, naam, authenticeer, wachtwoorden, filevault, gedeeld, wachtwoord, authenticeren, authenticatie, file, vault</string>
+				<key>title</key>
+				<string>Gebruikers- of groepsaccount</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>foto's, foto</string>
+				<key>title</key>
+				<string>Afbeelding van gebruiker</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>gebruikers, accounts, lange, korte, naam, authenticeer, inloggen, log in, aanmelden, aanmelding, wijzigen, beheren, wachtwoorden, wachtwoord, authenticeren, authenticatie, overschakelen</string>
+				<key>title</key>
+				<string>Inlognaam en wachtwoord</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>vcard, kaarten, kaartjes</string>
+				<key>title</key>
+				<string>Contacten</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>beheren, beheer</string>
+				<key>title</key>
+				<string>Beheerdersaccount</string>
+			</dict>
+		</array>
+	</dict>
+	<key>startupItemsPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>automatisch, automatiseren, inloggen, aanmelden, starten, geautomatiseerd, log in, aanmelding</string>
+				<key>title</key>
+				<string>Apps openen tijdens inloggen</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>inloggen, aanmelden, log in, meld aan, start, aanmelding</string>
+				<key>title</key>
+				<string>Inlogonderdelen</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

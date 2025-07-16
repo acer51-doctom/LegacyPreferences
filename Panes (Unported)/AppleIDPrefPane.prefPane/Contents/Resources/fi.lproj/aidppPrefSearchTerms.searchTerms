@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>AppleAccount</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalisoitavat hakusanat</string>
+                <key>index</key>
+                <string>iCloud, cloud, me.com, apple-tili, appleid, apple, id, tili, yhteystieto, maksu, toimitus</string>
+                <key>title</key>
+                <string>Apple ID</string>
+            </dict>
+        </array>
+    </dict>
+    <key>iCloud</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalisoitavat hakusanat</string>
+                <key>index</key>
+                <string>iCloud, pilvi, me.com, apple-tili, etsi macini, tallennus, dokumentit ja data, iCloud Drive, kirjanmerkit, kalenterit, yhteystiedot, sähköposti, muistutukset, lukulistat, pörssi, koti, Safari, muistiinpanot, </string>
+                <key>title</key>
+                <string>iCloud</string>
+            </dict>
+        </array>
+    </dict>
+    <key>com.apple.AppleMediaServicesUI.SpyglassPurchases</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalisoitavat hakusanat</string>
+                <key>index</key>
+                <string>media, ostot, app store, palvelut, tilaukset</string>
+                <key>title</key>
+                <string>Media ja ostot</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>Internet</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Lokalizovatelná indexová slova</string>
+					<key>index</key>
+					<string>sdílet, připojení, bezdrátové, nat, Wi‑Fi, ethernet, FireWire</string>
+					<key>title</key>
+					<string>Sdílení internetu</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Main</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Lokalizovatelná indexová slova</string>
+					<key>index</key>
+					<string>místní, podsíť, bonjour</string>
+					<key>title</key>
+					<string>Název počítače</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_ARDService</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Lokalizovatelná indexová slova</string>
+					<key>index</key>
+					<string>vzdálený, vzdálená, vzdálené, správa, vzdálená správa, ard, ovládání, VNC</string>
+					<key>title</key>
+					<string>Vzdálená správa</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_DVDorCDSharing</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>index</key>
+					<string/>
+					<key>title</key>
+					<string>Sdílení DVD nebo CD</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_PersonalFileSharing</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Lokalizovatelná indexová slova</string>
+					<key>index</key>
+					<string>výměna nat afp, sdílení, sdílet</string>
+					<key>title</key>
+					<string>Sdílení souborů</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_PrinterSharing</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Lokalizovatelná indexová slova</string>
+					<key>index</key>
+					<string>cups, sdílet, sdílení</string>
+					<key>title</key>
+					<string>Sdílení tiskáren</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_RemoteAppleEvent</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Lokalizovatelná indexová slova</string>
+					<key>index</key>
+					<string>ae</string>
+					<key>title</key>
+					<string>Vzdálené události Apple</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_RemoteLogin</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Lokalizovatelná indexová slova</string>
+					<key>index</key>
+					<string>ssh, služba, přihlásit, přihlásit se, přihlášení</string>
+					<key>title</key>
+					<string>Vzdálené přihlášení</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_ScreenSharing</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>index</key>
+					<string>ovládání, ovládat, VNC</string>
+					<key>title</key>
+					<string>Sdílení obrazovky</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_WindowsSharing</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Lokalizovatelná indexová slova</string>
+					<key>index</key>
+					<string>samba, služba, SMB/CIFS, tiskárny, složky, sdílet, sdílení</string>
+					<key>title</key>
+					<string>Sdílení souborů Windows</string>
+				</dict>
+			</array>
+		</dict>
+        <key>Services_ContentCaching</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>comments</key>
+                    <string>Lokalizovatelná indexová slova</string>
+                    <key>index</key>
+                    <string>mezipaměť, mezipaměti</string>
+                    <key>title</key>
+                    <string>Ukládání obsahu do mezipaměti</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Services_AirPlayReceiver</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>comments</key>
+                    <string>Lokalizovatelná indexová slova</string>
+                    <key>index</key>
+                    <string>airplay, receiver, přijímač</string>
+                    <key>title</key>
+                    <string>Přijímač AirPlay</string>
+                </dict>
+            </array>
+        </dict>
+	</dict>
+</plist>

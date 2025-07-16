@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>StartupSearchGroup</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>start, boote, op, første, hard, disk, drev, enhed, system, netboot, starte</string>
+				<key>title</key>
+				<string>Startdisk</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>disk, FireWire, fire wire</string>
+				<key>title</key>
+				<string>Computer som ekstern harddisk</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>Dock</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>कस्टमाइज़ करें, control strip, टूलबार, आकार बदलें, अधिक बड़ा, अधिक छोटा, स्थिति, डेस्कटॉप, बाएँ, दाएँ, नीचे, किनारे, स्प्रिंग, बाउंस, स्केल, ऐनिमेट करें, जीनी, छिपाएँ, दिखाएँ, आवर्धित करें, मिनिमाइज़ करें, मैक्सिमाइज़ करें, बड़ा करें, और बड़ा, कस्टमाइज़ किया गया, कस्टमाइज़ किया जा रहा है, कस्टमाइज़ेशन, controlstrip, टूलबार, आकार बदला गया, आकार बदला जा रहा है, स्थिति तय की जा रही है, स्प्रिंग प्रभाव जारी है, बाउंस किया जा रहा है, स्केल किया जा रहा है, ऐनिमेट किया जा रहा है, ऐनिमेशन, छिपाया जा रहा है, छिपा हुआ, दिखाया जा रहा है, दिखाया गया, आवर्धित किया जा रहा है, आवर्धन, मिनिमाइज़ किया गया, मिनिमाइज़ किया जा रहा है, मैक्सिमाइज़ किया गया, मैक्सिमाइज़ किया जा रहा है, और बड़ा किया जा रहा है, दस्तावेज़, खोलें, खोला जा रहा है, ऑटोमैटिकली, मेनू बार</string>
+                    <key>title</key>
+                    <string>Dock सेटिंग्ज़</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>ऑटोमैटिकली, छिपाएँ, दिखाएँ, dock</string>
+                    <key>title</key>
+                    <string>Dock को ऑटोमैटिकली छिपाएँ और दिखाएँ</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>ऑटोमैटिकली, छिपाएँ, दिखाएँ, मेनू बार</string>
+                    <key>title</key>
+                    <string>डेस्कटॉप पर मेनू बार को ऑटोमैटिकली छिपाएँ और दिखाएँ</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>ऑटोमैटिकली, छिपाएँ, दिखाएँ, मेनू बार</string>
+                    <key>title</key>
+                    <string>फ़ुल स्क्रीन में मेनू बार को ऑटोमैटिकली छिपाएँ और दिखाएँ</string>
+                </dict>
+            </array>
+        </dict>
+        <key>AccessibilityShortcuts</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>ऐक्सेसिबिलिटी शॉर्टकट, दिखाएँ, छिपाएँ, मेनू बार</string>
+                    <key>title</key>
+                    <string>मेनू बार में ऐक्सेसिबिलिटी शॉर्टकट दिखाएँ</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>ऐक्सेसिबिलिटी शॉर्टकट, दिखाएँ, कंट्रोल सेंटर</string>
+                    <key>title</key>
+                    <string>कंट्रोल सेंटर में ऐक्सेसिबिलिटी शॉर्टकट दिखाएँ</string>
+                </dict>
+            </array>
+        </dict>
+        <key>AirDrop</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>bluetooth, दिखाएँ, छिपाएँ, मेनू बार</string>
+                    <key>title</key>
+                    <string>मेनू बार में AirDrop स्टेटस दिखाएँ</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Battery</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>बैटरी, चार्जिंग, चार्ज, दिखाएँ, छिपाएँ, मेनू बार</string>
+                    <key>portableOnly</key><true/>
+                    <key>title</key>
+                    <string>मेनू बार में बैटरी स्टेटस दिखाएँ</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>बैटरी, चार्जिंग, चार्ज, दिखाएँ, छिपाएँ, कंट्रोल सेंटर</string>
+                    <key>portableOnly</key><true/>
+                    <key>title</key>
+                    <string>कंट्रोल सेंटर में बैटरी स्टेटस दिखाएँ</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>बैटरी, प्रतिशत, दिखाएँ, छिपाएँ, मेनू बार</string>
+                    <key>portableOnly</key><true/>
+                    <key>title</key>
+                    <string>मेनू बार में बैटरी प्रतिशत दिखाएँ</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Bluetooth</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>bluetooth, दिखाएँ, छिपाएँ, मेनू बार</string>
+                    <key>title</key>
+                    <string>मेनू बार में Bluetooth स्टेटस दिखाएँ</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Clock</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>घड़ी, तिथि, समय, दिखाएँ, छिपाएँ, मेनू बार</string>
+                    <key>title</key>
+                    <string>मेनू बार में सप्ताह का दिन दिखाएँ</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>घड़ी, तिथि, समय, दिखाएँ, छिपाएँ, मेनू बार</string>
+                    <key>title</key>
+                    <string>मेनू बार में तिथि दिखाएँ</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>24, घंटे, घड़ी, तिथि, समय, दिखाएँ, छिपाएँ, मेनू बार</string>
+                    <key>title</key>
+                    <string>मेनू बार में 24 घंटे की घड़ी उपयोग करें</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>पूर्वाह्न, अपराह्न, घड़ी, तिथि, समय, दिखाएँ, छिपाएँ, मेनू बार</string>
+                    <key>title</key>
+                    <string>मेनू बार में AM/PM दिखाएँ</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>ब्लिंक, फ़्लैश, विभाजक, सेकंड, घड़ी, समय, दिखाएँ, छिपाएँ, मेनू बार</string>
+                    <key>title</key>
+                    <string>मेनू बार में समय विभाजक को फ़्लैश करें</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>सेकंड, घड़ी, समय, दिखाएँ, छिपाएँ, मेनू बार</string>
+                    <key>title</key>
+                    <string>मेनू बार में सेकंड के साथ समय दिखाएँ</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>आवाज़, कहें, घोषणा, घंटा, आधा घंटा, पौना घंटा, घड़ी, समय</string>
+                    <key>title</key>
+                    <string>समय की घोषणा करें</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Display</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>डिस्प्ले, ब्राइटनेस, साइडकार, दिखाएँ, छिपाएँ, मेनू बार</string>
+                    <key>title</key>
+                    <string>मेनू बार में डिस्प्ले दिखाएँ</string>
+                </dict>
+            </array>
+        </dict>
+        <key>DoNotDisturb</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>डू नॉट डिस्टर्ब, दिखाएँ, छिपाएँ, मेनू बार</string>
+                    <key>title</key>
+                    <string>मेनू बार में डू नॉट डिस्टर्ब स्टेटस दिखाएँ</string>
+                </dict>
+            </array>
+        </dict>
+        <key>FocusModes</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>फ़ोकस, डू नॉट डिस्टर्ब, दिखाएँ, छिपाएँ, मेनू बार</string>
+                    <key>title</key>
+                    <string>मेनू बार में फ़ोकस स्टेटस दिखाएँ</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Hearing</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>सुनना, दिखाएँ, छिपाएँ, मेनू बार</string>
+                    <key>title</key>
+                    <string>मेनू बार में सुनना दिखाएँ</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>सुनना, दिखाएँ, कंट्रोल सेंटर</string>
+                    <key>title</key>
+                    <string>कंट्रोल सेंटर में सुनना दिखाएँ</string>
+                </dict>
+            </array>
+        </dict>
+        <key>KeyboardBrightness</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>कीबोर्ड, ब्राइटनेस, बैकलाइट, दिखाएँ, छिपाएँ, मेनू बार</string>
+                    <key>portableOnly</key><true/>
+                    <key>title</key>
+                    <string>मेनू बार में कीबोर्ड ब्राइटनेस दिखाएँ</string>
+                </dict>
+            </array>
+        </dict>
+        <key>NowPlaying</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>अभी चल रहा है, संगीत, मीडिया, कंट्रोल, रिमोट, चलाएँ, प्लेबैक, दिखाएँ, छिपाएँ, मेनू बार</string>
+                    <key>title</key>
+                    <string>मेनू बार में “अभी चल रहा है” स्टेटस दिखाएँ</string>
+                </dict>
+            </array>
+        </dict>
+        <key>ScreenMirroring</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>स्क्रीन मिररिंग, AirPlay, दिखाएँ, छिपाएँ, मेनू बार</string>
+                    <key>title</key>
+                    <string>मेनू बार में स्क्रीन मिररिंग स्टेटस दिखाएँ</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Sound</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>ध्वनि, वॉल्यूम, दिखाएँ, छिपाएँ, मेनू बार</string>
+                    <key>title</key>
+                    <string>मेनू बार में वॉल्यूम दिखाएँ</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Siri</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>siri, दिखाएँ, छिपाएँ, मेनू बार</string>
+                    <key>title</key>
+                    <string>मेनू बार में Siri दिखाएँ</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Spotlight</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>spotlight, दिखाएँ, छिपाएँ, मेनू बार</string>
+                    <key>title</key>
+                    <string>मेनू बार में Spotlight दिखाएँ</string>
+                </dict>
+            </array>
+        </dict>
+        <key>TimeMachine</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>time machine, बैकअप, दिखाएँ, छिपाएँ, मेनू बार</string>
+                    <key>title</key>
+                    <string>मेनू बार में Time Machine स्टेटस दिखाएँ</string>
+                </dict>
+            </array>
+        </dict>
+        <key>WiFi</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>वाईफ़ाई, वाई-फ़ाई, दिखाएँ, छिपाएँ, मेनू बार</string>
+                    <key>title</key>
+                    <string>मेनू बार में वाई-फ़ाई स्टेटस दिखाएँ</string><!-- NON-BREAKING HYPHEN (U+2011) -->
+                </dict>
+            </array>
+        </dict>
+        <key>UserSwitcher</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>फ़ास्ट यूज़र स्विचिंग, यूज़र स्विचर, दिखाएँ, छिपाएँ, मेनू बार</string>
+                    <key>title</key>
+                    <string>मेनू बार में फ़ास्ट यूज़र स्विचिंग दिखाएँ</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>फ़ास्ट यूज़र स्विचिंग, यूज़र स्विचर, दिखाएँ, कंट्रोल सेंटर</string>
+                    <key>title</key>
+                    <string>कंट्रोल सेंटर में फ़ास्ट यूज़र स्विचिंग दिखाएँ</string>
+                </dict>
+            </array>
+        </dict>
+    </dict>
+</plist>

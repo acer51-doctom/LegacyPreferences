@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>6to4</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>נתב כתובת</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>‏IPv6</string>
+				<key>title</key>
+				<string>כתובת 6to4</string>
+			</dict>
+		</array>
+	</dict>
+	<key>802.1X</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>אישור ‏802.1X</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>eap</string>
+				<key>title</key>
+				<string>אימות ‏802.1X</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>זהות חיצונית, mschapv2, pap inner</string>
+				<key>title</key>
+				<string>TTLS</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>PEAP</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>TLS</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>הרשאת גישה מוגנת, הקצאה, אנונימי</string>
+				<key>title</key>
+				<string>EAP-FAST</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>‏LEAP</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>MD5</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>‏802.1X</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Advanced Ethernet</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>כתובת MAC</string>
+				<key>title</key>
+				<string>מזהה Ethernet</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>מהירות Ethernet</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>זרימה, בקרה, חצי, מלא</string>
+				<key>title</key>
+				<string>דו-כיווני</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>מנה</string>
+				<key>title</key>
+				<string>MTU</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Advanced Modem</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>משווק, מודל, חיוג, מצב, קול, שגיאה, פולס, צליל</string>
+				<key>title</key>
+				<string>אפשרויות מודם מתקדמות</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Advanced VPN</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>מילים מרובות, תנועה, התחברות</string>
+				<key>title</key>
+				<string>אפשרויות VPN מתקדמות</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Advanced Wi-Fi</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>כתובת MAC, ‏ID, ‏AirPort</string>
+				<key>title</key>
+				<string>רשתות אלחוטיות מועדפות</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>דרוש סיסמה לרשתות אלחוטיות</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Bluetooth</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>שם משתמש</string>
+				<key>title</key>
+				<string>חשבון וסיסמה של Bluetooth</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>התחבר או התנתק מ-Bluetooth</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>יצירת רשת Bluetooth</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Bond</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>חיבור, מהירות, עותק, שולח, מקבל</string>
+				<key>title</key>
+				<string>מצב החיבור</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>צירוף קישוריות, חיבור Ethernet</string>
+				<key>title</key>
+				<string>נהל צירוף קישוריות</string>
+			</dict>
+		</array>
+	</dict>
+	<key>DNS</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>שרתי DNS</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>מתחמי DNS</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Ethernet</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>מתחמי חיפוש</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>אפשרויות Ethernet</string>
+			</dict>
+		</array>
+	</dict>
+	<key>FireWire</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>‏dhcp,‏ bootP ידני </string>
+				<key>title</key>
+				<string>הגדר יצירת רשת FireWire</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>‏IP באמצעות FireWire</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Modem</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>משווק, מודל, חיוג, מצב,שגיאה, פולס, צליל, חיוג, טלפון</string>
+				<key>title</key>
+				<string>אפשרויות מודם</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>שם משתמש</string>
+				<key>title</key>
+				<string>חשבון וסיסמה של המודם</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>שורת תפריטים</string>
+				<key>title</key>
+				<string>הצג מצב מודם בשורת התפריטים</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>התחבר או התנתק מהמודם</string>
+			</dict>
+		</array>
+	</dict>
+	<key>PPP</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>חיוג חוזר, מנות, חיבור מרובה מילים, החלפת משתמש מהירה, כנס, צא, יציאה, יוצא</string>
+				<key>title</key>
+				<string>PPP</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>הגדרות ניתוק PPP</string>
+			</dict>
+		</array>
+	</dict>
+	<key>PPPoE</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>שירות PPPoE</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>חשבון וסיסמה של PPPoE</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>מצב PPPoE</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Proxies</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>‏FTP, מאובטח, רשת, זורם, SOCKS, ‏Gopher, אוטומטי, פסיבי, קובץ pac, ‏pasv, עוקף, פרוקסי</string>
+				<key>title</key>
+				<string>שרתי פרוקסי</string>
+			</dict>
+		</array>
+	</dict>
+	<key>TCP/IP</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>כתובת ip, כתובת, מסכת תת-רשת (subnet mask), נתב, IPv6, אורך קידומת, חדש, חוזה, מזהה לקוח</string>
+				<key>title</key>
+				<string>IPv4 </string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>קישור מקומי, אורך קידומת</string>
+				<key>title</key>
+				<string>‏IPv6</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>כתובת, מסכת תת-רשת (subnet mask), נתב, שרת DNS, DHCP, ידני, BootP, PPPoE, ipv4 ipv6, חוזה, חדש</string>
+				<key>title</key>
+				<string>TCP/IP</string>
+			</dict>
+		</array>
+	</dict>
+	<key>VLAN</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>ממשק, תג, שם bsd</string>
+				<key>title</key>
+				<string>VLAN</string>
+			</dict>
+		</array>
+	</dict>
+	<key>VPN</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>אפשרויות VPN</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>התחבר או התנתק מ-VPN</string>
+			</dict>
+		</array>
+	</dict>
+	<key>VPN on Demand</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>VPN on Demand</string>
+			</dict>
+		</array>
+	</dict>
+	<key>WINS</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>CIFS, SMB</string>
+				<key>title</key>
+				<string>NetBIOS</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>קבוצת עבודה</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>שרתי WINS</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>יצירת רשת חלונות</string>
+			</dict>
+		</array>
+	</dict>
+	<key>WWAN</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>משווק, APN, cid</string>
+				<key>title</key>
+				<string>חשבון וסיסמה של WWAN</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>מצב WWAN</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>התחבר או התנתק מ-WWAN</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Wi-Fi</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>שם רשת</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>שורת תפריטים</string>
+				<key>title</key>
+				<string>הצג מצב תקשורת אלחוטית בשורת התפריטים</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>AirPort</string>
+				<key>title</key>
+				<string>הצטרפות לרשת אלחוטית</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>אלחוטית, 802.11, אלחוטי, wi-fi, AirPort</string>
+				<key>title</key>
+				<string>אינטרנט אלחוטי</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

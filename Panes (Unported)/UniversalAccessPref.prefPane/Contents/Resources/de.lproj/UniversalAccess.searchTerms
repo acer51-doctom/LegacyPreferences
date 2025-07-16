@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Accessibility_Shortcut</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Bedienungshilfen-Kurzbefehl, Bedienungshilfen, Kurzbefehl</string>
+				<key>title</key>
+				<string>Bedienungshilfen-Kurzbefehl</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Alternate_Pointer_Actions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>klicken, Maus, Schalter, alternativ, Taste, Maustasten, Ausdruck, Geste, Gesicht</string>
+				<key>title</key>
+				<string>Alternative Mauszeigeraktionen</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Captioning</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>CC, UT, Erweiterte Untertitel, Mit erweiterten Untertiteln, Untertitel für Gehörlose und Gehörgeschädigte, taub, Hören, Filme, Untertitel, Textspur</string>
+				<key>title</key>
+				<string>CC, UT und Untertitel aktivieren</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>CC, SDH, UT, Erweiterte Untertitel, Mit erweiterten Untertiteln, Untertitel für Gehörlose und Gehörgeschädigte, taub, Hören, Filme, Untertitel, Textspur</string>
+				<key>title</key>
+				<string>CC, UT und Untertitel anpassen</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Dictation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Universal, Zugang, Bedienungshilfen, behindert, Behinderte, Sicht, blind, Sehvermögen, sichtbar, Hören, beeinträchtigt, sprechen, sprechbar, Objekt, gesprochen, Befehle, Objekte, erkennen, Erkennung, unterstützen, Hilfsmittel, Sprache, Stimmen, kalibrieren, Kalibrierung, zuhören, Taste, Kurzbefehle, anpassen, Mikrofon, Lautstärke, sprechen, Erkennen, Sprechen, Hören, angepasst, Anpassung, Diktat, Sprachsteuerung</string>
+				<key>title</key>
+				<string>Sprachsteuerung</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Dwell</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Verweilen, Verweilsteuerung, Bildschirmtastatur, virtuelle Tastatur, Bedienungshilfentastatur, Maus, Schweben mit der Maus, Head-Tracking, Kopfsteuerung, universal, Zugriff, Zugänglichkeit, deaktiviert, behindert, beeinträchtigt, Bedienungshilfe, Mobilität, Rollstuhl</string>
+				<key>title</key>
+				<string>Verweilsteuerung für Bedienungshilfentastatur</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Full_Keyboard_Access</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Tastatur, Steuerung, Bedienung, Navigation, Befehle, Tab</string>
+				<key>title</key>
+				<string>Tastatursteuerung</string>
+			</dict>
+		</array>
+	</dict>
+	<key>General</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Universal, Zugriff, Zugänglichkeit, behindert, Handicap, eingeschränkt, beeinträchtigt, unterstützend, einfach, anpassen, Anpassungen, angepasst, tippen</string>
+				<key>title</key>
+				<string>Allgemeine Einstellungen für Bedienungshilfen</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Head_Pointer</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Kopf, Gesicht, Maus, Erfassung</string>
+				<key>title</key>
+				<string>Kopfzeiger</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Hearing</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Universal, Zugang, Bedienungshilfen, behindert, Behinderte, begrenzt, taub, hören, Hören, beeinträchtigt, Hilfsmittel</string>
+				<key>title</key>
+				<string>Bildschirm bei Hinweisen blinken lassen</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>Universal, Zugang, Bedienungshilfen, behindert, Behinderte, begrenzt, taub, hören, Hören, beeinträchtigt, Hilfsmittel</string>
+				<key>title</key>
+				<string>Stereo als Mono wiedergeben</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Keyboard</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Universal, Zugang, Bedienungshilfen, behindert, Behinderte, begrenzt, wechseln, beeinträchtigt, langsam, Hilfsmittel, einfach, Einfingerbedienung, Wiederholrate, Sondertaste, Empfindlichkeit, anpassen, Anpassungen, eingeben, langsamer, verlangsamen, einstellen, Eingabe</string>
+				<key>title</key>
+				<string>Tastaturbedienung vereinfachen</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Universal, Zugriff, Zugänglichkeit, behindert, Handicap, eingeschränkt, beeinträchtigt, unterstützend, Sondertaste, bewerten, eingeben, Feedback eingeben</string>
+				<key>title</key>
+				<string>Eingabefeedback aktivieren</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Media_Descriptions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Universal, Zugang, Bedienungshilfen, behindert, Behinderte, blind, Sicht, hören, Sehvermögen, sichtbar, beeinträchtigt, Video, Medien, Beschreibungen, beschreiben, beschrieben</string>
+				<key>title</key>
+				<string>Medienbeschreibungen</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Mouse</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Zugriff, Zugänglichkeit, anpassen, Anpassung, Anpassungen, Hilfsmittel, Cursor, Verzögerung, behindert, doppelklicken, Doppelklick, ziehen, einfach, schnell, benachteiligt, haptisch, haptisches Feedback, beeinträchtigt, Trägheit, Tastatur, Tastenblock, Tasten, beschränkt, Schloss, bewegen, bewegt, numerisch, Zeiger, scrollen, blättern, verlangsamen, langsamer, langsam, Tempo, aufspringend, Schalter, drei Finger, mit drei Fingern bewegen, Bedienungshilfen, Tastaturmausbedienung, Mausbedienung</string>
+				<key>title</key>
+				<string>Maus- und Trackpad-Bedienung vereinfachen</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Scrollen deaktivieren</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Nachlauf beim Scrollen</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_ColorFilters</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Farbe, Filter, farbenblind</string>
+				<key>title</key>
+				<string>Farbfilter anzeigen</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_Cursor</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Cursor, Zeiger, Pfeil, vergrößern, größer, erweitert, erweitern, Erweiterung, Vergrößerung</string>
+				<key>title</key>
+				<string>Mauszeigergröße</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>Auswahl, Zeiger, Maus, Trackpad, schütteln, wackeln</string>
+				<key>title</key>
+				<string>Schüttele den Mauszeiger, um ihn zu finden</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_Display</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Universal, Zugriff, Zugänglichkeit, behindert, Handicap, eingeschränkt, blind, Sehen, Sehfähigkeit, sichtbar, beeinträchtigt, lesen, sehen, verbessern, Kontrast, schwarz, weiß, Graustufe, Anpassungen, lesen, sehen, betrachten, verbessern, anpassen, Graustufe, Bewegung reduzieren, Transparenz reduzieren, Transparenz, transparent, Durchsichtigkeit, durchsichtig, unscharf, Hintergrund, Farbe</string>
+				<key>title</key>
+				<string>Displayanzeige verbessern</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_VoiceOver</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>gesprochen, Interface, hören, Bildschirm, Leser, Universal, Zugang, Bedienungshilfen, behindert, Behinderte, begrenzt, blind, Sicht, Vision, sichtbar, beeinträchtigt, Voice-over</string>
+				<key>title</key>
+				<string>VoiceOver ein- und ausschalten</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Menüleiste</string>
+				<key>title</key>
+				<string>Bedienungshilfen in der Menüleiste einblenden</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_Zoom</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>touchbar, touch bar, zoomen, vergrößert, vergrößern, Lupe, Zoom, größer</string>
+				<key>title</key>
+				<string>Touch Bar-Zoom aktivieren</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Universal, Zugang, Bedienungshilfen, behindert, Behinderte, begrenzt, blind, Sicht, Vision, sichtbar, beeinträchtigt, größer, vergrößern, Vergrößerung, lesen, sehen, anzeigen, erhöhen, verringern, Maximum, Minimum, scrollen, Maus, Rad, Kugel, Scrollball, Scrollrad, Mausball, Mausrad, Zoomen, erweiterten, Erweiterung, vergrößert, betrachten, Erhöhung, Verringerung, schwebender Text</string>
+				<key>title</key>
+				<string>Schwebenden Text aktivieren</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Universal, Zugang, Bedienungshilfen, behindert, Behinderte, begrenzt, blind, Sicht, Vision, sichtbar, beeinträchtigt, größer, vergrößern, Vergrößerung, lesen, sehen, anzeigen, erhöhen, verringern, Maximum, Minimum, scrollen, Maus, Rad, Kugel, Scrollball, Scrollrad, Mausball, Mausrad, Zoomen, erweiterten, Erweiterung, vergrößert, betrachten, Erhöhung, Verringerung, Displays, Monitore, zweiter, mehrere, Bildschirme</string>
+				<key>title</key>
+				<string>Zum Vergrößern des Bildschirms zoomen</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Siri</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>tippen, eingeben, Siri-Anfragen tippen, Siri tippen</string>
+				<key>title</key>
+				<string>Siri-Anfragen tippen</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Switch</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Panel, Paneleditor, Bereich, Bereichseditor, Scan, scannen, schalten, Schalter, Bedienungshilfen, Zugriff, Barrierefreiheit, behindert, beeinträchtigt, versehrt, Bedienungshilfe, Mobilität, Rollstuhl</string>
+				<key>title</key>
+				<string>Paneleditor für Schaltersteuerung</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Scan, scannen, schalten, Schalter, Bedienungshilfen, Zugriff, Barrierefreiheit, behindert, handicapped, versehrt, AssistiveControl, Mobilität, Rollstuhl</string>
+				<key>title</key>
+				<string>Schaltersteuerung aktivieren</string>
+			</dict>
+		</array>
+	</dict>
+	<key>TextToSpeech</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Sprache, Synthese, TTS, gesprochene Ankündigungen, Text vorlesen, Stimme, Vorlesetempo, Vorgelesene Warnungen</string>
+				<key>title</key>
+				<string>Sprache</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Virtual_Keyboard</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Panel, Paneleditor, Bereich, Bereichseditor, Tastatur, Bildschirmtastatur, virtuelle Tastatur, Bedienungshilfentastatur, Maus, Head-Tracking, Kopfsteuerung, universal, Zugriff, Zugänglichkeit, deaktiviert, behindert, beeinträchtigt, Bedienungshilfe, Mobilität, Rollstuhl</string>
+				<key>title</key>
+				<string>Paneleditor „Bedienungshilfentastatur“</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Tastatur, Bildschirmtastatur, virtuelle Tastatur, Maus, Head-Tracking, Kopfsteuerung, universal, Zugriff, Zugänglichkeit, deaktiviert, behindert, beeinträchtigt, Bedienungshilfe, Mobilität, Rollstuhl, Login, anmelden</string>
+				<key>title</key>
+				<string>Bedienungshilfentastatur aktivieren</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

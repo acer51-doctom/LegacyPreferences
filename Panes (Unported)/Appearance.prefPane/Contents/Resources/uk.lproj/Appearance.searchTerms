@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+        <key>Handoff</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>comments</key>
+                    <string>Локалізовувані індексні слова</string>
+                    <key>index</key>
+                    <string>безперервність, продовжити, діяльність, продовження, передавання, hand off, handoff</string>
+                    <key>title</key>
+                    <string>Дозволити Handoff</string>
+                </dict>
+            </array>
+        </dict>
+		<key>Main</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Локалізовувані індексні слова</string>
+					<key>index</key>
+					<string>вибрано, виділено, вибраний, текст, вибране, виділити, виділяти, виділяння, вигляд</string>
+					<key>title</key>
+					<string>Колір виділення</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Локалізовувані індексні слова</string>
+					<key>index</key>
+					<string>Меню Apple, програми, документи, сервери</string>
+					<key>title</key>
+					<string>Кількість останніх елементів</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Локалізовувані індексні слова</string>
+					<key>index</key>
+					<string>робочий стіл, настроювати, настроїти, персоналізувати, настроювання, персоналізація, вкладка, вкладки, вигляд</string>
+					<key>title</key>
+					<string>Вигляд кнопок, меню, вікон</string>
+				</dict>
+
+				<dict>
+					<key>comments</key>
+					<string>Локалізовувані індексні слова</string>
+					<key>index</key>
+					<string>робочий стіл, настроювати, настроїти, персоналізувати, настроювання, авто, персоналізація, вигляд, світлий, темний, тема, режим, темний режим</string>
+					<key>title</key>
+					<string>Вигляд</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Локалізовувані індексні слова</string>
+					<key>index</key>
+					<string>кнопка, вибране, меню, вигляд, колір</string>
+					<key>title</key>
+					<string>Колірний акцент</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Локалізовувані індексні слова</string>
+					<key>index</key>
+					<string>редагування, зміни, зберегти, закрити, завершити, документ, файл</string>
+					<key>title</key>
+					<string>Зберегти зміни</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Локалізовувані індексні слова</string>
+					<key>index</key>
+					<string>вікно, стрибати, прокручування, перестрибування</string>
+					<key>title</key>
+					<string>Поведінка смуги прокручування</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Локалізовувані індексні слова</string>
+					<key>index</key>
+					<string>іконка, бокова, панель, розмір, бокова панель</string>
+					<key>title</key>
+					<string>Іконки бокової панелі</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Локалізовувані індексні слова</string>
+					<key>index</key>
+					<string>вийти, вихід, завершити, завершення, відкрити, відкрити знову, запустити, перезапустити, перезапуск, відкривання, відновити, відновлення, вибрані вкладки</string>
+					<key>title</key>
+					<string>Закрити і відновити вікна</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Локалізовувані індексні слова</string>
+					<key>index</key>
+					<string>Safari, http, https, surf, www, вебсайт, веб сайт, вебсторінка, веб сторінка, веб-сторінка</string>
+					<key>title</key>
+					<string>Задати основний веббраузер</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+</plist>

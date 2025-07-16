@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loginOptionsPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>यूज़र, लॉग, साइन, लॉगइन, लॉग ऑन, साइन इन, साइन ऑन, छिपाएँ, दिखाएँ, स्टार्टअप, शटडाउन करें, रीस्टार्ट करें, स्लीप, बटन, VoiceOver, बोली, बोलें, इनपुट, विधि, मोड, मेनू, पासवर्ड, संकेत, शुरू, बंद, नीचे, वॉइस, ऑवर, पास, शब्द, ऊपर, लॉगइन किया जा रहा है, लॉगऑन, साइनइन किया जा रहा है, साइनइन, साइनऑन, छिपाया जा रहा है, दिखाया जा रहा है, बोला जा रहा है</string>
+				<key>title</key>
+				<string>लॉगइन विंडो सेटिंग्ज़</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>यूज़र, तेज़, लॉग, साइन, लॉगइन, लॉग ऑन, साइन इन, साइन ऑन, लॉग आउट, लॉग ऑफ़, साइन आउट, साइन ऑफ़, स्विच किया जा रहा है, लॉगइन किया जा रहा है, लॉगइन, लॉगऑन, लॉगआउट, लॉगऑफ़, साइनइन किया जा रहा है, साइनइन, साइनऑन, साइनआउट, साइनऑफ़</string>
+				<key>title</key>
+				<string>खातों के बीच स्विच करें</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>साइन, साइन ऑन, लॉग ऑन, ऑटोमेट, ऑटोमेट किया जा रहा है, ऑटोमेशन, लॉगइन किया जा रहा है, लॉगइन, लॉगऑन, साइन इन किया जा रहा है, साइनइन, साइनऑन</string>
+				<key>title</key>
+				<string>ऑटोमैटिकली लॉगइन करें</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>सक्रिय, ldap, खुला, सर्वर, active directory, open directory</string>
+				<key>title</key>
+				<string>डाइरेक्टरी सेवाएँ</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>यूज़र, लॉग, साइन, लॉगइन, लॉग ऑन, साइन इन, साइन ऑन, लॉगइन किया जा रहा है, लॉगऑन, साइनइन किया जा रहा है, साइनइन, साइनऑन</string>
+				<key>title</key>
+				<string>लॉगइन विकल्प</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>नेटवर्क खाता सर्वर</string>
+			</dict>
+		</array>
+	</dict>
+	<key>mobilityPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array/>
+	</dict>
+	<key>passwordPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>अतिथि, शेयर करें, बड़ा, छोटा, नाम, प्रमाणित करें, पासवर्ड, filevault, शेयर किया जा रहा है, पास, शब्द, प्रमाणित किया जा रहा है, प्रमाणन, फ़ाइल, वॉल्ट</string>
+				<key>title</key>
+				<string>यूज़र या समूह खाता</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>फ़ोटोग्राफ़, तस्वीरें, फ़ोटो</string>
+				<key>title</key>
+				<string>यूज़र तस्वीर</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>यूज़र, खाते, बड़ा, छोटा, नाम, प्रमाणित करें, लॉग, साइन, लॉगइन, लॉग ऑन, साइन इन, साइन ऑन, बदलें, व्यवस्थापन करें, पास, शब्द, प्रमाणित किया जा रहा है, प्रमाणित किया जा रहा है, लॉगइन किया जा रहा है, लॉगऑन, साइन इन किया जा रहा है, साइन इन, साइनऑन, बदला जा रहा है</string>
+				<key>title</key>
+				<string>लॉगइन नाम और पासवर्ड</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>vcard, कार्ड</string>
+				<key>title</key>
+				<string>संपर्क</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>प्रबंधित करें, व्यवस्थापन करें, प्रबंधित किया जा रहा है, व्यवस्थापन किया जा रहा है</string>
+				<key>title</key>
+				<string>ऐडमिनिस्ट्रेटर खाता</string>
+			</dict>
+		</array>
+	</dict>
+	<key>startupItemsPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>ऑटोमैटिक, ऑटोमेट, लॉग, साइन, लॉगइन, लॉग ऑन, साइन इन, साइन ऑन, शुरू, ऊपर, ऑटोमैटिकली, ऑटोमेट किया गया, ऑटोमेट किया जा रहा है, ऑटोमेशन, शुरू किया जा रहा है, लॉगइन किया जा रहा है, लॉग ऑन, साइन इन किया जा रहा है, साइनइन, साइनऑन</string>
+				<key>title</key>
+				<string>लॉगइन पर ऐप्लिकेशन खोलें</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>लॉग, साइन, लॉगइन, लॉग ऑन, साइन इन, साइन ऑन, शुरू, ऊपर, शुरू किया जा रहा है, लॉगइन किया जा रहा है, लॉगऑन, साइनइन किया जा रहा है, साइनइन, साइनऑन</string>
+				<key>title</key>
+				<string>लॉगइन आइटम</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

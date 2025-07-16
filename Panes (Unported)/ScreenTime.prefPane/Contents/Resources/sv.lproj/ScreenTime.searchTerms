@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>AlwaysAllowed</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokaliserbara indexord</string>
+                <key>index</key>
+                <string>skärm, tid, alltid, tillåt, gräns, familj, föräldrar, förälder, kontroll, säkerhet, integritet, trygghet, barn, ungar, begränsa, hantera, timer, tidsgräns, läggdags, sluttid, begränsning, hantering, övervaka, spåra</string>
+                <key>title</key>
+                <string>Välj alltid tillåtna appar i Skärmtid</string>
+            </dict>
+        </array>
+    </dict>
+    <key>CommunicationLimit</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokaliserbara indexord</string>
+                <key>index</key>
+                <string>skärm, tid, kommunikation, kontakt, telefon, textmeddelande, FaceTime, SMS, gräns, lägga till, skapa, använda, familj, föräldrar, förälder, kontroll, säkerhet, integritet, trygghet, barn, ungar, begränsa, hantera, timer, tidsgräns, läggdags, sluttid, begränsning, hantering</string>
+                <key>title</key>
+                <string>Ställ in kommunikationsgränser i Skärmtid</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>skärm, tid, kommunikation, kontakt, telefon, textmeddelande, FaceTime, SMS, gräns, lägga till, skapa, använda, familj, föräldrar, förälder, kontroll, säkerhet, integritet, trygghet, barn, ungar, begränsa, hantera, timer, tidsgräns, läggdags, sluttid, begränsning, hantering</string>
+                <key>title</key>
+                <string>Ändra kommunikationsgränser i Skärmtid</string>
+            </dict>
+        </array>
+    </dict>
+    <key>ContentAndPrivacy</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokaliserbara indexord</string>
+                <key>index</key>
+                <string>skärm, tid, alltid, tillåt, gräns, familj, föräldrar, förälder, kontroll, säkerhet, integritet, trygghet, barn, ungar, begränsa, timer, tidsgräns, läggdags, sluttid, begränsning, hantering, hantera, ordlista, olämpligt, svordom, svära, kraftuttryck, explicit, dålig, språk, obscent, snusk, ord, porr, pornografi, svordom, vulgär, filtrerat, filtrering, ofiltrerat, utan filter</string>
+                <key>title</key>
+                <string>Välj inställningar för innehåll och integritet i Skärmtid</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>skärm, tid, förälder, kontroll, gränser, begränsningar, explicit, vuxet, innehåll, webbplatser, barn, begränsa</string>
+                <key>title</key>
+                <string>Begränsa vuxet innehåll</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyNotifications</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokaliserbara indexord</string>
+                <key>index</key>
+                <string>skärm, tid, dag, daglig, användning, notiser</string>
+                <key>title</key>
+                <string>Visa daglig rapport om notiser i Skärmtid</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyPickups</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokaliserbara indexord</string>
+                <key>index</key>
+                <string>skärm, tid, dag, dagliga, väckningar</string>
+                <key>title</key>
+                <string>Visa daglig rapport om enhetsväckningar i Skärmtid</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyUsage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokaliserbara indexord</string>
+                <key>index</key>
+                <string>skärm, tid, vecka, veckovis, användning, rapport, övervaka, spåra, barn, program, appar</string>
+                <key>title</key>
+                <string>Visa daglig rapport om appanvändning i Skärmtid</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Downtime</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokaliserbara indexord</string>
+                <key>index</key>
+                <string>skärm, tid, användning, gräns, skärmfri tid, familj, föräldrar, förälder, kontroller, säkerhet, integritet, privat, barn, ungar, begränsa, hantera, timer, läggdags, skola, kvällar, tidsgräns, begränsning, hantering</string>
+                <key>title</key>
+                <string>Schemalägg skärmfri tid i Skärmtid</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Options</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokaliserbara indexord</string>
+                <key>index</key>
+                <string>skärm, tid, inställning, alternativ, gräns, familj, föräldrar, förälder, kontroll, säkerhet, trygghet, barn, ungar, begränsa, hantera, timer, tidsgräns, läggdags, sluttid, begränsning, hantering</string>
+                <key>title</key>
+                <string>Slå på eller stäng av Skärmtid</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>skärm, förälder, kontroll, alternativ, begränsning, begränsningar, lösenord, lösenkod</string>
+                <key>title</key>
+                <string>Ställ in lösenkod för Skärmtid</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Requests</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokaliserbara indexord</string>
+                <key>index</key>
+                <string>skärm, tid, förfrågan, alltid, tillåt, tillåta, godkänna, neka, gräns, familj, föräldrar, förälder, kontroll, säkerhet, integritet, trygghet, barn, ungar, begränsa, hantera, timer, tidsgräns, läggdags, sluttid, begränsning, hantering</string>
+                <key>title</key>
+                <string>Visa begäranden om skärmtid</string>
+            </dict>
+        </array>
+    </dict>
+    <key>ViewUsageLimit</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokaliserbara indexord</string>
+                <key>index</key>
+                <string>skärm, tid, användning, app, gräns, lägga till, skapa, använda, familj, föräldrar, förälder, kontroll, säkerhet, integritet, trygghet, barn, ungar, begränsa, hantera, timer, tidsgräns, läggdags, sluttid, begränsning, hantering</string>
+                <key>title</key>
+                <string>Välj appbegränsningar i Skärmtid</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyNotifications</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokaliserbara indexord</string>
+                <key>index</key>
+                <string>skärm, tid, vecka, veckovis, användning, notiser, förälder, kontroll</string>
+                <key>title</key>
+                <string>Visa veckovis rapport om notiser i Skärmtid</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyPickups</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokaliserbara indexord</string>
+                <key>index</key>
+                <string>skärm, tid, vecka, veckovis, väckningar, förälder, kontroll</string>
+                <key>title</key>
+                <string>Visa veckovis rapport om enhetsväckningar i Skärmtid</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyUsage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokaliserbara indexord</string>
+                <key>index</key>
+                <string>skärm, tid, vecka, veckovis, användning, rapport, övervaka, spåra, barn, program, appar, förälder, kontroll</string>
+                <key>title</key>
+                <string>Visa veckovis rapport om appanvändning i Skärmtid</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

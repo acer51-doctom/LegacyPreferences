@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DesktopPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Fotografien, Hintergrund, Schreibtisch, Wallpaper, Muster, Anpassen, Fotos, Bilder, Hintergründe, Wand, Papier, Angepasst, Anpassung</string>
+				<key>title</key>
+				<string>Schreibtisch-Hintergrund</string>
+			</dict>
+		</array>
+	</dict>
+	<key>ScreenSaverPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>deaktivieren, Start, Alben, iTunes, Kunst, Zufall, fotografien, Bilder, Anpassen, Bildschirmschoner, Fotos, deaktivieren, starten, angepasst, anpassen, Anpassung</string>
+				<key>title</key>
+				<string>Bildschirmschoner</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Bildschirmschoner mit Uhr anzeigen</string>
+			</dict>
+		</array>
+	</dict>
+	<key>ScreenSaverPref_HotCorners</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>aktive Ecken auf dem Bildschirm</string>
+				<key>title</key>
+				<string>Aktive Ecken</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

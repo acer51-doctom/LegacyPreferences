@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>InputSources</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>方法, method, 菜单栏, menubar</string>
+				<key>title</key>
+				<string>在菜单栏中显示输入法菜单, Show input menu in menu bar</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>键入, type, typing, 源, sources, 标准键盘, Qwerty, Pro, PC, 标准, Standard, ISO, ANSI, JIS, 扩展, Extended, 德沃夏克文, Dvorak, 阿富汗文, Afghan, 阿拉伯文, Arabic, 亚美尼亚文, Armenian, 奥地利文, Austrian, 阿塞拜疆文, Azeri, 比利时文, Belgian, 巴西文, Brazilian, 英式英文, British, 保加利亚文, Bulgarian, 白俄罗斯文, Byelorussian, 加拿大文, Canadian, 切罗基文, Cherokee, 克罗地亚文, Croatian, 捷克文, Czech, 丹麦文, Danish, 天城文, Devanagari, 荷兰文, Dutch, 爱沙尼亚文, Estonian, 法罗文, Faroese, 芬兰文, Finnish, 法文, French, 德文, German, 希腊文, Greek, 古吉拉特文, Gujarati, 古木基文, Gurmukhi, 夏威夷文, Hawaiian, 希伯来文, Hebrew, 匈牙利文, Hungarian, 冰岛文, Icelandic, 因纽特文, Inuktitut, 爱尔兰文, Irish, 意大利文, Italian, 爪哇文, Jawi, 哈萨克文, Kazakh, 拉脱维亚文, Latvian, 立陶宛文, Lithuanian, 马其顿文, Macedonian, 马耳他文, Maltese, 毛利文, Maori, 尼泊尔文, Nepali, 萨米文, Sami, 挪威文, Norwegian, 波斯文, Persian, 波兰文, Polish, 葡萄牙文, Portuguese, 罗马文, Romanian, 俄文, Russian, 塞尔维亚文, Serbian, 斯洛伐克文, Slovak, 斯洛文尼亚文, Slovenian, 西班牙文, Spanish, 瑞典文, Swedish, 瑞士文, Swiss, 泰文, Thai, 藏文, Tibetan, 土耳其文, Turkish, 美式英文, U.S., 维吾尔文, Uighur, 乌克兰文, Ukrainian, Unicode, 十六进制, Hex, 越南文, Vietnamese, 威尔士文, Welsh</string>
+				<key>title</key>
+				<string>键盘布局, Keyboard layouts</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>主, main, 语言, languages, 模式, mode, 源, sources, 多语言, international, 外国, foreign, 字符, characters, Unicode, 日文, Japanese, 平假名, Kotoeri, Hiragana, 片假名, Katakana, 罗马字, Romaji, 阿伊努文, Ainu, 中文, Chinese, 繁体, Traditional, 汉音, Hanin, 简体, Simplified, 五笔, Wubi, 韩文, Korean, Hangul, 越南文, Vietnamese, 电报, Telex, 泰米尔文, Tamil, Anjal</string>
+				<key>title</key>
+				<string>语言输入方式, Language input methods</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>调板, palette, 符号, symbol, symbols, 查看器, viewer, 字符, character, characters, Unicode, 日文, Japanese, Kana, 源, sources, 键帽, Keycaps, Key caps, 键, keys, 标点符号, punctuation</string>
+				<key>title</key>
+				<string>调板, Palettes</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>输入, input, 源, source, 文稿, document</string>
+				<key>title</key>
+				<string>所有文稿使用一个输入法, Use one input source in all documents</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>输入, input, 源, source, 文稿, document</string>
+				<key>title</key>
+				<string>允许每个文稿使用不同的输入法, Allow a different input source for each document</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Text</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>部分, fractions, 替换, replace, replacing, substitute, substituting, 快捷键, shortcuts</string>
+				<key>title</key>
+				<string>符号和自定义短语, Symbol and text substitution</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>语言, language, 拼写检查, spell check, spell checking, 自动纠正, autocorrect, 纠正拼写, correct spelling, 大小写, case, 间距, spacing</string>
+				<key>title</key>
+				<string>拼写, Spelling</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>键入建议, typing suggestions, 快速输入, quicktype, quick type, 预测键入, predictive typing, 预测文本, predictive text, 触控栏, multi-touch bar, multitouchbar, 条, bar</string>
+				<key>title</key>
+				<string>触控栏键入建议, Multi-Touch Bar typing suggestions</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>智能引号, smart quotes, 引号, quotes, 破折号, dashes</string>
+				<key>title</key>
+				<string>使用智能引号和破折号, Use smart quotes and dashes</string>
+			</dict>
+		</array>
+	</dict>
+	<key>keyboardTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>蓝牙, Bluetooth, 键盘, keyboard, 设备, devices</string>
+				<key>title</key>
+				<string>设置蓝牙键盘, Set up Bluetooth keyboard</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>键, 按键, keys, 延迟, delay, delaying, 按键重复, key repeat, 重复, repeat, repeating, 重音符, accent, 响应, response, 功能键, function, Fn, F1, F2, F3, F4, F5, F6, F7, F8, F9, F10, F11, F12, 速率, rate, 键入, type, typing</string>
+				<key>title</key>
+				<string>键盘灵敏度, Keyboard sensitivity</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>看见, 看到, see, 视觉, 视力, vision, 黑暗, 黑, dark, 低亮度, low light, 暗, 灰色, dim, 夜晚, 晚上, night, 键入, type, 看, seeing, 照明, illuminating, illuminated, 键入, typing, 亮度, brightness, 调整, adjust, 自动, automatically, 背光, backlight, backlit</string>
+				<key>title</key>
+				<string>照明键盘, Illuminate keyboard</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>触控栏, multi-touch bar, multitouchbar, 条, bar, 功能栏, control strip, strip, 功能键, Fn, function keys, 自定, customize, 个性化, personalize</string>
+				<key>title</key>
+				<string>自定触控栏或功能栏, Customize Multi-Touch Bar or Control Strip</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>菜单栏, menubar, 调板, palettes, 符号, symbol, 表情符号, emoji, 虚拟键盘, keyboard viewer</string>
+				<key>title</key>
+				<string>在菜单栏中显示虚拟键盘及表情检视器, Show keyboard and emoji viewers in menu bar</string>
+			</dict>
+		</array>
+	</dict>
+	<key>keyboardTab_ModifierKeys</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>大写锁定, 大写锁定键, Caps Lock, Control键, Control, Option键, Option, Command键, Command</string>
+				<key>title</key>
+				<string>重设修饰键, Reset modifier keys</string>
+			</dict>
+		</array>
+	</dict>
+	<key>shortcutsTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>快捷键, short cuts, 启动台, Launchpad, 程序坞, Dock, 调度中心, Mission Control, 屏幕快照, 截屏, screen shot, screen shots, screenshot, screenshots, 服务, Services, 聚焦, Spotlight, 辅助功能, Accessibility, 全键盘控制, full keyboard access, 输入法, input sources, 应用, app, 功能键, function keys, 触控栏, multi-touch bar, multitouchbar, 条, bar</string>
+				<key>title</key>
+				<string>键盘快捷键, Keyboard shortcuts</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Dictation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>听写, dictate, dictation, 听写中, dictating, 听, listen, listening, 语言, language, 麦克风, microphone, 识别, recognize, recognition, recognizing, 朗读, speak, speaking, 语音, speech, 快捷键, shortcuts, 说话, talking</string>
+				<key>title</key>
+				<string>听写, Dictation</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

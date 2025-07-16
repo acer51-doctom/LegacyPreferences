@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>StartupSearchGroup</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>start 起動 スタート 開始, boot ブート, up アップ, initial 初期, hard ハード, disc ディスク デスク, drive ドライブ, volume ボリューム, system システム, netboot ネットブート, starting スターティング</string>
+				<key>title</key>
+				<string>起動ディスク</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>disc ディスク, FireWire, fire wire ファイヤワイヤ ファイヤワイヤー ファイヤーワイヤ ファイヤーワイヤー ファイアワイヤ  ファイアーワイヤー</string>
+				<key>title</key>
+				<string>ターゲットディスクモード</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

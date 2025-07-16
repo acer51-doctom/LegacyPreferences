@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>WPAD</key>
+	<dict>
+		<key>description</key>
+		<string>Auto Proxy Discovery</string>
+		<key>tab</key>
+		<integer>1</integer>
+	</dict>
+	<key>AUTO</key>
+	<dict>
+		<key>description</key>
+		<string>Automatic Proxy Configuration</string>
+		<key>tab</key>
+		<integer>3</integer>
+		<key>title</key>
+		<string>Proxy Configuration File</string>
+	</dict>
+	<key>FTP</key>
+	<dict>
+		<key>description</key>
+		<string>FTP Proxy</string>
+		<key>tab</key>
+		<integer>2</integer>
+		<key>title</key>
+		<string>FTP Proxy Server</string>
+	</dict>
+	<key>Gopher</key>
+	<dict>
+		<key>description</key>
+		<string>Gopher Proxy</string>
+		<key>tab</key>
+		<integer>2</integer>
+		<key>title</key>
+		<string>Gopher Proxy Server</string>
+	</dict>
+	<key>HTTP</key>
+	<dict>
+		<key>description</key>
+		<string>Web Proxy (HTTP)</string>
+		<key>tab</key>
+		<integer>2</integer>
+		<key>title</key>
+		<string>Web Proxy Server</string>
+	</dict>
+	<key>HTTPS</key>
+	<dict>
+		<key>description</key>
+		<string>Secure Web Proxy (HTTPS)</string>
+		<key>tab</key>
+		<integer>2</integer>
+		<key>title</key>
+		<string>Secure Web Proxy Server</string>
+	</dict>
+	<key>RTSP</key>
+	<dict>
+		<key>description</key>
+		<string>Streaming Proxy (RTSP)</string>
+		<key>tab</key>
+		<integer>2</integer>
+		<key>title</key>
+		<string>Streaming Proxy Server</string>
+	</dict>
+	<key>SOCKS</key>
+	<dict>
+		<key>description</key>
+		<string>SOCKS Proxy</string>
+		<key>tab</key>
+		<integer>2</integer>
+		<key>title</key>
+		<string>SOCKS Proxy Server</string>
+	</dict>
+	<key>keys</key>
+	<array>
+		<string>WPAD</string>
+		<string>AUTO</string>
+		<string>HTTP</string>
+		<string>HTTPS</string>
+		<string>FTP</string>
+		<string>SOCKS</string>
+		<string>RTSP</string>
+		<string>Gopher</string>
+	</array>
+</dict>
+</plist>

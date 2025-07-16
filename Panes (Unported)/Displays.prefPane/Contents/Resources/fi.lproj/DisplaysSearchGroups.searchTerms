@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displaysArrangementTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>näytöt, monitorit, peili, peilattu, peilaaminen, järjestäminen, järjestys</string>
+				<key>title</key>
+				<string>Useiden näyttöjen järjestely</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>valikkorivi</string>
+				<key>title</key>
+				<string>Valikkorivin siirtäminen</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysColorTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>näytöt, monitorit, kalibroi, säädä, vaalenna, kirkasta, himmennä, tummenna, valkopiste, gamma, ympäristön valoisuus, profiilit, kalibroiminen, säätäminen, säädöt, himmentäminen</string>
+				<key>title</key>
+				<string>Näytön värit ja kalibrointi</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysDisplayTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>näytöt, monitorit, syvyys, miljoonia, tuhansia, 256, ColorSync, säädä, vaalenna, kirkasta, himmennä, tummenna, säätäminen, säädöt, himmentäminen, true tone</string>
+				<key>title</key>
+				<string>Värit, kirkkaus ja tarkkuus</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>näytöt, monitorit</string>
+				<key>title</key>
+				<string>Näytön virkistystaajuus</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>näytöt, monitorit</string>
+				<key>title</key>
+				<string>Useamman näytön tunnistaminen</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>valikkorivi</string>
+				<key>title</key>
+				<string>Näytä näytöt valikkorivillä</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>pyöritä, pyöritys</string>
+				<key>title</key>
+				<string>Näytön asento</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>AirPlay</string>
+				<key>title</key>
+				<string>AirPlay-peilausvalinnat</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysGeometryTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>sijainti, korkeus, leveys, tynnyri, pyöritä, käännä, trapetsi, kallistus, taipuma, kulmakäyrä, vinossa, geometria, mitat</string>
+				<key>title</key>
+				<string>Näytön kuva</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>rgb, säädä, tasaa, säätäminen, säätö, tasaaminen, tasaus</string>
+				<key>title</key>
+				<string>Kuvan konvergenssi</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>häiriö, nollaa, välke, välkkyminen, vilkkuu, vilkkuminen</string>
+				<key>title</key>
+				<string>Demagnetointi</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysNightShiftTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>night, shift, night shift, hämärä, lämmin, lämmin väri, kirjo, nukkuminen, lämpötila, auringonlasku, auringonnousu, himmentäminen</string>
+				<key>title</key>
+				<string>Night Shift -valinnat</string>
+			</dict>
+		</array>
+	</dict>
+	<key>universalControlTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>yleinen, yleiset, säätö, säätäminen</string>
+				<key>title</key>
+				<string>Universal Control</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>StartupSearchGroup</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbara indexord</string>
+				<key>index</key>
+				<string>start, uppstart, upp, initiell, hårddisk, skiva, enhet, volym, system, netboot, starta, startar</string>
+				<key>title</key>
+				<string>Startskiva</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbara indexord</string>
+				<key>index</key>
+				<string>skiva, FireWire, fire wire, hårddisk</string>
+				<key>title</key>
+				<string>Hårddiskläge</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

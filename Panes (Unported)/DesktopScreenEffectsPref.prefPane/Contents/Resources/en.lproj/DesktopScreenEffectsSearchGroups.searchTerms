@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DesktopPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Localizable index words</string>
+				<key>index</key>
+				<string>photographs, background, desktop, wallpaper, pattern, customize, photos, pictures, desk, top, wall, paper, customized, customizing, customization</string>
+				<key>title</key>
+				<string>Desktop picture</string>
+			</dict>
+		</array>
+	</dict>
+	<key>ScreenSaverPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Localizable index words</string>
+				<key>index</key>
+				<string>disable, start, album, iTunes, artwork, random, photographs, pictures, customize, screensavers, photos, disabling, starting, customized, customizing, customization</string>
+				<key>title</key>
+				<string>Screen saver</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Show clock with screen saver</string>
+			</dict>
+		</array>
+	</dict>
+	<key>ScreenSaverPref_HotCorners</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Localizable index words</string>
+				<key>index</key>
+				<string>active screen corners</string>
+				<key>title</key>
+				<string>Hot corners</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>
+

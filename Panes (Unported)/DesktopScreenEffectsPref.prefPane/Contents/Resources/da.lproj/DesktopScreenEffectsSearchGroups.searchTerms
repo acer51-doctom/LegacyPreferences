@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DesktopPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>fotografier, baggrund, skrivebord, tapet, mønster, tilpasse, fotos, billeder, skrive, bord, øverst, væg, papir, tilpasset, tilpasser, tilpasning</string>
+				<key>title</key>
+				<string>Skrivebordsbillede</string>
+			</dict>
+		</array>
+	</dict>
+	<key>ScreenSaverPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>slå fra, start, album, iTunes, billede, tilfældig, fotografier, billeder, tilpas, skærmskånere, fotos, deaktiver, start, tilpasset, tilpasse, tilpasning</string>
+				<key>title</key>
+				<string>Skærmskåner</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Vis ur med skærmskåner</string>
+			</dict>
+		</array>
+	</dict>
+	<key>ScreenSaverPref_HotCorners</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>aktive skærmhjørner</string>
+				<key>title</key>
+				<string>Aktive hjørner</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

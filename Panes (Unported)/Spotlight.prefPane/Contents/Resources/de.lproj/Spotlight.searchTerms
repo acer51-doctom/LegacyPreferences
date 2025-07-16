@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>privacy</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Privatsphäre, Datenschutz, schützen, verhindern, geheim, versteckt, geschützt, Schutz, Prävention, verhindert, gesperrt, blockiert</string>
+				<key>title</key>
+				<string>Durchsuchen privater Dateien blockieren</string>
+			</dict>
+		</array>
+	</dict>
+	<key>searchResults</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>finden, Ergebnisse, Treffer, Suche, suchen</string>
+				<key>title</key>
+				<string>Spotlight-Suchkategorien</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>Taste, Tastaturkurzbefehl, Kurzbefehl, Kombination</string>
+				<key>title</key>
+				<string>Spotlight-Kurzbefehle</string>
+			</dict>
+            <dict>
+                <key>comments</key>
+                <string>Lokalisierbare Indexwörter</string>
+                <key>index</key>
+                <string>nachschlagen, Nachschlagen</string>
+                <key>title</key>
+                <string>Spotlight-Vorschläge bei „Nachschlagen“</string>
+            </dict>
+		</array>
+	</dict>
+</dict>
+</plist>

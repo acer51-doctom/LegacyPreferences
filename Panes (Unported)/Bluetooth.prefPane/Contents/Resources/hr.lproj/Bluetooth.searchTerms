@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>bežično, detektiraj, otkrij, nađi, upari, dodaj, ukloni, podešavanje, asistent, tipkovnica, miš, mobitel, mobilni, telefon, slušalice, slušalice, uključeno, isključeno, odspoji, odvoji, blue, tooth, dodavanje, uklanjanje, odspajanje, odvajanje, otkrivanje, detektabilno, nalaženje</string>
+				<key>title</key>
+				<string>Bluetooth uređaji</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>blue, tooth, traka s izbornicima</string>
+				<key>title</key>
+				<string>Prikaži Bluetooth status u traci s izbornicima</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>blue, tooth</string>
+				<key>title</key>
+				<string>Bluetooth serijski portovi</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>blue, tooth, zvuk</string>
+				<key>title</key>
+				<string>Bluetooth audio</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Riječi indeksa koje se mogu lokalizirati</string>
+				<key>index</key>
+				<string>blue, tooth</string>
+				<key>title</key>
+				<string>Asistent za podešavanje Bluetootha</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

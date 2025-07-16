@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DesktopPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Palabras de índice localizables</string>
+				<key>index</key>
+				<string>fotografías, fondo, escritorio, fondo de escritorio, patrón, personalizar, fotos, imágenes, papel, personalizado, personalización</string>
+				<key>title</key>
+				<string>Imagen del escritorio</string>
+			</dict>
+		</array>
+	</dict>
+	<key>ScreenSaverPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Palabras de índice localizables</string>
+				<key>index</key>
+				<string>desactivar, iniciar, álbum, iTunes, ilustración, portada, aleatorio, fotografías, imágenes, personalizar, salvapantallas, fotos, desactivación, inicio, personalizado, personalizar, personalización</string>
+				<key>title</key>
+				<string>Salvapantallas</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Mostrar reloj con el salvapantallas</string>
+			</dict>
+		</array>
+	</dict>
+	<key>ScreenSaverPref_HotCorners</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Palabras de índice localizables</string>
+				<key>index</key>
+				<string>esquinas de la pantalla activas</string>
+				<key>title</key>
+				<string>Esquinas activas</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

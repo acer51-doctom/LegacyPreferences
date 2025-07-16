@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Advanced</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>infrared 赤外線, receiver レシーバ レシーバー 受信, IR, infra-red</string>
+				<key>title</key>
+				<string>リモートコントロールを無効にする</string>
+			</dict>
+		</array>
+	</dict>
+	<key>FDE</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>disk ディスク, encrypt エンクリプト 暗号 暗号化, encrypted, encrypting エンクリプティング, encryption エンクリプション, file vault, ファイルボールト, filevault</string>
+				<key>title</key>
+				<string>FileVault</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Firewall</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>prevent 防止 予防 防ぐ 防御, block ブロック 禁止, network ネットワーク, ports ポート, udp, file sharing ファイル 共有 ファイル共有, remote リモート, SSH エスエスエイチ, prevention, preventing, blocked, blocking, fire wall ファイアウォール ファイアーウォール ファイヤウォール ファイヤーウォール</string>
+				<key>title</key>
+				<string>ファイアウォールをオン/オフ</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>fire wall ファイアウォール ファイアーウォール ファイヤウォール ファイヤーウォール</string>
+				<key>title</key>
+				<string>ファイアウォールの詳細設定</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>stealthmode ステルスモード</string>
+				<key>title</key>
+				<string>ステルスモード</string>
+			</dict>
+		</array>
+	</dict>
+	<key>General</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+            <dict>
+                <key>comments</key>
+                <string>ローカライズ可能な索引の用語</string>
+                <key>index</key>
+                <string>apple watch アップルウォッチ, watch ウォッチ 時計 腕時計, unlock ロック解除 ロックの解除, approve 承認 許可</string>
+                <key>title</key>
+                <string>Apple WatchでこのMacのロックを解除できるようにする</string>
+            </dict>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>screen スクリーン 画面, saver セーバ セーバー, password パスワード, authenticate 認証 承認 オーセンティケート オーセンチケート, lock ロック, unlock アンロック ロック解除 解除, sleep スリープ, wake スリープ解除, screensaver スクリーンセーバ スクリーンセーバー, screen saver, pass word, authenticated, authenticating, authentication オーセンティケーション オーセンチケーション, locked, locking, unlocked, unlocking, sleeping, waking</string>
+				<key>title</key>
+				<string>コンピュータのスリープを解除するときにパスワードを要求</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>log ログ, sign サイン, on オン, in イン, automatic 自動 オート オートマチック オートマティック, logging ロギング, logon ログオン ログイン, signing サイニング, signin サインイン, signon サインオン</string>
+				<key>title</key>
+				<string>自動ログインを使用不可にする</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>lock ロック, unlock アンロック ロック解除 ロックを解除, locking, unlocking</string>
+				<key>title</key>
+				<string>システム環境設定をロック</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>sign サイン, off オフ, logging ログ ロギング, logoff ログオフ, logout ログアウト, signing サイニング,  signoff サインオフ, signout サインアウト</string>
+				<key>title</key>
+				<string>コンピュータが待機状態のときにログアウト</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>secure セキュア 安全 セキュリティ 保護, safe セーフ 安全 安心, safety セーフティ セーフティー, protect プロテクト 守る 保護する, protection プロテクション, secured, securing, protected, protecting</string>
+				<key>title</key>
+				<string>セキュリティ設定</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>画面をロック</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>Gatekeeper ゲートキーパー, gate ゲート, keeper キーパー, identified 識別された, developers デベロッパ, applications アプリケーション, downloads ダウンロード</string>
+				<key>title</key>
+				<string>Gatekeeper</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>private プライベート プライヴェート 個人 私的 私用, privacy プライバシー 個人情報</string>
+				<key>title</key>
+				<string>プライバシー設定</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Accessibility</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>accessibility アクセシビリティ  補助 アシスタント アシスト 介助 介護</string>
+				<key>title</key>
+				<string>アプリケーションにアクセシビリティの使用を許可</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_AllFiles</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Files ファイル</string>
+				<key>title</key>
+				<string>アプリケーションにすべてのユーザファイルへのアクセスを許可</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Assistive</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Universal ユニバーサル, access アクセス, accessibility アクセシビリティ, disabled 身体障害 身体障碍 身体障がい 障害者 障碍者 障がい者 不自由, handicapped ハンディキャップ ハンデキャップ, impaired 制限, assistive 補助 アシスタント アシスト 介助 介護, assistive control アシスティブコントロール, mobility 運動 モビリティ, wheelchair 車椅子 車いす 車イス</string>
+				<key>title</key>
+				<string>補助アプリケーションによるコンピュータの操作を許可</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Calendars</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Calendars カレンダー カレンダ 暦, dates 日付 日にち</string>
+				<key>title</key>
+				<string>アプリケーションにカレンダーへのアクセスを許可</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Camera</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>camera カメラ 写真 写真機 フォト, app アプリケーション プログラム ソフトウェア 応用ソフトウェア 応用プログラム アプリ, access アクセス 利用 使用 接続, private プライベート プライヴェート 個人 私的 私用, privacy プライバシー 個人情報</string>
+				<key>title</key>
+				<string>アプリケーションにカメラへのアクセスを許可</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Contacts</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>contact 連絡先 電話番号 メールアドレス, address アドレス 番地 住所, app アプリケーション プログラム ソフトウェア 応用ソフトウェア 応用プログラム アプリ, access アクセス 利用 使用 接続, private プライベート プライヴェート 個人 私的 私用, privacy プライバシー 個人情報</string>
+				<key>title</key>
+				<string>アプリケーションに連絡先へのアクセスを許可</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_SystemServices</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>location 位置情報 場所 ロケーション, service サービス, time 時間 時刻 タイム, zone 帯 ゾーン, access アクセス, ads 広告, find my mac macを探す, home ホーム, homekit ホームキット, spotlight スポットライト, privacy プライバシー 個人情報</string>
+				<key>title</key>
+				<string>システムサービスで位置情報の取得を許可</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_LocationServices</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>location 位置情報 位置 場所 ロケーション, service サービス アプリケーション 利用, app アプリケーション プログラム ソフトウェア 応用ソフトウェア 応用プログラム アプリ, access アクセス 利用 使用 接続, private プライベート プライヴェート 個人 私的 私用, privacy プライバシー 個人情報</string>
+				<key>title</key>
+				<string>アプリケーションに位置情報へのアクセスを許可</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Microphone</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>microphone mic マイク マイクロフォン マイクロフォーン, app アプリケーション プログラム ソフトウェア 応用ソフトウェア 応用プログラム アプリ, access アクセス 利用 使用 接続, private プライベート プライヴェート 個人 私的 私用, privacy プライバシー 個人情報</string>
+				<key>title</key>
+				<string>アプリケーションにマイクへのアクセスを許可</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Reminders</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Remindersリマインダー リマインダ 通知, to do ToDo やること やる事</string>
+				<key>title</key>
+				<string>アプリケーションにリマインダーへのアクセスを許可</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DesktopPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>फ़ोटोग्राफ़, बैकग्राउंड, पृष्ठभूमि, डेस्कटॉप, वॉलपेपर, पैटर्न, कस्टमाइज़ करें, तस्वीरें, तस्वीरें, डेस्क, टॉप, वॉल, पेपर, कस्टमाइज़, कस्टमाइज़ करना, कस्टमाइज़ेशन</string>
+				<key>title</key>
+				<string>डेस्कटॉप तस्वीर</string>
+			</dict>
+		</array>
+	</dict>
+	<key>ScreenSaverPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>अक्षम करें, शुरू करें, ऐल्बम, iTunes, कलाकृति, रैंडम, फ़ोटोग्राफ़, तस्वीर, कस्टमाइज़ करें, स्क्रीन सेवर, तस्वीरें, अक्षम करना, शुरू करना, कस्टमाइज़, कस्टमाइज़ करना, कस्टमाइज़ेशन</string>
+				<key>title</key>
+				<string>स्क्रीन सेवर</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>स्क्रीन सेवर के साथ घड़ी दिखाएँ</string>
+			</dict>
+		</array>
+	</dict>
+	<key>ScreenSaverPref_HotCorners</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>सक्रिय स्क्रीन कॉर्नर</string>
+				<key>title</key>
+				<string>हॉट कॉर्नर</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

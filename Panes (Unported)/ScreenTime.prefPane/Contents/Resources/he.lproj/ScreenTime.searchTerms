@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>AlwaysAllowed</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>מילות אינדקס הניתנות לתרגום</string>
+                <key>index</key>
+                <string>מסך, זמן, תמיד, לאפשר, אפשר, הגבלה, מגבלה, משפחה, הורים, בקרת הורים, בקרה, בטיחות, פרטיות, אבטחה, ילדים, מגבלות, הגבלות, ניהול, טיימר, עוצר, להגביל, לנהל, זמן מסך, מוניטור, מעקב, לעקוב</string>
+                <key>title</key>
+                <string>ניתן לבחור יישומים שתמיד מאושרים ב״זמן מסך״</string>
+            </dict>
+        </array>
+    </dict>
+    <key>CommunicationLimit</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>מילות אינדקס הניתנות לתרגום</string>
+                <key>index</key>
+                <string>מסך, זמן, תקשורת, קשר, טלפון, טקסט, מלל, הודעה, FaceTime, הודעות טקסט, SMS, מגבלה, הגבלה, הוספה, יצירה, הפעלה, משפחה, הורים, בקרה, בקרת הורים, השגחת הורים, בטיחות, פרטיות, אבטחה, ילדים, מגבלות רשת, מגבלות אינטרנט, ניהול, טיימר, זמן מסך, עוצר, מגבילים, מנהלים</string>
+                <key>title</key>
+                <string>הגדר הגבלות תקשורת ב״זמן מסך״</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>מסך, זמן, תקשורת, קשר, טלפון, טקסט, מלל, הודעה, FaceTime, הודעות טקסט, SMS, מגבלה, הגבלה, הוספה, יצירה, הפעלה, משפחה, הורים, בקרה, בקרת הורים, השגחת הורים, בטיחות, פרטיות, אבטחה, ילדים, מגבלות רשת, מגבלות אינטרנט, ניהול, טיימר, זמן מסך, עוצר, מגבילים, מנהלים</string>
+                <key>title</key>
+                <string>שנה את הגבלות התקשורת ב״זמן מסך״</string>
+            </dict>
+        </array>
+    </dict>
+    <key>ContentAndPrivacy</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>מילות אינדקס הניתנות לתרגום</string>
+                <key>index</key>
+                <string>מסך, זמן, תוכן, פרטיות, הגבלה, מגבלה, הורים, משפחה, בקרת הורים, בקרה, בטיחות, פרטיות, אבטחה, ילדים, מגבלות, הגבלות, ניהול, טיימר, עוצר, להגביל, לנהל, זמן מסך, לנהל, מילון, בלתי-הולם, קללה, לקלל, גסויות, גס, רע, שפה, מילים, גסות, גסויות, מגונה, ניבול פה, מילים, פורנוגרפיה, קללות, וולגרי, ולגרי, מילה אסורה, מסונן, סינון, לא מסונן, בלתי מסונן</string>
+                <key>title</key>
+                <string>בחר/י בתוכן ובהגדרות הפרטיות של ״זמן מסך״</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>מסך, זמן, בקרת הורים, הורים, בקרה, הגבלות, מגבלות, תוכן בוטה, תוכן גס, בוטה, גס, אתרים, ילד, ילדים, להגביל</string>
+                <key>title</key>
+                <string>הגבל תוכן בוטה</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyNotifications</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>מילות אינדקס הניתנות לתרגום</string>
+                <key>index</key>
+                <string>מסך, זמן, יום, יומי, יומיומי, שימוש, עדכונים</string>
+                <key>title</key>
+                <string>הצג דו״ח עדכונים יומי ב״זמן מסך״</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyPickups</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>מילות אינדקס הניתנות לתרגום</string>
+                <key>index</key>
+                <string>מסך, זמן, יום, יומי, יומיומי, הרמות</string>
+                <key>title</key>
+                <string>הצג מספר הפעלות של המכשיר מדי יום ב״זמן מסך״</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyUsage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>מילות אינדקס הניתנות לתרגום</string>
+                <key>index</key>
+                <string>מסך, זמן, שבוע, שבועי, שימוש, דו״ח, ניטור, דיווח, מוניטור, לעקוב, מעקב, ילד, ילדים, יישומים, אפליקציות</string>
+                <key>title</key>
+                <string>הצג דו״ח שימוש יומי ביישומים ב״זמן מסך״</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Downtime</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>מילות אינדקס הניתנות לתרגום</string>
+                <key>index</key>
+                <string>מסך, זמן, שימוש, הגבלה, מגבלה, זמן השבתה, השבתה, הפסקה, בלי מסך, משפחה, הורים, הורי, בקרת הורים, בטיחות, בטוח, פרטיות, אבטחה, ילדים, לנהל, ניהול, טיימר, כיבוי אורות, בית-ספר</string>
+                <key>title</key>
+                <string>הצג זמן השבתה ב״זמן מסך״</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Options</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>מילות אינדקס הניתנות לתרגום</string>
+                <key>index</key>
+                <string>מסך, זמן, הגדרה, אפשרות, לאפשר, אפשר, הגבלה, מגבלה, משפחה, הורים, בקרת הורים, בקרה, בטיחות, אבטחה, ילדים, מגבלות, הגבלות, ניהול, טיימר, עוצר, להגביל, לנהל, זמן מסך</string>
+                <key>title</key>
+                <string>הפעלה או כיבוי של ״זמן מסך״</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>מסך, הורים, בקרת הורים, בקרה, אפשרויות, הגבלה, מגבלה, מגבלות, הגבלות, קוד גישה, קוד סיסמה, סיסמה</string>
+                <key>title</key>
+                <string>הגדר/י קוד גישה ל״זמן מסך״</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Requests</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>מילות אינדקס הניתנות לתרגום</string>
+                <key>index</key>
+                <string>מסך, זמן, בקשה, לאפשר, אפשר, אישור, לאפשר, לאשר, לא לאשר, הגבלה, מגבלה, משפחה, הורים, בקרת הורים, בקרה, בטיחות, פרטיות, אבטחה, ילדים, מגבלות, הגבלות, ניהול, טיימר, עוצר, להגביל, לנהל, זמן מסך</string>
+                <key>title</key>
+                <string>הצג בקשות של ״זמן מסך״</string>
+            </dict>
+        </array>
+    </dict>
+    <key>ViewUsageLimit</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>מילות אינדקס הניתנות לתרגום</string>
+                <key>index</key>
+                <string>מסך, זמן, שימוש, יישום, לאפשר, אפשר, הגבלה, מגבלה, להוסיף, הוספה, ליצור, יצירה, החלה, משפחה, הורים, בקרת הורים, בקרה, בטיחות, פרטיות, אבטחה, ילדים, מגבלות, הגבלות, ניהול, טיימר, עוצר, להגביל, לנהל, זמן מסך</string>
+                <key>title</key>
+                <string>בחר הגבלות יישומים ב״זמן מסך״</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyNotifications</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>מילות אינדקס הניתנות לתרגום</string>
+                <key>index</key>
+                <string>מסך, זמן, שבוע, שבועי, שימוש, עדכונים, הורים, בקרים, בקרת הורים</string>
+                <key>title</key>
+                <string>הצג דו״ח עדכונים שבועי ב״זמן מסך״</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyPickups</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>מילות אינדקס הניתנות לתרגום</string>
+                <key>index</key>
+                <string>מסך, זמן, שבוע, שבועי, שימוש, עדכונים, הורים, הפעלות, בקרים, בקרת הורים</string>
+                <key>title</key>
+                <string>הצג מספר הפעלות של המכשיר מדי שבוע ב״זמן מסך״</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyUsage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>מילות אינדקס הניתנות לתרגום</string>
+                <key>index</key>
+                <string>מסך, זמן, שבוע, שבועי, שימוש, דו״ח, ניטור, דיווח, מוניטור, לעקוב, מעקב, ילד, ילדים, יישומים, אפליקציות, הורים, בקרת הורים, בקרים, כלי בקרה</string>
+                <key>title</key>
+                <string>הצג דו״ח שימוש שבועי ביישומים ב״זמן מסך״</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

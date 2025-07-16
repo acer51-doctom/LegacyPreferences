@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fax</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>faxing Fax ファクス ファックス ファクスを送信 ファックスを送信 FAX, facsimile ファクシミリ</string>
+				<key>title</key>
+				<string>ファクス設定</string>
+			</dict>
+		</array>
+	</dict>
+	<key>print</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>default デフォルト 標準 既定 出荷時, queues キュー, drivers ドライバ ドライバー ドライヴァ ドライヴァー, paper size ペーパー 用紙 紙 サイズ 大きさ 用紙サイズ ペーパーサイズ, page setup ページ 設定 用紙設定 セットアップ, cups カップス, add 追加 加える, printing プリント 印刷 プリンティング</string>
+				<key>title</key>
+				<string>プリンタを設定</string>
+			</dict>
+		</array>
+	</dict>
+	<key>scan</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>scanners スキャナ スキャナー, scanning スキャン スキャニング, image イメージ 画像, imaging イメージング イメージ作成</string>
+				<key>title</key>
+				<string>スキャナを設定</string>
+			</dict>
+		</array>
+	</dict>
+	<key>share</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>share 共有 シェア 共用</string>
+				<key>title</key>
+				<string>プリンタを共有</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

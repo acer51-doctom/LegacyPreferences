@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisierbare Indexwörter</string>
+				<key>index</key>
+				<string>wiedergeben, einsetzen, Start, ausführen, laden, Compact, digital, CDs, DVDs, optisch, Medium, Medien, leer, iTunes, Musik, Player, automatisch, Fotos, Bilder, Fotografien, Fotos, iDVD, Spieler, Filme, Videos, abspielen, einfügen, starten, Wiedergabe, geladen</string>
+				<key>title</key>
+				<string>CDs und DVDs bearbeiten</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

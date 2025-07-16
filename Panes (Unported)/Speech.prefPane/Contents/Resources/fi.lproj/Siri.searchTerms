@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Dictation</key>
+	<dict/>
+	<key>Siri</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>Siri, apuri, dock, pikanäppäin, kuvake, näppäin, kuunnella, kuunteleminen, kieli, valikkorivi, mikki, mikrofoni, tunnistaa, tunnistaminen, ääni, tunnistus, puhua, puhuminen, puhe, oikotiet, keskustelu, keskusteleminen, puheääni, aalto</string>
+				<key>title</key>
+				<string>Siri</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>aktivoi, kytke pois päältä, estä, salli, hiljaisuus, pysäytä, sammuta, laita päälle</string>
+				<key>title</key>
+				<string>Sirin päälle tai pois päältä laittaminen</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

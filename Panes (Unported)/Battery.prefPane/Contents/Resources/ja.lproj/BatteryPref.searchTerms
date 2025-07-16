@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>currentSource</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>バッテリーを節約</string>
+                <key>index</key>
+                <string>displays ディスプレイ ディスプレー, screens スクリーン 画面, monitors モニタ モニター, brighten 明るくする 高くする 上げる, dim 暗くする 低くする 下げる, sleep スリープ 休止, wake ウェイク ウェーク 休止解除 スリープ解除, shut down シャット ダウン システム終了 停止 終了, start up 起動 スタート スタートアップ, power パワー 電源, on オン 入, off オフ 切, electricity 電気 電源 電力, green グリーン 緑 グリン, save 節約 保存 セーブ, conservation 節約, preserve 保持, environmental 環境, charge 充電 チャージ, plug 接続 プラグ 付ける 挿す, unplugged 接続解除 切断 外す はずす, optimize 最適化 最適, performance パフォーマンス 性能 速度, processor プロセッサ プロセッサー CPU, automatic 自動 自動的 オート, brightness 明るさ 輝度 明度 ブライトネス, black 黒 ブラック, blank ブランク 空 空白, darkening 暗くする, dimmed 暗い 暗くなった 消灯 オフ 消す, dimming 暗くする 低くする 下げる, sleeping スリープする スリープさせる 休止する 一時停止, asleep スリープ状態 休止状態 一時停止状態, waking オンにする 休止解除する 休止を解除する スリープ解除する スリープを解除する, awake オン 休止解除 スリープ解除, awaken オンになる 休止解除になる スリープ解除になる, awakening オン 休止解除 スリープ解除, shutdown シャットダウン システム終了 停止 終了, shutting シャット, powering 電源を入れる, turn 入 切, turning 入れる 入る 切る 切れる オン オフ オンにする オフにする, saving 節約する 保存する セーブする, conserving 節約する, preserving 保持する, charged 充電済み 充電された, charging 充電中 充電する, plugged 接続された 付けた 挿した, plugging 接続する 付ける 挿す, un-plugged 接続解除された 切断された はずされた, unplugging 接続を解除する 切断する はずす, un-plugging 接続を解除する 切断する はずす, optimized 最適化された, optimizing 最適化する, optimization 最適化, automated 自動化された 自動化する, automating 自動化する 自動にする オート化する, automatically 自動的 自動で オートメーション, optimize video streaming ビデオストリーミングを最適化 ビデオストリーミングを最適化する, optimized battery charging バッテリー充電の最適化 バッテリ充電の最適化 電池充電の最適化, adapter アダプタ アダプター, cable ケーブル コード, plug コンセント, automatic graphics switching グラフィックスの自動切り替え 自動グラフィックス切り替え</string>
+                <key>comments</key>
+                <string>ローカライズ可能な索引の用語</string>
+            </dict>
+            <dict>
+                <key>title</key>
+                <string>メニューバーにバッテリーの状況を表示</string>
+                <key>index</key>
+                <string>menubar メニューバー メニュウバー メニュウバア メニューバア</string>
+                <key>comments</key>
+                <string>ローカライズ可能な索引の用語</string>
+            </dict>
+            <dict>
+                <key>title</key>
+                <string>Power Nap</string>
+                <key>index</key>
+                <string>power nap パワーナップ, powernap</string>
+                <key>comments</key>
+                <string>ローカライズ可能な索引の用語</string>
+            </dict>
+        </array>
+    </dict>
+    <key>usage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>バッテリー使用状況の履歴</string>
+                <key>index</key>
+                <string>battery level バッテリー残量 バッテリ残量 電池残量, screen on time 画面オンの時間, energy usage 電力使用状況 エネルギー使用状況</string>
+                <key>comments</key>
+                <string>ローカライズ可能な索引の用語</string>
+            </dict>
+        </array>
+    </dict>
+    <key>battery</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>バッテリーの状態</string>
+                <key>index</key>
+                <string>battery service バッテリー修理サービス バッテリ修理サービス 電池修理サービス, maximum capacity 最大容量, battery longevity バッテリーの寿命 バッテリの寿命 電池の寿命, important battery message バッテリーに関する重要なメッセージ バッテリに関する重要なメッセージ 電池に関する重要なメッセージ, battery condition バッテリーの状態 バッテリの状態 電池の状態</string>
+                <key>comments</key>
+                <string>ローカライズ可能な索引の用語</string>
+            </dict>
+        </array>
+    </dict>
+    <key>adapter</key>
+    <dict/>
+    <key>ups</key>
+    <dict/>
+    <key>schedule</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>起動、スリープ、またはシステム終了をスケジュール</string>
+                <key>index</key>
+                <string>sleep スリープ 休止, wake ウェイク ウェーク 休止解除 スリープ解除, ower パワー 電源, on オン 入, off オフ 切, automatic 自動 自動的 オート, scheduled スケジュール スケジュールされた スケジュール済み スケジュールが設定された 予約された, scheduling スケジュールする スケジューリング スケジュールを設定する スケジュール設定 予約する, sleeping スリープする スリープさせる 休止する 一時停止, asleep スリープ状態 休止状態 一時停止状態, waking オンにする 休止解除する 休止を解除する スリープ解除する スリープを解除する, awake オン 休止解除 スリープ解除, awaken オンになる 休止解除になる スリープ解除になる, awakening オン 休止解除 スリープ解除, shutdown シャットダウン システム終了 停止 終了, shutting シャット, powering 電源を入れる, turn 入 切, turning 入れる 入る 切る 切れる オン オフ オンにする オフにする, automated 自動化された 自動化する, automating 自動化する 自動にする オート化する, automatically 自動的 自動で オートメーション</string>
+                <key>comments</key>
+                <string>ローカライズ可能な索引の用語</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

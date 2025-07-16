@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>InputSources</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>yöntem, menü çubuğu, method, menubar</string>
+				<key>title</key>
+				<string>Giriş menüsünü menü çubuğunda göster</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>yaz, yazma, kaynaklar, Qwerty, Pro, PC, Standart, ISO, ANSI, JIS, Genişletilmiş, Dvorak, Afganca, Arapça, Ermenice, Avusturya Dili, Azerice, Belçika Dili, Brezilya Portekizcesi, İngilizce, Bulgarca, Beyaz Rusça, Kanada Dili, Çeroki Dili, Hırvatça, Çekçe, Danca, Devanagari, Hollandaca, Estonya Dili, Faroe Dili, Fince, Fransızca, Almanca, Yunanca, Gujarati, Gurmukhi, Hawaii Dili, İbranice, Macarca, İzlandaca, Inuktitut, İrlanda Dili, İtalyanca, Jawi, Kazakça, Letonca, Litvanyaca, Makedonca, Malta Dili, Maori, Nepalce, Sami, Norveççe, Farsça, Lehçe, Portekizce, Rumence, Rusça, Sırpça, Slovakça, Slovence, İspanyolca, İsveççe, İsviçre Dili, Tayca, Tibetçe, Türkçe, Amerikan İngilizcesi, Uygurca, Ukraynaca, Unicode, Hex, Vietnamca, Galce, type, typing, sources, Qwerty, Pro, PC, Standard, ISO, Extended, Dvorak, Afghan, Arabic, Armenian, Austrian, Azeri, Belgian, Brazilian, British, Bulgarian, Byelorussian, Canadian, Cherokee, Croatian, Czech, Danish, Devanagari, Dutch, Estonian, Faroese, Finnish, French, German, Greek, Gujarati, Gurmukhi, Hawaiian, Hebrew, Hungarian, Icelandic, Inuktitut, Irish, Italian, Jawi, Kazakh, Latvian, Lithuanian, Macedonian, Maltese, Maori, Nepali, Sami, Norwegian, Persian, Polish, Portuguese, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish, Swedish, Swiss, Thai, Tibetan, Turkish, U.S., Uighur, Ukrainian, Unicode, Hex, Vietnamese, Welsh</string>
+				<key>title</key>
+				<string>Klavye yerleşimleri</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>ana, diller, mod, kaynaklar, uluslararası, yabancı, karakterler, Unicode, Japonca, Kotoeri, Hiragana, Katakana, Romaji, Aynu, Çince, Geleneksel, Hanin, Basitleştirilmiş, Wubi, Korece, Hangul, Vietnamca, Teleks, Tamilce, Anjal, main, languages, mode, sources, international, foreign, characters, Japanese, Ainu, Chinese, Traditional, Hanin, Simplified, Korean, Vietnamese, Telex, Tamil</string>
+				<key>title</key>
+				<string>Dil giriş yöntemleri</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>palet, sembol, görüntüleyici, semboller, karakter, Unicode, Japonca, Kana, karakterler, kaynaklar, Tuşlar, tuş, tuş takımı, noktalama, palette, symbol, viewer, symbols, character, Japanese, characters, sources, Keycaps, keys, Key caps, punctuation</string>
+				<key>title</key>
+				<string>Paletler</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>giriş, kaynak, belge, input, source, document</string>
+				<key>title</key>
+				<string>Belgelerin tümünde aynı giriş kaynağını kullan</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>giriş, kaynak, belge, input, source, document</string>
+				<key>title</key>
+				<string>Her belge için farklı giriş kaynağına izin ver</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Text</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>kesirler, değiştir, değiştirme, değişim, yerine koyma, kestirmeler, fractions, replace, replacing, substitute, substituting, shortcuts</string>
+				<key>title</key>
+				<string>Sembol ve metin değişimleri</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>dil, yazım denetimi, imlâ denetimi, otomatik düzelt, yazımı düzelt, büyük harf, boşluk, language, spell check, spell checking, autocorrect, correct spelling, case, spacing</string>
+				<key>title</key>
+				<string>Yazım Denetimi</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>yazma önerileri, hızlı yazma, hızlı yaz, tahmini yazma, tahmini metin, dokunmatik çubuk, çubuk, typing suggestions, quicktype, quick type, predictive typing, predictive text, touch bar, bar, touchbar</string>
+				<key>title</key>
+				<string>Touch Bar yazma önerileri</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>akıllı tırnaklar, tırnaklar, tireler</string>
+				<key>title</key>
+				<string>Akıllı tırnakları ve tireleri kullan</string>
+			</dict>
+		</array>
+	</dict>
+	<key>keyboardTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>Bluetooth, klavye, aygıtlar</string>
+				<key>title</key>
+				<string>Bluetooth klavyeyi ayarla</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>tuşlar, gecikme, tuş yinelemesi, yineleme, aksan, yanıt, fonksiyon, işlev, Fn, F1, F2, F3, F4, F5, F6, F7, F8, F9, F10, F11, F12, tuşlar, hız, yazma, geciktirme, yinele, yaz, keys, delay, key repeat, repeat, accent, response, function, keys, rate, type, delaying, repeating, typing</string>
+				<key>title</key>
+				<string>Klavye duyarlılığı</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>gör, bakış, koyu, az ışık, soluklaşma, gece, yaz, görme, aydınlatma, ışıklı, yazma, parlaklık, ayarla, otomatik, arka aydınlatma, arkadan aydınlatma, see, vision, dark, low light, dim, night, type, seeing, illuminating, illuminated, typing, brightness, adjust, automatically, backlight, backlit</string>
+				<key>title</key>
+				<string>Klavyeyi aydınlat</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>dokunmatik çubuk, çubuk, denetim çubuğu, şerit, Fn, işlev tuşları, özelleştir, kişiselleştir, touch bar, touchbar, bar, control strip, strip, Fn, function keys, customize, personalize</string>
+				<key>title</key>
+				<string>Touch Bar’ı veya Control Strip’i özelleştir</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>menü çubuğu, paletler, sembol, emoji, klavye görüntüleyici, menubar, palettes, symbol, emoji, keyboard viewer</string>
+				<key>title</key>
+				<string>Klavye ve emoji görüntüleyicileri menü çubuğunda göster</string>
+			</dict>
+		</array>
+	</dict>
+	<key>keyboardTab_ModifierKeys</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>Büyük Harf Kilidi, Kontrol, Option, Komut, Caps Lock, Control, Command</string>
+				<key>title</key>
+				<string>Niteleme tuşlarını sıfırla</string>
+			</dict>
+		</array>
+	</dict>
+	<key>shortcutsTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>kestirmeler, Launchpad, Dock, Mission Control, ekran resmi, ekran resimleri, ekran fotoğrafı, ekran fotoğrafları, Servisler, Spotlight, Erişilebilirlik, tam klavye erişimi, giriş kaynakları, uygulama, işlev tuşları, dokunmatik çubuk, çubuk, short cuts, screen shot, screen shots, screenshot, screenshots, Services, Accessibility, full keyboard access, input sources, app, function keys, touch bar, bar, touchbar</string>
+				<key>title</key>
+				<string>Klavye kestirmeleri</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Dictation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>dikte, dikte etme, dikte ettirme, dinle, dinleme, dil, mikrofon, tanı, tanıma, algılama, seslendir, seslendirme, konuşma, kestirmeler, söyle, dictate, dictating, dictation, listen, listening, language, microphone, recognize, recognition, recognizing, speak, speaking, speech, shortcuts, talking</string>
+				<key>title</key>
+				<string>Dikte</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

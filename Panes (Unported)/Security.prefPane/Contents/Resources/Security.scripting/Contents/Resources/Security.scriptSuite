@@ -1,0 +1,37 @@
+{
+	Name = Security;
+	AppleEventCode = secu;
+	Classes = {
+		SecurityScripting = {
+			AppleEventCode = seco;
+			Superclass = "NSCoreSuite.AbstractObject";
+			Attributes = {
+				"requirePasswordToWake" = {
+					AppleEventCode = pwwk;
+					ReadOnly = NO;
+					Type = "NSNumber<Bool>";
+				};
+				autoLogin = {
+					AppleEventCode = aulg;
+					ReadOnly = NO;
+					Type = "NSNumber<Bool>";
+				};
+				"requirePasswordToUnlock" = {
+					AppleEventCode = pwul;
+					ReadOnly = NO;
+					Type = "NSNumber<Bool>";
+				};
+				inactivityLogout = {
+					AppleEventCode = aclk;
+					ReadOnly = NO;
+					Type = "NSNumber<Bool>";
+				};
+				"inactivityLogoutInterval" = {
+					AppleEventCode = acto;
+					ReadOnly = NO;
+					Type = NSNumber;
+				};
+			};
+		};
+	};
+}

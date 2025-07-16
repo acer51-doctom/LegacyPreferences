@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Localizable index words</string>
+				<key>index</key>
+				<string>hot</string>
+				<key>title</key>
+				<string>Active screen corners</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Localizable index words</string>
+				<key>index</key>
+				<string>customize, desktop, keyboard, function keys, Fn, mouse buttons, windows, applications, programs, customized, customizing, customization, mission control</string>
+				<key>title</key>
+				<string>Exposé shortcuts</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Spaces</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Localizable index words</string>
+				<key>index</key>
+				<string>organize, workspaces, applications, programs, desktops, organized, organizing</string>
+				<key>title</key>
+				<string>Set up Spaces</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

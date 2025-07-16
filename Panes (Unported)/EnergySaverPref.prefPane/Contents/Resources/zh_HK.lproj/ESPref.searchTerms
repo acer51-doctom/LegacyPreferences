@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>currentSource</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>節省電力</string>
+                <key>index</key>
+                <string>顯示器, 螢幕, 屏幕, 監視器, 變亮, 調亮, 變暗, 調暗, 睡眠, 休眠, 喚醒, 醒來, 關機, 啟動, 開機, 電力, 電源, 開啟, 打開, 關閉, 電流, 環保, 節能, 儲存, 節省, 節約, 保留, 環境, 最佳化, 優化, 執行效能, 效能, 處理器, 自動, 自動化, 亮度, 黑色, 變黑, 空白, 加深, 變深, 上升, 不斷電系統, 不斷電</string>
+                <key>comments</key>
+                <string>本地化索引詞</string>
+            </dict>
+        </array>
+    </dict>
+    <key>schedule</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>排程啟動、睡眠或關機</string>
+                <key>index</key>
+                <string>喚醒, 啟動, 電力, 開始, 關閉, 自動, 排定, 排程, 睡眠, 睡眠中, 醒來, 醒來, 醒來, 醒來, 關機, 關閉, 充電, 開啟, 開啟, 自動, 自動, 自動</string>
+                <key>comments</key>
+                <string>本地化索引詞</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

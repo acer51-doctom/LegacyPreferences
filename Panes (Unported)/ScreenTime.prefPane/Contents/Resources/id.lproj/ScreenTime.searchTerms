@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>AlwaysAllowed</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Kata indeks yang dapat dilokalkan</string>
+                <key>index</key>
+                <string>layar, durasi, waktu, selalu, izinkan, batas, keluarga, orang tua, kontrol, privasi, keamanan, anak-anak, batasi, kelola, timer, batasan waktu, membatasi, mengelola, awasi, lacak</string>
+                <key>title</key>
+                <string>Pilih app yang selalu diizinkan di Durasi Layar</string>
+            </dict>
+        </array>
+    </dict>
+    <key>CommunicationLimit</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Kata indeks yang dapat dilokalkan</string>
+                <key>index</key>
+                <string>layar, durasi, waktu, komunikasi, kontak, telepon, teks, pesan, FaceTime, SMS, batas, tambah, buat, terapkan, keluarga, orang tua, kontrol, keamanan, privasi, keamanan, anak-anak, batasi, kelola, timer, batasan waktu, membatasi, mengelola</string>
+                <key>title</key>
+                <string>Atur batas komunikasi di Durasi Layar</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>layar, durasi, waktu, komunikasi, kontak, telepon, teks, pesan, FaceTime, SMS, batas, tambah, buat, terapkan, keluarga, orang tua, kontrol, keamanan, privasi, keamanan, anak-anak, batasi, kelola, timer, batasan waktu, membatasi, mengelola</string>
+                <key>title</key>
+                <string>Ubah batas komunikasi di Durasi Layar</string>
+            </dict>
+        </array>
+    </dict>
+    <key>ContentAndPrivacy</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Kata indeks yang dapat dilokalkan</string>
+                <key>index</key>
+                <string>layar, durasi, waktu, konten, privasi, batas, keluarga, orang tua, kontrol, keamanan, privasi, keamanan, anak-anak, batasi, kelola, timer, batasan waktu, membatasi, mengelola, kamus, tidak sesuai, hinaan, umpatan, kata kotor, eksplisit, buruk, bahasa, cabul, kecabulan, kata-kata, pornografi, sumpah serapah, 4 huruf, empat huruf, difilter, memfilter, dibuka difilter</string>
+                <key>title</key>
+                <string>Pilih pengaturan konten dan privasi Durasi Layar</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>layar, durasi, waktu, orang tua, kontrol, batas, eksplisit, konten, situs web, anak, batasi</string>
+                <key>title</key>
+                <string>Batasi konten eksplisit</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyNotifications</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Kata indeks yang dapat dilokalkan</string>
+                <key>index</key>
+                <string>layar, durasi, waktu, hari, harian, penggunaan, pemberitahuan</string>
+                <key>title</key>
+                <string>Tampilkan laporan pemberitahuan harian di Durasi Layar</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyPickups</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Kata indeks yang dapat dilokalkan</string>
+                <key>index</key>
+                <string>layar, durasi, waktu, hari, harian, layar bangun</string>
+                <key>title</key>
+                <string>Tampilkan laporan layar bangun perangkat harian di Durasi Layar</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyUsage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Kata indeks yang dapat dilokalkan</string>
+                <key>index</key>
+                <string>layar, durasi, waktu, minggu, mingguan, laporan, awasi, lacak, anak, app</string>
+                <key>title</key>
+                <string>Tampilkan laporan penggunaan app harian di Durasi Layar</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Downtime</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Kata indeks yang dapat dilokalkan</string>
+                <key>index</key>
+                <string>layar, durasi, waktu, penggunaan, batas, waktu henti, keluarga, orang tua, kontrol, keamanan, privasi, keamanan, anak-anak, batasi, kelola, timer, waktu tidur, sekolah, malam, batasan waktu, membatasi, mengelola</string>
+                <key>title</key>
+                <string>Jadwalkan waktu henti di Durasi Layar</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Options</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Kata indeks yang dapat dilokalkan</string>
+                <key>index</key>
+                <string>layar, durasi, waktu, pengaturan, pilihan, batas, keluarga, orang tua, kontrol, keamanan, keamanan, anak-anak, batasi, kelola, timer, batasan waktu, membatasi, mengelola</string>
+                <key>title</key>
+                <string>Nyalakan atau matikan Durasi Layar</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>layar, orang tua, kontrol, pilihan, pembatasan, batas, kata sandi, kode sandi</string>
+                <key>title</key>
+                <string>Atur kode sandi Durasi Layar</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Requests</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Kata indeks yang dapat dilokalkan</string>
+                <key>index</key>
+                <string>layar, durasi, waktu, permintaan, izinkan, jangan izinkan, batas, keluarga, orang tua, kontrol, keamanan, privasi, keamanan, anak-anak, batasi, kelola, timer, batasan waktu, membatasi, mengelola</string>
+                <key>title</key>
+                <string>Tampilkan permintaan Durasi Layar</string>
+            </dict>
+        </array>
+    </dict>
+    <key>ViewUsageLimit</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Kata indeks yang dapat dilokalkan</string>
+                <key>index</key>
+                <string>layar, durasi, waktu, penggunaan, app, batas, tambah, buat, terapkan, keluarga, orang tua, kontrol, keamanan, privasi, keamanan, anak-anak, batasi, kelola, timer, batasan waktu, membatasi, mengelola</string>
+                <key>title</key>
+                <string>Pilih batas app di Durasi Layar</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyNotifications</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Kata indeks yang dapat dilokalkan</string>
+                <key>index</key>
+                <string>layar, durasi, waktu, minggu, mingguan, penggunaan, pemberitahuan, orang tua, kontrol</string>
+                <key>title</key>
+                <string>Tampilkan laporan pemberitahuan mingguan di Durasi Layar</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyPickups</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Kata indeks yang dapat dilokalkan</string>
+                <key>index</key>
+                <string>layar, durasi, waktu, minggu, mingguan, layar bangun, orang tua, kontrol</string>
+                <key>title</key>
+                <string>Tampilkan laporan layar bangun perangkat mingguan di Durasi Layar</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyUsage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Kata indeks yang dapat dilokalkan</string>
+                <key>index</key>
+                <string>layar, durasi, waktu, minggu, mingguan, laporan, awasi, lacak, anak, app, orang tua, kontrol</string>
+                <key>title</key>
+                <string>Tampilkan laporan penggunaan app mingguan di Durasi Layar</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

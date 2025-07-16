@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Advanced</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>infraroșu, receptor, IR, infra-roșu</string>
+				<key>title</key>
+				<string>Dezactivează telecomandă</string>
+			</dict>
+		</array>
+	</dict>
+	<key>FDE</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>disc, criptează, criptat, criptare, criptare, file vault, filevault</string>
+				<key>title</key>
+				<string>FileVault</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Firewall</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>împiedica, bloca, rețea, porturi, udp, partajare fișiere, la distanță, SSH, împiedicare, blocat, blocare, fire wall</string>
+				<key>title</key>
+				<string>Activează sau dezactivează firewall</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>fire wall</string>
+				<key>title</key>
+				<string>Configurări avansate firewall</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>modinvizibil</string>
+				<key>title</key>
+				<string>Mod invizibil</string>
+			</dict>
+		</array>
+	</dict>
+	<key>General</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+            <dict>
+                <key>comments</key>
+                <string>Cuvinte de index localizabile</string>
+                <key>index</key>
+                <string>apple watch, ceas, deblocare, aprobare</string>
+                <key>title</key>
+                <string>Permite deblocarea Mac‑ului cu Apple Watch‑ul</string>
+            </dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>screen, saver, parolă, autentifica, bloca, debloca, adormi, trezi, screensaver, screen saver, autentificat, autentificare, blocat, blocare, deblocat, deblocare, adormire, trezire</string>
+				<key>title</key>
+				<string>Solicită parola pentru trezirea computerului</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>log, sign, on, in, automat, login, logon, signin, signon</string>
+				<key>title</key>
+				<string>Dezactivează login automat</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>bloca, debloca, blocare, deblocare</string>
+				<key>title</key>
+				<string>Blochează Preferințe sistem</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>sign, off, login, logoff, logout, signing, signoff, signout</string>
+				<key>title</key>
+				<string>Logout la inactivitate</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>securiza, sigur, siguranță, proteja, protecție, securizat, securizare, protejat, protejare</string>
+				<key>title</key>
+				<string>Configurări securitate</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Blocarea ecranului</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>Gatekeeper, gate, keeper, identificat, dezvoltatori, aplicații, descărcări</string>
+				<key>title</key>
+				<string>Gatekeeper</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>privat, intimitate, confidențialitate</string>
+				<key>title</key>
+				<string>Configurări de intimitate</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Accessibility</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>accesibilitate</string>
+				<key>title</key>
+				<string>Permiteți aplicațiilor să acceseze funcțiile Accesibilitate</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_AllFiles</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Fișiere</string>
+				<key>title</key>
+				<string>Permiteți aplicațiilor să acceseze toate fișierele utilizatorului</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Assistive</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Universal, acces, accesibilitate, dizabilitate, handicap, deficiență, asistiv, control asistiv, mobilitate, scaun cu rotile</string>
+				<key>title</key>
+				<string>Permiteți aplicațiilor asistive să vă controleze computerul</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Calendars</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Calendare, date</string>
+				<key>title</key>
+				<string>Permiteți aplicațiilor să acceseze calendarul</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Camera</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>cameră, aplicație, acces, privat, intimitate, confidențialitate</string>
+				<key>title</key>
+				<string>Permiteți aplicațiilor să acceseze camera</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Contacts</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>contact, adresă, aplicație, acces, privat, intimitate, confidențialitate</string>
+				<key>title</key>
+				<string>Permiteți aplicațiilor să acceseze contactele</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_SystemServices</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>localizare, serviciu, oră, zonă, acces, reclame, găsire mac, locuință, homekit, spotlight, confidențialitate</string>
+				<key>title</key>
+				<string>Permiteți serviciilor de sistem să determine localizarea dvs.</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_LocationServices</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>localizare, serviciu, aplicație, acces, privat, intimitate, confidențialitate</string>
+				<key>title</key>
+				<string>Permiteți aplicațiilor să acceseze localizarea</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Microphone</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>microfon, aplicație, acces, privat, intimitate, confidențialitate</string>
+				<key>title</key>
+				<string>Permiteți aplicațiilor să acceseze microfonul</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Reminders</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Mementouri, de efectuat</string>
+				<key>title</key>
+				<string>Permiteți aplicațiilor să acceseze mementourile</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>AppleAccount</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>คำดัชนีที่แปลได้</string>
+                <key>index</key>
+                <string>iCloud, cloud, me.com, บัญชี Apple, appleid, apple, id, บัญชี, รายชื่อ, การชำระเงิน, การจัดส่ง</string>
+                <key>title</key>
+                <string>Apple ID</string>
+            </dict>
+        </array>
+    </dict>
+    <key>iCloud</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>คำดัชนีที่แปลได้</string>
+                <key>index</key>
+                <string>iCloud, cloud, me.com, บัญชี Apple, ค้นหา Mac ของฉัน, พื้นที่จัดเก็บข้อมูล, เอกสารและข้อมูล, iCloud Drive, ที่คั่นหน้า, ปฏิทิน, รายชื่อ, เมล, เตือนความจำ, รายการอ่าน, หุ้น, บ้าน, Safari, โน้ต, </string>
+                <key>title</key>
+                <string>iCloud</string>
+            </dict>
+        </array>
+    </dict>
+    <key>com.apple.AppleMediaServicesUI.SpyglassPurchases</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>คำดัชนีที่แปลได้</string>
+                <key>index</key>
+                <string>สื่อ, สินค้าที่ซื้อ, App Store, บริการ, การสมัครรับ</string>
+                <key>title</key>
+                <string>สื่อและสินค้าที่ซื้อ</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effects</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>本地化索引詞</string>
+				<key>index</key>
+				<string>噪音, 音訊, 聽, 層級, 音量, 大聲, 輕柔, 安靜, 增加, 減少, 提高, 較大聲, 揚聲器, 喇叭, 嗶聲, 警告, 鈴聲, 叮噹聲, 鈴聲, 聆聽, 鈴聲, 叮噹聲, 鈴聲, 開機聲音, 開機聲響</string>
+				<key>title</key>
+				<string>提示和聲音效果</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>本地化索引詞</string>
+				<key>index</key>
+				<string>音訊, 聽, 層級, 音量, 大聲, 輕柔, 安靜, 增加, 減少, 提高, 較大聲, 音樂, 喇叭, 聆聽</string>
+				<key>title</key>
+				<string>音量</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>本地化索引詞</string>
+				<key>index</key>
+				<string>音訊, 聽, 層級, 音量, 大聲, 輕柔, 安靜, 增加, 減少, 提高, 較大聲, 安靜, 靜音, 靜, 關閉, 聆聽, 靜音</string>
+				<key>title</key>
+				<string>靜音</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>本地化索引詞</string>
+				<key>index</key>
+				<string>選單列</string>
+				<key>title</key>
+				<string>在選單列中顯示音量</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>本地化索引詞</string>
+				<key>index</key>
+				<string>選單列</string>
+				<key>title</key>
+				<string>在選單列中顯示「聲音」</string>
+			</dict>
+		</array>
+	</dict>
+	<key>input</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>本地化索引詞</string>
+				<key>index</key>
+				<string>音訊, 聽, 層級, 音量, 大聲, 輕柔, 安靜, 增加, 減少, 提高, 較大聲, 裝置, 裝置, 來源, 咪高風, 樂器, MIDI, 錄製, line in, 聆聽, 收錄</string>
+				<key>title</key>
+				<string>聲音輸入</string>
+			</dict>
+		</array>
+	</dict>
+	<key>output</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>本地化索引詞</string>
+				<key>index</key>
+				<string>設備, 裝置, 耳機, 耳筒, 揚聲器, 喇叭, 聽, 聆聽, 平衡</string>
+				<key>title</key>
+				<string>聲音輸出</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>本地化索引詞</string>
+				<key>index</key>
+				<string>airplay, 喇叭</string>
+				<key>title</key>
+				<string>AirPlay音訊串流</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

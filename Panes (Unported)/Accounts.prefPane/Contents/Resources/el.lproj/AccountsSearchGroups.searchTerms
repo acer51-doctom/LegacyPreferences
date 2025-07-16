@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loginOptionsPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>χρήστες, είσοδος, σύνδεση, απόκρυψη, εμφάνιση, εκκίνηση, τερματισμός, επανεκκίνηση, ύπνος, κουμπιά, VoiceOver, ομιλία, εκφώνηση, εισαγωγή, μέθοδος, τρόπος, λειτουργίας, μενού, συνθηματικά, υποδείξεις, voice, over</string>
+				<key>title</key>
+				<string>Ρυθμίσεις παραθύρου εισόδου</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>χρήστης, γρήγορη, σύνδεση, ταχεία, είσοδος, έξοδος, αποσύνδεση, μεταγωγή, αλλαγή</string>
+				<key>title</key>
+				<string>Αλλαγή μεταξύ λογαριασμών</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>σύνδεση, είσοδος, αυτόματα, αυτοματισμός</string>
+				<key>title</key>
+				<string>Αυτόματη είσοδος</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>ενεργός, ldap, ανοιχτός, διακομιστής, active directory, open directory</string>
+				<key>title</key>
+				<string>Υπηρεσίες καταλόγου</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>χρήστες, είσοδος, σύνδεση</string>
+				<key>title</key>
+				<string>Επιλογές εισόδου</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Διακομιστής λογαριασμού δικτύου</string>
+			</dict>
+		</array>
+	</dict>
+	<key>mobilityPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array/>
+	</dict>
+	<key>passwordPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>επισκέπτης, κοινή χρήση, κοινή, χρήση, μεγάλο, σύντομο, όνομα, έλεγχος ταυτότητας, έλεγχος, ταυτότητας, συνθηματικά, filevault, file, vault</string>
+				<key>title</key>
+				<string>Λογαριασμός χρήστη ή ομάδας</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>φωτογραφίες, εικόνες, φωτό</string>
+				<key>title</key>
+				<string>Φωτογραφία χρήστη</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>χρήστες, λογαριασμοί, μεγάλο, σύντομο, όνομα, έλεγχος ταυτότητας, έλεγχος, ταυτότητας, σύνδεση, είσοδος, αλλαγή, διαχειριστή, συνθηματικά, συνθηματικό</string>
+				<key>title</key>
+				<string>Όνομα και συνθηματικό εισόδου</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>vcard, κάρτες</string>
+				<key>title</key>
+				<string>Επαφές</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>διαχείριση, διαχειριστής</string>
+				<key>title</key>
+				<string>Λογαριασμός διαχειριστή</string>
+			</dict>
+		</array>
+	</dict>
+	<key>startupItemsPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>αυτόματα, αυτόματη, είσοδος, σύνδεση</string>
+				<key>title</key>
+				<string>Άνοιγμα εφαρμογών στην είσοδο</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>είσοδος, σύνδεση, εκκίνηση</string>
+				<key>title</key>
+				<string>Στοιχεία εισόδου</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mouseTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Palavras localizáveis do índice</string>
+				<key>index</key>
+				<string>clique duplo, clicar duas vezes, clique duas vezes, clicar, faixa, arrastar, mais rápido, velocidade, lenta, cursor, seta, ponteiro, clicando, usando o trackpad, arrastando, mais lenta, diminuindo a velocidade, double-click, click, track, drag, faster, speed, slow, cursor, arrow, pointer, clicking, tracking, dragging, slower, slowing</string>
+				<key>title</key>
+				<string>Sensibilidade do mouse</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palavras localizáveis do índice</string>
+				<key>index</key>
+				<string>principal, secundário, atalho, rolar, rolagem, bola, roda, bola de rolagem, roda de rolagem, bola do mouse, roda do mouse, Mighty Mouse, Magic Mouse, primary, secondary, shortcut, scroll, scrolling, ball, wheel, scrollball, scrollwheel, mouseball, mousewheel, Mighty Mouse, Magic Mouse</string>
+				<key>title</key>
+				<string>Botões do mouse</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palavras localizáveis do índice</string>
+				<key>index</key>
+				<string>dois, três, quatro, dedos, toque, rolar, arrastar, tocar, separar e juntar, zoom, reduzir, ampliar, girar, separar, passar os dedos, tocando, rolando, arrastando, tocando, ampliando, reduzindo, girando, rotação, rotar, rotacionando, passando o dedo, espalhando, espalhar, two, three, four, fingers, touch, scroll, drag, tap, zoom, rotate, spread, swipe, touching, scrolling, dragging, tapping, zooming, rotating, swiping</string>
+				<key>title</key>
+				<string>Gestos do Magic Mouse</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palavras localizáveis do índice</string>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Zoom do mouse</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

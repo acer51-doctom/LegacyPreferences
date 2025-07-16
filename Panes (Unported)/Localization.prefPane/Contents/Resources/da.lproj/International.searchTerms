@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Region</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>regional, international, måleenheder, enheder, formater, metrisk, kalendere, gregoriansk, buddhistisk, hebraisk, islamisk, japansk, kinesisk, koptisk, etiopisk, indisk, persisk, Republikken Kina, tilpas, speciel, tilpasse, tilpasning, område, temperatur</string>
+				<key>title</key>
+				<string>Tal-, dato- og tidsformater</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>penge</string>
+				<key>title</key>
+				<string>Valuta</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>Internettjenester, e-mail, kontakter</string>
+				<key>title</key>
+				<string>Område til internettjenester</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Language</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>sprog, tilpasse, international, tilpasset, speciel, specielt, tilpasning, sortering, tiltale, tiltaleform, hun, hunkøn, femininum, han, hankøn, maskulinum, kønsneutral, neutrum, Livetekst, vælg tekst på billeder</string>
+				<key>title</key>
+				<string>Sprogindstilling og -prioritet</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Translation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>oversæt, oversættelse</string>
+				<key>title</key>
+				<string>Oversættelsessprog</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

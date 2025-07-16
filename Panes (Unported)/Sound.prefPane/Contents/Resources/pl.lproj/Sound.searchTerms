@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effects</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>szumy, audio, słyszeć, poziom, głośność, głośniej, łagodniej, ciszej, zwiększyć, zmniejszyć, wyższa, niższa, głośnik, sygnał, ostrzeżenie, dzwonek, brzęczyk, dźwięk startowy, dźwięk uruchamiania</string>
+				<key>title</key>
+				<string>Alerty i efekty dźwiękowe</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>audio, słyszeć, poziom, głośność, głośniej, łagodniej, ciszej, zwiększyć, zmniejszyć, wyższa, niższa, muzyka, głośniki, słyszeć</string>
+				<key>title</key>
+				<string>Głośność dźwięku</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>audio, słyszeć, poziom, głośność, głośniej, łagodniej, ciszej, zwiększyć, zmniejszyć, wyższa, niższa, cicho, cisza, wyłączyć, wyciszyć</string>
+				<key>title</key>
+				<string>Wycisz dźwięk</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>pasek menu</string>
+				<key>title</key>
+				<string>Pokazuj głośność na pasku menu</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>pasek menu</string>
+				<key>title</key>
+				<string>Pokazuj menu dźwięku na pasku menu</string>
+			</dict>
+		</array>
+	</dict>
+	<key>input</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>audio, słyszeć, poziom, głośność, głośniej, łagodniej, ciszej, zwiększyć, zmniejszyć, wyższa, niższa, urządzenia, źródła, mikrofony, instrumenty, MIDI, nagrywać, wejście liniowe, słyszeć, nagrywanie</string>
+				<key>title</key>
+				<string>Wejście dźwięku</string>
+			</dict>
+		</array>
+	</dict>
+	<key>output</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>urządzenia, słuchawki, zestawy słuchawkowe, głośniki, słyszeć, wyrównanie</string>
+				<key>title</key>
+				<string>Wyjście dźwięku</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>airplay, głośniki</string>
+				<key>title</key>
+				<string>Odtwarzanie strumieniowe dźwięku AirPlay</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

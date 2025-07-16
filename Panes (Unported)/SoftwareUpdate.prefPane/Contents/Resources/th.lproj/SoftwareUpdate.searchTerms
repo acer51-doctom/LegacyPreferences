@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SoftwareUpdate</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>ซอฟต์แวร์, รายการอัปเดต, ติดตั้ง, seed, เบต้า, อัปเดต, อัปเดตอยู่, อัปเดตแล้ว, กำลังอัปเดต, ดาวน์โหลด, ดาวน์โหลดอยู่, ดาวน์โหลดแล้ว, กำลังดาวน์โหลด, ติดตั้งอยู่, ติดตั้งแล้ว, กำลังติดตั้ง, โดยอัตโนมัติ, อัตโนมัติ, อย่างอัตโนมัติ, กำลังกำหนดเวลา, กำหนดเวลาอยู่, อัปเกรด, อัปเกรดอยู่, กำลังอัปเกรด, ระบบ</string>
+				<key>title</key>
+				<string>ตรวจสอบหารายการอัปเดตซอฟต์แวร์</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

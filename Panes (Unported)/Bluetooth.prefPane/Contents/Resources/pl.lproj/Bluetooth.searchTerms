@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>bezprzewodowe, wykryć, odkryć, wykrywanie, odkrywanie, znaleźć, znajdź, znalezienie, znajdowanie, para, łączenie w parę, łączenie w parę, dodać, dodaj, usunąć, usuń, asystent, konfiguracji, konfiguracja, klawiatura, mysz, telefon komórkowy, komórka, telefon, zestaw słuchawkowy, słuchawka, słuchawki, włączyć, wyłączyć, rozłączyć, rozłączenie, odłączenie, blue, tooth, dodawanie, usuwanie, odłączanie, rozłączanie</string>
+				<key>title</key>
+				<string>Urządzenia Bluetooth</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>blue, tooth, pasek menu</string>
+				<key>title</key>
+				<string>Pokaż status Bluetooth na pasku menu</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>blue, tooth</string>
+				<key>title</key>
+				<string>Porty szeregowe Bluetooth</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>blue, tooth, dźwięk</string>
+				<key>title</key>
+				<string>Bluetooth Audio</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizowane słowa kluczowe</string>
+				<key>index</key>
+				<string>blue, tooth</string>
+				<key>title</key>
+				<string>Asystent ustawień Bluetooth</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

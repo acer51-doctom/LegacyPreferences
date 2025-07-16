@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+        <key>Handoff</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>comments</key>
+                    <string>Lokaliserbare indeksord</string>
+                    <key>index</key>
+                    <string>continuity, ta opp igjen, fortsette, aktivitet, fortsetting, overlevere, hand off</string>
+                    <key>title</key>
+                    <string>Tillat Handoff</string>
+                </dict>
+            </array>
+        </dict>
+		<key>Main</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Lokaliserbare indeksord</string>
+					<key>index</key>
+					<string>markert, tekst, markere, markering, utheve, utheving, visning, utseende</string>
+					<key>title</key>
+					<string>Markeringsfarge</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Lokaliserbare indeksord</string>
+					<key>index</key>
+					<string>Apple-menyen, apper, dokumenter, tjenere</string>
+					<key>title</key>
+					<string>Antall sist brukte objekter</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Lokaliserbare indeksord</string>
+					<key>index</key>
+					<string>skrivebord, tilpasse, gjøre personlig, fane, faner, personalisere, egendefinere, visning, utseende</string>
+					<key>title</key>
+					<string>Utseende for knapper, menyer og vinduer</string>
+				</dict>
+
+				<dict>
+					<key>comments</key>
+					<string>Lokaliserbare indeksord</string>
+					<key>index</key>
+					<string>skrivebord, tilpasse, gjøre personlig, personalisere, egendefinere, automatisk, utseende, lyst, mørkt, tema, modus, Mørk modus</string>
+					<key>title</key>
+					<string>Utseende</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Lokaliserbare indeksord</string>
+					<key>index</key>
+					<string>knapp, markering, meny, visning, utseende, farge</string>
+					<key>title</key>
+					<string>Aksentfarge</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Lokaliserbare indeksord</string>
+					<key>index</key>
+					<string>redigeringer, endringer, arkivere, lukke, avslutte, dokument, fil</string>
+					<key>title</key>
+					<string>Behold endringer</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Lokaliserbare indeksord</string>
+					<key>index</key>
+					<string>vindu, hoppe, gå, rullefelt, hopping </string>
+					<key>title</key>
+					<string>Oppførsel for rullefelt</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Lokaliserbare indeksord</string>
+					<key>index</key>
+					<string>symbol, ikon, side, panel, rute, vindu, størrelse, sidepanel</string>
+					<key>title</key>
+					<string>Sidepanelsymboler</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Lokaliserbare indeksord</string>
+					<key>index</key>
+					<string>lukk, lukker, avslutt, avslutter, åpne, åpne på nytt, åpne igjen, åpner, gjenopprette, foretrekk faner</string>
+					<key>title</key>
+					<string>Lukk og gjenopprett vinduer</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Lokaliserbare indeksord</string>
+					<key>index</key>
+					<string>Safari, http, https, surf, www, nettsted, websted, nettside, webside</string>
+					<key>title</key>
+					<string>Angi standardnettleser</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+</plist>

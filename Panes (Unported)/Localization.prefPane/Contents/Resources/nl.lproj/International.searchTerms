@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Region</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>regionaal, internationaal, maateenheid, eenheden, stijlen, metriek, kalenders, Gregoriaans, Boeddhistisch, Hebreeuws, Islamitisch, Japans, Chinees, Koptisch, Ethiopisch, Indiaas, Perzisch, Republiek China, aanpassen, aangepast, aanpassing, aanpassingen, locale, temperatuur</string>
+				<key>title</key>
+				<string>Getalnotatie, datumnotatie en tijdnotatie</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>geld</string>
+				<key>title</key>
+				<string>Valuta-aanduiding</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>internetvoorzieningen, e-mail, contacten</string>
+				<key>title</key>
+				<string>Regio voor internetvoorzieningen</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Language</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>talen, aanpassen, internationaal, aangepast, aanpassing, sorteren, aanspreekvorm, vrouwelijk, mannelijk, onzijdig, livetekst, tekst in afbeeldingen selecteren</string>
+				<key>title</key>
+				<string>Taalvoorkeuren en -prioriteit</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Translation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>vertalen, vertaling</string>
+				<key>title</key>
+				<string>Talen voor 'Vertaal'</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

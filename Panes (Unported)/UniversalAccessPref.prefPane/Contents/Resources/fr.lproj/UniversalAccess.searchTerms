@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Accessibility_Shortcut</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>raccourci d’accessibilité, accessibilité, raccourci</string>
+				<key>title</key>
+				<string>Raccourci Accessibilité</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Alternate_Pointer_Actions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>cliquer, souris, commutateur, autre, bouton, touches de souris, expression, visage, facial</string>
+				<key>title</key>
+				<string>Actions alternatives du pointeur</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Captioning</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>STC, sous-titrage SM, sous-titres codés, sous-titrage codé, sous-titres pour sourds et malentendants, sourd, sourds, écoute, films, sous-titre, sous-titres, piste textuelle</string>
+				<key>title</key>
+				<string>Activer les STC, le sous-titrage SM et les sous-titres</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>STC, sous-titrage SM, sous-titres codés, sous-titrage codé, sous-titres pour sourds et malentendants, sourd, sourds, écoute, films, sous-titre, sous-titres, piste textuelle</string>
+				<key>title</key>
+				<string>Personnaliser les STC, le sous-titrage SM et les sous-titres</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Dictation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>Accès, universel, accessibilité, invalide, handicapé, vue, aveugle, vision, visible, malvoyant, malentendant, parler, énoncer, lire, prononcer, prononçables, éléments, parlé, énoncé, prononcé, paroles, commandes, reconnaissance, reconnaître, assister, aider, voix, calibrer, écouter, entendre, touche, raccourcis, personnaliser, microphone, volume, lecture, calibrage, étalonner, étalonnage, écoute, personnalisé, personnalisation, dictée, contrôle vocal</string>
+				<key>title</key>
+				<string>Contrôle vocal</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Dwell</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>attendre, attente, clavier à l’écran, clavier virtuel, clavier d’accessibilité, passage de souris, souris, suivi de la tête, contrôle d’attente, universel, accès, accessibilité, invalide, handicapé, malentendant, malvoyant, assistive control, mobilité, fauteuil roulant</string>
+				<key>title</key>
+				<string>Attendre le clavier d’accessibilité</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Full_Keyboard_Access</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>complet, clavier, accès, navigation, commandes, tabulation</string>
+				<key>title</key>
+				<string>Accès clavier complet</string>
+			</dict>
+		</array>
+	</dict>
+	<key>General</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>universel, accès, accessibilité, infirme, handicapé, limité, invalide, assistant, facile, ajuster, ajustements, taper</string>
+				<key>title</key>
+				<string>Réglages d’accessibilité généraux</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Head_Pointer</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>tête, visage, souris, pointeur, suivre, suivi</string>
+				<key>title</key>
+				<string>Contrôle du pointeur avec la tête</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Hearing</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>Accès, universel, accessibilité, invalide, handicapé, mobilité, limitée, sourd, entendre, audition, malentendant, assistance</string>
+				<key>title</key>
+				<string>Faire clignoter l’écran lors d’une alerte</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>Accès, universel, accessibilité, invalide, handicapé, mobilité, limitée, sourd, entendre, audition, malentendant, assistance</string>
+				<key>title</key>
+				<string>Lire les sons stéréo en mono</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Keyboard</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>Accès, universel, accessibilité, invalide, handicapé, limité, commutateur, interrupteur, bouton, ralentir, assistance, facile, touches à auto-maintien, vitesse de répétition, modificateur, sensibilité, ajuster, ajustements, taper, saisir, plus lentement, ralentir, ralentissement, ajustement, saisie</string>
+				<key>title</key>
+				<string>Simplifier l’utilisation du clavier</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>Accès, universel, accessibilité, infirme, handicapé, limité, invalide, assistant, touche de modification, vitesse, type, énonciation de saisie</string>
+				<key>title</key>
+				<string>Activer l’énonciation de la saisie</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Media_Descriptions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>Accès, universel, accessibilité, invalide, handicapé, limité, limitée, aveugle, malvoyant, vue, vision, visible, vidéo, multimédia, support, descriptions, décrire, décrit, décrite</string>
+				<key>title</key>
+				<string>Descriptions multimédia</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Mouse</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>accès, accessibilité, ajuster, ajustement, ajustements, assister, curseur, délai, infirme, double clic, cliquer deux fois, faire glisser, facile, rapide, handicapé, tactile, retour tactile, altéré, inertie, clavier, pavé numérique, touches, limité, verrou, déplacer, déplacement, numérique, pointeur, faire défiler, défilement, ralentir, plus lentement, ralentissement, vitesse, ouverture automatique, commutateur, trois doigts, glissement à trois doigts, universel</string>
+				<key>title</key>
+				<string>Simplifier l’utilisation de la souris et du trackpad</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Désactiver le défilement</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>Inertie de défilement</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_ColorFilters</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>couleur, filtre, daltonien</string>
+				<key>title</key>
+				<string>Afficher les filtres de couleur</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_Cursor</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>curseur, pointeur, flèche, agrandir, plus large, plus grand, grossir, grossissement, agrandissement</string>
+				<key>title</key>
+				<string>Taille du curseur</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>curseur, pointeur, souris, trackpad, secouer, remuer</string>
+				<key>title</key>
+				<string>Secouer le pointeur de la souris pour le localiser</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_Display</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>Accès, universel, accessibilité, invalide, handicapé, limité, aveugle, vue, vision, visible, malvoyant, lire, visualiser, améliorer, contraste, noir, blanc, gris, ajustements, lecture, visualisation, amélioration, ajustement, niveaux de gris, animation, réduire les animations, réduire la transparence, transparence, transparent, translucidité, translucide, flou, arrière-plan, couleur</string>
+				<key>title</key>
+				<string>Simplifier la visualisation du moniteur</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_VoiceOver</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>énoncé, interface, audition, écran, lecteur, universel, accès, accessibilité, invalide, handicapé, limité, aveugle, vue, vision, visible, malvoyant, voice over</string>
+				<key>title</key>
+				<string>Activer et désactiver VoiceOver</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>barre des menus</string>
+				<key>title</key>
+				<string>Afficher Accessibilité dans la barre des menus</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Seeing_Zoom</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>touchbar, touch bar, zoom, agrandi, agrandissement, grossi, grossissement, zoomer, agrandir</string>
+				<key>title</key>
+				<string>Activer le zoom avec la Touch Bar</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>Accès, universel, accessibilité, invalide, handicapé, limité, aveugle, vue, vision, visible, malvoyant, agrandir, grossir, agrandissement, lire, voir, augmenter, diminuer, plus grand, plus gros, maximum, minimum, faire défiler, souris, molette, boule, boule de défilement, molette de défilement, boule de souris, molette de souris, zoom, agrandi, agrandissement, grossi, grossissement, lecture, visualisation, affichage, augmentation, diminution, survol de texte</string>
+				<key>title</key>
+				<string>Activer le survol de texte</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>Accès, universel, accessibilité, invalide, handicapé, limité, aveugle, vue, vision, visible, malvoyant, agrandir, grossir, agrandissement, lire, voir, augmenter, diminuer, plus grand, plus gros, maximum, minimum, faire défiler, souris, molette, boule, boule de défilement, molette de défilement, boule de souris, molette de souris, zoom, agrandi, agrandissement, grossi, grossissement, lecture, visualisation, affichage, augmentation, diminution, écrans, moniteurs, deuxième, plusieurs</string>
+				<key>title</key>
+				<string>Zoomer pour agrandir l’écran</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Siri</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>écrire, écrire à siri, écrire siri, siri écrire</string>
+				<key>title</key>
+				<string>Écrire à Siri</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Switch</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>sous-fenêtre, éditeur de sous-fenêtre, analyser, analyse, commutateur, commutateurs, universel, accès, accessibilité, invalide, handicapé, malentendant, malvoyant, assistive control, mobilité, fauteuil roulant</string>
+				<key>title</key>
+				<string>Éditeur de sous-fenêtre pour Contrôle de sélection</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>analyser, analyse, commutateur, commutateurs, Accès, accès, universel, accessibilité, invalide, handicapé, malentendant, assistive control, mobilité, fauteuil roulant</string>
+				<key>title</key>
+				<string>Activer le contrôle de sélection</string>
+			</dict>
+		</array>
+	</dict>
+	<key>TextToSpeech</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>synthèse, parole, TTS, annonce, annoncer, vocal, texte, parlé, parler, voix, débit, alertes, énoncer, énonciation, prononcer, prononciation, lire, lecture</string>
+				<key>title</key>
+				<string>Parole</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Virtual_Keyboard</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>sous-fenêtre, éditeur de sous-fenêtre, clavier, clavier à l’écran, clavier virtuel, clavier d’accessibilité, souris, suivi de la tête, universel, accès, accessibilité, invalide, handicapé, malentendant, malvoyant, assistive control, mobilité, fauteuil roulant</string>
+				<key>title</key>
+				<string>Éditeur de sous-fenêtres du clavier d’accessibilité</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>clavier, clavier à l’écran, clavier virtuel, clavier d’accessibilité, souris, suivi de la tête, universel, accès, accessibilité, invalide, handicapé, malentendant, malvoyant, assistive control, mobilité, fauteuil roulant, ouverture de session</string>
+				<key>title</key>
+				<string>Activer le clavier d’accessibilité</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

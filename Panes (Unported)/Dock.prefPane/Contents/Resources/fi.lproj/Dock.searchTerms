@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>Dock</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>muokkaa, control strip, työkalupalkki, muuta kokoa, suurempi, pienempi, sijainti, työpöytä, vasen, oikea, alhaalla, kulmat, jousi, pomppu, skaalaa, animoi, pullon henki, kätke, näytä, suurenna, pienennä, suurenna, suurempi, muokattu, muokkaaminen, muokkaus, työkalupalkki, kokoa muutettu, koon muuttaminen, sijoittaminen, keskittäminen, jousitus, pomppiminen, skaalaus, animointi, animaatio, kätkeminen, kätketty, näyttäminen, näytetty, suurentaminen, suurennus, pienennetty, pienentäminen, suurennettu, suurentaminen, dokumentit, avaa, avaaminen, automaattisesti, valikkopalkki</string>
+                    <key>title</key>
+                    <string>Dock-asetukset</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>automaattisesti, kätke, näytä, dock</string>
+                    <key>title</key>
+                    <string>Kätke ja näytä Dock automaattisesti</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>automaattisesti, kätke, näytä, valikkorivi</string>
+                    <key>title</key>
+                    <string>Kätke ja näytä valikkorivi automaattisesti työpöydällä</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>automaattisesti, kätke, näytä, valikkorivi</string>
+                    <key>title</key>
+                    <string>Kätke ja näytä valikkorivi automaattisesti koko näytöllä</string>
+                </dict>
+            </array>
+        </dict>
+        <key>AccessibilityShortcuts</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>käyttöavun oikotiet, näytä, kätke, valikkorivi</string>
+                    <key>title</key>
+                    <string>Näytä käyttöavun oikotiet valikkorivillä</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>käyttöavun oikotiet, näytä, ohjauskeskus</string>
+                    <key>title</key>
+                    <string>Näytä käyttöavun oikotiet Ohjauskeskuksessa</string>
+                </dict>
+            </array>
+        </dict>
+        <key>AirDrop</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>bluetooth, näytä, kätke, valikkorivi</string>
+                    <key>title</key>
+                    <string>Näytä AirDropin tila valikkorivillä</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Battery</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>akku, lataaminen, lataus, varaus, näytä, kätke, valikkorivi</string>
+                    <key>portableOnly</key><true/>
+                    <key>title</key>
+                    <string>Näytä akun tila valikkorivillä</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>akku, lataaminen, lataus, varaus, näytä, kätke, ohjauskeskus</string>
+                    <key>portableOnly</key><true/>
+                    <key>title</key>
+                    <string>Näytä akun tila Ohjauskeskuksessa</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>akku, prosentti, prosentit, näytä, kätke, valikkorivi</string>
+                    <key>portableOnly</key><true/>
+                    <key>title</key>
+                    <string>Näytä akun varausprosentti valikkorivillä</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Bluetooth</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>bluetooth, näytä, kätke, valikkorivi</string>
+                    <key>title</key>
+                    <string>Näytä Bluetooth-tila valikkorivillä</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Clock</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>kello, päivämäärä, aika, näytä, kätke, valikkorivi</string>
+                    <key>title</key>
+                    <string>Näytä viikonpäivä valikkorivillä</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>kello, päivämäärä, aika, näytä, kätke, valikkorivi</string>
+                    <key>title</key>
+                    <string>Näytä päivämäärä valikkorivillä</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>24, tunti, kello, päivämäärä, aika, näytä, kätke, valikkorivi</string>
+                    <key>title</key>
+                    <string>Käytä valikkorivillä 24-tuntista kelloa</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>AM, am, PM, pm, epp, jpp, ap, ip, kello, päivämäärä, aika, näytä, kätke, valikkorivi</string>
+                    <key>title</key>
+                    <string>Näytä ap/ip valikkorivillä</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>vilkkua, vilkkuminen, erottimet, sekunti, sekunnit, kello, aika, näytä, kätke, valikkorivi</string>
+                    <key>title</key>
+                    <string>Vilkuta aikaerottimia valikkorivillä</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>sekunti, sekunnit, kello, aika, näytä, kätke, valikkorivi</string>
+                    <key>title</key>
+                    <string>Näytä aika sekuntien kanssa valikkorivillä</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>ääni, puhe, ilmoita, tunti, puoli tuntia, neljännestunti, vartti, kello, aika</string>
+                    <key>title</key>
+                    <string>Ajan kertominen</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Display</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>näyttö, kirkkaus, Sidecar, näytä, kätke, valikkorivi</string>
+                    <key>title</key>
+                    <string>Näytä näytöt valikkorivillä</string>
+                </dict>
+            </array>
+        </dict>
+        <key>DoNotDisturb</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>älä häiritse, näytä, kätke, valikkorivi</string>
+                    <key>title</key>
+                    <string>Näytä Älä häiritse -tila valikkorivillä</string>
+                </dict>
+            </array>
+        </dict>
+        <key>FocusModes</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>keskity, keskity-tilat, keskittymistilat, älä häiritse, näytä, kätke, valikkorivi</string>
+                    <key>title</key>
+                    <string>Näytä Keskity-tila valikkorivillä</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Hearing</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>kuulo, näytä, kätke, valikkorivi</string>
+                    <key>title</key>
+                    <string>Näytä Kuulo valikkorivillä</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>kuulo, näytä, ohjauskeskus</string>
+                    <key>title</key>
+                    <string>Näytä Kuulo Ohjauskeskuksessa</string>
+                </dict>
+            </array>
+        </dict>
+        <key>KeyboardBrightness</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>näppäimistö, kirkkaus, taustavalo, näytä, kätke, valikkorivi</string>
+                    <key>portableOnly</key><true/>
+                    <key>title</key>
+                    <string>Näytä näppäimistön kirkkauden tila valikkorivillä</string>
+                </dict>
+            </array>
+        </dict>
+        <key>NowPlaying</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>toistossa nyt, toistossa, toistetaan, musiikki, media, säätimet, kaukosäädin, remote, soittaa, toisto, näytä, kätke, valikkorivi</string>
+                    <key>title</key>
+                    <string>Näytä Toistossa nyt -tila valikkorivillä</string>
+                </dict>
+            </array>
+        </dict>
+        <key>ScreenMirroring</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>näytön peilaus, AirPlay, näytä, kätke, valikkorivi</string>
+                    <key>title</key>
+                    <string>Näytä näytön peilauksen tila valikkorivillä</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Sound</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>ääni, äänenvoimakkuus, voimakkuus, näytä, kätke, valikkorivi</string>
+                    <key>title</key>
+                    <string>Näytä äänenvoimakkuus valikkorivillä</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Siri</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>siri, näytä, kätke, valikkorivi</string>
+                    <key>title</key>
+                    <string>Näytä Siri valikkorivillä</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Spotlight</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>spotlight, näytä, kätke, valikkorivi</string>
+                    <key>title</key>
+                    <string>Näytä Spotlight valikkorivillä</string>
+                </dict>
+            </array>
+        </dict>
+        <key>TimeMachine</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>time machine, varmuuskopiot, näytä, kätke, valikkorivi</string>
+                    <key>title</key>
+                    <string>Näytä Time Machinen tila valikkorivillä</string>
+                </dict>
+            </array>
+        </dict>
+        <key>WiFi</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>wifi, wi-fi, näytä, kätke, valikkorivi</string>
+                    <key>title</key>
+                    <string>Näytä Wi-Fi-tila valikkorivillä</string><!-- NON-BREAKING HYPHEN (U+2011) -->
+                </dict>
+            </array>
+        </dict>
+        <key>UserSwitcher</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>nopea käyttäjän vaihto, käyttäjän vaihto, näytä, kätke, valikkorivi</string>
+                    <key>title</key>
+                    <string>Näytä Nopea käyttäjän vaihto valikkorivillä</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>nopea käyttäjän vaihto, käyttäjän vaihto, ohjauskeskus</string>
+                    <key>title</key>
+                    <string>Näytä Nopea käyttäjän vaihto Ohjauskeskuksessa</string>
+                </dict>
+            </array>
+        </dict>
+    </dict>
+</plist>

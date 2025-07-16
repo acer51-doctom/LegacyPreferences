@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+        <key>Handoff</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>comments</key>
+                    <string>Từ chỉ mục có thể bản địa hóa</string>
+                    <key>index</key>
+                    <string>thông suốt, nhấc máy, tiếp tục, hoạt động, liên tục, hand off</string>
+                    <key>title</key>
+                    <string>Cho phép Handoff</string>
+                </dict>
+            </array>
+        </dict>
+		<key>Main</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Từ chỉ mục có thể bản địa hóa</string>
+					<key>index</key>
+					<string>đã chọn, chữ, đánh dấu, đang đánh dấu, đã đánh dấu, giao diện</string>
+					<key>title</key>
+					<string>Màu tô sáng</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Từ chỉ mục có thể bản địa hóa</string>
+					<key>index</key>
+					<string>Menu Apple, ứng dụng, tài liệu, máy chủ</string>
+					<key>title</key>
+					<string>Số lượng Mục Gần đây</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Từ chỉ mục có thể bản địa hóa</string>
+					<key>index</key>
+					<string>màn hình nền, tùy chỉnh, cá nhân hóa, tab, đang tùy chỉnh, sự tùy chỉnh, đang cá nhân hóa, giao diện</string>
+					<key>title</key>
+					<string>Nút, menu và khóa cửa sổ</string>
+				</dict>
+
+				<dict>
+					<key>comments</key>
+					<string>Từ chỉ mục có thể bản địa hóa</string>
+					<key>index</key>
+					<string>bàn làm việc, tùy chỉnh, cá nhân hóa, đang tùy chỉnh, sự tùy chỉnh, tự động, đang cá nhân hóa, giao diện, sáng màu, tối màu, chủ đề, chế độ, Chế độ tối màu</string>
+					<key>title</key>
+					<string>Giao diện</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Từ chỉ mục có thể bản địa hóa</string>
+					<key>index</key>
+					<string>nút, lựa chọn, menu, hình thức, giao diện, màu</string>
+					<key>title</key>
+					<string>Màu nhấn</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Từ chỉ mục có thể bản địa hóa</string>
+					<key>index</key>
+					<string>chỉnh sửa, thay đổi, lưu, đóng, thoát, tài liệu, tệp</string>
+					<key>title</key>
+					<string>Giữ lại các thay đổi</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Từ chỉ mục có thể bản địa hóa</string>
+					<key>index</key>
+					<string>cửa sổ, chuyển, thanh cuộn, đang chuyển</string>
+					<key>title</key>
+					<string>Thao tác với thanh cuộn</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Từ chỉ mục có thể bản địa hóa</string>
+					<key>index</key>
+					<string>biểu tượng, bên, thanh, kích cỡ, thanh bên</string>
+					<key>title</key>
+					<string>Biểu tượng thanh bên</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Từ chỉ mục có thể bản địa hóa</string>
+					<key>index</key>
+					<string>thoát, đang thoát, mở, mở lại, đang mở, đang mở lại, đang khôi phục, ưu tiên các tab</string>
+					<key>title</key>
+					<string>Đóng và khôi phục cửa sổ</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Từ chỉ mục có thể bản địa hóa</string>
+					<key>index</key>
+					<string>Safari, http, https, lướt, www, trang web</string>
+					<key>title</key>
+					<string>Đặt trình duyệt web mặc định</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+</plist>

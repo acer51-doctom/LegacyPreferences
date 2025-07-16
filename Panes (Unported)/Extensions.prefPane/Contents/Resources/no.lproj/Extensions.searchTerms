@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Extensions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>tillegg</string>
+				<key>title</key>
+				<string>Tillegg</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>merking, merke</string>
+				<key>title</key>
+				<string>Handlinger</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>deling, dele, leseliste, mail, meldinger, airdrop, notater, påminnelser, personer, legg til, iphoto, aperture</string>
+				<key>title</key>
+				<string>Objekter i Del-menyen</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>hurtig, handlinger, finder, hurtighandlinger, forhåndsvisningspanel</string>
+				<key>title</key>
+				<string>Finder</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>hurtig, handlinger, touch, bar, touch bar</string>
+				<key>title</key>
+				<string>Touch Bar</string>
+			</dict>
+            <dict>
+                <key>comments</key>
+                <string>Lokaliserbare indeksord</string>
+                <key>index</key>
+                <string>tillegg for akkreditivleverandør, passordhåndterere, tillegg for passordhåndterere, autoutfyll passord, tillegg for autoutfylling</string>
+                <key>title</key>
+                <string>Tillegg for Autoutfyll passord</string>
+            </dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>Internet</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Локалізовувані індексні слова</string>
+					<key>index</key>
+					<string>спільний доступ, під’єднання, бездротовий, nat, Wi-Fi, ethernet, FireWire</string>
+					<key>title</key>
+					<string>Інтернет-шлюз</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Main</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Локалізовувані індексні слова</string>
+					<key>index</key>
+					<string>локальний, підмережа, bonjour</string>
+					<key>title</key>
+					<string>Назва комп’ютера</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_ARDService</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Локалізовувані індексні слова</string>
+					<key>index</key>
+					<string>віддалений, керування, віддалене керування, ard, контроль, VNC</string>
+					<key>title</key>
+					<string>Віддалене керування</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_DVDorCDSharing</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>index</key>
+					<string/>
+					<key>title</key>
+					<string>Спільні дисководи</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_PersonalFileSharing</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Локалізовувані індексні слова</string>
+					<key>index</key>
+					<string>обмін, спільний, доступ, роздавати, надавати, інтернет, шлюз, nat, afp</string>
+					<key>title</key>
+					<string>Файл-сервер</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_PrinterSharing</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Локалізовувані індексні слова</string>
+					<key>index</key>
+					<string>спільний, доступ, cups, друк, роздавати, ділитись, поширити, поширювати, поширення, надсилати, надіслати</string>
+					<key>title</key>
+					<string>Спільний принтер</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_RemoteAppleEvent</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Локалізовувані індексні слова</string>
+					<key>index</key>
+					<string>ae, повідомлення</string>
+					<key>title</key>
+					<string>Віддалені події Apple</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_RemoteLogin</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Локалізовувані індексні слова</string>
+					<key>index</key>
+					<string>ssh, сервіс, вхід, керувати, термінал, командний, рядок, заходити, входити, увійти, ввійти, логін, лог ін, логінитися, віддалений</string>
+					<key>title</key>
+					<string>Віддалений вхід у систему</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_ScreenSharing</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>index</key>
+					<string>керувати, контролювати, управляти, керування, контроль, стежити, спостерігати, віддалений, віддалено, VNC</string>
+					<key>title</key>
+					<string>Спільний екран</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Services_WindowsSharing</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Локалізовувані індексні слова</string>
+					<key>index</key>
+					<string>samba, сервіс, SMB/CIFS, принтери, папки, спільний доступ</string>
+					<key>title</key>
+					<string>Спільний доступ Windows</string>
+				</dict>
+			</array>
+		</dict>
+        <key>Services_ContentCaching</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>comments</key>
+                    <string>Локалізовувані індексні слова</string>
+                    <key>index</key>
+                    <string>кеш, кешування</string>
+                    <key>title</key>
+                    <string>Кешування вмісту</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Services_AirPlayReceiver</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>comments</key>
+                    <string>Локалізовувані індексні слова</string>
+                    <key>index</key>
+                    <string>airplay, приймач</string>
+                    <key>title</key>
+                    <string>Приймач AirPlay</string>
+                </dict>
+            </array>
+        </dict>
+	</dict>
+</plist>

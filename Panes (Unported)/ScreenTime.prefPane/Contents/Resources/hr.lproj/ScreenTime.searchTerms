@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>AlwaysAllowed</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Riječi indeksa koje se mogu lokalizirati</string>
+                <key>index</key>
+                <string>zaslon, vrijeme, uvijek, dozvoli, ograniči, obitelj, roditelji, roditeljsko, kontrola, sigurnost, privatnost, zaštita, djeca, djeca, ograniči, upravljaj, brojač, zabrana, ograničavanje, upravljanje, praćenje, nadzor</string>
+                <key>title</key>
+                <string>Odaberite aplikacije koje će uvijek biti dozvoljene u Vremenu uporabe zaslona</string>
+            </dict>
+        </array>
+    </dict>
+    <key>CommunicationLimit</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Riječi indeksa koje se mogu lokalizirati</string>
+                <key>index</key>
+                <string>zaslon, vrijeme, komunikacija, kontakt, telefon, tekst, poruka, FaceTime, SMS, ograniči, dodaj, izradi, primijeni, obitelj, roditelji, roditeljsko, kontrola, sigurnost, privatnost, zaštita, djeca, djeca, ograniči, upravljaj, brojač, zabrana, ograničavanje, upravljanje</string>
+                <key>title</key>
+                <string>Podesite ograničenja komunikacije u Vremenu uporabe zaslona</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>zaslon, vrijeme, komunikacija, kontakt, telefon, tekst, poruka, FaceTime, SMS, ograniči, dodaj, izradi, primijeni, obitelj, roditelji, roditeljsko, kontrola, sigurnost, privatnost, zaštita, djeca, djeca, ograniči, upravljaj, brojač, zabrana, ograničavanje, upravljanje</string>
+                <key>title</key>
+                <string>Promijenite ograničenja komunikacije u Vremenu uporabe zaslona</string>
+            </dict>
+        </array>
+    </dict>
+    <key>ContentAndPrivacy</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Riječi indeksa koje se mogu lokalizirati</string>
+                <key>index</key>
+                <string>zaslon, vrijeme, sadržaj, privatnost, ograniči, obitelj, roditelji, roditeljsko, kontrole, sigurnost, zaštita, djeca, ograničenje, upravljanje, brojač, dozvoljeno vrijeme, ograničavanje, upravljanje, rječnik, neprikladno, psovka, psovanje, prosto, eksplicitno, loš, jezik, opsceno, opscenost, riječi, pornografija, prostota, vulgarno, četiri-slova, četiri slova, filtrirano, filtriranje, nefiltrirano, nefiltrirano</string>
+                <key>title</key>
+                <string>Odaberite sadržaj Vremena uporabe zaslona i postavke privatnosti</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>zaslon, vrijeme, roditeljski, kontrole, ograničenja, eksplicitno, sadržaj, web stranice, dijete, djeca, zabrana</string>
+                <key>title</key>
+                <string>Ograniči eksplicitni sadržaj</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyNotifications</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Riječi indeksa koje se mogu lokalizirati</string>
+                <key>index</key>
+                <string>zaslon, vrijeme, dan, dnevno, uporaba, obavijesti</string>
+                <key>title</key>
+                <string>Prikaži dnevni izvještaj o obavijestima u Vremenu uporabe zaslona</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyPickups</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Riječi indeksa koje se mogu lokalizirati</string>
+                <key>index</key>
+                <string>zaslon, vrijeme, dan, dnevno, aktivacije</string>
+                <key>title</key>
+                <string>Prikaži dnevni broj aktiviranja uređaja u Vremenu uporabe zaslona</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyUsage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Riječi indeksa koje se mogu lokalizirati</string>
+                <key>index</key>
+                <string>zaslon, vrijeme, tjedan, tjedno, uporaba, izvještaj, nadzor, praćenje, dijete, djeca, aplikacije</string>
+                <key>title</key>
+                <string>Prikaži dnevni izvještaj o uporabi aplikacija u Vremenu uporabe zaslona</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Downtime</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Riječi indeksa koje se mogu lokalizirati</string>
+                <key>index</key>
+                <string>zaslon, vrijeme, uporaba, ograniči, vrijeme isključenosti, obitelj, roditelji, roditeljsko, kontrola, sigurnost, privatnost, zaštita, djeca, djeca, ograniči, upravljaj, brojač, vrijeme spavanja, škola, noć, zabrana, ograničavanje, upravljanje</string>
+                <key>title</key>
+                <string>Zakažite vrijeme isključenosti u vremenu uporabe zaslona</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Options</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Riječi indeksa koje se mogu lokalizirati</string>
+                <key>index</key>
+                <string>zaslon, vrijeme, postavka, opcija, ograniči, obitelj, roditelji, roditeljsko, kontrola, sigurnost, zaštita, djeca, djeca, ograniči, upravljaj, brojač, zabrana, ograničavanje, upravljanje</string>
+                <key>title</key>
+                <string>Uključenje ili isključenje Vremena uporabe zaslona</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>zaslon, roditeljski, kontrole, opcije, ograniči, ograničenja, lozinka, šifra</string>
+                <key>title</key>
+                <string>Podesite šifru za vrijeme uporabe zaslona</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Requests</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Riječi indeksa koje se mogu lokalizirati</string>
+                <key>index</key>
+                <string>zaslon, vrijeme, zatraži, dozvoli, odobri, nemoj odobriti, ograniči, obitelj, roditelji, roditeljsko, kontrola, sigurnost, privatnost, zaštita, djeca, djeca, ograniči, upravljaj, brojač, zabrana, ograničavanje, upravljanje</string>
+                <key>title</key>
+                <string>Prikaži zahtjeve za Vrijeme uporabe zaslona</string>
+            </dict>
+        </array>
+    </dict>
+    <key>ViewUsageLimit</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Riječi indeksa koje se mogu lokalizirati</string>
+                <key>index</key>
+                <string>zaslon, vrijeme, uporaba, aplikacija, ograniči, dodaj, izradi, primijeni, obitelj, roditelji, roditeljsko, kontrola, sigurnost, privatnost, zaštita, djeca, djeca, ograniči, upravljaj, brojač, zabrana, ograničavanje, upravljanje</string>
+                <key>title</key>
+                <string>Odaberite ograničenja aplikacije u Vremenu uporabe zaslona</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyNotifications</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Riječi indeksa koje se mogu lokalizirati</string>
+                <key>index</key>
+                <string>zaslon, vrijeme, tjedan, tjedno, uporaba, obavijesti, roditeljske, kontrole</string>
+                <key>title</key>
+                <string>Prikaži tjedni izvještaj o obavijestima u Vremenu uporabe zaslona</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyPickups</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Riječi indeksa koje se mogu lokalizirati</string>
+                <key>index</key>
+                <string>zaslon, vrijeme, tjedan, tjedno, aktivacije, roditeljske, kontrole</string>
+                <key>title</key>
+                <string>Prikaži tjedni broj aktiviranja uređaja u Vremenu uporabe zaslona</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyUsage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Riječi indeksa koje se mogu lokalizirati</string>
+                <key>index</key>
+                <string>zaslon, vrijeme, tjedan, tjedno, uporaba, izvještaj, nadzor, praćenje, dijete, djeca, aplikacije, roditeljske, kontrole</string>
+                <key>title</key>
+                <string>Prikaži tjedni izvještaj o uporabi aplikacija u Vremenu uporabe zaslona</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

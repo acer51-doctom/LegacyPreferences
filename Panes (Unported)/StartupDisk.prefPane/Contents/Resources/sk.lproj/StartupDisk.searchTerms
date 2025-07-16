@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>StartupSearchGroup</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>štart, boot, up, iniciálny, hard, disk, jednotka, oddiel, systém, netboot, štartovanie</string>
+				<key>title</key>
+				<string>Štartovací disk</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>disk, FireWire, fire wire</string>
+				<key>title</key>
+				<string>Režim Target Disk</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

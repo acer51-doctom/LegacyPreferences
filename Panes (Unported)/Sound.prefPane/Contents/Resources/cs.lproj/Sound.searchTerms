@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effects</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Slova lokalizovatelného indexu</string>
+				<key>index</key>
+				<string>šum, audio, zvuk, slyšet, úroveň, hlasitost, hlasitěji, tišeji, mírněji, zvýšit, snížit, reproduktor, pípnutí, beep, varování, zvonek, zvonění, slyšení, sluch, vyzvánění, zvuk při spuštění, spouštěcí zvuk</string>
+				<key>title</key>
+				<string>Výstrahy a zvukové efekty</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Slova lokalizovatelného indexu</string>
+				<key>index</key>
+				<string>audio, zvuk, slyšet, úroveň, hlasitost, hlasitěji, tišeji, mírněji, zvýšit, snížit, hudba, reproduktory, slyšení</string>
+				<key>title</key>
+				<string>Hlasitost zvuku</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Slova lokalizovatelného indexu</string>
+				<key>index</key>
+				<string>audio, zvuk, slyšet, úroveň, hlasitost, hlasitěji, tišeji, mírněji, zvýšit, snížit, tiše, beze zvuku, ticho, vypnout, ztlumit, slyšení</string>
+				<key>title</key>
+				<string>Vypnout zvuk</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Slova lokalizovatelného indexu</string>
+				<key>index</key>
+				<string>řádek nabídek</string>
+				<key>title</key>
+				<string>Zobrazit hlasitost v řádku nabídek</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Slova lokalizovatelného indexu</string>
+				<key>index</key>
+				<string>řádek nabídek</string>
+				<key>title</key>
+				<string>Zobrazit nabídku Zvuk v řádku nabídek</string>
+			</dict>
+		</array>
+	</dict>
+	<key>input</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Slova lokalizovatelného indexu</string>
+				<key>index</key>
+				<string>audio, zvuk, slyšet, úroveň, hlasitost, hlasitěji, tišeji, mírněji, zvýšit, snížit, zařízení, zdroje, mikrofony, nástroje, MIDI, záznam, nahrávání, linkový vstup, slyšení</string>
+				<key>title</key>
+				<string>Vstup zvuku</string>
+			</dict>
+		</array>
+	</dict>
+	<key>output</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Slova lokalizovatelného indexu</string>
+				<key>index</key>
+				<string>zařízení, sluchátka, náhlavní soupravy, reproduktory, slyšet, slyšení, balance, váha, stereováha</string>
+				<key>title</key>
+				<string>Výstup zvuku</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Slova lokalizovatelného indexu</string>
+				<key>index</key>
+				<string>airplay, reproduktory</string>
+				<key>title</key>
+				<string>Streamování zvuku přes AirPlay</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

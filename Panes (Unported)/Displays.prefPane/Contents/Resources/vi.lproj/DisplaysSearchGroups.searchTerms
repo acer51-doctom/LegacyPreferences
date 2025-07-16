@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displaysArrangementTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>màn hình, phản chiếu, đã phản chiếu, đang phản chiếu, đang sắp xếp, sự sắp xếp</string>
+				<key>title</key>
+				<string>Sắp xếp nhiều màn hình</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>thanh menu</string>
+				<key>title</key>
+				<string>Định vị lại thanh menu</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysColorTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>màn hình, hiệu chỉnh, điều chỉnh, chiếu sáng, làm sáng, làm mờ, làm tối, điểm trắng, gamma, ánh sáng xung quanh, hồ sơ, đang hiệu chỉnh, đang điều chỉnh, sự điều chỉnh, đang làm mờ</string>
+				<key>title</key>
+				<string>Màu màn hình và hiệu chỉnh</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysDisplayTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>màn hình, độ sâu, triệu, ngàn, 256, ColorSync, điều chỉnh, chiếu sáng, làm sáng, làm mờ, làm tối, điều chỉnh, sự điều chỉnh, đang làm mờ, true tone</string>
+				<key>title</key>
+				<string>Màu sắc, độ sáng và độ phân giải</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>màn hình</string>
+				<key>title</key>
+				<string>Tốc độ làm mới màn hình</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>màn hình</string>
+				<key>title</key>
+				<string>Dò tìm nhiều màn hình</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>thanh menu</string>
+				<key>title</key>
+				<string>Hiển thị các màn hình trong thanh menu</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>xoay, vòng xoay</string>
+				<key>title</key>
+				<string>Xoay màn hình</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>AirPlay</string>
+				<key>title</key>
+				<string>Tùy chọn phản chiếu AirPlay</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysGeometryTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>vị trí, chiều cao, chiều rộng, méo lõm, xoay, nguyên tắc cơ bản, hình bình hành, hình cung, uốn cong góc, xiên, hình học, kích thước</string>
+				<key>title</key>
+				<string>Ảnh màn hình</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>rgb, điều chỉnh, căn chỉnh, đang điều chỉnh, sự điều chỉnh, đang căn chỉnh, sự căn chỉnh</string>
+				<key>title</key>
+				<string>Nhân chập Hình ảnh</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>tĩnh, đặt lại, nhấp nháy, giao thoa, đang nhấp nháy</string>
+				<key>title</key>
+				<string>Khử từ</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysNightShiftTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>tối, chuyển, night shift, mờ, ấm, màu ấm, phổ, ngủ, nhiệt độ, mặt trời lặn, mặt trời mọc, làm mờ</string>
+				<key>title</key>
+				<string>Tùy chọn Night Shift</string>
+			</dict>
+		</array>
+	</dict>
+	<key>universalControlTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>điều khiển, chung</string>
+				<key>title</key>
+				<string>Điều khiển chung</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

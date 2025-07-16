@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+        <key>Handoff</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>comments</key>
+                    <string>Localisable index words</string>
+                    <key>index</key>
+                    <string>continuity, pick it up, continue, activity, continuation, hand off</string>
+                    <key>title</key>
+                    <string>Allow Handoff</string>
+                </dict>
+            </array>
+        </dict>
+		<key>Main</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Localisable index words</string>
+					<key>index</key>
+					<string>selected, text, highlighting, highlite, highliting, hilite, hiliting, appearance</string>
+					<key>title</key>
+					<string>Highlight colour</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Localisable index words</string>
+					<key>index</key>
+					<string>Apple menu, applications, documents, servers</string>
+					<key>title</key>
+					<string>Number of Recent Items</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Localisable index words</string>
+					<key>index</key>
+					<string>desktop, customise, personalise, tab, tabs, customising, customisation, personalising, appearance</string>
+					<key>title</key>
+					<string>Button, menu and window look</string>
+				</dict>
+
+				<dict>
+					<key>comments</key>
+					<string>Localisable index words</string>
+					<key>index</key>
+					<string>desktop, customise, personalise, customising, customisation, auto, personalising, appearance, light, dark, theme, mode, Dark Mode</string>
+					<key>title</key>
+					<string>Appearance</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Localisable index words</string>
+					<key>index</key>
+					<string>button, selection, menu, look, appearance, colour</string>
+					<key>title</key>
+					<string>Accent colour</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Localisable index words</string>
+					<key>index</key>
+					<string>edits, changes, save, close, quit, document, file</string>
+					<key>title</key>
+					<string>Keep changes</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Localisable index words</string>
+					<key>index</key>
+					<string>window, jump, scrollbar, jumping</string>
+					<key>title</key>
+					<string>Scroll bar behaviour</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Localisable index words</string>
+					<key>index</key>
+					<string>icon, side, bar, size, sidebar</string>
+					<key>title</key>
+					<string>Sidebar icons</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Localisable index words</string>
+					<key>index</key>
+					<string>quit, quitting, open, reopen, re-open, opening, reopening, re-opening, restoring, prefer tabs</string>
+					<key>title</key>
+					<string>Close and restore windows</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Localisable index words</string>
+					<key>index</key>
+					<string>Safari, http, https, surf, www, website, web site, webpage, web page</string>
+					<key>title</key>
+					<string>Set default web browser</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+</plist>

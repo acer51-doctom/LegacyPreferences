@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Region</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>khu vực, quốc tế, đo lường, đơn vị, kiểu, chuẩn đo, lịch, Gregory, Phật giáo, Do Thái, Hồi giáo, Nhật Bản, Trung Quốc, Copts, Ethiopia, Ấn Độ, Ba Tư, Đài Loan, tùy chỉnh, đã tùy chỉnh, đang tùy chỉnh, sự tùy chỉnh, địa phương, nhiệt độ</string>
+				<key>title</key>
+				<string>Định dạng số, ngày và giờ</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>tiền bạc</string>
+				<key>title</key>
+				<string>Chỉ định loại tiền</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>Dịch vụ internet, thư, danh bạ</string>
+				<key>title</key>
+				<string>Vùng cho dịch vụ internet</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Language</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>ngôn ngữ, tùy chỉnh, quốc tế, được tùy chỉnh, đang tùy chỉnh, sự tùy chỉnh, đang sắp xếp, cách xưng hô, giống cái, giống đực, giống trung, Văn bản trực tiếp, chọn văn bản trong hình ảnh</string>
+				<key>title</key>
+				<string>Tùy chọn ngôn ngữ và mức ưu tiên</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Translation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Các từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>dịch, bản dịch</string>
+				<key>title</key>
+				<string>Ngôn ngữ dịch</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

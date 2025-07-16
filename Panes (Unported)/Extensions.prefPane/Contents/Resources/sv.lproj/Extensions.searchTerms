@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Extensions</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbara indexord</string>
+				<key>index</key>
+				<string>tillägg</string>
+				<key>title</key>
+				<string>Tillägg</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbara indexord</string>
+				<key>index</key>
+				<string>märkning, märka</string>
+				<key>title</key>
+				<string>Åtgärder</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbara indexord</string>
+				<key>index</key>
+				<string>delning, dela, läslista, mail, e-post, meddelanden, mejl, e-postmeddelande, e-brev, brev, airdrop, anteckningar, påminnelser, personer, lägga till, iphoto, aperture</string>
+				<key>title</key>
+				<string>Objekt i delningsmenyn</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbara indexord</string>
+				<key>index</key>
+				<string>snabb, snabbt, åtgärder, finder, snabbåtgärder, förhandsvisningspanel</string>
+				<key>title</key>
+				<string>Finder</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbara indexord</string>
+				<key>index</key>
+				<string>snabb, snabbt, åtgärder, touch, bar, touch bar</string>
+				<key>title</key>
+				<string>Touch Bar</string>
+			</dict>
+            <dict>
+                <key>comments</key>
+                <string>Lokaliserbara indexord</string>
+                <key>index</key>
+                <string>inloggningsuppgiftstillägg, lösenordshanterare, lösenordshanterartillägg, autofyll lösenord, autofylltillägg</string>
+                <key>title</key>
+                <string>Autofyll lösenord-tillägg</string>
+            </dict>
+		</array>
+	</dict>
+</dict>
+</plist>

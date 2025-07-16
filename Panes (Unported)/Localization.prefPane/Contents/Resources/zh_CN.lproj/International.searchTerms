@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Region</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>地区的, 地区, 区域, regional, 多语言, 国际, international, 测量, measurement, 单位, units, 样式, styles, 公制, metric, 日历, calendars, 公历, Gregorian, 佛教日历, Buddhist, 希伯来历, Hebrew, 伊斯兰历, Islamic, 日文, 日本日历, Japanese, 中文, 中国, 农历, Chinese, 科普特文, 科普特日历, Coptic, 埃塞俄比亚文, 埃塞俄比亚日历, Ethiopic, 印度文, 印度日历, Indian, 波斯文, 波斯日历, Persian, 中华民国, 中华民国日历, Republic of China, 自定, customize, 已自定, customized, 正在自定, customizing, 自定义, customization, 区域设置, locale, 温度, 气温, temperature</string>
+				<key>title</key>
+				<string>数字, Number, 日期, date, 时间格式, time formats</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>货币, money</string>
+				<key>title</key>
+				<string>指定货币, Currency designation</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>互联网服务, Internet Services, 邮件, mail, 通讯录, contacts</string>
+				<key>title</key>
+				<string>互联网服务的地区, Region for Internet Services</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Language</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>语言, languages, 自定, customize, 多语言, 国际, international, 自定义, customized, 正在自定, customizing, 定制, customization, 排序, sorting, 称谓, term of address, 女性, feminine, 男性, masculine, 中性, neuter, 实况文本, Live Text, 选择图像中的文本, select text in images</string>
+				<key>title</key>
+				<string>语言偏好设置和优先级, Language preference and priority</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Translation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>翻译, translate, translation</string>
+				<key>title</key>
+				<string>翻译语言, Translation Languages</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

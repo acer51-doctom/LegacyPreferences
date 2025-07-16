@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>currentSource</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>बैटरी बचाएँ</string>
+                <key>index</key>
+                <string>डिस्प्ले, स्क्रीन, मॉनिटर, चमक, डिम, स्लीप, जगाएँ, शटडाउन करें, स्टार्ट अप, पावर, चालू, बंद, बिजली, ग्रीन, सहेजें, बचाएँ, संरक्षण, पर्यावरण, चार्ज, प्लग, अनप्लग, ऑप्टिमाइज़ करें, प्रदर्शन, प्रोसेसर, ऑटोमैटिक, चमक, काला, ख़ाली, गहरापन, डिम, डिम करना, स्लीपिंग, सोना, जागना, शटडाउन करें, शटडाउन करना, चालू करना, बचाना, संरक्षण करना, संरक्षित करना, चार्ज हुआ, चार्ज करना, प्लग, प्लग करना, अनप्लग, अनप्लग करना, ऑप्टिमाइज़, ऑप्टिमाइज़ करना, ऑप्टिमाइज़ेशन, ऑटोमेट, ऑटोमेट करना, ऑटोमैटिकली, वीडियो स्ट्रीमिंग ऑप्टिमाइज़ करें, ऑप्टिमाइज़ किया गया बैटरी चार्जिंग, अडैप्टर, केबल, प्लग, ऑटोमैटिक ग्राफ़िक स्विचिंग</string>
+                <key>comments</key>
+                <string>अनुवाद योग्य मुख्य शब्द</string>
+            </dict>
+            <dict>
+                <key>title</key>
+                <string>मेनू बार में बैटरी स्टेटस दिखाएँ</string>
+                <key>index</key>
+                <string>मेनूबार</string>
+                <key>comments</key>
+                <string>अनुवाद योग्य मुख्य शब्द</string>
+            </dict>
+            <dict>
+                <key>title</key>
+                <string>Power Nap</string>
+                <key>index</key>
+                <string>power nap, powernap</string>
+                <key>comments</key>
+                <string>अनुवाद योग्य मुख्य शब्द</string>
+            </dict>
+        </array>
+    </dict>
+    <key>usage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>बैटरी उपयोग हिस्ट्री</string>
+                <key>index</key>
+                <string>बैटरी स्तर, स्क्रीन चालू रहने का समय, ऊर्जा उपयोग</string>
+                <key>comments</key>
+                <string>अनुवाद योग्य सूची शब्द</string>
+            </dict>
+        </array>
+    </dict>
+    <key>battery</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>बैटरी हेल्थ</string>
+                <key>index</key>
+                <string>बैटरी सेवा, अधिकतम क्षमता, बैटरी का लंबा जीवन, महत्वपूर्ण बैटरी संदेश, बैटरी की दशा</string>
+                <key>comments</key>
+                <string>अनुवाद योग्य सूची शब्द</string>
+            </dict>
+        </array>
+    </dict>
+    <key>adapter</key>
+    <dict/>
+    <key>ups</key>
+    <dict/>
+    <key>schedule</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>स्टार्टअप, स्लीप या शटडाउन शेड्यूल करें</string>
+                <key>index</key>
+                <string>स्लीप, सक्रिय करें, स्टार्ट अप, पावर, चालू, बंद, ऑटोमैटिक, शेड्यूल किया गया, शेड्यूल करना, स्लीपिंग, सोना, सक्रिया करना, जागा हुआ, जागना, शटडाउन करना, शटडाउन किया जा रहा है, चार्ज करना, घुमाना, ऑटोमेट, ऑटोमेट करना, ऑटोमैटिकली</string>
+                <key>comments</key>
+                <string>अनुवाद योग्य सूची शब्द</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة</string>
+				<key>index</key>
+				<string>سريع، ساخن، حار، hot</string>
+				<key>title</key>
+				<string>زوايا الشاشة النشطة</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة</string>
+				<key>index</key>
+				<string>تخصيص، التخصيص، سطح المكتب، لوحة المفاتيح، لوحة مفاتيح، مفاتيح الوظائف، مفتاح fn، أزرار الماوس، أزرار ماوس، نوافذ، النوافذ، تطبيقات، التطبيقات، برامج، البرامج، مخصص، المخصص، تخصيص، التخصيص، customize، desktop، keyboard، function keys، Fn، mouse buttons، windows، applications، programs، customized، customizing، customization, mission control</string>
+				<key>title</key>
+				<string>اختصارات Exposé</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Spaces</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة</string>
+				<key>index</key>
+				<string>تنظيم، التنظيم، مساحات العمل، مساحات عمل، مساحة عمل تطبيقات، التطبيقات، برامج، البرامج، أجهزة سطح المكتب، منظم، المنظم، تنظيم، التنظيم، organize، workspaces، applications، programs، desktops، organized، organizing</string>
+				<key>title</key>
+				<string>إعداد Spaces</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

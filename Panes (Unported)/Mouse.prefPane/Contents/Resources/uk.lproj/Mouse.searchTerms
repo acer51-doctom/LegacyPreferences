@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mouseTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локалізовувані індексні слова</string>
+				<key>index</key>
+				<string>подвійне натискання, подвійне клацання, натискання, клацання, клік, клікання, стеження, стежити, відстежувати,тягнути, перетягти, перетягати, швидше, швидкість, повільно, курсор, вказівник, стрілка, клікнути, відстеження, перетягування, повільніше, сповільнення, поволі</string>
+				<key>title</key>
+				<string>Чутливість мишки</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локалізовувані індексні слова</string>
+				<key>index</key>
+				<string>основний, другорядний, скорочення, прокручування, кулька, коліщатко, кулька прокручування, коліщатко прокручування, кулька мишки, коліщатко мишки, Mighty Mouse, Magic Mouse</string>
+				<key>title</key>
+				<string>Кнопки мишки</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локалізовувані індексні слова</string>
+				<key>index</key>
+				<string>два, три, чотири, пальці, торкнутися, прокрутити, перетягнути, торкнутися, звести, масштабувати, повернути, розвести, провести, торкання, прокручування, перетягування, торкання, масштабування, обертання, проведення, розведення, віяло</string>
+				<key>title</key>
+				<string>Жести Magic Mouse</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Локалізовувані індексні слова</string>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Масштабування мишкою</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>AlwaysAllowed</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalisierbare Indexwörter</string>
+                <key>index</key>
+                <string>Bildschirm, Zeit, immer, erlauben, Limit, Familie, Eltern, Kindersicherung, Steuerelemente, Sicherheit, Datenschutz, Kinder, Kids, einschränken, verwalten, Timer, Nachtruhe, einschränken, verwalten, überwachen, verfolgen</string>
+                <key>title</key>
+                <string>Dauerhaft erlaubte Apps in „Bildschirmzeit“ auswählen</string>
+            </dict>
+        </array>
+    </dict>
+    <key>CommunicationLimit</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalisierbare Indexwörter</string>
+                <key>index</key>
+                <string>Bildschirm, Zeit, Kommunikation, Kontakt, Telefon, Text, SMS, Nachricht, Mitteilung, FaceTime, Limit, hinzufügen, erstellen, anwenden, Familie, Eltern, Kindersicherung, Steuerung, Sicherheit, Datenschutz, Kinder, Kids, einschränken, verwalten, Timer, Nachtruhe, Einschränkung, Verwaltung</string>
+                <key>title</key>
+                <string>Kommunikationslimits in „Bildschirmzeit“ festlegen</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>Bildschirm, Zeit, Kommunikation, Kontakt, Telefon, Text, SMS, Nachricht, Mitteilung, FaceTime, Limit, hinzufügen, erstellen, anwenden, Familie, Eltern, Kindersicherung, Steuerung, Sicherheit, Datenschutz, Kinder, Kids, einschränken, verwalten, Timer, Nachtruhe, Einschränkung, Verwaltung</string>
+                <key>title</key>
+                <string>Kommunikationslimits in „Bildschirmzeit“ ändern</string>
+            </dict>
+        </array>
+    </dict>
+    <key>ContentAndPrivacy</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalisierbare Indexwörter</string>
+                <key>index</key>
+                <string>Bildschirm, Zeit, Inhalt, Datenschutz, Limit, Eltern, Kindersicherung, Sicherheit, Kinder, Kids, einschränken, verwalten, Timer, Nachtruhe, Einschränkung, Verwaltung, Lexikon, ungeeignet, fluchen, pöbeln, Kraftausdrücke, anstößig, schlecht, Sprache, obszön, Obszönität, Wörter, pornografisch, Schimpfwort, vulgär, 4-Buchstaben, gefiltert, filtern, ungefiltert, nicht gefiltert</string>
+                <key>title</key>
+                <string>Einstellungen für Inhalt und Datenschutz in „Bildschirmzeit“ auswählen</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>Bildschirm, Zeit, Kindersicherung, Steuerelemente, Limits, anstößig, Inhalt, Websites, Kind, Kinder, beschränken</string>
+                <key>title</key>
+                <string>Anstößigen Inhalt beschränken</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyNotifications</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalisierbare Indexwörter</string>
+                <key>index</key>
+                <string>Bildschirm, Zeit, Tag, täglich, Nutzung, Mitteilungen</string>
+                <key>title</key>
+                <string>Den täglichen Mitteilungsbericht in „Bildschirmzeit“ anzeigen</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyPickups</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalisierbare Indexwörter</string>
+                <key>index</key>
+                <string>Bildschirm, Zeit, Tag, täglich, Aktivierungen</string>
+                <key>title</key>
+                <string>Bericht über die täglichen Geräteaktivierungen in „Bildschirmzeit“ anzeigen</string>
+            </dict>
+        </array>
+    </dict>
+    <key>DailyUsage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalisierbare Indexwörter</string>
+                <key>index</key>
+                <string>Bildschirm, Zeit, Woche, wöchentlich, Nutzung, Bericht, überwachen, verfolgen, Kind, Kinder, Apps</string>
+                <key>title</key>
+                <string>Bericht über die tägliche App-Nutzung in „Bildschirmzeit“ anzeigen</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Downtime</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalisierbare Indexwörter</string>
+                <key>index</key>
+                <string>Bildschirm, Zeit, Nutzung, Limit, Auszeit, Familie, Eltern, Kindersicherung, Steuerung, Sicherheit, Datenschutz, Schutz, Kinder, Kids, einschränken, verwalten, Zugriffszeiten, Timer, Schlafenszeit, Schule, nachts, Nacht, Sperrzeit, Einschränkung, Verwaltung</string>
+                <key>title</key>
+                <string>Auszeiten in „Bildschirmzeit“ festlegen</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Options</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalisierbare Indexwörter</string>
+                <key>index</key>
+                <string>Bildschirm, Zeit, Einstellungen, Option, Limit, Familie, Eltern, Kindersicherung, Steuerung, Sicherheit, Kinder, Kids, einschränken, verwalten, Timer, Nachtruhe, Einschränkung, Verwaltung</string>
+                <key>title</key>
+                <string>Bildschirmzeit aktivieren oder deaktivieren</string>
+            </dict>
+            <dict>
+                <key>index</key>
+                <string>Bildschirm, Kindersicherung, Steuerelemente, Optionen, Limit, Limits, Passwort, Code</string>
+                <key>title</key>
+                <string>Bildschirmzeit-Code festlegen</string>
+            </dict>
+        </array>
+    </dict>
+    <key>Requests</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalisierbare Indexwörter</string>
+                <key>index</key>
+                <string>Bildschirm, Zeit, Anfrage, erlauben, genehmigen, nicht genehmigen, Limit, Familie, Eltern, Kindersicherung, Steuerung, Sicherheit, Datenschutz, Kinder, Kids, einschränken, verwalten, Timer, Nachtruhe, Einschränkung, Verwaltung</string>
+                <key>title</key>
+                <string>„Anfragen für Bildschirmzeit“ anzeigen</string>
+            </dict>
+        </array>
+    </dict>
+    <key>ViewUsageLimit</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalisierbare Indexwörter</string>
+                <key>index</key>
+                <string>Bildschirm, Zeit, Nutzung, App, Limit, hinzufügen, erstellen, anwenden, Familie, Eltern, Kindersicherung, Steuerung, Sicherheit, Datenschutz, Kinder, Kids, einschränken, verwalten, Timer, Nachtruhe, Einschränkung, Verwaltung</string>
+                <key>title</key>
+                <string>App-Limits in „Bildschirmzeit“ auswählen</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyNotifications</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalisierbare Indexwörter</string>
+                <key>index</key>
+                <string>Bildschirm, Zeit, Woche, wöchentlich, Nutzung, Mitteilungen, Kindersicherung, Steuerelemente</string>
+                <key>title</key>
+                <string>Den wöchentlichen Mitteilungsbericht in „Bildschirmzeit“ anzeigen</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyPickups</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalisierbare Indexwörter</string>
+                <key>index</key>
+                <string>Bildschirm, Zeit, Woche, wöchentlich, Aktivierungen, Kindersicherung, Steuerelemente</string>
+                <key>title</key>
+                <string>Bericht über die wöchentlichen Geräteaktivierungen in „Bildschirmzeit“ anzeigen</string>
+            </dict>
+        </array>
+    </dict>
+    <key>WeeklyUsage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalisierbare Indexwörter</string>
+                <key>index</key>
+                <string>Bildschirm, Zeit, Woche, wöchentlich, Nutzung, Bericht, überwachen, verfolgen, Kind, Kinder, Apps, Kindersicherung, Steuerelemente</string>
+                <key>title</key>
+                <string>Bericht über die wöchentliche App-Nutzung in „Bildschirmzeit“ anzeigen</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

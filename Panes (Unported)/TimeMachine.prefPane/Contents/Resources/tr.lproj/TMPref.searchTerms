@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>yedekleme, arşiv, şifrele, şifreleme, şifreli, şifrelemek, sabit, disk, diskler, sürücüler, disk bölümleri, veri, bilgiler, klasörler, kaybetmek, kayıp, eksik, kaza, felaket, silme, sil, kurtarma, arşivleme, kaybetme, kayıp etme, kaybettim, sildim, silindi, silinmiş, geri yükleme, kurtar, backup, archive, encrypt, encryption, encrypted, encrypting, hard, disks, discs, drives, volumes, data, information, folders, lose, loss, missing, accident, disaster, erase, delete, recover, archiving, losing, lost, erasing, erased, deleting, deleted, restoring, recovering</string>
+				<key>title</key>
+				<string>Dosyaları yedekle ve geri yükle</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

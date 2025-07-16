@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displaysArrangementTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Palavras localizáveis do índice</string>
+				<key>index</key>
+				<string>telas, monitores, espelhar, espelhado, espelhamento, organizar, organização, screens, monitors, mirror, mirrored, mirroring, arranging, arrangement</string>
+				<key>title</key>
+				<string>Organizar múltiplas telas</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palavras localizáveis do índice</string>
+				<key>index</key>
+				<string>barra de menus, menubar</string>
+				<key>title</key>
+				<string>Reposicionar a barra de menus</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysColorTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Palavras localizáveis do índice</string>
+				<key>index</key>
+				<string>displays, telas, monitores, calibrar, ajustar, clarear, aumentar o brilho, escurecer, diminuir o brilho, ponto branco, gama, luz ambiente, perfis, calibragem, ajustando, ajustes, escurecendo, displays, screens, monitors, calibrate, adjust, lighten, brighten, dim, darken, white point, gamma, ambient light, profiles, calibrating, adjusting, adjustments, dimming</string>
+				<key>title</key>
+				<string>Cores e calibragem da tela</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysDisplayTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Palavras localizáveis do índice</string>
+				<key>index</key>
+				<string>displays, telas, monitores, profundidade, milhões, milhares, 256, ColorSync, ajustar, clarear, aumentar o brilho, escurecer, diminuir o brilho, ajustando, ajustes, escurecendo, true tone, displays, screens, monitors, depth, millions, thousands, 256, ColorSync, adjust, lighten, brighten, dim, darken, adjusting, adjustments, dimming, true tone</string>
+				<key>title</key>
+				<string>Cores, brilho e resolução</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palavras localizáveis do índice</string>
+				<key>index</key>
+				<string>displays, telas, monitores, displays, screens, monitors</string>
+				<key>title</key>
+				<string>Taxa de atualização da tela</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palavras localizáveis do índice</string>
+				<key>index</key>
+				<string>telas, monitores, screens, monitors</string>
+				<key>title</key>
+				<string>Detectar múltiplas telas</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palavras localizáveis do índice</string>
+				<key>index</key>
+				<string>barra de menus, menubar</string>
+				<key>title</key>
+				<string>Mostrar telas na barra de menus</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palavras localizáveis do índice</string>
+				<key>index</key>
+				<string>girar, rotação, rotate, rotation</string>
+				<key>title</key>
+				<string>Rotação da tela</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palavras localizáveis do índice</string>
+				<key>index</key>
+				<string>AirPlay</string>
+				<key>title</key>
+				<string>Opções de espelhamento do AirPlay</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysGeometryTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Palavras localizáveis do índice</string>
+				<key>index</key>
+				<string>posição, altura, largura, suporte, girar, base, paralelogramo, curvar, canto curvado, inclinado, geometria, dimensões, position, height, width, pincushion, rotate, keystone, parallelogram, bow, corner curve, skewed, geometry, dimensions</string>
+				<key>title</key>
+				<string>Imagem da tela</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palavras localizáveis do índice</string>
+				<key>index</key>
+				<string>rgb, ajustar, alinhar, ajustando, ajuste, alinhando, alinhamento, rgb, adjust, align, adjusting, adjustment, aligning, alignment</string>
+				<key>title</key>
+				<string>Convergência da imagem</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palavras localizáveis do índice</string>
+				<key>index</key>
+				<string>estático, redefinir, piscar, interferência, piscando, static, reset, flicker, interference, flickering</string>
+				<key>title</key>
+				<string>Desmagnetizar</string>
+			</dict>
+		</array>
+	</dict>
+	<key>displaysNightShiftTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Palavras localizáveis do índice</string>
+				<key>index</key>
+				<string>noite, turno, turno noturno, escurecer, quente, cor quente, espectro, dormir, temperatura, pôr do sol, nascer do sol, escurecendo, night, shift, night shift, dim, warm, warm color, spectrum, sleep, temperature, sunset, sunrise, dimming</string>
+				<key>title</key>
+				<string>Opções do Night Shift</string>
+			</dict>
+		</array>
+	</dict>
+	<key>universalControlTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Palavras localizáveis do índice</string>
+				<key>index</key>
+				<string>universal, control</string>
+				<key>title</key>
+				<string>Controle Universal</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

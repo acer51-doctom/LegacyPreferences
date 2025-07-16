@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>Dock</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>prispôsobiť, control strip, panel nástrojov, zmeniť veľkosť, väčšia, menšia, pozícia, plocha, vpravo, vľavo, dolu, hrany, začínať, skákať, škála, animovať, džin, skryť, zobraziť, zväčšiť, minimalizovať, maximalizovať, rozšíriť, väčšia, prispôsobená, prispôsobenie, kontrolné vlákno, panel nástrojov, zmenil veľkosť, zmena veľkosti, umiestňovanie, začínanie, skákanie, normovanie, animovanie, animácia, ukrývanie, skrytý, zobrazovanie, zobrazený, zväčšovanie, zväčšenie, minimalizovaný, minimalizovanie, zväčšený, zväčšovanie, rozširovanie, dokumenty, otvoriť, otvorenie, automaticky, lišta</string>
+                    <key>title</key>
+                    <string>Nastavenia Docku</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>automaticky, skryť, zobraziť, dock</string>
+                    <key>title</key>
+                    <string>Automaticky skrývať a zobrazovať Dock</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>automaticky, skryť, zobraziť, lišta</string>
+                    <key>title</key>
+                    <string>Automaticky skrývať a zobrazovať lištu na ploche</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>automaticky, skryť, zobraziť, lišta</string>
+                    <key>title</key>
+                    <string>Automaticky skrývať a zobrazovať lištu v režime zobrazenia na celej obrazovke</string>
+                </dict>
+            </array>
+        </dict>
+        <key>AccessibilityShortcuts</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>skratky prístupnosti, zobraziť, skryť, lišta</string>
+                    <key>title</key>
+                    <string>Zobraziť skratky prístupnosti v lište</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>skratky prístupnosti, zobraziť, ovládacie centrum</string>
+                    <key>title</key>
+                    <string>Zobraziť skratky prístupnosti v ovládacom centre</string>
+                </dict>
+            </array>
+        </dict>
+        <key>AirDrop</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>bluetooth, zobraziť, skryť, lišta</string>
+                    <key>title</key>
+                    <string>Zobraziť stav AirDropu v lište</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Battery</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>batéria, nabíjanie, nabitie, zobraziť, skryť, lišta</string>
+                    <key>portableOnly</key><true/>
+                    <key>title</key>
+                    <string>Zobraziť stav batérie v lište</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>batéria, nabíjanie, nabitie, zobraziť, skryť, ovládacie centrum</string>
+                    <key>portableOnly</key><true/>
+                    <key>title</key>
+                    <string>Zobraziť stav batérie v ovládacom centre</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>batéria, percent, percentá, zobraziť, skryť, lišta</string>
+                    <key>portableOnly</key><true/>
+                    <key>title</key>
+                    <string>Zobraziť percentá batérie v lište</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Bluetooth</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>bluetooth, zobraziť, skryť, lišta</string>
+                    <key>title</key>
+                    <string>Zobraziť stav Bluetooth v lište</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Clock</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>hodiny, dátum, čas, zobraziť, skryť, lišta</string>
+                    <key>title</key>
+                    <string>Zobrazovať deň v týždni v lište</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>hodiny, dátum, čas, zobraziť, skryť, lišta</string>
+                    <key>title</key>
+                    <string>Zobrazovať dátum v lište</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>24, dvadsaťštyri, 24-hodinový, hodiny, dátum, čas, zobraziť, skryť, lišta</string>
+                    <key>title</key>
+                    <string>Použiť 24-hodinový čas v lište</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>AM, am, PM, pm, dopoludnia, odpoludnia, popoludní, doobeda, poobede, hodiny, dátum, čas, zobraziť, skryť, lišta</string>
+                    <key>title</key>
+                    <string>Zobrazovať AM/PM v lište</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>blikajúce, pulzujúce, oddeľovače, sekunda, sekundy, hodiny, čas, zobraziť, skryť, lišta</string>
+                    <key>title</key>
+                    <string>Blikajúce oddeľovače času v lište</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>sekunda, sekundy, hodiny, čas, zobraziť, skryť, lišta</string>
+                    <key>title</key>
+                    <string>S časom v lište zobrazovať aj sekundy</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>hlas, oznámiť, oznamovať, hodina, pol hodiny, polhodina, polhodiny, štvrť hodiny, štvrťhodina, štvrťhodiny, hodiny, čas</string>
+                    <key>title</key>
+                    <string>Oznámiť čas</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Display</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>displej, jas, Sidecar, zobraziť, skryť, lišta</string>
+                    <key>title</key>
+                    <string>Zobraziť displeje v lište</string>
+                </dict>
+            </array>
+        </dict>
+        <key>DoNotDisturb</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>nerušiť, zobraziť, skryť, lišta</string>
+                    <key>title</key>
+                    <string>Zobraziť stav režimu Nerušiť v lište</string>
+                </dict>
+            </array>
+        </dict>
+        <key>FocusModes</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>sústredenie, môj čas, nerušiť, zobraziť, skryť, lišta</string>
+                    <key>title</key>
+                    <string>Zobraziť stav Môjho času v lište</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Hearing</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>sluch, zobraziť, skryť, lišta</string>
+                    <key>title</key>
+                    <string>Zobraziť Sluch v lište</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>sluch, zobraziť, ovládacie centrum</string>
+                    <key>title</key>
+                    <string>Zobraziť Sluch v Ovládacom centre</string>
+                </dict>
+            </array>
+        </dict>
+        <key>KeyboardBrightness</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>klávesnica, jas, podsvietenie, zobraziť, skryť, lišta</string>
+                    <key>portableOnly</key><true/>
+                    <key>title</key>
+                    <string>Zobraziť stav podsvietenia klávesnice v lište</string>
+                </dict>
+            </array>
+        </dict>
+        <key>NowPlaying</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>práve hrá, hudba, médiá, ovládacie prvky, ovládanie, ovládač, prehrať, prehrávanie, zobraziť, skryť, lišta</string>
+                    <key>title</key>
+                    <string>Zobraziť stav funkcie Práve hrá v lište</string>
+                </dict>
+            </array>
+        </dict>
+        <key>ScreenMirroring</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>zrkadlenie obrazovky, AirPlay, zobraziť, skryť, lišta</string>
+                    <key>title</key>
+                    <string>Zobraziť stav zrkadlenia obrazovky v lište</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Sound</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>zvuk, hlasitosť, zobraziť, skryť, lišta</string>
+                    <key>title</key>
+                    <string>Zobraziť hlasitosť v lište</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Siri</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>siri, zobraziť, skryť, lišta</string>
+                    <key>title</key>
+                    <string>Zobraziť Siri v lište</string>
+                </dict>
+            </array>
+        </dict>
+        <key>Spotlight</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>spotlight, zobraziť, skryť, lišta</string>
+                    <key>title</key>
+                    <string>Zobraziť Spotlight v lište</string>
+                </dict>
+            </array>
+        </dict>
+        <key>TimeMachine</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>time machine, zálohy, zobraziť, skryť, lišta</string>
+                    <key>title</key>
+                    <string>Zobraziť stav Time Machine v lište</string>
+                </dict>
+            </array>
+        </dict>
+        <key>WiFi</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>wifi, wi‑fi, zobraziť, skryť, lišta</string>
+                    <key>title</key>
+                    <string>Zobraziť stav Wi‑Fi v lište</string><!-- NON-BREAKING HYPHEN (U+2011) -->
+                </dict>
+            </array>
+        </dict>
+        <key>UserSwitcher</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>index</key>
+                    <string>rýchle prepínanie užívateľov, prepínač užívateľov, zobraziť, skryť, lišta</string>
+                    <key>title</key>
+                    <string>Zobraziť rýchle prepínanie užívateľov v lište</string>
+                </dict>
+                <dict>
+                    <key>index</key>
+                    <string>rýchle prepínanie užívateľov, prepínač užívateľov, zobraziť, ovládacie centrum</string>
+                    <key>title</key>
+                    <string>Zobraziť rýchle prepínanie užívateľov v ovládacom centre</string>
+                </dict>
+            </array>
+        </dict>
+    </dict>
+</plist>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DesktopPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>фотографии, фон, рабочий стол, обои, рисунок, настройка, фото, изображения, рабочий, стол, фоновый, пользовательский, пользовательская настройка</string>
+				<key>title</key>
+				<string>Рабочий стол</string>
+			</dict>
+		</array>
+	</dict>
+	<key>ScreenSaverPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>отключить, выключить, запустить, включить, альбом, обложка, iTunes, настроить, случайно, фотографии, изображения, изображение, изменить, заставки, заставка, фото, выключение, отключение, запуск, начало, пользовательский, настройка, пользовательская настройка</string>
+				<key>title</key>
+				<string>Заставка</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Показывать часы и заставку</string>
+			</dict>
+		</array>
+	</dict>
+	<key>ScreenSaverPref_HotCorners</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локализуемые ключевые слова</string>
+				<key>index</key>
+				<string>активные углы дисплея</string>
+				<key>title</key>
+				<string>Активные углы</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

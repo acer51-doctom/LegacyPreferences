@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локалізовувані індексні слова</string>
+				<key>index</key>
+				<string>відтворити, вставити, почати, запустити, завантажити, компактний, цифровий, диски, оптичний, носій, медіавміст, пустий, iTunes, музика, програвач, автовідтворення, Фотографії, зображення, фотографії, фото, iDVD, фільми, відео, відтворення, вставлення, запуск, програвання, завантаження</string>
+				<key>title</key>
+				<string>Дії після вставлення CD- та DVD-дисків</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

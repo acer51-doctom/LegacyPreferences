@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>AppleAccount</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Termes d’indexation localisables</string>
+                <key>index</key>
+                <string>iCloud, nuage, cloud, me.com, compte apple, appleid, apple, identifiant, identifiant apple, compte, contact, paiement, livraison</string>
+                <key>title</key>
+                <string>Identifiant Apple</string>
+            </dict>
+        </array>
+    </dict>
+    <key>iCloud</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Termes d’indexation localisables</string>
+                <key>index</key>
+                <string>iCloud, cloud, me.com, compte apple, localiser mon mac, stockage, documents et données, iCloud Drive, Signets, Calendriers, Contacts, Mail, Rappels, Listes de lecture, Bourse, Domicile, Safari, Notes, </string>
+                <key>title</key>
+                <string>iCloud</string>
+            </dict>
+        </array>
+    </dict>
+    <key>com.apple.AppleMediaServicesUI.SpyglassPurchases</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>comments</key>
+                <string>Termes d’indexation localisables</string>
+                <key>index</key>
+                <string>multimédia, achats, app store, services, abonnements</string>
+                <key>title</key>
+                <string>Contenu multimédia et achats</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

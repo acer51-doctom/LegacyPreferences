@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>无线, wireless, 侦测, detect, 发现, discover, discovering, 找到, find, finding, 配对, pair, 添加, add, adding, 移除, remove, removing, 设置, setup, 助理, assistant, 键盘, keyboard, 鼠标, mouse, 手机, cell, mobile, 电话, phone, 耳机, headset, headphones, 打开, on, 关闭, off, 断开, disconnect, disconnecting, 拆开, detach, detaching, 蓝牙, blue, tooth, 可被发现, discoverable</string>
+				<key>title</key>
+				<string>蓝牙设备, Bluetooth devices</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>蓝牙, blue, tooth, 菜单栏, menubar</string>
+				<key>title</key>
+				<string>在菜单栏中显示蓝牙状态, Show Bluetooth status in menu bar</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>蓝牙, blue, tooth</string>
+				<key>title</key>
+				<string>蓝牙串口, Bluetooth serial ports</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>蓝牙, blue, tooth, 声音, sound</string>
+				<key>title</key>
+				<string>蓝牙音频, Bluetooth audio</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词, Localizable index words</string>
+				<key>index</key>
+				<string>蓝牙, blue, tooth</string>
+				<key>title</key>
+				<string>蓝牙设置助理, Bluetooth Setup Assistant</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

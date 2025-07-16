@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+				<key>index</key>
+				<string>لاسلكي، اللاسلكي، اكتشف، كشف، الكشف، بحث، البحث، عثر، أقرن، أضاف، إزالة، الإزالة، إعداد، الإعداد، إعدادات، الإعدادات، مساعد، المساعدة، لوحة مفاتيح، لوحة المفاتيح، لوحات المفاتيح، ماوس، الماوس، خلية، الخلية، جوال، الجوال، محمول، المحمول، هاتف، الهاتف، تليفون، التليفون، سماعة رأس، سماعة الرأس، سماعات رأس، سمعات الرأس، تشغيل، التشغيل، إيقاف، الإيقاف، قطع اتصال، قطع الاتصال، فصل، الفصل، Bluetooth، إضافة، الإضافة، إزالة، الإزالة، اكتشاف، الاكتشاف، إكتشاف، الإكتشاف، يمكن اكتشافه، قابل للإكتشاف، بحث، البحث، عثور، العثور، بلوتوث، البلوتوث، wireless، detect، discover، find، pair، add، remove، setup، assistant، keyboard، mouse، cell، mobile، phone، headset، headphones، on، off، disconnect، detach، blue، tooth، adding، removing، disconnecting، detaching، discovering، discoverable، finding</string>
+				<key>title</key>
+				<string>أجهزة Bluetooth</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+				<key>index</key>
+				<string>‏blue ، tooth، شريط القائمة، شريط القوائم، بلو، توث، blue، tooth، menubar</string>
+				<key>title</key>
+				<string>إظهار حالة Bluetooth في شريط القائمة، إظهار حالة الـ Bluetooth في شريط القائمة، إظهار حالة بلوتوث في شريط القائمة، إظهار حالة البلوتوث في شريط القائمة</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+				<key>index</key>
+				<string>بلو، توث، blue، tooth</string>
+				<key>title</key>
+				<string>منافذ Bluetooth التسلسلية، منفذ Bluetooth التسلسلي، منافذ بلوتوث التسلسلية، منافذ البلوتوث التسلسلية، المنافذ التسلسلية للبلوتوث، منافذ تسلسلية للبلوتوث</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+				<key>index</key>
+				<string>‏blue ، tooth، صوت، الصوت، أصوات، الأصوات، بلو، توث، blue، tooth، sound</string>
+				<key>title</key>
+				<string>صوت Bluetooth، الصوت الـ Bluetooth، صوت بلوتوث، الصوت البلوتوث</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>كلمات الفهرس القابلة للترجمة، كلمات فهرس قابلة للترجمة، كلمة الفهرس القابلة للترجمة، كلمة فهرس قابلة للترجمة</string>
+				<key>index</key>
+				<string>بلو، توث، blue، tooth</string>
+				<key>title</key>
+				<string>مساعد إعداد Bluetooth، مساعد الإعداد لـ Bluetooth، مساعد إعداد البلوتوث، مساعد إعداد بلوتوث</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>sans fil, détection, détecter, trouver, chercher, découverte, découvrir, jumeler, jumelage, ajouter, supprimer, enlever, configurer, configuration, réglages, assistant, clavier, souris, portable, mobile, cellulaire, téléphone, casque d’écoute, écouteurs, activé, désactivé, allumé, éteint, déconnecter, détacher, blue, tooth, ajout, suppression, déconnexion, détachement, détectable, recherche</string>
+				<key>title</key>
+				<string>Appareils Bluetooth</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>blue, tooth, barre des menus</string>
+				<key>title</key>
+				<string>Afficher l’état Bluetooth dans la barre des menus</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>blue, tooth</string>
+				<key>title</key>
+				<string>Ports série Bluetooth</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>blue, tooth, son</string>
+				<key>title</key>
+				<string>Audio Bluetooth</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Termes d’indexation localisables</string>
+				<key>index</key>
+				<string>blue, tooth</string>
+				<key>title</key>
+				<string>Assistant réglages Bluetooth</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

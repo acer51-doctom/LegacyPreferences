@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Region</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Localisable index words</string>
+				<key>index</key>
+				<string>regional, international, measurement, units, styles, metric, calendars, Gregorian, Buddhist, Hebrew, Islamic, Japanese, Chinese, Coptic, Ethiopic, Indian, Persian, Republic of China, customise, customised, customising, customisation, locale, temperature</string>
+				<key>title</key>
+				<string>Number, date and time formats</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Localisable index words</string>
+				<key>index</key>
+				<string>money</string>
+				<key>title</key>
+				<string>Currency designation</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Localisable index words</string>
+				<key>index</key>
+				<string>Internet Services, mail, contacts</string>
+				<key>title</key>
+				<string>Region for Internet Services</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Language</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Localisable index words</string>
+				<key>index</key>
+				<string>languages, customise, international, customised, customising, customisation, sorting, term of address, feminine, masculine, neuter, Live Text, select text in images</string>
+				<key>title</key>
+				<string>Language preference and priority</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Translation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Localisable index words</string>
+				<key>index</key>
+				<string>translate, translation</string>
+				<key>title</key>
+				<string>Translation Languages</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

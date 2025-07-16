@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Dictation</key>
+	<dict/>
+	<key>Siri</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Localisable index words</string>
+				<key>index</key>
+				<string>Siri, assistant, dock, hot key, icon, key, listen, listening, language, menu bar, mic, mike, microphone, recognise, recognition, recognising, sound, speak, speaking, speech, shortcuts, talk, talking, voice, wave</string>
+				<key>title</key>
+				<string>Siri</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Localisable index words</string>
+				<key>index</key>
+				<string>activate, deactivate, disable, enable, silence, stop, turn off, turn on</string>
+				<key>title</key>
+				<string>Turn Siri on and off</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

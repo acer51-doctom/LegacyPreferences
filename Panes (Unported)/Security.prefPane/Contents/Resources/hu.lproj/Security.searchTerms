@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Advanced</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>infravörös, infrared, vevő, IR, IV, infra</string>
+				<key>title</key>
+				<string>A távoli vezérlés kikapcsolása</string>
+			</dict>
+		</array>
+	</dict>
+	<key>FDE</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizálható indexszavak</string>
+				<key>index</key>
+				<string>lemez, titkosítás, titkosít, titkosított, titkosító, file vault, filevault</string>
+				<key>title</key>
+				<string>FileVault</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Firewall</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizálható indexszavak</string>
+				<key>index</key>
+				<string>meggátol, megakadályoz, blokkol, hálózat, portok, udp, fájlmegosztás, távoli, SSH, megakadályozás, meggátolás, meggátlás, megakadályozó, meggátoló, meggátló, blokkolt, blokkoló, tűz fal, tűzfal</string>
+				<key>title</key>
+				<string>Tűzfal be- vagy kikapcsolása</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizálható indexszavak</string>
+				<key>index</key>
+				<string>tűz fal</string>
+				<key>title</key>
+				<string>Tűzfal haladó beállításai</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizálható indexszavak</string>
+				<key>index</key>
+				<string>stealthmode</string>
+				<key>title</key>
+				<string>Lopakodó mód</string>
+			</dict>
+		</array>
+	</dict>
+	<key>General</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+            <dict>
+                <key>comments</key>
+                <string>Lokalizálható indexszavak</string>
+                <key>index</key>
+                <string>apple watch, watch, feloldás, jóváhagyás</string>
+                <key>title</key>
+                <string>A Mac feloldásának engedélyezése az Apple Watchnak</string>
+            </dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizálható indexszavak</string>
+				<key>index</key>
+				<string>képernyő, védő, jelszó, hitelesít, hitelesítés, zár, véd, zárol, lakat, nyit, felold, megnyit, altat, elaltat, alvás, elalvás, felébred, felébreszt, ébred, ébreszt, képernyővédő, képernyő védő, jel szó, hitelesített, hiteles, hitelesítő, védett, zárolt, lezárt, zárolva, védelem, zárolás, lezárás, feloldott, megnyitott, feloldás, megnyitás, feloldó, megnyitó, alvó, elalvó, ébredő, felébredő</string>
+				<key>title</key>
+				<string>Jelszó igénylése a számítógép felébresztéséhez</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizálható indexszavak</string>
+				<key>index</key>
+				<string>belép, bejelentkezik, belépés, bejelentkezés, be, automatikus, automatikus</string>
+				<key>title</key>
+				<string>Automatikus bejelentkezés kikapcsolása</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizálható indexszavak</string>
+				<key>index</key>
+				<string>zár, lakat, lezár, véd, zárol, felold, megnyit, zárás, zárolás, lezárás, feloldás, megnyitás</string>
+				<key>title</key>
+				<string>Rendszerbeállítások zárolása</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizálható indexszavak</string>
+				<key>index</key>
+				<string>kilép, kilépés, kijelentkezik, kijelentkezés, jelentkezés, lépés</string>
+				<key>title</key>
+				<string>Tétlenség esetén kijelentkezés</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizálható indexszavak</string>
+				<key>index</key>
+				<string>biztonság, biztonságos, biztos, véd, védelem, védett, védés, levédés</string>
+				<key>title</key>
+				<string>Biztonsági beállítások</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Képernyő zárolása</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>Gatekeeper, kapu, biztonság, azonosított, fejlesztők, alkalmazások, letöltések</string>
+				<key>title</key>
+				<string>Gatekeeper</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizálható indexszavak</string>
+				<key>index</key>
+				<string>privát, adatvédelem</string>
+				<key>title</key>
+				<string>Adatvédelmi beállítások</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Accessibility</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>kisegítő lehetőségek</string>
+				<key>title</key>
+				<string>A Kisegítő lehetőségek elérésének engedélyezése appok számára</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_AllFiles</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Fájlok</string>
+				<key>title</key>
+				<string>Az összes felhasználói fájl elérésének engedélyezése az appok számára</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Assistive</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>univerzális, hozzáférés, kisegítő lehetőségek, letiltva, rokkant, csökkent képességű, fogyatékkal élő, korlátozott, asszisztív, kisegítő, kisegítő vezérlés, mobilitás, kerekesszék</string>
+				<key>title</key>
+				<string>A számítógép vezérlésének engedélyezése a kisegítő appok számára</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Calendars</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Naptárak, dátumok</string>
+				<key>title</key>
+				<string>A Naptár elérésének engedélyezése appok számára</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Camera</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>kamera, app, hozzáférés, privát, adatvédelem</string>
+				<key>title</key>
+				<string>A kamera elérésének engedélyezése az appok számára</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Contacts</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>kontakt, cím, app, elérés, privát, adatvédelem</string>
+				<key>title</key>
+				<string>A kontaktok elérésének engedélyezése appok számára</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_SystemServices</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>hely, helyzet, szolgáltatás, idő, zóna, hozzáférés, elérés, hirdetések, mac keresése, otthon, homekit, spotlight, adatvédelem</string>
+				<key>title</key>
+				<string>A helyzete meghatározásának engedélyezése a rendszerszolgáltatásoknak</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_LocationServices</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>helyzet, szolgáltatás, app, elérés, privát, adatvédelem</string>
+				<key>title</key>
+				<string>A helyzet elérésének engedélyezése appok számára</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Microphone</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>mikrofon, app, hozzáférés, privát, adatvédelem</string>
+				<key>title</key>
+				<string>A mikrofon elérésének engedélyezése az appok számára</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Reminders</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Emlékeztetők, teendő</string>
+				<key>title</key>
+				<string>Az Emlékeztetők elérésének engedélyezése appok számára</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>currentSource</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>ถนอมแบตเตอรี่</string>
+                <key>index</key>
+                <string>จอภาพ, หน้าจอ, จอ, สว่างขึ้น, สลัว, พักเครื่อง, ปลุก, ปิดเครื่อง, เริ่มต้น, ไฟเลี้ยงเครื่อง, เปิด, ปิด, ไฟฟ้า, รักษาสิ่งแวดล้อม, บันทึก, การอนุรักษ์, สงวน, สิ่งแวดล้อม, ชาร์จ, เสียบปลั๊ก, ถอดปลั๊ก, เพิ่มประสิทธิภาพ, ประสิทธิภาพ, หน่วยประมวลผล, อัตโนมัติ, ความสว่าง, ดำ, ว่าง, มืดลง, สลัวลง, กำลังสลัวลง, กำลังพักเครื่อง, พักเครื่อง, กำลังปลุก, ปลุก, ปลุกแล้ว, การปลุก, ปิด, กำลังปิด, กำลังเปิด, การเปลี่ยน, การเปิด, การปิด, กำลังเปิดใช้, กำลังปิดใช้, ประหยัด, การอนุรักษ์, การสงวน, ชาร์จแล้ว, กำลังชาร์จ, เสียบปลั๊กแล้ว, กำลังเสียบปลั๊ก, ถอดปลั๊กแล้ว, กำลังถอดปลั๊ก, การถอดปลั๊ก, เพิ่มประสิทธิภาพแล้ว, กำลังเพิ่มประสิทธิภาพ, การเพิ่มประสิทธิภาพ, อัตโนมัติแล้ว, กำลังเป็นแบบอัตโนมัติ, แบบอัตโนมัติ, ปรับการสตรีมวิดีโอให้เหมาะสม, การชาร์จเพื่อถนอมแบตเตอรี่, อะแดปเตอร์, สาย, ปลั๊ก, การสลับกราฟิกอัตโนมัติ</string>
+                <key>comments</key>
+                <string>คำแปลดัชนี</string>
+            </dict>
+            <dict>
+                <key>title</key>
+                <string>แสดงสถานะแบตเตอรี่ในแถบเมนู</string>
+                <key>index</key>
+                <string>แถบเมนู</string>
+                <key>comments</key>
+                <string>คำแปลดัชนี</string>
+            </dict>
+            <dict>
+                <key>title</key>
+                <string>Power Nap</string>
+                <key>index</key>
+                <string>power nap, powernap</string>
+                <key>comments</key>
+                <string>คำแปลดัชนี</string>
+            </dict>
+        </array>
+    </dict>
+    <key>usage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>ประวัติการใช้งานแบตเตอรี่</string>
+                <key>index</key>
+                <string>ระดับแบตเตอรี่, เวลาใช้งานตอนเปิดหน้าจอ, การใช้พลังงาน</string>
+                <key>comments</key>
+                <string>คำแปลดัชนี</string>
+            </dict>
+        </array>
+    </dict>
+    <key>battery</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>สุขภาพแบตเตอรี่</string>
+                <key>index</key>
+                <string>บริการแบตเตอรี่, ความจุสูงสุด, อายุการใช้งานแบตเตอรี่, ข้อความสำคัญเกี่ยวกับแบตเตอรี่, สภาพแบตเตอรี่</string>
+                <key>comments</key>
+                <string>คำแปลดัชนี</string>
+            </dict>
+        </array>
+    </dict>
+    <key>adapter</key>
+    <dict/>
+    <key>ups</key>
+    <dict/>
+    <key>schedule</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>เริ่มต้น พักเครื่อง หรือปิดเครื่องตามกำหนดการ</string>
+                <key>index</key>
+                <string>พักเครื่อง, ปลุก, เริ่มต้น, ไฟเลี้ยงเครื่อง, เปิด, ปิด, อัตโนมัติ, ที่มีกำหนดการไว้, กำลังจัดกำหนดการ, กำลังพัก, พักเครื่อง, กำลังปลุก, ปลุก, ปลุกแล้ว, การปลุก, กำลังปิด, กำลังเปิด, หมุน, กำลังหมุน, อัตโนมัติแล้ว, กำลังเป็นแบบอัตโนมัติ, แบบอัตโนมัติ</string>
+                <key>comments</key>
+                <string>คำแปลดัชนี</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

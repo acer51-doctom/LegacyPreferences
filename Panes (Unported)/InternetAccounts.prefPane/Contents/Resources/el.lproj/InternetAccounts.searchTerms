@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>InternetAccounts</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>λογαριασμός, λογαριασμοί, χρήστης, χρήστες, όνομα, ονόματα, όνομα χρήστη, όνομα χρήστη, είσοδος, σύνδεση, εγγραφή, αποσύνδεση, έξοδος, συνθηματικό, συνθηματικά, κωδικός πρόσβασης, κωδικοί πρόσβασης, κωδικός, λέξη, λέξεις, έλεγχος ταυτότητας, πιστοποίηση, iCloud, Apple ID, συνδρομητής, συνδρομή, μέλος, Mail, iCal, ημερολόγιο, Βιβλίο διευθύνσεων, βιβλίο διευθύνσεων, επαφές, iChat, μηνύματα, email, CalDAV, CardDAV, LDAP, IMAP, σημειώσεις, υπενθυμίσεις, υπομνήσεις</string>
+				<key>title</key>
+				<string>Λογαριασμοί Διαδικτύου</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>ροή φωτογραφιών</string>
+				<key>title</key>
+				<string>Ροή φωτογραφιών</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>εύρεση mac</string>
+				<key>title</key>
+				<string>Εύρεση Mac</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.126</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>126</string>
+				<key>title</key>
+				<string>Διαμόρφωση λογαριασμού 126.com</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.163</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>163</string>
+				<key>title</key>
+				<string>Διαμόρφωση λογαριασμού 163.com</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.Exchange</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>exchange</string>
+				<key>title</key>
+				<string>Διαμόρφωση λογαριασμού Exchange</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.Google</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>google, gmail, googlemail</string>
+				<key>title</key>
+				<string>Διαμόρφωση λογαριασμού Google</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.Yahoo</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>yahoo, ymail</string>
+				<key>title</key>
+				<string>Διαμόρφωση λογαριασμού Yahoo!</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.aol</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>aol, aim</string>
+				<key>title</key>
+				<string>Διαμόρφωση λογαριασμού AOL</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.account.qq</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>qq</string>
+				<key>title</key>
+				<string>Διαμόρφωση λογαριασμού QQ.com</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

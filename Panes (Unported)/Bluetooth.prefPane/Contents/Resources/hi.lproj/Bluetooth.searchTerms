@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>वायरलेस, पता लगाएँ, खोजें, ढूँढें, पेयर करें, जोड़ें, हटाएँ, सेटअप, सहायक, कीबोर्ड, माउस, मोबाइल, मोबाइल, फ़ोन, हेडसेट, हेडफ़ोन, चालू, बंद, डिस्कनेक्ट करें, अलग करें, ब्लू, टूथ, जोड़ा जा रहा है, हटाया जा रहा है, डिस्कनेक्ट किया जा रहा है, अलग किया जा रहा है, खोजा जा रहा है, खोजने योग्य, ढूँढा जा रहा है,</string>
+				<key>title</key>
+				<string>Bluetooth डिवाइस</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>ब्लू, टूथ, मेनूबार</string>
+				<key>title</key>
+				<string>मेनू बार में Bluetooth स्टेटस दिखाएँ</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>ब्लू, टूथ</string>
+				<key>title</key>
+				<string>Bluetooth शृंखला पोर्ट</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>ब्लू, टूथ, ध्वनि</string>
+				<key>title</key>
+				<string>Bluetooth ऑडियो</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>ब्लू, टूथ</string>
+				<key>title</key>
+				<string>Bluetooth सेटअप सहायक</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

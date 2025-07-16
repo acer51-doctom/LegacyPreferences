@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DesktopPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>fotoğraflar, arka plan, arkaplan, masaüstü, duvar kâğıdı, duvar kağıdı, desen, özelleştir, foto, resimler, masa, üstü, duvar, kâğıt, kağıt, özelleştirilmiş, özelleştirme, özel, photographs, background, desktop, wallpaper, pattern, customize, photos, pictures, desk, top, wall, paper, customized, customizing, customization</string>
+				<key>title</key>
+				<string>Masaüstü resmi</string>
+			</dict>
+		</array>
+	</dict>
+	<key>ScreenSaverPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>etkisizleştir, başlat, albüm, iTunes, sanat eseri, rasgele, fotoğraflar, resimler, özelleştir, ekran koruyucular, foto, etkisizleştirme, başlatma, özelleştirilmiş, özelleştirme, özel, disable, start, album, artwork, random, photographs, pictures, customize, screensavers, photos, disabling, starting, customized, customizing, customization</string>
+				<key>title</key>
+				<string>Ekran koruyucu</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Ekran koruyucu ile saati göster</string>
+			</dict>
+		</array>
+	</dict>
+	<key>ScreenSaverPref_HotCorners</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>etkin ekran köşeleri</string>
+				<key>title</key>
+				<string>Sıcak köşeler</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Advanced</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>infrarød, modtager, IR, infra-rød</string>
+				<key>title</key>
+				<string>Slå ekstern kontrol fra</string>
+			</dict>
+		</array>
+	</dict>
+	<key>FDE</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>disk, kryptere, krypteret, krypterer, kryptering, file vault, filevault</string>
+				<key>title</key>
+				<string>FileVault</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Firewall</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>forhindre, blokere, netværk, porte, udp, arkivdeling, ekstern, SSH, forhindring, forhindre, blokeret, blokering, firewall</string>
+				<key>title</key>
+				<string>Slå firewall til eller fra</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>fire wall</string>
+				<key>title</key>
+				<string>Avancerede indstillinger til firewall</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>skjult funktion</string>
+				<key>title</key>
+				<string>Skjult funktion</string>
+			</dict>
+		</array>
+	</dict>
+	<key>General</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+            <dict>
+                <key>comments</key>
+                <string>Registerindgange, der kan oversættes</string>
+                <key>index</key>
+                <string>apple watch, ur, lås op, godkend</string>
+                <key>title</key>
+                <string>Apple Watch må låse din Mac op</string>
+            </dict>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>skærm, skåner, adgangskode, godkende, låse, låse op, vågeblus, afbryde vågeblus, skærmskåner, kode, godkendt, godkender, godkendelse, låst, låsning, ulåst, ikke låst, oplåsning, på vågeblus, afbryde vågeblus, vågne</string>
+				<key>title</key>
+				<string>Bed om adgangskode for at afbryde vågeblus</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>logge, tilmelde, på, ind, automatisk, logning, log ind, tilmelding, logind, logpå</string>
+				<key>title</key>
+				<string>Slå automatisk login fra</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>låse, låse op, låst, låst op</string>
+				<key>title</key>
+				<string>Lås Systemindstillinger</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>tilmelde, fra, logge, logge af, logge ud, tilmelding, melde af, melde ud</string>
+				<key>title</key>
+				<string>Log ud, hvis passiv</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>sikker, sikkerhed, beskytte, beskyttelse, sikret, sikre, beskyttet</string>
+				<key>title</key>
+				<string>Sikkerhedsindstillinger</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Lås skærm</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>Gatekeeper, gate, keeper, kendt, udviklere, apps, overførsler</string>
+				<key>title</key>
+				<string>Gatekeeper</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Registerindgange, der kan oversættes</string>
+				<key>index</key>
+				<string>privat, anonymitet</string>
+				<key>title</key>
+				<string>Anonymitetsindstillinger</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Accessibility</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>tilgængelighed</string>
+				<key>title</key>
+				<string>Apps må få adgang til Tilgængelighed</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_AllFiles</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Arkiver</string>
+				<key>title</key>
+				<string>Apps må få adgang til alles arkiver</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Assistive</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Universel, adgang, hjælpemiddel, invalid, handicappet, begrænset, hjælpe, betjene hjælpemidler, mobilitet, kørestol</string>
+				<key>title</key>
+				<string>Hjælpemiddelapps må kontrollere computeren</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Calendars</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Kalendere, datoer</string>
+				<key>title</key>
+				<string>Apps må få adgang til Kalender</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Camera</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>kamera, app, adgang, privat, anonymitet</string>
+				<key>title</key>
+				<string>Apps må få adgang til kamera</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Contacts</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>kontakt, adresse, app, program, adgang, privat, anonymitet</string>
+				<key>title</key>
+				<string>Apps må få adgang til Kontakter</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_SystemServices</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>lokalitet, tjeneste, tid, zone, adgang, reklamer, find min mac, hjem, homekit, spotlight, anonymitet</string>
+				<key>title</key>
+				<string>Systemtjenester må fastslå din lokalitet</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_LocationServices</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>lokalitet, tjeneste, app, program, adgang, privat, anonymitet</string>
+				<key>title</key>
+				<string>Apps må få adgang til lokalitet</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Microphone</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>mikrofon, app, adgang, privat, anonymitet</string>
+				<key>title</key>
+				<string>Apps må få adgang til mikrofon</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Privacy_Reminders</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<string>Påmindelser, huskeliste</string>
+				<key>title</key>
+				<string>Apps må få adgang til Påmindelser</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

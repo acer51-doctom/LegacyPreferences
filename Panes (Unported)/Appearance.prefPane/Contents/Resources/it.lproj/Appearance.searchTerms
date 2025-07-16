@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+        <key>Handoff</key>
+        <dict>
+            <key>localizableStrings</key>
+            <array>
+                <dict>
+                    <key>comments</key>
+                    <string>Parole dell'indice localizzabili</string>
+                    <key>index</key>
+                    <string>continuità, scegli, continua, attività, continuazione, Handoff</string>
+                    <key>title</key>
+                    <string>Consenti Handoff</string>
+                </dict>
+            </array>
+        </dict>
+		<key>Main</key>
+		<dict>
+			<key>localizableStrings</key>
+			<array>
+				<dict>
+					<key>comments</key>
+					<string>Parole dell'indice localizzabili</string>
+					<key>index</key>
+					<string>selezionato, testo, selezione, evidenziatura, evidenzia, evidenziato, evidenziazione, aspetto</string>
+					<key>title</key>
+					<string>Colore selezione</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Parole dell'indice localizzabili</string>
+					<key>index</key>
+					<string>Server, documenti, applicazioni, menu Apple</string>
+					<key>title</key>
+					<string>Numero di elementi recenti</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Parole dell'indice localizzabili</string>
+					<key>index</key>
+					<string>scrivania, personalizza, personalizzare, personalizzazione, personalizzato, pannello, pannelli, aspetto</string>
+					<key>title</key>
+					<string>Pulsanti, menu, aspetto finestre</string>
+				</dict>
+
+				<dict>
+					<key>comments</key>
+					<string>Parole dell'indice localizzabili</string>
+					<key>index</key>
+					<string>scrivania, personalizza, personalizzare, personalizzazione, automatico, aspetto, chiaro, scuro, tema, modalità, modalità scura</string>
+					<key>title</key>
+					<string>Aspetto</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Parole dell'indice localizzabili</string>
+					<key>index</key>
+					<string>pulsante, selezione, menu, aspetto, colore</string>
+					<key>title</key>
+					<string>Colore dettagli</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Parole dell'indice localizzabili</string>
+					<key>index</key>
+					<string>modifiche, cambiamenti, salva, chiudi, esci, documento, file</string>
+					<key>title</key>
+					<string>Mantieni modifiche</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Parole dell'indice localizzabili</string>
+					<key>index</key>
+					<string>finestra, scorrere a salti, barra di scorrimento, scorrimento a salti</string>
+					<key>title</key>
+					<string>Comportamento della barra di scorrimento</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Parole dell'indice localizzabili</string>
+					<key>index</key>
+					<string>icona, laterale, barra, dimensioni, dimensione, barra laterale</string>
+					<key>title</key>
+					<string>Icone barra laterale</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Parole dell'indice localizzabili</string>
+					<key>index</key>
+					<string>esci, esco, apri, riapri, apri di nuovo, apro, riapro, riapertura, ripristino, ripristinare, preferenze pannelli</string>
+					<key>title</key>
+					<string>Chiudi e ripristina finestre</string>
+				</dict>
+				<dict>
+					<key>comments</key>
+					<string>Parole dell'indice localizzabili</string>
+					<key>index</key>
+					<string>Safari, http, https, navigare, www, sito web, pagina web</string>
+					<key>title</key>
+					<string>Imposta browser web di default</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+</plist>

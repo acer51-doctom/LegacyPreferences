@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>privacy</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>privacy 個人 情報 プライバシー, protect 保護 プロテクト, prevent 防止, secret 秘密 シークレット 機密, hidden 隠す 隠された, protected 保護された, protecting, protection プロテクション, preventing 予防, prevention, blocked ブロック, blocking ブロッキング</string>
+				<key>title</key>
+				<string>プライベートファイルの検索をブロック</string>
+			</dict>
+		</array>
+	</dict>
+	<key>searchResults</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>find 検索, results 結果 リゾルト, hits ヒット, searches サーチ, searching サーチング, finding ファインディング</string>
+				<key>title</key>
+				<string>Spotlight検索のカテゴリ</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>key キー キイ ボタン, keystroke キー操作 キー入力 キーストローク キー打ち キイ操作 キイ入力 キイストローク キイ打ち, combination 組み合わせ 組み合せ 組合せ 連続 連結 連携 コンビネーション コンビ, スポットライト, combo コンボ コンビネーション コンビ 組み合わせ 組み合せ 組合せ 連続 連結 連携</string>
+				<key>title</key>
+				<string>Spotlightのショートカット</string>
+			</dict>
+            <dict>
+                <key>comments</key>
+                <string>ローカライズ可能な索引の用語</string>
+                <key>index</key>
+                <string>lookup 検索, look up 調べる</string>
+                <key>title</key>
+                <string>“調べる”でSpotlightの検索候補</string>
+            </dict>
+		</array>
+	</dict>
+</dict>
+</plist>

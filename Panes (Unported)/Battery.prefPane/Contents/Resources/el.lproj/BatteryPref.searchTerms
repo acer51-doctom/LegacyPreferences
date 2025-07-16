@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>currentSource</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Εξοικονόμηση μπαταρίας</string>
+                <key>index</key>
+                <string>προβολές, οθόνες, μόνιτορ, φωτεινότητα, μείωση φωτεινότητας, ύπνος, αφύπνιση, τερματισμός, εκκίνηση, ενεργοποίηση, απενεργοποίηση, ηλεκτρισμός, πράσινο, εξοικονόμηση, διατήρηση, περιβαλλοντικό, φόρτιση, βύσμα, συνδεδεμένο, αποσυνδεδεμένο, σύνδεση, αποσύνδεση, βελτιστοποίηση, απόδοση, επεξεργαστής, αυτόματα, μαύρο, κενό, σκούρυνση, βέλτιστο, βελτιστοποιημένο, αυτόματη φωτεινότητα, αυτόματα, αυτοματοποιημένα, αυτοματοποιημένο, βελτιστοποίηση ροής βίντεο, βελτιστοποιημένη φόρτιση μπαταρίας, προσαρμογέας, καλώδιο, αυτόματη εναλλαγή γραφικών</string>
+                <key>comments</key>
+                <string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+            </dict>
+            <dict>
+                <key>title</key>
+                <string>Εμφάνιση κατάστασης μπαταρίας στη γραμμή μενού</string>
+                <key>index</key>
+                <string>γραμμή μενού</string>
+                <key>comments</key>
+                <string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+            </dict>
+            <dict>
+                <key>title</key>
+                <string>Power Nap</string>
+                <key>index</key>
+                <string>power nap, powernap</string>
+                <key>comments</key>
+                <string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+            </dict>
+        </array>
+    </dict>
+    <key>usage</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Ιστορικό χρήσης μπαταρίας</string>
+                <key>index</key>
+                <string>στάθμη μπαταρίας, χρόνος ενεργής οθόνης, χρήση ενέργειας</string>
+                <key>comments</key>
+                <string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+            </dict>
+        </array>
+    </dict>
+    <key>battery</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Υγεία μπαταρίας</string>
+                <key>index</key>
+                <string>σέρβις μπαταρίας, μέγιστη χωρητικότητα, διάρκεια ζωής μπαταρίας, σημαντικό μήνυμα για την μπαταρία, κατάσταση μπαταρίας</string>
+                <key>comments</key>
+                <string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+            </dict>
+        </array>
+    </dict>
+    <key>adapter</key>
+    <dict/>
+    <key>ups</key>
+    <dict/>
+    <key>schedule</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Πρόγραμμα εκκίνησης, ύπνου ή τερματισμού</string>
+                <key>index</key>
+                <string>ύπνος, αφύπνιση, αδρανής, λειτουργία, εκκίνηση, ενεργοποίηση, απενεργοποίηση, αυτόματα, προγραμματισμένα, προγραμματισμός, τερματισμός, τροφοδοσία, αυτοματοποιημένα, αυτόματο, αυτοματοποιημένο</string>
+                <key>comments</key>
+                <string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

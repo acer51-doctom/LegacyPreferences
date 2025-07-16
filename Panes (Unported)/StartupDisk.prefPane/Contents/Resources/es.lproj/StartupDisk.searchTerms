@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>StartupSearchGroup</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Palabras de índice localizables</string>
+				<key>index</key>
+				<string>encender, reiniciar, arrancar, arranque, inicial, duro, disco, unidad, volumen, sistema, netboot, encendido, reinicio</string>
+				<key>title</key>
+				<string>Disco de arranque</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Palabras de índice localizables</string>
+				<key>index</key>
+				<string>disco, FireWire, fire wire</string>
+				<key>title</key>
+				<string>Modalidad de disco de destino</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

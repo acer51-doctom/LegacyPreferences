@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Main</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>kablosuz, algıla, bul, keşfet, eşle, ekle, sil, ayarla, yardımcı, klavye, fare, cep, telefon, mobil, mikrofonlu kulaklık seti, kulaklık, açık, kapalı, bağlantıyı kes, çıkar, blue, tooth, ekleme, silme, bağlantıyı kesme, çıkarma, bulma, bulunabilir, arama, wireless, detect, discover, find, pair, add, remove, setup, assistant, keyboard, mouse, cell, mobile, phone, headset, headphones, on, off, disconnect, detach, blue, tooth, adding, removing, disconnecting, detaching, discovering, discoverable, finding</string>
+				<key>title</key>
+				<string>Bluetooth aygıtları</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>blue, tooth, menü çubuğu, menubar</string>
+				<key>title</key>
+				<string>Bluetooth durumunu menü çubuğunda göster</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>blue, tooth</string>
+				<key>title</key>
+				<string>Bluetooth seri kapıları</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>blue, tooth, ses, sound</string>
+				<key>title</key>
+				<string>Bluetooth sesi</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>blue, tooth</string>
+				<key>title</key>
+				<string>Bluetooth Ayarlama Yardımcısı</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

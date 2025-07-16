@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Region</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>alueellinen, kansainvälinen, mittayksikkö, yksiköt, tyylit, metrinen, kalenterit, gregoriaaninen, buddhalainen, heprealainen, islamilainen, japanilainen, kiinalainen, koptinen, etiopialainen, intialainen, persialainen, Kiinan tasavalta, muokkaa, muokattu, muokkaaminen, muokkaus, paikallistaminen, lämpö, lämpötila</string>
+				<key>title</key>
+				<string>Numero-, päivämäärä- ja aikamuodot</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>raha, valuutta</string>
+				<key>title</key>
+				<string>Valuutta</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>internet-palvelut, sähköposti, yhteystiedot</string>
+				<key>title</key>
+				<string>Internet-palveluiden alue</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Language</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>kielet, muokata, kansainvälinen, muokattu, muokkaaminen, muokkaus, järjestäminen, puhuttelumuoto, feminiini, maskuliini, neutri, Live-teksti, tekstin valinta kuvissa</string>
+				<key>title</key>
+				<string>Kieliasetus ja -prioriteetti</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Translation</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalisoitavat hakusanat</string>
+				<key>index</key>
+				<string>käännä, käännös</string>
+				<key>title</key>
+				<string>Käännöksen kielet</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

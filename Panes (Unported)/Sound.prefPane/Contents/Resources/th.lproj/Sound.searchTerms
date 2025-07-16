@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effects</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>เสียงรบกวน, เสียง, ได้ยิน, ระดับ, ระดับเสียง, ดังขึ้น, ค่อยลง, เงียบลง, เร่งเสียง, ลดเสียง, เพิ่ม, ลด, ลำโพง, บิ๊ป, สัญญาณเตือน, ระฆัง, กระดิ่ง, กริ๊ง, การได้ยิน, เสียงบิ๊ป, เสียงติ๊งต่อง, เสียงกริ๊ง, เสียงเริ่มต้นระบบ, เสียงบูต</string>
+				<key>title</key>
+				<string>การเตือนและเอฟเฟ็กต์เสียง</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>เสียง, ได้ยิน, ระดับ, ระดับเสียง, ดังขึ้น, ค่อยลง, เงียบลง, เร่งเสียง, ลดเสียง, เพิ่ม, ลด, ดนตรี, ลำโพง, การได้ยิน</string>
+				<key>title</key>
+				<string>ระดับเสียง</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>เสียง, ได้ยิน, ระดับ, ระดับเสียง, ดังขึ้น, ค่อยลง, เงียบลง, เร่งเสียง, ลดเสียง, เพิ่ม, ลด, อุปกรณ์, เงียบ, ความเงียบ, ปิด, การได้ยิน, การปิดเสียง</string>
+				<key>title</key>
+				<string>ปิดเสียง</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>แถบเมนู</string>
+				<key>title</key>
+				<string>แสดงระดับเสียงในแถบเมนู</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>แถบเมนู</string>
+				<key>title</key>
+				<string>แสดงเสียงในแถบเมนู</string>
+			</dict>
+		</array>
+	</dict>
+	<key>input</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>เสียง, ได้ยิน, ระดับ, ระดับเสียง, ดังขึ้น, ค่อยลง, เงียบลง, เร่งเสียง, ลดเสียง, เพิ่ม, ลด, อุปกรณ์, แหล่งสัญญาณ, ไมโครโฟน, เครื่องมือ, MIDI, บันทึกเสียง, สายเข้า, การได้ยิน, การบันทึกเสียง</string>
+				<key>title</key>
+				<string>สัญญาณเสียงเข้า</string>
+			</dict>
+		</array>
+	</dict>
+	<key>output</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>อุปกรณ์, หูฟัง, ชุดหูฟัง, ลำโพง, ได้ยิน, ปรับสมดุล, การได้ยิน, หูฟังแบบครอบหัว, ชุดหูฟังแบบครอบหัว</string>
+				<key>title</key>
+				<string>สัญญาณเสียงออก</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>airplay, ลำโพง</string>
+				<key>title</key>
+				<string>การสตรีมเสียง AirPlay</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

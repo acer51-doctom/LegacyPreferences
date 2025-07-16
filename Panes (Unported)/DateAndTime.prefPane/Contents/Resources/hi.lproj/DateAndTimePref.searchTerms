@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+	<key>DateTimePref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>ऑटोमैटिक, ऑटोमैटिक करें, ऑटोमैटिकली, ऑटोमैटिक किया जा रहा है</string>
+				<key>title</key>
+				<string>तिथि और समय सेट करें</string>
+			</dict>
+		</array>
+	</dict>
+
+	<key>TimeZonePref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>समय क्षेत्र सेट करें</string>
+			</dict>
+		</array>
+	</dict>
+
+	
+</dict>
+</plist>

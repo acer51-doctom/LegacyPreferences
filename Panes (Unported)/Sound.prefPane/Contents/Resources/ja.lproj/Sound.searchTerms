@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effects</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>noises ノイズ 雑音, audio オーディオ 音 音声, hear ヒア 聴く 聞く, level レベル, volume 音量 ボリューム, louder ラウド 大 大きい 大きく, softer ソフト 柔らかい, quieter 静か, increase 増加 増やす 増える, decrease 減少 減る 減らす, raise 上げる, lower 低 低い 低く 小 小さい 小さく, speaker スピーカ スピーカー, beep ビープ, warning 警告 アラート ワーニング ウォーニング, bell ベル, ding, ring, hearing ヒアリング, beeping ビーピング, dinging, ringing, startup sound 起動サウンド 起動音 起動時の音, boot chime 起動チャイム 起動時のチャイム</string>
+				<key>title</key>
+				<string>通知音とサウンドエフェクト</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>audio オーディオ 音 音声, hear ヒア 聞く 聴く, level レベル, volume ボリューム 音量, louder 大 大きく 大きい ラウド, softer ソフト 柔らかい, quieter 静か, increase 増加 増やす 増える, decrease 減少 減らす 減る, raise 上げる, lower 小 小さく 小さい 低 低い 低く, music ミュージック 音楽, speakers スピーカ スピーカー, hearing ヒアリング</string>
+				<key>title</key>
+				<string>サウンドの音量</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>audio オーディオ 音 音声, hear ヒア 聞く 聴く, level レベル, volume ボリューム 音量, louder 大 大きく 大きい ラウド, softer ソフト 柔らかい, quieter 静か, increase 増加 増やす 増える, decrease 減少 減らす 減る, raise 上げる, lower 小 小さく 小さい 低 低い 低く, quiet 静か, silent サイレント, silence サイレンス 無音, turn off 停止 中止 消す, hearing ヒアリング, muting ミュート 消音</string>
+				<key>title</key>
+				<string>サウンドを消音</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>menubar メニューバー メニュウバー メニュウバア メニューバア</string>
+				<key>title</key>
+				<string>メニューバーに音量を表示</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>menubar メニューバー メニュウバー メニュウバア メニューバア</string>
+				<key>title</key>
+				<string>メニューバーにサウンドを表示</string>
+			</dict>
+		</array>
+	</dict>
+	<key>input</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>audio オーディオ 音 音声, hear ヒア 聞く 聴く, level レベル, volume ボリューム 音量, louder 大きく 大きい ラウド, softer ソフト 柔らかい, quieter 静か, increase 増加 増やす 増える, decrease 減少 減らす 減る, raise 上げる, lower 小 小さく 小さい 低 低い 低く, devices デバイス 装置, sources ソース, microphones マイク マイクロフォン, instruments 楽器 インストゥルメント インストゥルメンツ, MIDI ミディ, record レコード 録音 記録, line in ライン イン 入力, hearing ヒアリング, recording レコーディング</string>
+				<key>title</key>
+				<string>サウンド入力</string>
+			</dict>
+		</array>
+	</dict>
+	<key>output</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>devices デバイス 装置, headphones ヘッドフォン ヘッドホン, headsets ヘッドセット, speakers スピーカ スピーカー, hear ヒア 聴く 聞く, balance バランス, hearing ヒアリング, head phones, head sets</string>
+				<key>title</key>
+				<string>サウンド出力</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>airplay エアプレイ, speakers スピーカー</string>
+				<key>title</key>
+				<string>AirPlayオーディオストリーミング</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

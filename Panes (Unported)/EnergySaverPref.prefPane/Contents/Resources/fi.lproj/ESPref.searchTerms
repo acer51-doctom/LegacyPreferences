@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>currentSource</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Säästä virtaa</string>
+                <key>index</key>
+                <string>näytöt, monitorit, kirkasta, himmennä, nuku, herää, sammu, käynnisty, virta, teho, virrankäyttö, sähkönkulutus, päälle, pois, sähkö, vihreä, säästä, suojele, ympäristö, lataa, liitä, irrota, optimoi, suorituskyky, prosessori, automaattinen, kirkkaus, musta, tyhjä, tummentaminen, himmennetty, himmentäminen, nukkuminen, nukkuu, herääminen, herää, sammuta, sammuttaminen, käynnistä, käynnistäminen, säästäminen, optimoitu, optimoiminen, automatisoitu, automatisoiminen, automaattisesti, ups, keskeytymätön virtalähde</string>
+                <key>comments</key>
+                <string>Lokalisoitavat hakusanat</string>
+            </dict>
+        </array>
+    </dict>
+    <key>schedule</key>
+    <dict>
+        <key>localizableStrings</key>
+        <array>
+            <dict>
+                <key>title</key>
+                <string>Ajasta käynnistyminen, nukkuminen tai sammuminen</string>
+                <key>index</key>
+                <string>herää, käynnisty, virta, päälle, pois, automaattinen, ajastettu, ajastaminen, nukkuminen, nukkuu, herääminen, herää, sammuta, sammuminen, käynnistäminen, laita, laittaminen, automatisoitu, automatisoiminen, automaattisesti</string>
+                <key>comments</key>
+                <string>Lokalisoitavat hakusanat</string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

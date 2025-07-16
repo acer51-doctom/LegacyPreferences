@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DesktopPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>foto's, achtergrond, bureaublad, bureaubladafbeelding, patroon, aanpassen, afbeeldingen, bureau, blad, afbeelding, aangepast, aanpassing</string>
+				<key>title</key>
+				<string>Bureaubladafbeelding</string>
+			</dict>
+		</array>
+	</dict>
+	<key>ScreenSaverPref</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>uitschakelen, starten, album, iTunes, illustraties, willekeurig, foto's, afbeeldingen, aanpassen, schermbeveiligingen, aangepast, aanpassing</string>
+				<key>title</key>
+				<string>Schermbeveiliging</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string/>
+				<key>title</key>
+				<string>Klok met schermbeveiliging tonen</string>
+			</dict>
+		</array>
+	</dict>
+	<key>ScreenSaverPref_HotCorners</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>actieve schermhoeken</string>
+				<key>title</key>
+				<string>Interactieve hoeken</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>
