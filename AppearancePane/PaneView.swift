@@ -3,13 +3,20 @@
 //  AppearancePane
 //
 //  Created by dehydratedpotato on 6/5/23.
-//  Maitained by acer51-doctom since 14/07/2025 (DD-MM-YYYY)
+//  Maintained by acer51-doctom since 14/07/2025 (DD-MM-YYYY)
 //
 
 import SwiftUI
+import CoreServices // Required for LaunchServices APIs for default web browser functionality
+import Combine // Required for .onReceive
+import AppKit // Required for NSImage used in BrowserRow
+
+// Assuming PaneConstants, PaneDefaults, and Logger are defined in their respective files
+// and are accessible from this file.
 
 public struct PaneView: View {
-    @State private var sidebarSize: Int//PaneDefaults.SidebarSize
+    // State variables to hold the current settings, bound to UI controls.
+    @State private var sidebarSize: Int
     @State private var showScrollbars: PaneDefaults.ShowScrollbarType
     @State private var tinting: Bool
     @State private var windowCloseQuit: Bool
@@ -17,34 +24,39 @@ public struct PaneView: View {
     @State private var tabbingMode: PaneDefaults.TabbingModeType
     @State private var jumpPage: Bool
     
-//    @State private var jumpScrollbar: Int = 0
-    
+    // The ObservedObject to access and modify system preferences.
     @ObservedObject private var defaults: PaneDefaults = PaneDefaults()
     
+    // State for the default web browser picker.
+    @State private var selectedBrowserIdentifier: String = ""
+    
+    // Initializer to set initial state from PaneDefaults.
     public init() {
+        // Initialize the defaults object correctly for @ObservedObject
         let defaults = PaneDefaults()
-        self.defaults = defaults
+        self._defaults = ObservedObject(wrappedValue: defaults)
         
-        self.tinting = defaults.startWallpaperTinting
-        self.sidebarSize = defaults.startSidebarSize
-        self.showScrollbars = defaults.startShowScrollbars
-        self.windowCloseQuit = defaults.startWindowQuit
-        self.windowCloseConfirm = defaults.startcloseAlwaysConfirms
-        self.tabbingMode = defaults.startTabbingMode
-        self.jumpPage = defaults.startJumpPage
+        // Set initial state values from PaneDefaults.
+        self._tinting = State(initialValue: defaults.startWallpaperTinting)
+        self._sidebarSize = State(initialValue: defaults.startSidebarSize)
+        self._showScrollbars = State(initialValue: defaults.startShowScrollbars)
+        self._windowCloseQuit = State(initialValue: defaults.startWindowQuit)
+        self._windowCloseConfirm = State(initialValue: defaults.startcloseAlwaysConfirms)
+        self._tabbingMode = State(initialValue: defaults.startTabbingMode)
+        self._jumpPage = State(initialValue: defaults.startJumpPage)
     }
     
     public var body: some View {
         VStack() {
             group1
-
+            
             Divider().padding([.top, .bottom], 10)
             
             group2
             
             Divider().padding([.top, .bottom], 10)
-
-            group3
+            
+            group3 // Default web browser group
             
             Divider().padding([.top, .bottom], 10)
             
@@ -56,6 +68,26 @@ public struct PaneView: View {
                height: PaneDefaults.paneHeight - (PaneConstants.panePadding * 2))
         .padding(PaneConstants.panePadding)
         .navigationTitle(PaneConstants.nameTable[PaneConstants.PaneType.appearance.rawValue])
+        .onAppear {
+            // Load browsers when the view appears.
+            defaults.loadBrowsers()
+        }
+        // Use .onReceive to react to changes in availableBrowsers and defaultBrowserIdentifier
+        // ensuring the picker's selection is valid once data is loaded.
+        .onReceive(defaults.$availableBrowsers.combineLatest(defaults.$defaultBrowserIdentifier)) { (browsers, defaultId) in
+            // Only update selectedBrowserIdentifier if browsers are available and a valid defaultId exists
+            if !browsers.isEmpty {
+                if browsers.contains(where: { $0.id == defaultId }) {
+                    selectedBrowserIdentifier = defaultId
+                } else {
+                    // Fallback to the first browser if the default is not found (e.g., uninstalled)
+                    selectedBrowserIdentifier = browsers.first?.id ?? ""
+                }
+            } else {
+                // If no browsers are loaded yet, keep selection empty.
+                selectedBrowserIdentifier = ""
+            }
+        }
     }
     
     @ViewBuilder private var group1: some View {
@@ -84,13 +116,8 @@ public struct PaneView: View {
                     .padding(.bottom, 2)
                     .environmentObject(defaults)
                 
-                Picker(selection: .init(get: {
-                    sidebarSize
-                }, set: { value in
-                    if defaults.setSidebarSize(toSize: value){
-                        sidebarSize = value
-                    }
-                }), content: {
+                // Simplified binding for sidebarSize
+                Picker(selection: $sidebarSize, content: {
                     Text("Small").tag(1)
                     Text("Medium").tag(2)
                     Text("Large").tag(3)
@@ -98,14 +125,15 @@ public struct PaneView: View {
                     //
                 })
                 .frame(width: PaneDefaults.maximumPickerWidth)
+                .onChange(of: sidebarSize) { newValue in
+                    _ = defaults.setSidebarSize(toSize: newValue) // Use _ = to discard Bool return if not needed
+                }
                 
-                Toggle("Allow wallpaper tinting in windows", isOn: .init(get: {
-                    tinting
-                }, set: { value in
-                    if defaults.setWallpaperTint(to: !value) {
-                        tinting = value
+                // Simplified binding for tinting
+                Toggle("Allow wallpaper tinting in windows", isOn: $tinting)
+                    .onChange(of: tinting) { newValue in
+                        _ = defaults.setWallpaperTint(to: newValue)
                     }
-                }))
             }
             
             Spacer()
@@ -122,14 +150,8 @@ public struct PaneView: View {
             .frame(width: PaneDefaults.labelColumnWidth, alignment: .trailing)
             
             VStack(alignment: .leading) {
-
-                Picker(selection: .init(get: {
-                    showScrollbars
-                }, set: { value in
-                    if defaults.setShowScrollbars(to: value) {
-                        showScrollbars = value
-                    }
-                }), content: {
+                // Simplified binding for showScrollbars
+                Picker(selection: $showScrollbars, content: {
                     Text("Automatically based on mouse or trackpad")
                         .tag(PaneDefaults.ShowScrollbarType.auto)
                     Text("When scrolling")
@@ -141,20 +163,21 @@ public struct PaneView: View {
                 })
                 .pickerStyle(.radioGroup)
                 .padding(.bottom, 10)
+                .onChange(of: showScrollbars) { newValue in
+                    _ = defaults.setShowScrollbars(to: newValue)
+                }
                 
-                Picker(selection: .init(get: {
-                    jumpPage
-                }, set: { value in
-                    if defaults.setBool(for: PaneDefaults.jumpPageKey, to: value) {
-                        jumpPage = value
-                    }
-                }), content: {
+                // Simplified binding for jumpPage
+                Picker(selection: $jumpPage, content: {
                     Text("Jump to the next page").tag(false)
                     Text("Jump to the spot that's clicked").tag(true)
                 }, label: {
                     //
                 })
                 .pickerStyle(.radioGroup)
+                .onChange(of: jumpPage) { newValue in
+                    _ = defaults.setBool(for: PaneDefaults.jumpPageKey, to: newValue)
+                }
             }
             
             Spacer()
@@ -162,21 +185,42 @@ public struct PaneView: View {
     }
     
     @ViewBuilder private var group3: some View {
-        // TODO: Support setting default web browser
         HStack(alignment: .top) {
             VStack(alignment: .trailing) {
                 Text("Default web browser:")
             }
             .frame(width: PaneDefaults.labelColumnWidth, alignment: .trailing)
             
-            // TODO: Support setting default browser
-            Picker(selection: .constant(0), content: {
-//                Text("Safari.app").tag(0)
-            }, label: {
-                //
-            })
-            .frame(width: PaneDefaults.maximumPickerWidth)
-            .disabled(true)
+            // Default web browser picker implementation
+            ZStack { // Use ZStack to overlay loading text
+                Picker(selection: $selectedBrowserIdentifier, content: {
+                    // Always iterate over availableBrowsers.
+                    // The .onReceive modifier handles setting selectedBrowserIdentifier correctly.
+                    ForEach(defaults.availableBrowsers) { browser in
+                        BrowserRow(browser: browser)
+                            .tag(browser.id)
+                    }
+                }, label: {
+                    // Label is empty as it's defined by the Text("Default web browser:")
+                })
+                .frame(width: PaneDefaults.maximumPickerWidth)
+                .onChange(of: selectedBrowserIdentifier) { newIdentifier in
+                    // Only attempt to set if a valid browser is selected (i.e., not the "Loading..." placeholder)
+                    if !newIdentifier.isEmpty {
+                        defaults.setDefaultWebBrowser(bundleIdentifier: newIdentifier)
+                    }
+                }
+                // Hide the picker if no browsers are loaded to prevent empty picker appearance
+                .opacity(defaults.availableBrowsers.isEmpty ? 0 : 1)
+
+                // Show loading text if no browsers are available
+                if defaults.availableBrowsers.isEmpty {
+                    Text("Loading browsers...")
+                        .foregroundColor(.secondary)
+                        .padding(8)
+                        .background(RoundedRectangle(cornerRadius: 5).fill(Color.gray.opacity(0.2)))
+                }
+            }
             
             Spacer()
         }
@@ -193,13 +237,8 @@ public struct PaneView: View {
             
             VStack(alignment: .leading) {
                 HStack {
-                    Picker(selection: .init(get: {
-                        tabbingMode
-                    }, set: { value in
-                        if defaults.setTabbingMode(to: value) {
-                            tabbingMode = value
-                        }
-                    }), content: {
+                    // Simplified binding for tabbingMode
+                    Picker(selection: $tabbingMode, content: {
                         Text("in full screen").tag(PaneDefaults.TabbingModeType.fullscreen)
                         Text("always").tag(PaneDefaults.TabbingModeType.always)
                         Text("never").tag(PaneDefaults.TabbingModeType.never)
@@ -207,25 +246,24 @@ public struct PaneView: View {
                         //
                     })
                     .frame(width: 106)
+                    .onChange(of: tabbingMode) { newValue in
+                        _ = defaults.setTabbingMode(to: newValue)
+                    }
                     
                     Text("when opening documents")
                 }
                 
-                Toggle("Ask to keep changes when closing documents", isOn: .init(get: {
-                    windowCloseConfirm
-                }, set: { value in
-                    if defaults.setBool(for: PaneDefaults.closeAlwaysConfirms, to: value) {
-                        windowCloseConfirm = value
+                // Simplified binding for windowCloseConfirm
+                Toggle("Ask to keep changes when closing documents", isOn: $windowCloseConfirm)
+                    .onChange(of: windowCloseConfirm) { newValue in
+                        _ = defaults.setBool(for: PaneDefaults.closeAlwaysConfirms, to: newValue)
                     }
-                }))
                 
-                Toggle("Close windows when quitting an app", isOn: .init(get: {
-                    windowCloseQuit
-                }, set: { value in
-                    if defaults.setBool(for: PaneDefaults.windowQuitKey, to: value) {
-                        windowCloseQuit = value
+                // Simplified binding for windowCloseQuit
+                Toggle("Close windows when quitting an app", isOn: $windowCloseQuit)
+                    .onChange(of: windowCloseQuit) { newValue in
+                        _ = defaults.setBool(for: PaneDefaults.windowQuitKey, to: newValue)
                     }
-                }))
                 
                 Text("When selected, open documents and windows will not be restored\nwhen you re-open an app.")
                     .font(.caption)
@@ -235,7 +273,7 @@ public struct PaneView: View {
                 // See https://github.com/joeyhoer/starter/blob/3f6fecfdea257b6a2db5228c5d445b742ed86f42/system/general.sh#L45-L47
                 HStack {
                     Picker(selection: .constant(0), content: {
-//                        Text("10").tag(0)
+                        // Text("10").tag(0) // Example placeholder
                     }, label: {
                         //
                     })
@@ -243,11 +281,11 @@ public struct PaneView: View {
                     
                     Text("Document, Apps, and Servers")
                 }
-                .disabled(true)
+                .disabled(true) // Still disabled as no logic is implemented yet
                 
                 // TODO: Support toggling handoff
                 Toggle("Allow Handoff between this Mac and your iCloud devices", isOn: .constant(true))
-                    .disabled(true)
+                    .disabled(true) // Still disabled as no logic is implemented yet
             }
             
             Spacer()
@@ -255,6 +293,9 @@ public struct PaneView: View {
     }
 }
 
+// MARK: - Private Helper Views
+
+// A view for displaying a single theme option (Light, Dark, Auto).
 private struct ThemePicker: View {
     @State var selection: PaneDefaults.ThemeType
     @EnvironmentObject var defaults: PaneDefaults
@@ -277,11 +318,12 @@ private struct ThemePicker: View {
                             .frame(width: 71, height: 48)
                             .foregroundColor(selected ? .accentColor : .clear)
                         
+                        // Image for theme preview (e.g., AppearanceLight_Normal)
                         Image("Appearance\(id.rawValue)_Normal", bundle: PaneDefaults.bundle)
                             .frame(width: 67, height: 44)
                             .shadow(color: selected ? .clear : .black.opacity(0.4), radius: 1, y: 1)
                         
-                        
+                        // Apply accent color mask for non-auto themes
                         if (id != .auto) {
                             Color.accentColor
                                 .frame(width: 67, height: 44)
@@ -289,8 +331,8 @@ private struct ThemePicker: View {
                                     Image("selectionColor_mask_Normal", bundle: PaneDefaults.bundle)
                                         .frame(width: 67, height: 44)
                                 )
-                                
                         } else {
+                            // Apply accent color mask for auto theme
                             Color.accentColor
                                 .frame(width: 67, height: 44)
                                 .mask(
@@ -305,7 +347,6 @@ private struct ThemePicker: View {
                 .help(theme.hint)
                 .onTapGesture {
                     selection = id
-                    
                     defaults.setInterfaceStyle(isDark: id == .dark, isAuto: id == .auto)
                 }
             }
@@ -313,12 +354,13 @@ private struct ThemePicker: View {
     }
 }
 
+// A view for displaying accent color options.
 private struct AccentPicker: View {
     @State var selection: PaneDefaults.AccentType
     @EnvironmentObject var defaults: PaneDefaults
     
     private let accents: [PaneDefaults.Accent] = [
-        .init(id: .multicolor, color: .teal),
+        .init(id: .multicolor, color: .teal), // Teal is just a placeholder visual for multicolor wheel
         .init(id: .blue, color: .blue),
         .init(id: .purple, color: .purple),
         .init(id: .pink, color: .pink),
@@ -340,6 +382,7 @@ private struct AccentPicker: View {
                             Circle()
                                 .foregroundColor(accent.color)
                         } else {
+                            // Image for multicolor accent wheel
                             Image("MuticolorAccentWheel", bundle: PaneDefaults.bundle)
                                 .resizable()
                                 .mask(Circle())
@@ -357,7 +400,6 @@ private struct AccentPicker: View {
                     .help( PaneDefaults.accentTypeNameTable[ id.rawValue ])
                     .onTapGesture {
                         selection = id
-                        
                         defaults.setAccentColor(toType: id)
                     }
                 }
@@ -369,6 +411,7 @@ private struct AccentPicker: View {
     }
 }
 
+// A view for displaying highlight color options.
 private struct HighlightPicker: View {
     @State var selection: PaneDefaults.HighlightType
     @EnvironmentObject var defaults: PaneDefaults
@@ -386,27 +429,45 @@ private struct HighlightPicker: View {
     ]
     
     var body: some View {
-        Picker(selection: .init(get: {
-            selection
-        }, set: { value in
-            selection = value
-            
-            defaults.setHighlightColor(toType: value)
-        }), content: {
+        Picker(selection: $selection, content: {
             ForEach(highlights, id: \.self) { highlight in
                 let raw = highlight.rawValue
                 
                 HStack {
+                    // Image for highlight rectangle preview
                     Image("HighlightRect_\(raw)", bundle: PaneDefaults.bundle)
                         .opacity(0.7)
                     
                     Text(PaneDefaults.highlightTypeNameTable[raw])
                 }
-                .tag(raw)
+                .tag(highlight) // Tag with the enum case itself
             }
         }, label: {
             //
         })
+        .onChange(of: selection) { newValue in
+            defaults.setHighlightColor(toType: newValue)
+        }
+    }
+}
+
+// A helper view to display a browser's icon and name in the picker.
+private struct BrowserRow: View {
+    let browser: PaneDefaults.BrowserInfo
+    
+    var body: some View {
+        HStack {
+            if let icon = browser.icon {
+                Image(nsImage: icon)
+                    .resizable()
+                    .frame(width: 20, height: 20) // Adjust size as needed
+            } else {
+                Image(systemName: "globe") // Fallback icon
+                    .resizable()
+                    .frame(width: 20, height: 20)
+            }
+            Text(browser.name)
+        }
     }
 }
 
