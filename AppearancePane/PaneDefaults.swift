@@ -128,7 +128,7 @@ final class PaneDefaults: ObservableObject {
     @Published var startcloseAlwaysConfirms: Bool
     @Published var startTabbingMode: TabbingModeType
     @Published var startJumpPage: Bool
-    // Removed: @Published var startRecentItemsCount: Int
+    @Published var startHandoffEnabled: Bool // New: Handoff Enabled
     
     lazy var startTheme: ThemeType = {
         if self.themeIsDark {
@@ -175,7 +175,8 @@ final class PaneDefaults: ObservableObject {
     static let closeAlwaysConfirms = "NSCloseAlwaysConfirmsChanges"
     static let jumpPageKey = "AppleScrollerPagingBehavior"
     static let tabbingModeKey = "AppleWindowTabbingMode"
-    // Removed: static let recentItemsKey = "AppleShowRecentItems"
+    static let handoffEnabledKey = "NSUserActivityTrackingEnabled" // Key for Handoff
+    static let handoffActivityContinuationKey = "NSUserActivityTrackingEnabledForActivityContinuation" // Another related key for Handoff
     
     // MARK: - Initializer
     public init() {
@@ -190,7 +191,11 @@ final class PaneDefaults: ObservableObject {
         self.startJumpPage = (globalDomain?[PaneDefaults.jumpPageKey] as? Bool) ?? false
         let rawTabbingModeValue = (globalDomain?[PaneDefaults.tabbingModeKey] as? String) ?? TabbingModeType.fullscreen.rawValue
         self.startTabbingMode = TabbingModeType(rawValue: rawTabbingModeValue) ?? .fullscreen
-        // Removed: self.startRecentItemsCount = (globalDomain?[PaneDefaults.recentItemsKey] as? Int) ?? 10
+        
+        // Initialize Handoff state. Both keys should ideally be in sync.
+        let isHandoffEnabled = (globalDomain?[PaneDefaults.handoffEnabledKey] as? Bool) ?? true
+        let isActivityContinuationEnabled = (globalDomain?[PaneDefaults.handoffActivityContinuationKey] as? Bool) ?? true
+        self.startHandoffEnabled = isHandoffEnabled && isActivityContinuationEnabled // Consider Handoff enabled only if both are true
         
         loadBrowsers()
     }
@@ -298,8 +303,23 @@ final class PaneDefaults: ObservableObject {
         return true
     }
     
-    // Removed: MARK: - Recent Items Logic (New - Safer)
-    // Removed: func setRecentItemsCount(to count: Int) -> Bool { ... }
+    // MARK: - Handoff Logic (New)
+    func setHandoffEnabled(to value: Bool) -> Bool {
+        guard var domain = UserDefaults.standard.persistentDomain(forName: UserDefaults.globalDomain) else {
+            Logger.log("failed to get global domain for setting Handoff enabled state", isError: true, class: Self.self)
+            return false
+        }
+        
+        // Set both related keys for Handoff
+        domain[PaneDefaults.handoffEnabledKey] = value
+        domain[PaneDefaults.handoffActivityContinuationKey] = value
+        
+        UserDefaults.standard.setPersistentDomain(domain, forName: UserDefaults.globalDomain)
+        // Handoff changes might require a logout/login or reboot to take full effect,
+        // and there isn't a simple public notification to trigger an immediate update across all apps.
+        Logger.log("Handoff enabled set to: \(value)", class: Self.self)
+        return true
+    }
     
     // MARK: - Default Web Browser Logic
     // Function to load available web browsers and the current default
