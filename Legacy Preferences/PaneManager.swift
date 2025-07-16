@@ -122,24 +122,10 @@ final class PaneManager: ObservableObject {
     @ViewBuilder func getView(ofPane index: PaneConstants.PaneType) -> some View {
         switch(index) {
             
-            // available
+
         case .appearance:
             AppearancePane.PaneView()
         
-
-            // unavailable
-        case .startupDisk:
-            StartupDiskPane()
-        case .screenTime:
-            ScreenTimePane()
-        case .softwareUpdate:
-            SoftwareUpdatePane()
-        case .timeMachine:
-            TimeMachinePane()
-        case .appleID:
-            AppleIDPane()
-        case .familySharing:
-            FamilySharingPane()
             
         default:
             EmptyView()
