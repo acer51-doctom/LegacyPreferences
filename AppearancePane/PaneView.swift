@@ -3,7 +3,7 @@
 //  AppearancePane
 //
 //  Created by dehydratedpotato on 6/5/23.
-//  Maintained by acer51-doctom since 14/07/2025 (DD-MM-YYYY)
+//  Maintained by acer51-doctom since 16/07/2025 (DD-MM-YYYY)
 //
 
 import SwiftUI
@@ -16,15 +16,16 @@ import AppKit // Required for NSImage used in BrowserRow
 
 public struct PaneView: View {
     // State variables to hold the current settings, bound to UI controls.
+    // These now directly mirror the @Published properties in PaneDefaults.
     @State private var sidebarSize: Int
     @State private var showScrollbars: PaneDefaults.ShowScrollbarType
-    @State private var tinting: Bool
-    @State private var windowCloseQuit: Bool
-    @State private var windowCloseConfirm: Bool
+    @State private var wallpaperTinting: Bool
+    @State private var windowQuit: Bool
+    @State private var closeAlwaysConfirms: Bool
     @State private var tabbingMode: PaneDefaults.TabbingModeType
     @State private var jumpPage: Bool
-    @State private var handoffEnabled: Bool // State for Handoff Enabled
-    @State private var recentItemsCount: Int // State for Recent Items Count
+    @State private var handoffEnabled: Bool
+    @State private var recentItemsCount: Int
     
     // The ObservedObject to access and modify system preferences.
     @ObservedObject private var defaults: PaneDefaults = PaneDefaults()
@@ -37,16 +38,16 @@ public struct PaneView: View {
         let defaults = PaneDefaults()
         self._defaults = ObservedObject(wrappedValue: defaults) // Initialize ObservedObject
         
-        // Set initial state values from PaneDefaults.
-        self._tinting = State(initialValue: defaults.startWallpaperTinting)
-        self._sidebarSize = State(initialValue: defaults.startSidebarSize)
-        self._showScrollbars = State(initialValue: defaults.startShowScrollbars)
-        self._windowCloseQuit = State(initialValue: defaults.startWindowQuit)
-        self._windowCloseConfirm = State(initialValue: defaults.startcloseAlwaysConfirms)
-        self._tabbingMode = State(initialValue: defaults.startTabbingMode)
-        self._jumpPage = State(initialValue: defaults.startJumpPage)
-        self._handoffEnabled = State(initialValue: defaults.startHandoffEnabled)
-        self._recentItemsCount = State(initialValue: defaults.startRecentItemsCount) // Initialize recent items
+        // Set initial state values directly from the new PaneDefaults properties.
+        self._wallpaperTinting = State(initialValue: defaults.wallpaperTinting)
+        self._sidebarSize = State(initialValue: defaults.sidebarSize)
+        self._showScrollbars = State(initialValue: defaults.showScrollbars)
+        self._windowQuit = State(initialValue: defaults.windowQuit)
+        self._closeAlwaysConfirms = State(initialValue: defaults.closeAlwaysConfirms)
+        self._tabbingMode = State(initialValue: defaults.tabbingMode)
+        self._jumpPage = State(initialValue: defaults.jumpPage)
+        self._handoffEnabled = State(initialValue: defaults.handoffEnabled)
+        self._recentItemsCount = State(initialValue: defaults.recentItemsCount)
     }
     
     public var body: some View {
@@ -70,7 +71,7 @@ public struct PaneView: View {
         .frame(width: PaneConstants.paneWidth - (PaneConstants.panePadding * 2),
                height: PaneDefaults.paneHeight - (PaneConstants.panePadding * 2))
         .padding(PaneConstants.panePadding)
-        .navigationTitle(PaneConstants.nameTable[PaneConstants.PaneType.appearance.rawValue])
+        .navigationTitle(PaneConstants.nameTable[PaneConstants.PaneType.appearance.rawValue] ?? "Appearance") // Added fallback
         .onAppear {
             // Load browsers when the view appears.
             defaults.loadBrowsers()
@@ -92,7 +93,7 @@ public struct PaneView: View {
             }
         }
         // Update recentItemsCount if it changes externally (e.g., by System Settings or helper tool)
-        .onReceive(defaults.$startRecentItemsCount) { newCount in
+        .onReceive(defaults.$recentItemsCount) { newCount in
             recentItemsCount = newCount
         }
     }
@@ -112,18 +113,21 @@ public struct PaneView: View {
             .frame(width: PaneDefaults.labelColumnWidth, alignment: .trailing)
             
             VStack(alignment: .leading) {
-                ThemePicker(selection: defaults.startTheme)
+                // CORRECTED: Pass a Binding using $defaults.theme
+                ThemePicker(selection: $defaults.theme)
                     .environmentObject(defaults)
                 
-                AccentPicker(selection: defaults.startAccentColor)
+                // CORRECTED: Pass a Binding using $defaults.accentColor
+                AccentPicker(selection: $defaults.accentColor)
                     .environmentObject(defaults)
                 
-                HighlightPicker(selection: defaults.startHighlightColor)
+                // CORRECTED: Pass a Binding using $defaults.highlightColor
+                HighlightPicker(selection: $defaults.highlightColor)
                     .frame(width: PaneDefaults.maximumPickerWidth)
                     .padding(.bottom, 2)
                     .environmentObject(defaults)
                 
-                // Simplified binding for sidebarSize
+                // Simplified binding for sidebarSize, using new setter
                 Picker(selection: $sidebarSize, content: {
                     Text("Small").tag(1)
                     Text("Medium").tag(2)
@@ -133,13 +137,13 @@ public struct PaneView: View {
                 })
                 .frame(width: PaneDefaults.maximumPickerWidth)
                 .onChange(of: sidebarSize) { newValue in
-                    _ = defaults.setSidebarSize(toSize: newValue) // Use _ = to discard Bool return if not needed
+                    defaults.setSidebarSize(newValue)
                 }
                 
-                // Simplified binding for tinting
-                Toggle("Allow wallpaper tinting in windows", isOn: $tinting)
-                    .onChange(of: tinting) { newValue in
-                        _ = defaults.setWallpaperTint(to: newValue)
+                // Simplified binding for wallpaperTinting, using new setter
+                Toggle("Allow wallpaper tinting in windows", isOn: $wallpaperTinting)
+                    .onChange(of: wallpaperTinting) { newValue in
+                        defaults.setWallpaperTinting(newValue)
                     }
             }
             
@@ -157,7 +161,7 @@ public struct PaneView: View {
             .frame(width: PaneDefaults.labelColumnWidth, alignment: .trailing)
             
             VStack(alignment: .leading) {
-                // Simplified binding for showScrollbars
+                // Simplified binding for showScrollbars, using new setter
                 Picker(selection: $showScrollbars, content: {
                     Text("Automatically based on mouse or trackpad")
                         .tag(PaneDefaults.ShowScrollbarType.auto)
@@ -171,10 +175,10 @@ public struct PaneView: View {
                 .pickerStyle(.radioGroup)
                 .padding(.bottom, 10)
                 .onChange(of: showScrollbars) { newValue in
-                    _ = defaults.setShowScrollbars(to: newValue)
+                    defaults.setShowScrollbars(newValue)
                 }
                 
-                // Simplified binding for jumpPage
+                // Simplified binding for jumpPage, using new setter
                 Picker(selection: $jumpPage, content: {
                     Text("Jump to the next page").tag(false)
                     Text("Jump to the spot that's clicked").tag(true)
@@ -183,7 +187,7 @@ public struct PaneView: View {
                 })
                 .pickerStyle(.radioGroup)
                 .onChange(of: jumpPage) { newValue in
-                    _ = defaults.setBool(for: PaneDefaults.jumpPageKey, to: newValue)
+                    defaults.setJumpPageBehavior(newValue)
                 }
             }
             
@@ -244,7 +248,7 @@ public struct PaneView: View {
             
             VStack(alignment: .leading) {
                 HStack {
-                    // Simplified binding for tabbingMode
+                    // Simplified binding for tabbingMode, using new setter
                     Picker(selection: $tabbingMode, content: {
                         Text("in full screen").tag(PaneDefaults.TabbingModeType.fullscreen)
                         Text("always").tag(PaneDefaults.TabbingModeType.always)
@@ -254,22 +258,22 @@ public struct PaneView: View {
                     })
                     .frame(width: 106)
                     .onChange(of: tabbingMode) { newValue in
-                        _ = defaults.setTabbingMode(to: newValue)
+                        defaults.setTabbingMode(newValue)
                     }
                     
                     Text("when opening documents")
                 }
                 
-                // Simplified binding for windowCloseConfirm
-                Toggle("Ask to keep changes when closing documents", isOn: $windowCloseConfirm)
-                    .onChange(of: windowCloseConfirm) { newValue in
-                        _ = defaults.setBool(for: PaneDefaults.closeAlwaysConfirms, to: newValue)
+                // Simplified binding for closeAlwaysConfirms, using new setter
+                Toggle("Ask to keep changes when closing documents", isOn: $closeAlwaysConfirms)
+                    .onChange(of: closeAlwaysConfirms) { newValue in
+                        defaults.setCloseAlwaysConfirms(newValue)
                     }
                 
-                // Simplified binding for windowCloseQuit
-                Toggle("Close windows when quitting an app", isOn: $windowCloseQuit)
-                    .onChange(of: windowCloseQuit) { newValue in
-                        _ = defaults.setBool(for: PaneDefaults.windowQuitKey, to: newValue)
+                // Simplified binding for windowQuit, using new setter
+                Toggle("Close windows when quitting an app", isOn: $windowQuit)
+                    .onChange(of: windowQuit) { newValue in
+                        defaults.setWindowQuitBehavior(newValue)
                     }
                 
                 Text("When selected, open documents and windows will not be restored\nwhen you re-open an app.")
@@ -291,7 +295,7 @@ public struct PaneView: View {
                     .frame(width: 65)
                     .onChange(of: recentItemsCount) { newValue in
                         // This now calls the XPC-enabled setter in PaneDefaults
-                        defaults.setRecentItemsCount(to: newValue)
+                        defaults.setRecentItemsCount(newValue)
                     }
                     
                     Text("Document, Apps, and Servers")
@@ -300,7 +304,7 @@ public struct PaneView: View {
                 // Handoff Toggle (Enabled)
                 Toggle("Allow Handoff between this Mac and your iCloud devices", isOn: $handoffEnabled)
                     .onChange(of: handoffEnabled) { newValue in
-                        _ = defaults.setHandoffEnabled(to: newValue)
+                        defaults.setHandoffEnabled(newValue)
                     }
             }
             
@@ -313,7 +317,8 @@ public struct PaneView: View {
 
 // A view for displaying a single theme option (Light, Dark, Auto).
 private struct ThemePicker: View {
-    @State var selection: PaneDefaults.ThemeType
+    // Corrected to use @Binding for selection
+    @Binding var selection: PaneDefaults.ThemeType
     @EnvironmentObject var defaults: PaneDefaults
     
     private let themes: [PaneDefaults.Theme] = [
@@ -362,8 +367,8 @@ private struct ThemePicker: View {
                 }
                 .help(theme.hint)
                 .onTapGesture {
-                    selection = id
-                    defaults.setInterfaceStyle(isDark: id == .dark, isAuto: id == .auto)
+                    // Directly call the setter on defaults, which updates the @Published property
+                    defaults.setInterfaceStyle(id)
                 }
             }
         }
@@ -372,7 +377,8 @@ private struct ThemePicker: View {
 
 // A view for displaying accent color options.
 private struct AccentPicker: View {
-    @State var selection: PaneDefaults.AccentType
+    // Corrected to use @Binding for selection
+    @Binding var selection: PaneDefaults.AccentType
     @EnvironmentObject var defaults: PaneDefaults
     
     private let accents: [PaneDefaults.Accent] = [
@@ -415,8 +421,8 @@ private struct AccentPicker: View {
                     .frame(width: 16, height: 16)
                     .help( PaneDefaults.accentTypeNameTable[ id.rawValue ])
                     .onTapGesture {
-                        selection = id
-                        defaults.setAccentColor(toType: id)
+                        // Directly call the setter on defaults
+                        defaults.setAccentColor(id)
                     }
                 }
             }
@@ -429,7 +435,8 @@ private struct AccentPicker: View {
 
 // A view for displaying highlight color options.
 private struct HighlightPicker: View {
-    @State var selection: PaneDefaults.HighlightType
+    // Corrected to use @Binding for selection
+    @Binding var selection: PaneDefaults.HighlightType
     @EnvironmentObject var defaults: PaneDefaults
     
     private let highlights: [PaneDefaults.HighlightType] = [
@@ -462,7 +469,8 @@ private struct HighlightPicker: View {
             //
         })
         .onChange(of: selection) { newValue in
-            defaults.setHighlightColor(toType: newValue)
+            // Directly call the setter on defaults
+            defaults.setHighlightColor(newValue)
         }
     }
 }
