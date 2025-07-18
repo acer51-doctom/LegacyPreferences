@@ -3,7 +3,7 @@
 //  AppearancePane
 //
 //  Created by dehydratedpotato on 6/1/23.
-//  Maintained by acer51-doctom since 14/07/2025 (DD-MM-YYYY)
+//  Maintained by acer51-doctom since 16/07/2025 (DD-MM-YYYY)
 //
 //  This version re-organizes the PaneDefaults class for clarity and consistency,
 //  while maintaining all original functionalities for managing macOS appearance settings.
@@ -23,7 +23,8 @@ final class PaneDefaults: ObservableObject {
     
     // Bundle identifier for the AppearancePane framework itself.
     // Used for loading resources (like images) specific to this pane's bundle.
-    static let bundle: Bundle = .init(identifier: "com.acer51-doctom.Legacy-Preferences.AppearancePane")!
+    // IMPORTANT: Ensure this matches the Bundle ID of your AppearancePane framework target in the new project.
+    static let bundle: Bundle = .init(identifier: "com.acer51-doctom.LegacyPreferences.AppearancePane")!
     
     // UI layout constants.
     static let paneHeight: CGFloat = 620
@@ -37,7 +38,7 @@ final class PaneDefaults: ObservableObject {
         "com.apple.Safari",       // Safari
         "org.mozilla.firefox",    // Mozilla Firefox
         "com.kagi.Orion",         // Orion Browser
-        "com.arc.browser"         // Arc Browser
+        "com.arc.browser",        // Arc Browser
     ]
     
     // Human-readable names for accent and highlight colors, indexed by their raw values.
@@ -197,6 +198,7 @@ final class PaneDefaults: ObservableObject {
     // Establishes and manages the connection to the XPC helper tool.
     private func setupHelperConnection() {
         // The service name MUST match the Bundle Identifier of your LegacyPreferencesHelper target.
+        // IMPORTANT: Double-check this Bundle ID in your new project's LegacyPreferencesHelper target settings.
         helperConnection = NSXPCConnection(serviceName: "com.acer51-doctom.LegacyPreferencesHelper")
         // Define the protocol interface for communication.
         helperConnection?.remoteObjectInterface = NSXPCInterface(with: HelperToolProtocol.self)
@@ -368,6 +370,11 @@ final class PaneDefaults: ObservableObject {
         domain[PaneDefaults.handoffEnabledKey] = enabled
         domain[PaneDefaults.handoffActivityContinuationKey] = enabled
         UserDefaults.standard.setPersistentDomain(domain, forName: UserDefaults.globalDomain)
+        
+        // Post a distributed notification to inform system services of the change.
+        // This is a generic notification often used for global preference changes.
+        DistributedNotificationCenter.default().post(name: .init("AppleGlobalPreferencesChangedNotification"), object: nil)
+        
         Logger.log("Handoff enabled set to: \(enabled)", class: Self.self)
     }
     
@@ -419,7 +426,7 @@ final class PaneDefaults: ObservableObject {
                let bundle = Bundle(url: url),
                let appName = bundle.object(forInfoDictionaryKey: kCFBundleNameKey as String) as? String {
                 
-                let appIcon = NSWorkspace.shared.icon(forFile: url.path)
+                let appIcon = NSWorkspace.shared.icon(forFile: url.path) // Still fetching icon, but not used in UI
                 appIcon.size = NSSize(width: 32, height: 32)
                 
                 browsers.append(BrowserInfo(id: bundleID, name: appName, icon: appIcon))

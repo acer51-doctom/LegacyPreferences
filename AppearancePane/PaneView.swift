@@ -113,15 +113,12 @@ public struct PaneView: View {
             .frame(width: PaneDefaults.labelColumnWidth, alignment: .trailing)
             
             VStack(alignment: .leading) {
-                // CORRECTED: Pass a Binding using $defaults.theme
                 ThemePicker(selection: $defaults.theme)
                     .environmentObject(defaults)
                 
-                // CORRECTED: Pass a Binding using $defaults.accentColor
                 AccentPicker(selection: $defaults.accentColor)
                     .environmentObject(defaults)
                 
-                // CORRECTED: Pass a Binding using $defaults.highlightColor
                 HighlightPicker(selection: $defaults.highlightColor)
                     .frame(width: PaneDefaults.maximumPickerWidth)
                     .padding(.bottom, 2)
@@ -208,7 +205,7 @@ public struct PaneView: View {
                     // Always iterate over availableBrowsers.
                     // The .onReceive modifier handles setting selectedBrowserIdentifier correctly.
                     ForEach(defaults.availableBrowsers) { browser in
-                        BrowserRow(browser: browser)
+                        BrowserRow(browser: browser) // BrowserRow is now modified to show only name
                             .tag(browser.id)
                     }
                 }, label: {
@@ -304,7 +301,7 @@ public struct PaneView: View {
                 // Handoff Toggle (Enabled)
                 Toggle("Allow Handoff between this Mac and your iCloud devices", isOn: $handoffEnabled)
                     .onChange(of: handoffEnabled) { newValue in
-                        defaults.setHandoffEnabled(newValue)
+                        defaults.setHandoffEnabled(newValue) // This will now post a notification
                     }
             }
             
@@ -317,7 +314,6 @@ public struct PaneView: View {
 
 // A view for displaying a single theme option (Light, Dark, Auto).
 private struct ThemePicker: View {
-    // Corrected to use @Binding for selection
     @Binding var selection: PaneDefaults.ThemeType
     @EnvironmentObject var defaults: PaneDefaults
     
@@ -367,7 +363,6 @@ private struct ThemePicker: View {
                 }
                 .help(theme.hint)
                 .onTapGesture {
-                    // Directly call the setter on defaults, which updates the @Published property
                     defaults.setInterfaceStyle(id)
                 }
             }
@@ -377,7 +372,6 @@ private struct ThemePicker: View {
 
 // A view for displaying accent color options.
 private struct AccentPicker: View {
-    // Corrected to use @Binding for selection
     @Binding var selection: PaneDefaults.AccentType
     @EnvironmentObject var defaults: PaneDefaults
     
@@ -421,7 +415,6 @@ private struct AccentPicker: View {
                     .frame(width: 16, height: 16)
                     .help( PaneDefaults.accentTypeNameTable[ id.rawValue ])
                     .onTapGesture {
-                        // Directly call the setter on defaults
                         defaults.setAccentColor(id)
                     }
                 }
@@ -435,7 +428,6 @@ private struct AccentPicker: View {
 
 // A view for displaying highlight color options.
 private struct HighlightPicker: View {
-    // Corrected to use @Binding for selection
     @Binding var selection: PaneDefaults.HighlightType
     @EnvironmentObject var defaults: PaneDefaults
     
@@ -469,7 +461,6 @@ private struct HighlightPicker: View {
             //
         })
         .onChange(of: selection) { newValue in
-            // Directly call the setter on defaults
             defaults.setHighlightColor(newValue)
         }
     }
@@ -481,16 +472,8 @@ private struct BrowserRow: View {
     
     var body: some View {
         HStack {
-            if let icon = browser.icon {
-                Image(nsImage: icon)
-                    .resizable()
-                    .frame(width: 20, height: 20)
-            } else {
-                Image(systemName: "globe") // Fallback icon
-                    .resizable()
-                    .frame(width: 20, height: 20)
-            }
-            Text(browser.name)
+            // REMOVED: Image(nsImage: icon)
+            Text(browser.name) // ONLY display the name
         }
     }
 }
