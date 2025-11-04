@@ -59,7 +59,7 @@ I will slowly make Releases with more and more feature. **Currently, only the Ge
 | ---- | ---- |
 | ☑️ Finished | General / Appearance (partial) |
 | 🛠️ WIP | All the rest... |
-| ‼️ :hammer_and_wrench: Very Complicated to finish due to Apple | Apple ID, Family Sharing, Screen Time, Time Machine, Startup Disk,  Software Update, Some 3rd party panes |
+| ‼️ :hammer_and_wrench: Very Complicated to finish due to Apple | Apple ID, Family Sharing, Screen Time, Time Machine, Startup Disk,  Software Update, 3rd party panes |
 ---
 
 **Note:** Unsupported panes (excluding those there for completion) are disabled for now.

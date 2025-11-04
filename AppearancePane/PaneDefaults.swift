@@ -32,6 +32,7 @@ final class PaneDefaults: ObservableObject {
     static let labelColumnWidth: CGFloat = 230
     
     // List of popular browser bundle IDs to filter for in the default browser picker.
+    // yes I know, hardcoded, sorry.
     static let popularBrowserBundleIDs: Set<String> = [
         "com.google.Chrome",      // Google Chrome
         "org.chromium.Chromium",  // Chromium
@@ -39,6 +40,7 @@ final class PaneDefaults: ObservableObject {
         "org.mozilla.firefox",    // Mozilla Firefox
         "com.kagi.Orion",         // Orion Browser
         "com.arc.browser",        // Arc Browser
+        "com.brave.Browser",      // Brave
     ]
     
     // Human-readable names for accent and highlight colors, indexed by their raw values.
