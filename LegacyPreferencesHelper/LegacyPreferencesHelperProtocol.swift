@@ -14,14 +14,14 @@ import Foundation
     func performCalculation(firstNumber: Int, secondNumber: Int, with reply: @escaping (Int) -> Void)
 }
 
-/*
- To use the service from an application or other process, use NSXPCConnection to establish a connection to the service by doing something like this:
+
+// To use the service from an application or other process, use NSXPCConnection to establish a connection to the service by doing something like this:
 
      connectionToService = NSXPCConnection(serviceName: "com.acer51.LegacyPreferencesHelper")
      connectionToService.remoteObjectInterface = NSXPCInterface(with: (any LegacyPreferencesHelperProtocol).self)
      connectionToService.resume()
 
- Once you have a connection to the service, you can use it like this:
+// Once you have a connection to the service, you can use it like this:
 
      if let proxy = connectionToService.remoteObjectProxy as? LegacyPreferencesHelperProtocol {
          proxy.performCalculation(firstNumber: 23, secondNumber: 19) { result in
@@ -29,7 +29,7 @@ import Foundation
          }
      }
 
- And, when you are finished with the service, clean up the connection like this:
+// And, when you are finished with the service, clean up the connection like this:
 
      connectionToService.invalidate()
 */
