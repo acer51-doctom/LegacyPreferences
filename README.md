@@ -2,7 +2,7 @@
 <div>
     <h1 align="left" style="">Legacy Preferences</h1>
     <p align="left">
-    Work-In-Progress recreation of the classic System Preferences to make Ventura not suck. Made with the help of Gemini.
+    Work-In-Progress recreation of the classic System Preferences to make Ventura not suck.
     YES IM FINALLY MAKING THIS PROJECT RELEVANT AGAIN! YAY! :D
         <br>
     </p>
@@ -15,7 +15,7 @@
        <img alt="Software Support" src="https://img.shields.io/badge/platform-macOS-lightgray.svg"/>
     </a>
     <a href="">
-       <img alt="Software Support" src="https://img.shields.io/badge/support-Ventura-orange.svg"/>
+       <img alt="Static Badge" src="https://img.shields.io/badge/supports-macOS%20Ventura%20and%20up-orange?style=plastic">
     </a>
     <a href="https://github.com/acer51-doctom/LegacyPreferences/stargazers">
         <img alt="Stars" src="https://img.shields.io/github/stars/acer51-doctom/LegacyPreferences.svg"/>
