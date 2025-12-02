@@ -10,7 +10,8 @@
 <br>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Objective--C-blue?style=plastic">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Swift-orange?style=plastic&logo=Swift&logoColor=white">
     <a href="">
        <img alt="Software Support" src="https://img.shields.io/badge/platform-macOS-lightgray.svg"/>
     </a>
